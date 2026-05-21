@@ -1,8 +1,10 @@
 import { Metadata } from "next";
+import fs from "fs";
+import path from "path";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CommunityGroupList from "./CommunityGroupList";
-import { parseCommunityGroups } from "@/lib/parser";
+import type { GroupEntry } from "@/components/GroupCard";
 
 export const metadata: Metadata = {
   title: "Community Groups",
@@ -11,18 +13,40 @@ export const metadata: Metadata = {
 };
 
 export default function CommunityGroupsPage() {
-  // Read and parse community groups at runtime
-  const categories = parseCommunityGroups();
+  let groups: GroupEntry[] = [];
+
+  try {
+    // Primary source: kd-tech-wiki-community-groups-expanded.json at project root
+    const expandedPath = path.join(process.cwd(), "kd-tech-wiki-community-groups-expanded.json");
+
+    if (fs.existsSync(expandedPath)) {
+      const raw = JSON.parse(fs.readFileSync(expandedPath, "utf-8"));
+      const entries: {
+        name: string;
+        description?: string;
+        links?: { label: string; url: string }[];
+        category?: string;
+      }[] = Array.isArray(raw) ? raw : (raw.entries ?? []);
+
+      groups = entries.map((entry) => ({
+        name: entry.name,
+        description: entry.description ?? "",
+        links: (entry.links ?? []).filter(
+          (l) => l.url.startsWith("http") && l.url !== "#"
+        ),
+        category: entry.category ?? "general/ecosystem",
+      }));
+    }
+  } catch (error) {
+    console.error("Error reading community groups data:", error);
+  }
 
   return (
     <div className="flex min-h-screen flex-col bg-cream bg-dot-pattern">
-      {/* Top Navbar */}
       <Navbar />
 
-      {/* Spacious Outer Container */}
       <div className="mx-auto w-full max-w-6xl flex-1 px-6 py-12 md:px-8">
-        
-        {/* Clean Header Area with generous spacing */}
+
         <div className="mb-12 max-w-3xl space-y-4">
           <div className="font-mono text-xs font-semibold text-gold tracking-widest uppercase">
             [ DIRECTORY // SEC_01 ]
@@ -31,16 +55,14 @@ export default function CommunityGroupsPage() {
             Community Groups
           </h1>
           <p className="font-sans text-base leading-relaxed text-charcoal/70">
-            A curated list of local tech community groups across Malaysia, including developer groups, startup communities, and industry-focused networks. Discover, join, and stay connected with communities shaping the tech scene.
+            A curated list of local tech community groups across Malaysia — developer circles, startup networks, open source clubs, and industry-focused communities shaping the ecosystem.
           </p>
         </div>
 
-        {/* Dynamic Interactivity Layer */}
-        <CommunityGroupList initialCategories={categories} />
+        <CommunityGroupList groups={groups} />
 
       </div>
 
-      {/* Global Footer */}
       <Footer />
     </div>
   );

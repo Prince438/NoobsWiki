@@ -1,0 +1,2259 @@
+{
+  "generated_for": "KD Tech Wiki",
+  "section": "Community Groups",
+  "scope": "Malaysia tech ecosystem communities, chapters, clubs, meetups, forums, and public groups",
+  "source_mix": [
+    "existing community group file",
+    "Malaysia-Tech-Community GitHub repository"
+  ],
+  "entry_count": 113,
+  "verified_primary_url_count": 106,
+  "entries": [
+    {
+      "name": "IT Job",
+      "description": "Public Facebook community for Malaysian tech discussions around IT Job.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/itjob.malaysia/"
+        }
+      ],
+      "category": "career/jobs/related resources",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/itjob.malaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Startup Jobs Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Startup Jobs Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/startupjobsmalaysia/"
+        }
+      ],
+      "category": "career/jobs/related resources",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/startupjobsmalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "WCKL Jobs",
+      "description": "Public Facebook community for Malaysian tech discussions around WCKL Jobs.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/wckljobs/"
+        }
+      ],
+      "category": "career/jobs/related resources",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/wckljobs/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Flutter KL",
+      "description": "Meetup community for Flutter KL events, networking, and meetups in Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.meetup.com/flutter-kl/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.meetup.com/flutter-kl/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "GDG Cloud KL",
+      "description": "Google Developer Groups community page for GDG Cloud KL.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://gdg.community.dev/gdg-cloud-kl/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://gdg.community.dev/gdg-cloud-kl/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "GDG George Town",
+      "description": "Google Developer Groups community page for GDG George Town.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://gdg.community.dev/gdg-george-town/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://gdg.community.dev/gdg-george-town/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "GDG Kuala Lumpur",
+      "description": "Google Developer Groups community page for GDG Kuala Lumpur.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://gdg.community.dev/gdg-kuala-lumpur/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://gdg.community.dev/gdg-kuala-lumpur/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "GDG on Campus Multimedia University",
+      "description": "Google Developer Groups community page for GDG on Campus Multimedia University.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://gdg.community.dev/gdg-on-campus-multimedia-university-selangor-malaysia/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://gdg.community.dev/gdg-on-campus-multimedia-university-selangor-malaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "GDG on Campus Universiti Malaya",
+      "description": "Google Developer Groups community page for GDG on Campus Universiti Malaya.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://gdg.community.dev/gdg-on-campus-universiti-malaya-kuala-lumpur-malaysia/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://gdg.community.dev/gdg-on-campus-universiti-malaya-kuala-lumpur-malaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "GDG on Campus Universiti Sains Malaysia",
+      "description": "Google Developer Groups community page for GDG on Campus Universiti Sains Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://gdg.community.dev/gdg-on-campus-universiti-sains-malaysia-penang-malaysia/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://gdg.community.dev/gdg-on-campus-universiti-sains-malaysia-penang-malaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "GDG on Campus Universiti Teknologi Malaysia",
+      "description": "Google Developer Groups community page for GDG on Campus Universiti Teknologi Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://gdg.community.dev/gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://gdg.community.dev/gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Komuniti WP",
+      "description": "Public Facebook community for Malaysian tech discussions around Komuniti WP.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/komunitiwpmalaysia/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.facebook.com/groups/komunitiwpmalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Kuala Lumpur WordPress Meetup",
+      "description": "Meetup community for Kuala Lumpur WordPress Meetup events, networking, and meetups in Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.meetup.com/kuala-lumpur-wordpress-meetup/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.meetup.com/kuala-lumpur-wordpress-meetup/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Penang Tech MY",
+      "description": "Public Facebook community for Malaysian tech discussions around Penang Tech MY.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/penangtechmy/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.facebook.com/groups/penangtechmy/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "PenangDev",
+      "description": "Malaysia tech community resource for PenangDev.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://penangdev.my/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://penangdev.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "PyCon Malaysia",
+      "description": "Malaysia tech community resource for PyCon Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.pycon.my/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.pycon.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Tech Events 4 Penang",
+      "description": "Malaysia tech community resource for Tech Events 4 Penang.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "http://te4p.com"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "http://te4p.com",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "WordCamp Malaysia",
+      "description": "Malaysia tech community resource for WordCamp Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://malaysia.wordcamp.org/"
+        }
+      ],
+      "category": "city/campus/local chapters",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://malaysia.wordcamp.org/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "AWS User Group Malaysia",
+      "description": "Malaysia tech community resource for AWS User Group Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.awsug.my/"
+        }
+      ],
+      "category": "cloud/devops/infrastructure",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.awsug.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Azure User Group Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Azure User Group Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/myazure/"
+        }
+      ],
+      "category": "cloud/devops/infrastructure",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/myazure/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Cloud Community Malaysia",
+      "description": "Meetup community for Cloud Community Malaysia events, networking, and meetups in Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.meetup.com/cloudmy/"
+        }
+      ],
+      "category": "cloud/devops/infrastructure",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.meetup.com/cloudmy/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Cloud Native Kuala Lumpur",
+      "description": "LinkedIn community or company page for Cloud Native Kuala Lumpur.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.linkedin.com/company/cloud-native-kualalumpur"
+        }
+      ],
+      "category": "cloud/devops/infrastructure",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.linkedin.com/company/cloud-native-kualalumpur",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "DevOps Malaysia",
+      "description": "Meetup community for DevOps Malaysia events, networking, and meetups in Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.meetup.com/devopsmalaysia/"
+        },
+        {
+          "label": "FB Group",
+          "url": "https://www.facebook.com/groups/devopsmalaysia/"
+        }
+      ],
+      "category": "cloud/devops/infrastructure",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.meetup.com/devopsmalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 2
+    },
+    {
+      "name": "DevOps Malaysia meetup links",
+      "description": "Malaysia tech community resource for DevOps Malaysia meetup links.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://devops-my.github.io/meetup/"
+        }
+      ],
+      "category": "cloud/devops/infrastructure",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://devops-my.github.io/meetup/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "AI Community Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around AI Community Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/aicommunitymalaysia/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.facebook.com/groups/aicommunitymalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "AI/ML Malaysia",
+      "description": "Malaysia tech community resource for AI/ML Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.ai-ml-malaysia.com/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.ai-ml-malaysia.com/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Big Data Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Big Data Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/bigdatamy/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/bigdatamy/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Data Science Association (DSA)",
+      "description": "Malaysia tech community resource for Data Science Association (DSA).",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://datascience.org.my/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://datascience.org.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "dataanalyst.my communities",
+      "description": "Malaysia tech community resource for dataanalyst.my communities.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://dataanalyst.my/communities"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://dataanalyst.my/communities",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "KL MongoDB User Group",
+      "description": "Public Facebook community for Malaysian tech discussions around KL MongoDB User Group.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/klmug/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/klmug/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "MAAI",
+      "description": "Malaysia tech community resource for MAAI.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.maai.org.my/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.maai.org.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysian AI",
+      "description": "Malaysia tech community resource for Malaysian AI.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.malaysian.ai/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.malaysian.ai/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "National AI Office Community",
+      "description": "Malaysia tech community resource for National AI Office Community.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://ai.gov.my/community/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://ai.gov.my/community/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "NoSQL KL",
+      "description": "Public Facebook community for Malaysian tech discussions around NoSQL KL.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/nosqlkl/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/nosqlkl/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "SQL Server Practitioners Alliance Network",
+      "description": "Public Facebook community for Malaysian tech discussions around SQL Server Practitioners Alliance Network.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/sqlspan/"
+        }
+      ],
+      "category": "data/ai/databases",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/sqlspan/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "ALMUC Application Lifecycle Management User Community",
+      "description": "Public Facebook community for Malaysian tech discussions around ALMUC Application Lifecycle Management User Community.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/32952364537/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/32952364537/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "AWS User Group",
+      "description": "Public Facebook community for Malaysian tech discussions around AWS User Group.",
+      "links": [
+        {
+          "label": "FB Group",
+          "url": "https://www.facebook.com/groups/awsugmy/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "Malaysia-Tech-Community README",
+      "sources": [
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/awsugmy/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Dev Malaysia",
+      "description": "Malaysia tech community resource for Dev Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://devmalaysia.com/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://devmalaysia.com/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Developer Kaki",
+      "description": "Malaysia tech community resource for Developer Kaki.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://developerkaki.my/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://developerkaki.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "ELITE MALAYSIA",
+      "description": "Public Facebook community for Malaysian tech discussions around ELITE MALAYSIA.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/elitemalaysia/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/elitemalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "IdealTech Group",
+      "description": "Public Facebook community for Malaysian tech discussions around IdealTech Group.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/idealtech2007/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/idealtech2007/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Komuniti.dev",
+      "description": "Malaysia tech community resource for Komuniti.dev.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://komuniti.dev/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://komuniti.dev/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia Independent Developers",
+      "description": "Public Facebook community for Malaysian tech discussions around Malaysia Independent Developers.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/mind.com.my/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/mind.com.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia IT Community",
+      "description": "Public Facebook community for Malaysian tech discussions around Malaysia IT Community.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/322445544497663/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.facebook.com/groups/322445544497663/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Microsoft Innovation Center Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Microsoft Innovation Center Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/micmalaysia/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/micmalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Programmer Club",
+      "description": "Public Facebook community for Malaysian tech discussions around Programmer Club.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/clubprogrammer/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/clubprogrammer/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Tech in Malaysia",
+      "description": "Malaysia tech community resource for Tech in Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://techin.my/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://techin.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Tech Malaysia Advocates",
+      "description": "Malaysia tech community resource for Tech Malaysia Advocates.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.techmalaysiaadvocates.com/"
+        }
+      ],
+      "category": "general/ecosystem",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.techmalaysiaadvocates.com/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Arduino Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Arduino Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/arduinomalaysia/"
+        }
+      ],
+      "category": "mobile/hardware/platform",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/arduinomalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "CodeAndroid Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around CodeAndroid Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/codeandroidmy/"
+        }
+      ],
+      "category": "mobile/hardware/platform",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/codeandroidmy/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "iOS Developers Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around iOS Developers Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/myiphonedevelopment/"
+        }
+      ],
+      "category": "mobile/hardware/platform",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/myiphonedevelopment/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "MobileDev Penang",
+      "description": "Public Facebook community for Malaysian tech discussions around MobileDev Penang.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/483175291711521/"
+        }
+      ],
+      "category": "mobile/hardware/platform",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/483175291711521/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Nokia Developers Connection Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Nokia Developers Connection Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/NokiaS40Malaysia/"
+        }
+      ],
+      "category": "mobile/hardware/platform",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/NokiaS40Malaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Raspberry Pi Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Raspberry Pi Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/RaspberryPiMalaysia/"
+        }
+      ],
+      "category": "mobile/hardware/platform",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/RaspberryPiMalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Xamarin Developers Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Xamarin Developers Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/xamarinmydev/"
+        }
+      ],
+      "category": "mobile/hardware/platform",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/xamarinmydev/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "FOSS.org.my",
+      "description": "Malaysia tech community resource for FOSS.org.my.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://foss.org.my/"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://foss.org.my/",
+      "primary_verified": false,
+      "primary_status": null,
+      "link_count": 1
+    },
+    {
+      "name": "Hackerspace JB",
+      "description": "Public Facebook community for Malaysian tech discussions around Hackerspace JB.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/hackerspacejb/"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/hackerspacejb/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Hackerspace KL",
+      "description": "Public Facebook community for Malaysian tech discussions around Hackerspace KL.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/hackerspace.my/"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/hackerspace.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Komuniti MyDev",
+      "description": "An effort to enrich software development resources in national (Malay) language.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "http://www.mydev.my"
+        },
+        {
+          "label": "Github",
+          "url": "https://github.com/mydevcommunity"
+        },
+        {
+          "label": "G+",
+          "url": "https://plus.google.com/communities/104883828501447858589"
+        },
+        {
+          "label": "Subreddit",
+          "url": "https://www.reddit.com/r/mydev"
+        },
+        {
+          "label": "anonoz/mysgdev",
+          "url": "https://github.com/anonoz/mysgdev"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "http://www.mydev.my",
+      "primary_verified": false,
+      "primary_status": 503,
+      "link_count": 5
+    },
+    {
+      "name": "KPST",
+      "description": "Malaysia tech community resource for KPST.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://kpst.my/"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://kpst.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Mozilla Malaysia",
+      "description": "Malaysia tech community resource for Mozilla Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "http://mozilla.my/"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "http://mozilla.my/",
+      "primary_verified": false,
+      "primary_status": null,
+      "link_count": 1
+    },
+    {
+      "name": "MYCLUG (Malaysian Chinese Linux User Group)",
+      "description": "Public Facebook community for Malaysian tech discussions around MYCLUG (Malaysian Chinese Linux User Group).",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/myclug/"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/myclug/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Sibermerdeka",
+      "description": "Malaysia tech community resource for Sibermerdeka.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://sibermerdeka.net/en/"
+        }
+      ],
+      "category": "open source/linux/maker",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://sibermerdeka.net/en/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "ACCESS Blockchain Malaysia",
+      "description": "Malaysia tech community resource for ACCESS Blockchain Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.accessblockchainmy.org/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.accessblockchainmy.org/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Bitcoin Malaysia #1 Group",
+      "description": "Public Facebook community for Malaysian tech discussions around Bitcoin Malaysia #1 Group.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/BitcoinMalaysia/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/BitcoinMalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Bitcoin Malaysia Open Group",
+      "description": "Public Facebook community for Malaysian tech discussions around Bitcoin Malaysia Open Group.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/626846267377737/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/626846267377737/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Cryptocurrency Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Cryptocurrency Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/467457310022522/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/467457310022522/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "CyberSecurity Malaysia",
+      "description": "Malaysia tech community resource for CyberSecurity Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.cybersecurity.my/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.cybersecurity.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "FinTech Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around FinTech Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/FinTechMalaysia/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.facebook.com/groups/FinTechMalaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "ISC2 Malaysia Chapter",
+      "description": "Malaysia tech community resource for ISC2 Malaysia Chapter.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://malaysia.isc2chapters.isc2.org/page/isc2myhome"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://malaysia.isc2chapters.isc2.org/page/isc2myhome",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia Blockchain Association",
+      "description": "Malaysia tech community resource for Malaysia Blockchain Association.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://malaysiablockchain.org/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://malaysiablockchain.org/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia Fintech Chamber of Commerce",
+      "description": "Malaysia tech community resource for Malaysia Fintech Chamber of Commerce.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://mftcc.org.my/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://mftcc.org.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "MCCO - Malaysian Cyber Security Community Organization",
+      "description": "Malaysia tech community resource for MCCO - Malaysian Cyber Security Community Organization.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.mcco.org.my/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.mcco.org.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "MyFINT",
+      "description": "Malaysia tech community resource for MyFINT.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.myfint.org/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.myfint.org/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "PayNet Fintech Hub",
+      "description": "Malaysia tech community resource for PayNet Fintech Hub.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://fintechhub.paynet.my/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://fintechhub.paynet.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "rawSEC",
+      "description": "Malaysia tech community resource for rawSEC.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.rawsec.my/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.rawsec.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "SherpaSec",
+      "description": "Malaysia tech community resource for SherpaSec.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://sherpasec.org/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://sherpasec.org/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Women in Tech Malaysia",
+      "description": "Malaysia tech community resource for Women in Tech Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://women-in-tech.org/my/"
+        }
+      ],
+      "category": "security/fintech/blockchain",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://women-in-tech.org/my/",
+      "primary_verified": false,
+      "primary_status": null,
+      "link_count": 1
+    },
+    {
+      "name": "AngelHack KL",
+      "description": "Public Facebook community for Malaysian tech discussions around AngelHack KL.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/angelhackkl/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/angelhackkl/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Calendata",
+      "description": "Malaysia tech community resource for Calendata.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "http://www.calendata.com/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.calendata.com/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "http://www.calendata.com/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 2
+    },
+    {
+      "name": "Malaysia Start-Up Club",
+      "description": "Public Facebook community for Malaysian tech discussions around Malaysia Start-Up Club.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/malaysiastartupclub/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/malaysiastartupclub/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia Tech Startups",
+      "description": "Public Facebook community for Malaysian tech discussions around Malaysia Tech Startups.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/MalaysiaTechStartups/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/MalaysiaTechStartups/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Mega Startup Weekend",
+      "description": "Public Facebook community for Malaysian tech discussions around Mega Startup Weekend.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/megastartupweekend/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/megastartupweekend/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "MYStartup",
+      "description": "Malaysia tech community resource for MYStartup.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.mystartup.gov.my/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.mystartup.gov.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "MYStartup (Cradle)",
+      "description": "Malaysia tech community resource for MYStartup (Cradle).",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://cradle.com.my/mystartup/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://cradle.com.my/mystartup/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "OpenCoffee Club Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around OpenCoffee Club Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/opencoffeeclubkl/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/opencoffeeclubkl/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Startup Malaysia",
+      "description": "Malaysia tech community resource for Startup Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://startupmalaysia.org/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://startupmalaysia.org/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Startup Malaysia Network",
+      "description": "Malaysia tech community resource for Startup Malaysia Network.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://central.mymagic.my/network/frontend/v1"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://central.mymagic.my/network/frontend/v1",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "StartupMamak",
+      "description": "Public Facebook community for Malaysian tech discussions around StartupMamak.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/startupmamak/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/startupmamak/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Tech in KL",
+      "description": "Malaysia tech community resource for Tech in KL.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "http://www.techinkl.com"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "http://www.techinkl.com",
+      "primary_verified": false,
+      "primary_status": null,
+      "link_count": 1
+    },
+    {
+      "name": "WCKL Co-working Heroes",
+      "description": "Public Facebook community for Malaysian tech discussions around WCKL Co-working Heroes.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/wcklcoworking/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/wcklcoworking/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "WCKL Soap Box",
+      "description": "Public Facebook community for Malaysian tech discussions around WCKL Soap Box.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/wcklsoapbox/"
+        }
+      ],
+      "category": "startup/founder/coworking",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/wcklsoapbox/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "[Name]",
+      "description": "[Description, Twitter style 140 characters]",
+      "links": [],
+      "category": "web/frontend/language",
+      "source": "Malaysia-Tech-Community README",
+      "sources": [
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "",
+      "primary_verified": false,
+      "primary_status": null,
+      "link_count": 0
+    },
+    {
+      "name": "ForwardSlash : App/Web Designers & Front-end Web Developers",
+      "description": "Malaysia tech community resource for ForwardSlash : App/Web Designers & Front-end Web Developers.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "http://forwardslash.io/"
+        },
+        {
+          "label": "FB Group",
+          "url": "https://www.facebook.com/groups/webdesigners.frontenddev/"
+        },
+        {
+          "label": "Github",
+          "url": "https://github.com/theforwardslash"
+        },
+        {
+          "label": "Slack",
+          "url": "https://juara.slack.com/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "http://forwardslash.io/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 4
+    },
+    {
+      "name": "Groovy User Group Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Groovy User Group Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/232377046816685"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/232377046816685",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Java User Group",
+      "description": "Public Facebook community for Malaysian tech discussions around Java User Group.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/jug.my/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/jug.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "JavaScript Developers Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around JavaScript Developers Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/javascript.my/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file"
+      ],
+      "primary_url": "https://www.facebook.com/groups/javascript.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Javascript.my",
+      "description": "Welcome fellow JavaScript developers! JavaScript.my is for JavaScript enthusiasts in Malaysia and all around the world.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "http://javascript.my"
+        },
+        {
+          "label": "Github",
+          "url": "https://github.com/javascriptmy"
+        },
+        {
+          "label": "FB Group",
+          "url": "https://www.facebook.com/groups/javascript.my"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "http://javascript.my",
+      "primary_verified": false,
+      "primary_status": null,
+      "link_count": 3
+    },
+    {
+      "name": "KL Ruby Brigade",
+      "description": "Monthly meetup at Mindvalley every first Tuesday of the month. Discussions not limiting to any Ruby frameworks.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/klxrb"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/klxrb",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "KLPHP",
+      "description": "Public Facebook community for Malaysian tech discussions around KLPHP.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/519978928019446/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/519978928019446/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "KualaLumpurJS",
+      "description": "Monthly meetups. All things JavaScript.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/kualalumpurjs"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/kualalumpurjs",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Laravel Group Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Laravel Group Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/laravel.my/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/laravel.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia Independent .NET Architects",
+      "description": "Public Facebook community for Malaysian tech discussions around Malaysia Independent .NET Architects.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/mina.my/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/mina.my/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia Scala User Group",
+      "description": "Public Facebook community for Malaysian tech discussions around Malaysia Scala User Group.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/myscala/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/myscala/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Malaysia SharePoint User Group",
+      "description": "Public Facebook community for Malaysian tech discussions around Malaysia SharePoint User Group.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/myspug/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/myspug/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Programming Laman Web + UI/UX",
+      "description": "Public Facebook community for Malaysian tech discussions around Programming Laman Web + UI/UX.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/jomweb/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/jomweb/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Python User Group Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Python User Group Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/python.malaysia/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/python.malaysia/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Ruby on Rails Malaysia (English)",
+      "description": "Public Facebook community for Malaysian tech discussions around Ruby on Rails Malaysia (English).",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/rails.my.english/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/rails.my.english/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Ruby on Rails No Boundaries (MY/SG)",
+      "description": "Public Facebook community for Malaysian tech discussions around Ruby on Rails No Boundaries (MY/SG).",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/rubySG/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/rubySG/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "WebCamp Cyberjaya",
+      "description": "Public Facebook community for Malaysian tech discussions around WebCamp Cyberjaya.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/webcampcyberjaya/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/webcampcyberjaya/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "WebCamp KL",
+      "description": "Public Facebook community for Malaysian tech discussions around WebCamp KL.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/webcamp/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/webcamp/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Windows Developers Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Windows Developers Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/mywindev/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/mywindev/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    },
+    {
+      "name": "Windows Phone Developer User Group Malaysia",
+      "description": "Public Facebook community for Malaysian tech discussions around Windows Phone Developer User Group Malaysia.",
+      "links": [
+        {
+          "label": "Main site",
+          "url": "https://www.facebook.com/groups/41195350169/"
+        }
+      ],
+      "category": "web/frontend/language",
+      "source": "existing community group file",
+      "sources": [
+        "existing community group file",
+        "Malaysia-Tech-Community README"
+      ],
+      "primary_url": "https://www.facebook.com/groups/41195350169/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 1
+    }
+  ]
+}

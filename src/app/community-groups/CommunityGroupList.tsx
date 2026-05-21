@@ -1,38 +1,60 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo } from "react";
 import { Search, Filter, RotateCcw } from "lucide-react";
-import { DirectoryCategory } from "@/lib/parser";
-import DirectoryCard from "@/components/DirectoryCard";
+import GroupCard, { type GroupEntry } from "@/components/GroupCard";
 
-interface CommunityGroupListProps {
-  initialCategories: DirectoryCategory[];
+const CATEGORY_LABELS: Record<string, string> = {
+  "career/jobs/related resources": "Career & Jobs",
+  "city/campus/local chapters": "Local Chapters",
+  "cloud/devops/infrastructure": "Cloud & DevOps",
+  "data/ai/databases": "Data & AI",
+  "general/ecosystem": "General Ecosystem",
+  "mobile/hardware/platform": "Mobile & Hardware",
+  "open source/linux/maker": "Open Source",
+  "security/fintech/blockchain": "Security & Fintech",
+  "startup/founder/coworking": "Startup & Founders",
+  "web/frontend/language": "Web & Frontend",
+};
+
+interface Props {
+  groups: GroupEntry[];
 }
 
-export default function CommunityGroupList({ initialCategories }: CommunityGroupListProps) {
+export default function CommunityGroupList({ groups }: Props) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
-  const filteredCategories = initialCategories
-    .map((cat) => {
-      if (selectedCategory && cat.categoryName !== selectedCategory) {
-        return { ...cat, items: [] };
-      }
-      const filteredItems = cat.items.filter((item) => {
-        const query = searchQuery.toLowerCase();
-        return (
-          item.name.toLowerCase().includes(query) ||
-          item.description.toLowerCase().includes(query) ||
-          item.url.toLowerCase().includes(query)
-        );
-      });
-      return { ...cat, items: filteredItems };
-    })
-    .filter((cat) => cat.items.length > 0);
+  // Ordered unique categories in the order they first appear
+  const categories = useMemo(
+    () => Array.from(new Set(groups.map((g) => g.category))),
+    [groups]
+  );
 
-  const totalMatches = filteredCategories.reduce((sum, cat) => sum + cat.items.length, 0);
+  const filtered = useMemo(() => {
+    return groups.filter((g) => {
+      if (selectedCategory && g.category !== selectedCategory) return false;
+      if (!searchQuery) return true;
+      const q = searchQuery.toLowerCase();
+      return (
+        g.name.toLowerCase().includes(q) ||
+        g.description.toLowerCase().includes(q) ||
+        g.links.some((l) => l.url.toLowerCase().includes(q))
+      );
+    });
+  }, [groups, searchQuery, selectedCategory]);
 
-  const resetFilters = () => {
+  // Group filtered entries by category for section display
+  const groupedCategories = useMemo(() => {
+    const map = new Map<string, GroupEntry[]>();
+    for (const entry of filtered) {
+      if (!map.has(entry.category)) map.set(entry.category, []);
+      map.get(entry.category)!.push(entry);
+    }
+    return Array.from(map.entries());
+  }, [filtered]);
+
+  const reset = () => {
     setSearchQuery("");
     setSelectedCategory(null);
   };
@@ -54,7 +76,7 @@ export default function CommunityGroupList({ initialCategories }: CommunityGroup
         </div>
         {(searchQuery || selectedCategory) && (
           <button
-            onClick={resetFilters}
+            onClick={reset}
             className="inline-flex items-center justify-center gap-2 rounded border border-panel-border bg-cream px-4 py-2.5 font-mono text-[9.5px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors"
           >
             <RotateCcw className="h-3 w-3" />
@@ -73,26 +95,27 @@ export default function CommunityGroupList({ initialCategories }: CommunityGroup
           <button
             onClick={() => setSelectedCategory(null)}
             className={`rounded border px-3 py-1.5 font-mono text-[9.5px] uppercase font-bold tracking-wider transition-all duration-200 ${
-              selectedCategory === null
+              !selectedCategory
                 ? "bg-forest/12 border-forest/45 text-gold"
                 : "border-panel-border bg-panel text-charcoal/42 hover:border-panel-border/80 hover:text-charcoal/65"
             }`}
           >
-            All ({initialCategories.reduce((sum, c) => sum + c.items.length, 0)})
+            All ({groups.length})
           </button>
-          {initialCategories.map((cat) => {
-            const isSelected = selectedCategory === cat.categoryName;
+          {categories.map((cat) => {
+            const count = groups.filter((g) => g.category === cat).length;
+            const isSelected = selectedCategory === cat;
             return (
               <button
-                key={cat.categoryName}
-                onClick={() => setSelectedCategory(isSelected ? null : cat.categoryName)}
+                key={cat}
+                onClick={() => setSelectedCategory(isSelected ? null : cat)}
                 className={`rounded border px-3 py-1.5 font-mono text-[9.5px] uppercase font-bold tracking-wider transition-all duration-200 ${
                   isSelected
                     ? "bg-forest/12 border-forest/45 text-gold"
                     : "border-panel-border bg-panel text-charcoal/42 hover:border-panel-border/80 hover:text-charcoal/65"
                 }`}
               >
-                {cat.categoryName} ({cat.items.length})
+                {CATEGORY_LABELS[cat] ?? cat} ({count})
               </button>
             );
           })}
@@ -102,35 +125,40 @@ export default function CommunityGroupList({ initialCategories }: CommunityGroup
       {/* Results count */}
       <div className="flex items-center justify-between border-b border-panel-border/25 pb-3 font-mono text-[9px] text-charcoal/28">
         <span>[ECOSYSTEM_QUERY: SUCCESS]</span>
-        <span className="font-bold text-charcoal/40">{totalMatches} COMMUNITIES</span>
+        <span className="font-bold text-charcoal/40">{filtered.length} COMMUNITIES</span>
       </div>
 
-      {/* Results */}
-      {filteredCategories.length > 0 ? (
+      {/* Grouped results */}
+      {groupedCategories.length > 0 ? (
         <div className="space-y-12">
-          {filteredCategories.map((category) => (
-            <section key={category.categoryName} className="space-y-5">
+          {groupedCategories.map(([cat, entries]) => (
+            <section key={cat} className="space-y-5">
+
+              {/* Category section header */}
               <div className="flex items-center gap-4">
-                <h3 className="font-mono text-[10.5px] font-bold uppercase tracking-widest text-forest/65">
-                  // {category.categoryName}
+                <h3 className="font-mono text-[10.5px] font-bold uppercase tracking-widest text-forest/65 whitespace-nowrap">
+                  // {CATEGORY_LABELS[cat] ?? cat}
                 </h3>
                 <div className="h-px flex-1 bg-panel-border/20" />
                 <span className="font-mono text-[9px] text-charcoal/28">
-                  {category.items.length} {category.items.length === 1 ? "group" : "groups"}
+                  {entries.length} {entries.length === 1 ? "group" : "groups"}
                 </span>
               </div>
+
+              {/* Card grid */}
               <div className="grid gap-5 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
-                {category.items.map((item, idx) => (
-                  <DirectoryCard
-                    key={item.name}
-                    name={item.name}
-                    url={item.url}
-                    description={item.description}
+                {entries.map((entry, idx) => (
+                  <GroupCard
+                    key={entry.name}
+                    name={entry.name}
+                    description={entry.description}
+                    links={entry.links}
+                    category={entry.category}
                     index={idx + 1}
-                    label={category.categoryName}
                   />
                 ))}
               </div>
+
             </section>
           ))}
         </div>
@@ -139,7 +167,7 @@ export default function CommunityGroupList({ initialCategories }: CommunityGroup
           <p className="mb-1.5 font-mono text-[11px] text-charcoal/38">NO MATCHES FOUND</p>
           <p className="font-sans text-[11px] text-charcoal/28">Try resetting the query or selecting another category.</p>
           <button
-            onClick={resetFilters}
+            onClick={reset}
             className="mt-6 rounded border border-panel-border bg-panel px-4 py-2 font-mono text-[9.5px] uppercase font-bold tracking-wider text-gold/70 hover:text-gold transition-colors"
           >
             Reset Filters
