@@ -16,14 +16,14 @@ const jetbrainsMono = JetBrains_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "noobs | Malaysia Tech Startup Ecosystem Directory",
-    template: "%s | noobs Malaysia",
+    default: "KD Tech Wiki | Malaysia Tech Startup Ecosystem Directory",
+    template: "%s | KD Tech Wiki",
   },
-  description: "A minimalist, spacious, and curated directory of Malaysia's tech community groups, builders, and government agencies.",
-  keywords: ["Malaysia", "Startup", "Tech Community", "Ecosystem Builders", "Government Grants", "Malaysia Tech", "Developer Groups"],
-  authors: [{ name: "noobs community" }],
+  description: "A curated technical wiki and directory of Malaysia's tech community groups, builders, and government agencies.",
+  keywords: ["Malaysia", "Startup", "Tech Community", "Ecosystem Builders", "Government Grants", "Malaysia Tech", "Developer Groups", "KD Tech Wiki"],
+  authors: [{ name: "KD Tech Wiki" }],
   openGraph: {
-    title: "noobs | Malaysia Tech Startup Ecosystem Directory",
+    title: "KD Tech Wiki | Malaysia Tech Startup Ecosystem Directory",
     description: "Discover, connect, and collaborate with Malaysia's tech communities, builder networks, and official agencies.",
     type: "website",
     locale: "en_MY",

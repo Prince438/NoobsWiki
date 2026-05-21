@@ -1,16 +1,17 @@
 @import "tailwindcss";
 
 @theme {
-  --color-cream: #FBF9F4;
-  --color-forest: #1B4332;
-  --color-forest-hover: #132E22;
-  --color-crimson: #9B2226;
-  --color-crimson-hover: #7E1A1E;
-  --color-charcoal: #1A1A1A;
-  --color-gold: #C5A880;
-  --color-soft-white: #FAF9F6;
-  --color-panel: #FFFFFF;
-  --color-panel-border: #E5E5E0;
+  --color-cream: #0A0D0B;
+  --color-forest: #3F634D;
+  --color-forest-hover: #4E785D;
+  --color-crimson: #3A7572;
+  --color-crimson-hover: #488E8B;
+  --color-charcoal: #E5DFD3;
+  --color-gold: #C0A07C;
+  --color-gold-hover: #D4B68E;
+  --color-soft-white: #EAE5D9;
+  --color-panel: #121614;
+  --color-panel-border: #222B25;
   
   --font-sans: var(--font-outfit), system-ui, -apple-system, sans-serif;
   --font-mono: var(--font-mono-jetbrains), monospace;
@@ -24,8 +25,8 @@
 }
 
 :root {
-  --background: #FBF9F4;
-  --foreground: #1A1A1A;
+  --background: #0A0D0B;
+  --foreground: #E5DFD3;
 }
 
 body {
@@ -38,13 +39,13 @@ body {
 .bg-grid-pattern {
   background-size: 40px 40px;
   background-image: 
-    linear-gradient(to right, rgba(27, 67, 50, 0.02) 1px, transparent 1px),
-    linear-gradient(to bottom, rgba(27, 67, 50, 0.02) 1px, transparent 1px);
+    linear-gradient(to right, rgba(63, 99, 77, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(63, 99, 77, 0.04) 1px, transparent 1px);
 }
 
 .bg-dot-pattern {
   background-size: 24px 24px;
-  background-image: radial-gradient(rgba(27, 67, 50, 0.06) 1.2px, transparent 1.2px);
+  background-image: radial-gradient(rgba(192, 160, 124, 0.05) 1px, transparent 1px);
 }
 
 .tech-border {
@@ -55,22 +56,24 @@ body {
 .tech-border::before {
   content: "+";
   position: absolute;
-  top: -6px;
-  left: -4px;
+  top: -5px;
+  left: -3px;
   font-family: var(--font-mono-jetbrains), monospace;
-  font-size: 10px;
-  color: #C5A880;
+  font-size: 9px;
+  color: #C0A07C;
   line-height: 1;
+  opacity: 0.6;
 }
 
 .tech-border::after {
   content: "+";
   position: absolute;
-  bottom: -6px;
-  right: -4px;
+  bottom: -5px;
+  right: -3px;
   font-family: var(--font-mono-jetbrains), monospace;
-  font-size: 10px;
-  color: #C5A880;
+  font-size: 9px;
+  color: #C0A07C;
   line-height: 1;
+  opacity: 0.6;
 }
 

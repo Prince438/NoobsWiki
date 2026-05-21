@@ -27,41 +27,41 @@ export default function DirectoryCard({ name, url, description, index, label }: 
   }
 
   return (
-    <div className="group relative flex flex-col justify-between rounded-xl border border-panel-border bg-white p-6 shadow-[0_4px_20px_-4px_rgba(0,0,0,0.03)] transition-all duration-300 hover:-translate-y-1 hover:border-gold hover:shadow-[0_12px_24px_-8px_rgba(197,168,128,0.15)]">
+    <div className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-5 transition-all duration-300 hover:border-gold/40">
       
       {/* Subtle corner tech border grid intersection accent */}
-      <div className="absolute inset-0 pointer-events-none rounded-xl tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+      <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
       
-      <div>
+      <div className="flex flex-col gap-2">
         {/* Top Meta info */}
-        <div className="mb-4 flex items-center justify-between font-mono text-[10px] text-charcoal/40">
+        <div className="flex items-center justify-between font-mono text-[9px] text-charcoal/30 tracking-wider">
           <span>{label ? `// ${label.toUpperCase()}` : `// DIRECTORY`}</span>
-          <span className="font-semibold text-gold">[{formattedIndex}]</span>
+          <span className="font-semibold text-gold/60">[{formattedIndex}]</span>
         </div>
 
         {/* Title Headline */}
-        <h3 className="mb-2 font-sans text-lg font-bold text-charcoal transition-colors group-hover:text-forest">
+        <h3 className="font-sans text-[15px] font-bold tracking-tight text-charcoal transition-colors group-hover:text-gold">
           {name}
         </h3>
 
         {/* Description Body */}
-        <p className="mb-6 font-sans text-sm leading-relaxed text-charcoal/70">
+        <p className="font-sans text-xs leading-relaxed text-charcoal/60 line-clamp-3">
           {description}
         </p>
       </div>
 
       {/* Visible Link Styled as CTA */}
-      <div className="pt-2">
+      <div className="mt-4 pt-3 border-t border-panel-border/20">
         <a
           href={url}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-1.5 font-mono text-xs font-semibold text-forest/70 transition-colors group-hover:text-forest"
+          className="inline-flex items-center gap-1.5 font-mono text-[10px] font-medium text-gold/70 transition-colors group-hover:text-gold"
         >
-          <span className="underline underline-offset-4 decoration-panel-border transition-colors group-hover:decoration-forest">
+          <span className="underline underline-offset-4 decoration-panel-border/40 transition-colors group-hover:decoration-gold/50">
             {displayUrl}
           </span>
-          <ExternalLink className="h-3 w-3 opacity-50 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:opacity-100" />
+          <ExternalLink className="h-2.5 w-2.5 opacity-60 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 group-hover:opacity-100" />
         </a>
       </div>
 

@@ -25,7 +25,7 @@ export default function CommunityBuildersPage() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col bg-cream/30 bg-dot-pattern">
+    <div className="flex min-h-screen flex-col bg-cream bg-dot-pattern">
       {/* Top Navbar */}
       <Navbar />
 
