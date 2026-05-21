@@ -13,15 +13,11 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
-  // Filter items based on category and search query
   const filteredCategories = initialCategories
     .map((cat) => {
-      // If a category filter is active, only process that category
       if (selectedCategory && cat.categoryName !== selectedCategory) {
         return { ...cat, items: [] };
       }
-
-      // Filter items within the category
       const filteredItems = cat.items.filter((item) => {
         const query = searchQuery.toLowerCase();
         return (
@@ -30,15 +26,10 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
           item.url.toLowerCase().includes(query)
         );
       });
-
-      return {
-        ...cat,
-        items: filteredItems,
-      };
+      return { ...cat, items: filteredItems };
     })
     .filter((cat) => cat.items.length > 0);
 
-  // Total count of matching items
   const totalMatches = filteredCategories.reduce((sum, cat) => sum + cat.items.length, 0);
 
   const resetFilters = () => {
@@ -48,100 +39,87 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
 
   return (
     <div className="space-y-10 animate-fade-in">
-      
-      {/* Search & Filter Bar */}
-      <div className="flex flex-col gap-4 rounded border border-panel-border bg-panel p-4 md:flex-row md:items-center">
-        
-        {/* Search Input */}
+
+      {/* Search & filter bar */}
+      <div className="flex flex-col gap-3 rounded border border-panel-border bg-panel p-4 md:flex-row md:items-center">
         <div className="relative flex-1">
-          <Search className="absolute top-1/2 left-4 h-3.5 w-3.5 -translate-y-1/2 text-charcoal/30" />
+          <Search className="absolute top-1/2 left-3.5 h-3.5 w-3.5 -translate-y-1/2 text-charcoal/28 pointer-events-none" />
           <input
             type="text"
             placeholder="Search agencies by name, initiative, acronym..."
             value={searchQuery}
             onChange={(e) => setSearchQuery(e.target.value)}
-            className="w-full rounded border border-panel-border/60 bg-cream py-3 pr-4 pl-11 font-sans text-xs text-charcoal outline-none transition-colors focus:border-gold/50"
+            className="w-full rounded border border-panel-border/50 bg-cream py-2.5 pr-4 pl-10 font-mono text-[11.5px] text-charcoal placeholder:text-charcoal/28 outline-none transition-colors focus:border-gold/40"
           />
         </div>
-
-        {/* Reset Button */}
         {(searchQuery || selectedCategory) && (
           <button
             onClick={resetFilters}
-            className="inline-flex items-center justify-center gap-2 rounded border border-panel-border bg-panel px-4 py-3 font-mono text-[10px] uppercase font-bold text-charcoal/60 hover:text-gold"
+            className="inline-flex items-center justify-center gap-2 rounded border border-panel-border bg-cream px-4 py-2.5 font-mono text-[9.5px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors"
           >
             <RotateCcw className="h-3 w-3" />
-            <span>Reset Search</span>
+            <span>Reset</span>
           </button>
         )}
       </div>
 
-      {/* Category Filter Chips */}
+      {/* Category filter chips */}
       <div className="flex flex-col gap-3">
-        <div className="flex items-center gap-2 font-mono text-[10px] text-charcoal/30 tracking-wider">
-          <Filter className="h-3 w-3 text-gold/60" />
-          <span>FILTER BY TYPE:</span>
+        <div className="flex items-center gap-2 font-mono text-[9px] tracking-widest text-charcoal/28">
+          <Filter className="h-3 w-3 text-gold/45" />
+          <span>FILTER BY TYPE</span>
         </div>
-        
         <div className="flex flex-wrap gap-2">
-          {/* "All" Tag */}
           <button
             onClick={() => setSelectedCategory(null)}
-            className={`rounded border px-3 py-1.5 font-mono text-[10px] uppercase font-bold tracking-wider transition-all duration-300 ${
+            className={`rounded border px-3 py-1.5 font-mono text-[9.5px] uppercase font-bold tracking-wider transition-all duration-200 ${
               selectedCategory === null
-                ? "bg-forest/15 border-forest text-gold shadow-sm"
-                : "border border-panel-border bg-panel text-charcoal/50 hover:border-gold/30 hover:text-charcoal"
+                ? "bg-forest/12 border-forest/45 text-gold"
+                : "border-panel-border bg-panel text-charcoal/42 hover:border-panel-border/80 hover:text-charcoal/65"
             }`}
           >
-            All Institutions ({initialCategories.reduce((sum, c) => sum + c.items.length, 0)})
+            All ({initialCategories.reduce((sum, c) => sum + c.items.length, 0)})
           </button>
-
-          {/* Individual Category Tags */}
           {initialCategories.map((cat) => {
-            const count = cat.items.length;
             const isSelected = selectedCategory === cat.categoryName;
             return (
               <button
                 key={cat.categoryName}
                 onClick={() => setSelectedCategory(isSelected ? null : cat.categoryName)}
-                className={`rounded border px-3 py-1.5 font-mono text-[10px] uppercase font-bold tracking-wider transition-all duration-300 ${
+                className={`rounded border px-3 py-1.5 font-mono text-[9.5px] uppercase font-bold tracking-wider transition-all duration-200 ${
                   isSelected
-                    ? "bg-forest/15 border-forest text-gold shadow-sm"
-                    : "border border-panel-border bg-panel text-charcoal/50 hover:border-gold/30 hover:text-charcoal"
+                    ? "bg-forest/12 border-forest/45 text-gold"
+                    : "border-panel-border bg-panel text-charcoal/42 hover:border-panel-border/80 hover:text-charcoal/65"
                 }`}
               >
-                {cat.categoryName} ({count})
+                {cat.categoryName} ({cat.items.length})
               </button>
             );
           })}
         </div>
       </div>
 
-      {/* Results Header Info */}
-      <div className="flex items-center justify-between border-b border-panel-border/30 pb-3 font-mono text-[9px] text-charcoal/30">
+      {/* Results count */}
+      <div className="flex items-center justify-between border-b border-panel-border/25 pb-3 font-mono text-[9px] text-charcoal/28">
         <span>[GOV_ECOSYSTEM_QUERY: SUCCESS]</span>
-        <span className="font-bold">{totalMatches} MATCHING INSTITUTIONS</span>
+        <span className="font-bold text-charcoal/40">{totalMatches} INSTITUTIONS</span>
       </div>
 
-      {/* Grouped Renderings */}
+      {/* Results */}
       {filteredCategories.length > 0 ? (
         <div className="space-y-12">
           {filteredCategories.map((category) => (
             <section key={category.categoryName} className="space-y-5">
-              
-              {/* Category Subheading */}
               <div className="flex items-center gap-4">
-                <h3 className="font-mono text-[11px] font-extrabold uppercase tracking-widest text-gold/80">
+                <h3 className="font-mono text-[10.5px] font-bold uppercase tracking-widest text-forest/65">
                   // {category.categoryName}
                 </h3>
-                <div className="h-[1px] flex-1 bg-panel-border/20" />
-                <span className="font-mono text-[10px] text-charcoal/30">
+                <div className="h-px flex-1 bg-panel-border/20" />
+                <span className="font-mono text-[9px] text-charcoal/28">
                   {category.items.length} {category.items.length === 1 ? "agency" : "agencies"}
                 </span>
               </div>
-
-              {/* Cards Grid */}
-              <div className="grid gap-6 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+              <div className="grid gap-5 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
                 {category.items.map((item, idx) => (
                   <DirectoryCard
                     key={item.name}
@@ -149,22 +127,20 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
                     url={item.url}
                     description={item.description}
                     index={idx + 1}
-                    label="GOVERNMENT AGENCY"
+                    label={category.categoryName}
                   />
                 ))}
               </div>
-
             </section>
           ))}
         </div>
       ) : (
-        /* Empty State */
-        <div className="flex flex-col items-center justify-center rounded border border-dashed border-panel-border/40 bg-panel py-16 text-center">
-          <p className="mb-2 font-mono text-xs text-charcoal/40">NO MATCHES FOUND FOR YOUR SEARCH</p>
-          <p className="font-sans text-[11px] text-charcoal/30">Try resetting the query or selecting another category filter.</p>
+        <div className="flex flex-col items-center justify-center rounded border border-dashed border-panel-border/35 bg-panel py-16 text-center">
+          <p className="mb-1.5 font-mono text-[11px] text-charcoal/38">NO MATCHES FOUND</p>
+          <p className="font-sans text-[11px] text-charcoal/28">Try resetting the query or selecting another type.</p>
           <button
             onClick={resetFilters}
-            className="mt-6 rounded border border-panel-border bg-panel px-4 py-2 font-mono text-[10px] uppercase font-bold text-gold hover:border-gold/30"
+            className="mt-6 rounded border border-panel-border bg-panel px-4 py-2 font-mono text-[9.5px] uppercase font-bold tracking-wider text-gold/70 hover:text-gold transition-colors"
           >
             Reset Filters
           </button>

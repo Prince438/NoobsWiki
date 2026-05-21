@@ -13,34 +13,40 @@ export default function Navbar() {
   ];
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-panel-border/30 bg-cream/70 backdrop-blur-md">
-      <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-6 md:px-8">
-        
-        {/* Brand / Logo */}
-        <Link href="/" className="group flex items-center gap-2.5 transition-transform duration-300 hover:scale-[1.01]">
-          {/* Techy Logo Symbol */}
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg border border-panel-border bg-panel text-gold transition-colors duration-300 group-hover:border-gold/30">
-            <svg className="h-4.5 w-4.5 stroke-[1.8]" viewBox="0 0 24 24" fill="none" stroke="currentColor" xmlns="http://www.w3.org/2000/svg">
-              <path d="M12 6.5V20m0-13.5C10.5 5 6 5 4 6.5V18c2-1.5 6.5-1.5 8 0m0-11.5c1.5-1.5 6-1.5 8-0.5V18c-2-1.5-6.5-1.5-8 0" strokeLinecap="round" strokeLinejoin="round"/>
-              <path d="M8 10l1.5 1.5L8 13" strokeLinecap="round" strokeLinejoin="round"/>
+    <header className="sticky top-0 z-50 w-full border-b border-panel-border/50 bg-cream/80 backdrop-blur-md">
+      <div className="mx-auto flex h-14 max-w-6xl items-center justify-between px-6 md:px-8">
+
+        {/* Brand */}
+        <Link href="/" className="group flex items-center gap-2.5">
+          <div className="relative flex h-7 w-7 items-center justify-center rounded border border-panel-border bg-panel text-gold transition-colors duration-300 group-hover:border-forest/40">
+            <svg className="h-[15px] w-[15px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round">
+              <line x1="4" y1="8" x2="20" y2="8" strokeWidth="1.6"/>
+              <line x1="6.5" y1="12" x2="17.5" y2="12" strokeWidth="1.6"/>
+              <line x1="9" y1="16" x2="15" y2="16" strokeWidth="1.6"/>
+              <line x1="12" y1="5.5" x2="12" y2="8" strokeWidth="1.6"/>
+              <circle cx="12" cy="4.5" r="1" fill="currentColor" stroke="none"/>
             </svg>
           </div>
-          <span className="flex items-center font-mono text-sm font-extrabold tracking-wider uppercase text-charcoal">
-            KD Tech Wiki
-            <span className="ml-0.5 text-gold font-mono text-base font-normal animate-terminal-blink">_</span>
-          </span>
+          <div className="flex items-baseline gap-0">
+            <span className="font-mono text-[12.5px] font-extrabold tracking-[0.14em] uppercase text-charcoal">
+              KD Tech Wiki
+            </span>
+            <span className="text-gold font-mono text-[12.5px] font-light animate-terminal-blink">_</span>
+          </div>
         </Link>
 
-        {/* Navigation Links */}
-        <nav className="hidden items-center gap-8 md:flex">
+        {/* Desktop nav links */}
+        <nav className="hidden items-center gap-7 md:flex">
           {links.map((link) => {
             const isActive = pathname === link.href;
             return (
               <Link
                 key={link.href}
                 href={link.href}
-                className={`font-mono text-[11px] font-bold uppercase tracking-wider transition-colors hover:text-gold ${
-                  isActive ? "text-gold relative after:absolute after:bottom-[-22px] after:left-0 after:right-0 after:h-[2px] after:bg-gold" : "text-charcoal/60"
+                className={`font-mono text-[10px] font-bold uppercase tracking-widest transition-colors duration-200 ${
+                  isActive
+                    ? "text-gold"
+                    : "text-charcoal/42 hover:text-charcoal/75"
                 }`}
               >
                 {link.label}
@@ -49,20 +55,19 @@ export default function Navbar() {
           })}
         </nav>
 
-        {/* Technical Status HUD Accent */}
+        {/* Right side */}
         <div className="flex items-center gap-3">
-          <div className="hidden items-center gap-1.5 rounded border border-panel-border bg-panel px-3 py-1 font-mono text-[9px] text-charcoal/50 sm:flex">
-            <span className="relative flex h-1.5 w-1.5">
-              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-forest opacity-75"></span>
-              <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-forest animate-pulse"></span>
+          {/* Live status pill */}
+          <div className="hidden items-center gap-1.5 rounded border border-panel-border bg-panel px-2.5 py-1 font-mono text-[9px] tracking-wider text-charcoal/38 sm:flex">
+            <span className="relative flex h-1.5 w-1.5 flex-shrink-0">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-forest opacity-60"></span>
+              <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-forest"></span>
             </span>
-            <span>ENGINE: ACTIVE</span>
-            <span className="text-panel-border/30">|</span>
-            <span>v2.0.0</span>
+            <span>LIVE</span>
           </div>
 
-          {/* Mobile Navigation Bar Links */}
-          <div className="flex gap-1 md:hidden">
+          {/* Mobile nav */}
+          <div className="flex gap-1.5 md:hidden">
             {links.map((link) => {
               const isActive = pathname === link.href;
               return (
@@ -70,7 +75,9 @@ export default function Navbar() {
                   key={link.href}
                   href={link.href}
                   className={`rounded border px-2 py-1 font-mono text-[9px] font-bold uppercase tracking-tight transition-colors ${
-                    isActive ? "bg-forest/10 border-forest text-gold" : "bg-panel border-panel-border text-charcoal/60"
+                    isActive
+                      ? "border-forest/40 bg-forest/10 text-gold"
+                      : "border-panel-border bg-panel text-charcoal/45"
                   }`}
                 >
                   {link.label.split(" ")[1] || link.label}

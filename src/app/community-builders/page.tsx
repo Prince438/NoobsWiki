@@ -4,35 +4,130 @@ import path from "path";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CommunityBuildersList from "./CommunityBuildersList";
+import type { BuilderEntry, BuilderLink } from "@/components/BuilderCard";
 
 export const metadata: Metadata = {
   title: "Community Builders",
   description:
-    "Meet the individuals behind the communities. This section highlights community builders who organise meetups, events, programs, and initiatives in Malaysia.",
+    "The individuals organising meetups, events, and programs that support learning, collaboration, and innovation within the Malaysia tech ecosystem.",
 };
 
+// ─── Link filter ─────────────────────────────────────────────────────────────
+// The raw JSON often contains scraped site-nav links alongside personal links.
+// We keep only absolute URLs that don't match known navigation / community-event
+// patterns, and whose labels aren't generic nav labels.
+
+const SKIP_URL_FRAGMENTS = [
+  "facebook.com/wordcampmalaysia",
+  "instagram.com/wordcampmy",
+  "threads.com/@wordcampmy",
+  "x.com/WordCampMY",
+  "facebook.com/groups/wordcampmalaysia",
+  "malaysia.wordcamp.org/2025/session/",
+  "malaysia.wordcamp.org/2025/news/",
+  "malaysia.wordcamp.org/2025/faq",
+  "malaysia.wordcamp.org/2025/sessions/",
+  "malaysia.wordcamp.org/2025/schedule/",
+  "malaysia.wordcamp.org/2025/location",
+  "malaysia.wordcamp.org/2025/tickets/",
+  "malaysia.wordcamp.org/2025/contact/",
+  "malaysia.wordcamp.org/2025/organizers/",
+  "malaysia.wordcamp.org/2025/volunteers/",
+  "malaysia.wordcamp.org/2025/attendees/",
+  "malaysia.wordcamp.org/2025/speakers/",
+  "malaysia.wordcamp.org/2025/sponsors",
+  "malaysia.wordcamp.org/2025/media-partners/",
+  "malaysia.wordcamp.org/2025/code-of-conduct/",
+  "malaysia.wordcamp.org/2025/contributor-day/",
+  "malaysia.wordcamp.org/2025/accommodation/",
+  "malaysia.wordcamp.org/2025/visa",
+];
+
+const SKIP_LABELS = new Set([
+  "← Back", "Attendees list", "Facebook Group",
+  "News", "Info", "Venue", "Accommodation", "Visa",
+  "Code of Conduct", "Sponsor FAQs", "Sponsors",
+  "Speakers", "Attendees", "Organizers", "Volunteers",
+  "Media Partners", "Conference", "Contributor Day",
+  "Contact", "Sold Out", "English", "FAQs", "Sessions",
+  "Location", "Floor Plan", "Visa Letter",
+]);
+
+function filterLinks(raw: { label: string; url: string }[]): BuilderLink[] {
+  const seen = new Set<string>();
+  const kept: BuilderLink[] = [];
+
+  for (const link of raw) {
+    // Must be an absolute URL
+    if (!link.url.startsWith("http")) continue;
+    // Skip known nav labels
+    if (SKIP_LABELS.has(link.label)) continue;
+    // Skip labels that are sentence fragments or session titles (too long)
+    if (link.label.length > 42) continue;
+    // Skip ← arrows or generic back links
+    if (link.label.startsWith("←") || link.label.startsWith("→")) continue;
+    // Skip URLs matching event-navigation patterns
+    if (SKIP_URL_FRAGMENTS.some((frag) => link.url.includes(frag))) continue;
+    // Deduplicate by URL
+    if (seen.has(link.url)) continue;
+    seen.add(link.url);
+    kept.push({ label: link.label, url: link.url });
+    // Cap at 5 personal links per person
+    if (kept.length >= 5) break;
+  }
+
+  return kept;
+}
+
+// ─── Page ────────────────────────────────────────────────────────────────────
+
 export default function CommunityBuildersPage() {
-  // Read and parse community builders JSON data at runtime/build-time
-  let builders = [];
+  let builders: BuilderEntry[] = [];
+
   try {
-    const filePath = path.join(process.cwd(), "src", "data", "community-builders.json");
+    // Primary source: kd-tech-wiki-community-builders-expanded.json at project root
+    // Fallback: src/data/community-builders.json
+    const expandedPath = path.join(process.cwd(), "kd-tech-wiki-community-builders-expanded.json");
+    const fallbackPath = path.join(process.cwd(), "src", "data", "community-builders.json");
+    const filePath = fs.existsSync(expandedPath) ? expandedPath : fallbackPath;
+
     if (fs.existsSync(filePath)) {
-      const content = fs.readFileSync(filePath, "utf-8");
-      builders = JSON.parse(content);
+      const raw = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+      // Support { entries: [...] } wrapper or a flat array
+      const entries: {
+        name: string;
+        description?: string;
+        links?: { label: string; url: string }[];
+        url?: string;
+        category?: string;
+        source?: string;
+        role?: string;
+      }[] = Array.isArray(raw) ? raw : (raw.entries ?? []);
+
+      builders = entries.map((entry) => {
+        // Normalise to the { links: [...] } format
+        const rawLinks: { label: string; url: string }[] =
+          entry.links ??
+          (entry.url ? [{ label: entry.source ?? entry.role ?? "Profile", url: entry.url }] : []);
+
+        return {
+          name: entry.name,
+          description: entry.description ?? "",
+          links: filterLinks(rawLinks),
+          category: entry.category ?? "builder",
+        };
+      });
     }
   } catch (error) {
-    console.error("Error reading community builders JSON data:", error);
+    console.error("Error reading community builders data:", error);
   }
 
   return (
     <div className="flex min-h-screen flex-col bg-cream bg-dot-pattern">
-      {/* Top Navbar */}
       <Navbar />
 
-      {/* Spacious Outer Container */}
       <div className="mx-auto w-full max-w-6xl flex-1 px-6 py-12 md:px-8">
-        
-        {/* Clean Header Area with generous spacing */}
+
         <div className="mb-12 max-w-3xl space-y-4">
           <div className="font-mono text-xs font-semibold text-gold tracking-widest uppercase">
             [ DIRECTORY // SEC_02 ]
@@ -41,16 +136,14 @@ export default function CommunityBuildersPage() {
             Community Builders
           </h1>
           <p className="font-sans text-base leading-relaxed text-charcoal/70">
-            Meet the individuals behind the communities. This section highlights community builders who organise meetups, events, programs, and initiatives that support learning, collaboration, and innovation within the tech ecosystem.
+            The individuals organising meetups, events, and programs that support learning, collaboration, and innovation within the Malaysia tech ecosystem.
           </p>
         </div>
 
-        {/* Dynamic Interactivity Layer */}
         <CommunityBuildersList builders={builders} />
 
       </div>
 
-      {/* Global Footer */}
       <Footer />
     </div>
   );
