@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Heislyc Loh",
+    "role": "Founder, StartupMamak",
+    "url": "https://linkedin.com/in/heislyc",
+    "description": "Pioneer ecosystem builder who founded StartupMamak, one of Malaysia's longest running tech startup communities. Actively advises early-stage founders and curates casual Mamak meetups."
+  },
+  {
+    "name": "Mohd Rahimi",
+    "role": "Co-founder, JomWeb & Komuniti Dev",
+    "url": "https://github.com/rahimimy",
+    "description": "Core champion of JomWeb, a massive community of Malay-language web developers. Organizes educational initiatives, workshops, and helps self-taught developers find jobs."
+  },
+  {
+    "name": "Keith Rozario",
+    "role": "Founder, rawSEC & Cybersecurity Advocate",
+    "url": "https://github.com/keithrozario",
+    "description": "Leading cybersecurity community advocate who created rawSEC, Malaysia's top information security community. Writes technical articles and coordinates local CTF competitions."
+  },
+  {
+    "name": "Siti Hafizah",
+    "role": "Lead, Women in Tech Malaysia",
+    "url": "https://linkedin.com/in/siti-hafizah",
+    "description": "Championing diversity in tech. She drives initiatives, panels, and mentorship cohorts to elevate Malaysian female software engineers and tech startup leaders."
+  },
+  {
+    "name": "Tan Ji Sheng",
+    "role": "Lead Organizer, GDG Kuala Lumpur",
+    "url": "https://gdg.community.dev/gdg-kuala-lumpur/",
+    "description": "A seasoned mobile developer and tech community organizer leading Google Developer Group KL. Curates large tech conferences like DevFest and regular local dev meetups."
+  },
+  {
+    "name": "Lau Cher Han",
+    "role": "Chief Data Scientist & AI Community Leader",
+    "url": "https://linkedin.com/in/drcherhan",
+    "description": "A prominent educator and speaker driving data science and AI community initiatives in Malaysia, organizing free workshops, and mentoring aspiring data specialists."
+  },
+  {
+    "name": "Bobby Ong",
+    "role": "Co-founder, CoinGecko & Tech Angel",
+    "url": "https://twitter.com/bobbyong",
+    "description": "Malaysian entrepreneur and tech builder. Beyond building CoinGecko into a global crypto powerhouse, he actively supports local Web3 developers and tech startup builders."
+  }
+]

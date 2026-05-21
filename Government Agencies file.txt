@@ -1,0 +1,81 @@
+Malaysia tech & startup ecosystem sites (official / public / government-linked)
+
+Note:
+- This is a broad curated directory, not a literal exhaustive registry of every Malaysian public body.
+- I included government, government-linked, state-linked, corridor, and public-university institutions.
+- A few official sites may show bot-verification pages in automated tools, but they are live domains.
+
+1) Federal ministries and national portals
+1. MyGovernment (Portal Rasmi Kerajaan Malaysia) — https://www.malaysia.gov.my
+2. Ministry of Digital — https://www.digital.gov.my
+3. Ministry of Science, Technology and Innovation (MOSTI) — https://www.mosti.gov.my
+4. MyDIGITAL — https://www.mydigital.gov.my
+5. Ministry of Entrepreneur Development and Cooperatives (KUSKOP) — https://www.kuskop.gov.my
+6. Ministry of Investment, Trade and Industry (MITI) — https://www.miti.gov.my
+7. Ministry of Higher Education (MOHE) — https://www.mohe.gov.my
+8. Ministry of Finance (MOF) — https://www.mof.gov.my
+9. Majlis Amanah Rakyat (MARA) — https://www.mara.gov.my
+
+2) National startup, innovation, funding, and ecosystem bodies
+10. MYStartup — https://www.mystartup.gov.my
+11. Malaysia Digital Economy Corporation (MDEC) — https://mdec.my
+12. Cradle Fund — https://www.cradle.com.my
+13. MRANTI — https://mranti.my
+14. Malaysia Technology Development Corporation (MTDC) — https://www.mtdc.com.my
+15. Malaysia Venture Capital Management Berhad (MAVCAP) — https://mavecap.com
+16. Malaysian Investment Development Authority (MIDA) — https://www.mida.gov.my
+17. Malaysian Communications and Multimedia Commission (MCMC) — https://www.mcmc.gov.my
+18. CyberSecurity Malaysia — https://www.cybersecurity.my
+19. Securities Commission Malaysia — https://www.sc.com.my
+20. Bank Negara Malaysia — https://www.bnm.gov.my
+21. Malaysia Productivity Corporation (MPC) — https://www.mpc.gov.my
+22. Malaysian Industry-Government Group for High Technology (MIGHT) — https://might.org.my
+23. SIRIM Berhad — https://www.sirim.my
+24. MIMOS Berhad — https://www.mimos.my
+25. Bioeconomy Corporation — https://www.bioeconomycorporation.my
+26. Government Innovation Initiative (MyInovasi) — https://myinovasi.gov.my
+27. National Technology & Innovation Sandbox (NTIS) — https://sandbox.gov.my
+28. Medical Device Authority (MDA) — https://www.mda.gov.my
+29. Malaysia External Trade Development Corporation (MATRADE) — https://www.matrade.gov.my
+30. TERAJU — https://teraju.gov.my
+31. TEKUN Nasional — https://www.tekun.gov.my
+32. PUNB — https://www.punb.com.my
+33. SME Corp Malaysia — https://www.smecorp.gov.my
+34. SME Bank Malaysia — https://www.smebank.com.my
+35. MARA Entrepreneurship Sector — https://www.mara.gov.my/en/index/entrepreneurship-sector/
+36. MyUsahawan (MARA) — https://myusahawan.mara.gov.my
+
+3) State, regional, corridor, and investment agencies
+37. InvestKL — https://www.investkl.gov.my
+38. InvestPenang — https://investpenang.gov.my
+39. Invest Selangor — https://www.investselangor.my
+40. Invest Johor — https://www.investjohor.gov.my
+41. InvestPerak — https://www.investperak.gov.my
+42. InvestSarawak — https://investsarawak.gov.my
+43. Invest Sabah — https://www.investsabah.gov.my
+44. Sabah Economic Development and Investment Authority (SEDIA) — https://sedia.com.my
+45. East Coast Economic Region Development Council (ECERDC) — https://www.ecerdc.com.my
+46. Northern Corridor Economic Region (NCER Malaysia) — https://www.ncer.com.my
+47. Iskandar Regional Development Authority (IRDA) — https://www.irda.com.my
+48. Ministry of International Trade and Industry, Sarawak (MINTRED) — https://mintred.sarawak.gov.my
+49. Sarawak Digital Economy Corporation (SDEC) — https://sdec.com.my/web/
+50. Invest Pahang / PKNP one-stop investment portal — https://investpknp.gov.my/bm/
+
+4) Public university entrepreneurship / innovation / commercialization centres
+51. UPM Centre of Entrepreneurial Development and Graduate Marketability (CEM) — https://cem.upm.edu.my
+52. University of Malaya Centre of Innovation and Enterprise (UM CIE) — https://umcie.um.edu.my
+53. Universiti Teknologi Malaysia Innovation and Commercialisation Centre (ICC) — https://icc.utm.my
+54. UMPSA Entrepreneurship Centre — https://www.umpsa.edu.my/en/link/entrepreneurship-centre
+55. UiTM Malaysian Academy of SME & Entrepreneurship Development (MASMED) — https://masmed.uitm.edu.my
+
+5) Other useful public-sector portals
+56. MyGovernment business / public-service portal — https://www.malaysia.gov.my
+57. Ministry of Digital announcements / startup ecosystem updates — https://www.digital.gov.my
+58. MOSTI startup and innovation publications — https://www.mosti.gov.my
+59. MIDA media release and ecosystem news — https://www.mida.gov.my
+60. MyStartup ecosystem directory and registration — https://www.mystartup.gov.my
+
+If you want, I can next turn this into:
+- a CSV with columns for category, site name, URL, and notes
+- a cleaner markdown list
+- or a much bigger directory with more state agencies and university centres

@@ -1,0 +1,147 @@
+Malaysia Tech Community Groups (Malaysia)
+
+Curated from official sites, meetup pages, community hubs, GitHub repos, and Facebook groups.
+Some entries are broader ecosystem sites or discovery hubs related to Malaysian tech communities.
+
+Last updated: 2026-05-19
+
+General / ecosystem
+-------------------
+- ALMUC Application Lifecycle Management User Community | https://www.facebook.com/groups/32952364537/
+- Dev Malaysia | https://devmalaysia.com/
+- Developer Kaki | https://developerkaki.my/
+- ELITE MALAYSIA | https://www.facebook.com/groups/elitemalaysia/
+- IdealTech Group | https://www.facebook.com/groups/idealtech2007/
+- Komuniti.dev | https://komuniti.dev/
+- Malaysia Independent Developers | https://www.facebook.com/groups/mind.com.my/
+- Malaysia IT Community | https://www.facebook.com/groups/322445544497663/
+- Microsoft Innovation Center Malaysia | https://www.facebook.com/groups/micmalaysia/
+- Programmer Club | https://www.facebook.com/groups/clubprogrammer/
+- Tech in Malaysia | https://techin.my/
+- Tech Malaysia Advocates | https://www.techmalaysiaadvocates.com/
+
+City / campus / local chapters
+------------------------------
+- Flutter KL | https://www.meetup.com/flutter-kl/
+- GDG Cloud KL | https://gdg.community.dev/gdg-cloud-kl/
+- GDG George Town | https://gdg.community.dev/gdg-george-town/
+- GDG Kuala Lumpur | https://gdg.community.dev/gdg-kuala-lumpur/
+- GDG on Campus Multimedia University | https://gdg.community.dev/gdg-on-campus-multimedia-university-selangor-malaysia/
+- GDG on Campus Universiti Malaya | https://gdg.community.dev/gdg-on-campus-universiti-malaya-kuala-lumpur-malaysia/
+- GDG on Campus Universiti Sains Malaysia | https://gdg.community.dev/gdg-on-campus-universiti-sains-malaysia-penang-malaysia/
+- GDG on Campus Universiti Teknologi Malaysia | https://gdg.community.dev/gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia/
+- Komuniti WP | https://www.facebook.com/groups/komunitiwpmalaysia/
+- Kuala Lumpur WordPress Meetup | https://www.meetup.com/kuala-lumpur-wordpress-meetup/
+- Penang Tech MY | https://www.facebook.com/groups/penangtechmy/
+- PenangDev | https://penangdev.my/
+- PyCon Malaysia | https://www.pycon.my/
+- Tech Events 4 Penang | http://te4p.com
+- WordCamp Malaysia | https://malaysia.wordcamp.org/
+
+Startup / founder / coworking
+-----------------------------
+- AngelHack KL | https://www.facebook.com/groups/angelhackkl/
+- Calendata | http://www.calendata.com/
+- Malaysia Start-Up Club | https://www.facebook.com/groups/malaysiastartupclub/
+- Malaysia Tech Startups | https://www.facebook.com/groups/MalaysiaTechStartups/
+- Mega Startup Weekend | https://www.facebook.com/groups/megastartupweekend/
+- MYStartup | https://www.mystartup.gov.my/
+- MYStartup (Cradle) | https://cradle.com.my/mystartup/
+- OpenCoffee Club Malaysia | https://www.facebook.com/groups/opencoffeeclubkl/
+- Startup Malaysia | https://startupmalaysia.org/
+- Startup Malaysia Network | https://central.mymagic.my/network/frontend/v1
+- StartupMamak | https://www.facebook.com/groups/startupmamak/
+- Tech in KL | http://www.techinkl.com
+- WCKL Co-working Heroes | https://www.facebook.com/groups/wcklcoworking/
+- WCKL Soap Box | https://www.facebook.com/groups/wcklsoapbox/
+
+Web / frontend / language
+-------------------------
+- ForwardSlash : App/Web Designers & Front-end Web Developers | http://forwardslash.io/
+- Groovy User Group Malaysia | https://www.facebook.com/groups/232377046816685
+- Java User Group | https://www.facebook.com/groups/jug.my/
+- JavaScript Developers Malaysia | https://www.facebook.com/groups/javascript.my/
+- Javascript.my | http://javascript.my
+- KL Ruby Brigade | https://www.facebook.com/groups/klxrb
+- KLPHP | https://www.facebook.com/groups/519978928019446/
+- KualaLumpurJS | https://www.facebook.com/groups/kualalumpurjs
+- Laravel Group Malaysia | https://www.facebook.com/groups/laravel.my/
+- Malaysia Independent .NET Architects | https://www.facebook.com/groups/mina.my/
+- Malaysia Scala User Group | https://www.facebook.com/groups/myscala/
+- Malaysia SharePoint User Group | https://www.facebook.com/groups/myspug/
+- Programming Laman Web + UI/UX | https://www.facebook.com/groups/jomweb/
+- Python User Group Malaysia | https://www.facebook.com/groups/python.malaysia/
+- Ruby on Rails Malaysia (English) | https://www.facebook.com/groups/rails.my.english/
+- Ruby on Rails No Boundaries (MY/SG) | https://www.facebook.com/groups/rubySG/
+- WebCamp Cyberjaya | https://www.facebook.com/groups/webcampcyberjaya/
+- WebCamp KL | https://www.facebook.com/groups/webcamp/
+- Windows Developers Malaysia | https://www.facebook.com/groups/mywindev/
+- Windows Phone Developer User Group Malaysia | https://www.facebook.com/groups/41195350169/
+
+Mobile / hardware / platform
+----------------------------
+- Arduino Malaysia | https://www.facebook.com/groups/arduinomalaysia/
+- CodeAndroid Malaysia | https://www.facebook.com/groups/codeandroidmy/
+- iOS Developers Malaysia | https://www.facebook.com/groups/myiphonedevelopment/
+- MobileDev Penang | https://www.facebook.com/groups/483175291711521/
+- Nokia Developers Connection Malaysia | https://www.facebook.com/groups/NokiaS40Malaysia/
+- Raspberry Pi Malaysia | https://www.facebook.com/groups/RaspberryPiMalaysia/
+- Xamarin Developers Malaysia | https://www.facebook.com/groups/xamarinmydev/
+
+Data / AI / databases
+---------------------
+- AI Community Malaysia | https://www.facebook.com/groups/aicommunitymalaysia/
+- AI/ML Malaysia | https://www.ai-ml-malaysia.com/
+- Big Data Malaysia | https://www.facebook.com/groups/bigdatamy/
+- Data Science Association (DSA) | https://datascience.org.my/
+- dataanalyst.my communities | https://dataanalyst.my/communities
+- KL MongoDB User Group | https://www.facebook.com/groups/klmug/
+- MAAI | https://www.maai.org.my/
+- Malaysian AI | https://www.malaysian.ai/
+- National AI Office Community | https://ai.gov.my/community/
+- NoSQL KL | https://www.facebook.com/groups/nosqlkl/
+- SQL Server Practitioners Alliance Network | https://www.facebook.com/groups/sqlspan/
+
+Cloud / DevOps / infrastructure
+-------------------------------
+- AWS User Group Malaysia | https://www.awsug.my/
+- Azure User Group Malaysia | https://www.facebook.com/groups/myazure/
+- Cloud Community Malaysia | https://www.meetup.com/cloudmy/
+- Cloud Native Kuala Lumpur | https://www.linkedin.com/company/cloud-native-kualalumpur
+- DevOps Malaysia | https://www.meetup.com/devopsmalaysia/
+- DevOps Malaysia meetup links | https://devops-my.github.io/meetup/
+
+Open source / Linux / maker
+---------------------------
+- FOSS.org.my | https://foss.org.my/
+- Hackerspace JB | https://www.facebook.com/groups/hackerspacejb/
+- Hackerspace KL | https://www.facebook.com/groups/hackerspace.my/
+- Komuniti MyDev | http://www.mydev.my
+- KPST | https://kpst.my/
+- Mozilla Malaysia | http://mozilla.my/
+- MYCLUG (Malaysian Chinese Linux User Group) | https://www.facebook.com/groups/myclug/
+- Sibermerdeka | https://sibermerdeka.net/en/
+
+Security / fintech / blockchain
+-------------------------------
+- ACCESS Blockchain Malaysia | https://www.accessblockchainmy.org/
+- Bitcoin Malaysia #1 Group | https://www.facebook.com/groups/BitcoinMalaysia/
+- Bitcoin Malaysia Open Group | https://www.facebook.com/groups/626846267377737/
+- Cryptocurrency Malaysia | https://www.facebook.com/groups/467457310022522/
+- CyberSecurity Malaysia | https://www.cybersecurity.my/
+- FinTech Malaysia | https://www.facebook.com/groups/FinTechMalaysia/
+- ISC2 Malaysia Chapter | https://malaysia.isc2chapters.isc2.org/page/isc2myhome
+- Malaysia Blockchain Association | https://malaysiablockchain.org/
+- Malaysia Fintech Chamber of Commerce | https://mftcc.org.my/
+- MCCO - Malaysian Cyber Security Community Organization | https://www.mcco.org.my/
+- MyFINT | https://www.myfint.org/
+- PayNet Fintech Hub | https://fintechhub.paynet.my/
+- rawSEC | https://www.rawsec.my/
+- SherpaSec | https://sherpasec.org/
+- Women in Tech Malaysia | https://women-in-tech.org/my/
+
+Career / jobs / related resources
+---------------------------------
+- IT Job | https://www.facebook.com/groups/itjob.malaysia/
+- Startup Jobs Malaysia | https://www.facebook.com/groups/startupjobsmalaysia/
+- WCKL Jobs | https://www.facebook.com/groups/wckljobs/
