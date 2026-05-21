@@ -1,0 +1,402 @@
+FMHY File Tools Library
+Source: https://fmhy.net/file-tools
+
+Scraped from the FMHY File Tools page.
+
+> File Tools Download Managers, File Hosting, File Archivers
+## File Tools
+
+- File Scanners — ️ File Scanners — /privacy/#file-scanners
+- czkawka — or dupeGuru - Duplicate File Finders — https://github.com/qarmin/czkawka | dupeGuru: https://dupeguru.voltaicideas.net/
+- UnLock IT — or Lock Hunter - File Unlocker / Deleter — https://emcosoftware.com/unlock-it/download | Lock Hunter: https://lockhunter.com/
+- Icaros — Add Explorer Thumbnails to any Video Format — https://github.com/Xanashi/Icaros
+- ⁠copyparty — Portable File Server — https://github.com/9001/copyparty/
+- HTTPDirfs — or hfs / 2 - HTTP File Systems — https://github.com/fangfufu/httpdirfs | hfs: https://rejetto.com/hfs/ | 2: https://github.com/rejetto/hfs
+- WinBtrfs — Btrfs File System — https://github.com/maharmstone/btrfs
+- mergerfs — Union File System — https://github.com/trapexit/mergerfs
+- ExampleFile — or File-Examples - Dummy Example Files — https://www.examplefile.com/ | File-Examples: https://file-examples.com/
+
+### Download Managers
+- AB Download Manager — Download Manager — https://abdownloadmanager.com/ | Telegram: https://t.me/abdownloadmanager_discussion | GitHub: https://github.com/amir1376/ab-download-manager
+- JDownloader — Download Manager — https://jdownloader.org/jdownloader2
+- Debloat Guide — JDownloader Tools - Debloat Guide , 2 / Apps / Dark Theme , 2 / Dracula Theme — https://claraiscute.neocities.org/Guides/jdownloader2/ | 2: https://claraiscute.pages.dev/Guides/jdownloader2/ | Apps: https://my.jdownloader.org/apps/ | Dark Theme: https://github.com/moktavizen/material-darker-jdownloader | 2: https://redd.it/q3xrgj | Dracula Theme: https://draculatheme.com/jdownloader2
+- IDM — , 2 , 3 (search) - Download Manager / Firefox / Chrome — https://rentry.co/FMHYB64#idm | 2: /downloading/#software-sites | 3: /gaming/#download-games | Firefox: https://addons.mozilla.org/en-US/firefox/addon/tonec-idm-integration-module/ | Chrome: https://chromewebstore.google.com/detail/idm-integration-module/ngpampappnmepgilojfohadhhmbhlaek
+- Go Speed — Download Manager / All Platforms / Extension / Plugins — https://gopeed.com/ | Extension: https://github.com/GopeedLab/browser-extension | Plugins: https://github.com/search?q=topic%3Agopeed-extension&type=repositories | GitHub: https://github.com/GopeedLab/gopeed
+- ⁠Brisk — Download Manager / Extension — https://github.com/BrisklyDev/brisk | Extension: https://github.com/BrisklyDev/brisk-browser-extension | Discord: https://discord.gg/hGBDWNDHG3
+- imFile — https://imfile.org/ | GitHub: https://github.com/imfile-io/imfile-desktop
+- FDM — Download Manager / YTDL Addon / Firefox / Chrome — https://www.freedownloadmanager.org/ | YTDL Addon: https://github.com/meowcateatrat/elephant | Firefox: https://addons.mozilla.org/en-US/firefox/addon/free-download-manager-addon/ | Chrome: https://chrome.google.com/webstore/detail/free-download-manager-chr/ahmpjcflkgiildlgicmcieglgoilbfdp/RK%3D2/RS%3DfQzscgKGm9aMezJJ7Gf2Fcc.JSo-
+- aria2 — Terminal Download Manager / Download Bot / WebUI , 2 — https://aria2.github.io/ | Download Bot: https://github.com/gaowanliang/DownloadBot | WebUI: https://github.com/ziahamza/webui-aria2 | 2: https://ariang.mayswind.net/ | GitHub: https://github.com/aria2/aria2
+- Persepolis — Download Manager — https://persepolisdm.github.io/ | GitHub: https://github.com/persepolisdm/persepolis
+- pyLoad — Lightweight Download Manager — https://pyload.net/ | GitHub: https://github.com/pyload/pyload
+- ArrowDL — Download Manager / Firefox / Chrome — https://www.arrow-dl.com/ | Firefox: https://addons.mozilla.org/en-US/firefox/addon/arrow-dl/ | Chrome: https://chrome.google.com/webstore/detail/arrow-dl/modofbhnhlagjmejdbalnijgncppjeio | GitHub: https://github.com/setvisible/ArrowDL
+- Varia — Download Manager / Firefox / Chrome — https://github.com/giantpinkrobots/varia | Firefox: https://addons.mozilla.org/firefox/addon/varia-integrator/ | Chrome: https://chrome.google.com/webstore/detail/dacakhfljjhgdfdlgjpabkkjhbpcmiff
+- ⁠Surge — TUI Download Manager / Firefox — https://github.com/surge-downloader/surge | Firefox: https://addons.mozilla.org/en-US/firefox/addon/surge/
+- DownThemAll — Download Management Extension / Firefox / Chrome — https://www.downthemall.org/ | Firefox: https://addons.mozilla.org/addon/downthemall/ | Chrome: https://chrome.google.com/webstore/detail/downthemall/nljkibfhlpcnanjgbnlnbjecgicbjkge | GitHub: https://github.com/downthemall/downthemall
+- HTTP Downloader — Download Manager for HTTP / FTP / SFTP / Firefox / Chrome — https://erickutcher.github.io/ | Firefox: https://addons.mozilla.org/en-US/firefox/addon/http-downloader/ | Chrome: https://github.com/erickutcher/httpdownloader/releases/download/CE_v1.0.2.8/HTTP_Downloader_Chrome_Extension.crx | GitHub: https://github.com/erickutcher/httpdownloader
+
+> TIP For more info on the benefits of Download Managers, see The Piracy Glossary .
+### Archiving / Compression
+- SuperCompression — File Compression Resources — https://supercompression.org/
+- NanaZip — or 7-Zip - File Archiver — https://github.com/M2Team/NanaZip | 7-Zip: https://www.7-zip.org/
+- PeaZip — Cross-Platform File Archiver — https://peazip.github.io/ | GitHub: https://github.com/peazip/PeaZip/
+- CompactGUI — Transparent Compression — https://github.com/IridiumIO/CompactGUI
+- Fileforums — or Encode - Data Compression Forums — https://fileforums.com/ | Encode: https://encode.su/
+- TurboBench — Compression Benchmark — https://github.com/powturbo/TurboBench
+- Efficient Compression Tool — or Minuimus - File Archivers / Optimizers — https://github.com/fhanau/Efficient-Compression-Tool | Minuimus: https://birds-are-nice.me/software/minuimus.html
+- ezyZip — Zip Files Online — https://www.ezyzip.com/
+- unzip-online — Unzip Files Online — https://unzip-online.com/en
+- Unrar online — Unrar Files Online — https://unrar.online/
+- WinRAR — , 2 - File Archiver / Hide Popups — https://www.win-rar.com/ | 2: https://www.rarlab.com | Hide Popups: https://rentry.co/FMHYB64#winrar
+- ouch — Archiving / Compression CLI — https://crates.io/crates/ouch | GitHub: https://github.com/ouch-org/ouch
+- UPX — Executable File Compressor — https://upx.github.io/ | GitHub: https://github.com/upx/upx
+
+### File Converters
+- File Converter — Offline / Convert & Compress Files — https://file-converter.io/ | GitHub: https://github.com/Tichau/FileConverter
+- VERT — Online for Videos / Offline for Other Formats — https://vert.sh/ | Discord: https://discord.gg/8XXZ7TFFrK | GitHub: https://github.com/VERT-sh/VERT
+- Convert to it! — Offline / File Converter — https://p2r3.github.io/convert/ | GitHub: https://github.com/p2r3/convert
+- Aconvert — Online / Various Converters / 40MB — https://www.aconvert.com/
+- ⁠Docling — or Pandoc - Document / PDF File Converters — https://docling-project.github.io/docling/ | GitHub: https://github.com/docling-project/docling | Pandoc: https://pandoc.org/
+- ConvertCSV — Online CSV Data Conversion — https://www.convertcsv.com/
+- Encoding Converter — Online File Encoding Converter — https://encoding-converter.netlify.app/
+- Deark — Decode and Convert Files — https://entropymine.com/deark/ | GitHub: https://github.com/jsummers/deark
+- text2img — Local NFO Files to Image Converter — https://master.ayra.ch/text2img/ | GitHub: https://github.com/AyrA/text2img
+- Shutter Encoder — File Converter — https://www.shutterencoder.com/ | GitHub: https://github.com/paulpacifico/shutter-encoder
+- videoutils — Online / File Converter / 500MB — https://www.videoutils.com/
+- Xconvert — Online / File Converter / 400MB — https://www.xconvert.com
+- FreeConvert — Online / Unlimited / Clear Cookies — https://www.freeconvert.com/
+- ConvertFiles — Online / File Converter / 250MB — https://www.convertfiles.com/
+- Convertio — Online / File Converter / 100MB — https://convertio.co/
+- AnyConvert — Online / File Converter / 100MB — https://anyconv.com/
+- MiConv — Online / File Converter / 75MB — https://miconv.com/
+- ⁠Docpose — Online / File Converter / 25MB — https://docpose.cloud/convert
+- ⁠ConvertX — or Transmute / - Self-Hosted File Converters — https://github.com/C4illin/ConvertX | Transmute: https://transmute.sh/ | GitHub: https://github.com/transmute-app/transmute
+
+### File Managers
+- Directory Opus — (search) - Windows File Manager — /downloading/#software-sites
+- DoubleCMD — or muCommander - Cross-Platform File Managers — https://doublecmd.sourceforge.io/ | GitHub: https://github.com/doublecmd/doublecmd | muCommander: https://www.mucommander.com/
+- Sigma — Modern File Manager — https://sigma-file-manager.vercel.app | GitHub: https://github.com/aleksey-hoffman/sigma-file-manager
+- ChromaFiler — Column-Based File Manager — https://chroma.zone/chromafiler/
+- Yazi — Terminal File Manager — https://yazi-rs.github.io/ | GitHub: https://github.com/sxyazi/yazi
+- One Commander — File Manager — https://www.onecommander.com/
+- Free Commander — File Manager — https://freecommander.com/
+- Q-Dir — File Manager — https://www.softwareok.com/?seite=Freeware/Q-Dir
+- Files — Customizable File Manager / Use Classic Installer — https://files.community/ | Discord: https://discord.gg/files
+- Explorer++ — Lightweight Windows File Manager — https://explorerplusplus.com/
+- Far Manager — File / Archive Manager — https://www.farmanager.com/
+- Total Commander — Shareware File Manager — https://www.ghisler.com/
+- TablacusExplorer — or Multi Commander - Tab File Managers — https://tablacus.github.io/explorer_en.html | Multi Commander: https://multicommander.com/
+- Vifm — Vim-Based File Manager — https://vifm.info/
+- eza — or lsd - Modern ls Replacements — https://eza.rocks/ | lsd: https://github.com/lsd-rs/lsd
+- superfile — Terminal File Manager — https://superfile.netlify.app/ | GitHub: https://github.com/yorukot/superfile
+- FileBrowser Quantum — Self-Hosted Web File Manager — https://filebrowserquantum.com/ | GitHub: https://github.com/gtsteffaniak/filebrowser
+
+### File Searching
+- Everything — File Search Engine / Alpha / Date Searching — https://voidtools.com/ | Alpha: https://www.voidtools.com/everything-1.5a/ | Date Searching: https://rentry.co/etfd
+- Recoll — Addon , DocFetcher or Orange - Cross-Platform Search Engines — https://www.recoll.org/ | Addon: https://addons.mozilla.org/en-US/firefox/addon/recoll-we/ | DocFetcher: https://docfetcher.sourceforge.io/ | Orange: https://0-range.github.io/
+- AnyTXT — , WizFile or FluentSearch - Windows Search Engines — https://anytxt.net/ | WizFile: https://antibody-software.com/wizfile/ | FluentSearch: https://fluentsearch.net/
+- AstroGrep — , grepWin or dnGrep - Windows GUI Grep Utilities — https://sourceforge.net/projects/astrogrep/ | grepWin: https://github.com/stefankueng/grepWin | dnGrep: https://dngrep.github.io/
+- fselect — SQL-like Search Engine — https://github.com/jhspetersson/fselect
+- fd — User Friendly "find" Alternative — https://github.com/sharkdp/fd
+- sist2 — Simple Incremental Search Tool — https://github.com/simon987/sist2
+
+### File Encryption
+- Cryptomator — or Tahoe-LAFS / - Cloud File Encryption — https://cryptomator.org/ | GitHub: https://github.com/cryptomator/cryptomator | Tahoe-LAFS: https://tahoe-lafs.org/trac/tahoe-lafs | GitHub: https://github.com/tahoe-lafs/tahoe-lafs
+- VeraCrypt — Disk Encryptor / Use w / External Drives — https://www.veracrypt.fr/en/Home.html
+- age — File Encryptor — https://github.com/FiloSottile/age
+- REM — File Encryptor / Rclone GUI — https://github.com/liriliri/rem
+- Picocrypt-NG — File Encryptor — https://github.com/Picocrypt-NG/Picocrypt-NG
+- gocryptfs — File Encryptor — https://github.com/bailey27/cppcryptfs
+- Kryptor — File Encryptor — https://www.kryptor.co.uk/
+
+### File Sync
+- SyncThing — Cross-Platform File Sync / Android / Tray Support — https://syncthing.net/ | Android: https://github.com/chenxiaolong/BasicSync | Tray Support: https://martchus.github.io/syncthingtray/ | GitHub: https://github.com/syncthing/syncthing
+- FreeFileSync — Open-Source File Sync — https://freefilesync.org/
+- MyPhoneExplorer — or SyncFolder - Phone and Desktop Sync — https://www.fjsoft.at/ | SyncFolder: https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US
+- allwaysync — File Sync Utility — https://allwaysync.com/
+- Resilio — P2P File Sync — https://www.resilio.com/individuals/
+- ⁠TangoShare — P2P File Sync — https://tangoshare.com/
+- ⁠SpectrShare — P2P File Sync — https://spectrshare.com/
+- SmartFTP — FTP File Sync — https://www.smartftp.com/
+- rsync — Command-line File Sync — https://rsync.samba.org | GitHub: https://github.com/RsyncProject/rsync
+- Unison — Bidirectional File Sync — https://github.com/bcpierce00/unison
+
+### File Backup
+- restic — Secure File Backup — https://restic.net/ | GitHub: https://github.com/restic/restic
+- Kopia — Encrypted File Backup — https://kopia.io/ | GitHub: https://github.com/kopia/kopia/
+- Rescuezilla — or CloneZilla - Disk Image Backup — https://rescuezilla.com/ | GitHub: https://github.com/rescuezilla/rescuezilla | CloneZilla: https://clonezilla.org/
+- FolderClone — or Echosync - Folder Clone / Backup — https://www.folderclone.com/ | Echosync: https://www.luminescence-software.org/en/echosync/about/
+- BackupPC — Networked File Backup — https://backuppc.github.io/backuppc/
+- TeraCopy — Copy Files Quickly / More Securely — https://www.codesector.com/teracopy
+- UrBackup — Client / Server File Backup — https://www.urbackup.org/
+- duplicity — File Backup — https://duplicity.gitlab.io/
+- Duplicati — File Backup — https://www.duplicati.com/
+- AOMEI Backupper — File Backup — https://www.ubackup.com/
+- Borg — De-duplicating File Backup / WebUI — https://www.borgbackup.org/ | WebUI: https://github.com/karanhudia/borg-ui
+- USBImager — USB Image Backup — https://bztsrc.gitlab.io/usbimager/
+
+### File Recovery
+- Data Recovery — Data Recovery Tool Index — https://igwiki.lyci.de/wiki/Data_recovery
+- TestDisk — File Recovery — https://www.cgsecurity.org/wiki/TestDisk
+- DMDE — File Recovery — https://dmde.com/
+- PhotoRec — File Recovery — https://www.cgsecurity.org/wiki/PhotoRec
+- Windows File Recovery — File Recovery — https://apps.microsoft.com/detail/9n26s50ln705
+- MultiPar — Prevent File Corruption / Guide — https://github.com/Yutaka-Sawada/MultiPar | Guide: https://youtu.be/5TsExiAsCXA
+- ShadowExplorer — or ShadowCopyView - Shadow Copy Explorers — https://www.shadowexplorer.com/ | ShadowCopyView: https://www.nirsoft.net/utils/shadow_copy_view.html/
+
+### File Info / Metadata
+- Image Metadata Tools — ️ Image Metadata Tools — /image-tools/#photo-forensics-metadata
+- Audio Metadata Tools — ️ Audio Metadata Tools — /audio/#audio-metadata
+- Fileinfo — , Filext or OpenMyFiles - File Extension Libraries — https://fileinfo.com/ | Filext: https://filext.com/ | OpenMyFiles: https://www.openmyfiles.com/
+- Phockup — Organize Photos / Videos by EXIF Date — https://github.com/ivandokov/phockup
+- MediaInfo — Media File Analysis / Metadata Viewer / Online — https://mediaarea.net/en/MediaInfo | Online: https://mediaarea.net/MediaInfoOnline
+- MediaPeek — Online Media File Analysis / Metadata Viewer — https://mediapeek.plnk.workers.dev/ | GitHub: https://github.com/luminalreason/mediapeek
+- ExtractMetadata — , ⁠FilesMD or Metadata2Go - Metadata Viewers / Editors — https://www.extractmetadata.com/ | ⁠FilesMD: https://www.filesmd.com/ | Metadata2Go: https://www.metadata2go.com/
+- ⁠PrivMeta — or mat2 / Web Version - Remove Metadata from Files — https://www.privmeta.com/ | GitHub: https://github.com/DScaife/privmeta/ | mat2: https://github.com/jvoisin/mat2 | Web Version: https://0xacab.org/jvoisin/mat2-web
+- Attribute Changer — Edit File & Folder Properties — https://www.petges.lu/
+- WhatsLink — View File Download Web Metadata — https://whatslink.info/
+- Magika — or TridUI - File Type Detection Tools — https://github.com/google/magika | TridUI: https://github.com/JMcrafter26/TridUI
+- TagSpaces — or Tagging for Windows - Tag-Based File Systems — https://www.tagspaces.org/ | Tagging for Windows: https://tagging.connectpaste.com/
+- SKTimeStamp — Change File Created / Modified Time — https://tools.stefankueng.com/SKTimeStamp.html
+
+### Formatting / Deletion
+- SDelete — File Deletion CLI — https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete
+- Eraser — , File Shredder , Alternate File Shredder , Permadelete or Delapp - File Shredding — https://eraser.heidi.ie/ | File Shredder: https://fileshredder.org/ | Alternate File Shredder: https://www.alternate-tools.com/pages/c_fileshredder.php?lang=ENG | Permadelete: https://developerstree.github.io/permadelete/ | Delapp: https://github.com/differentrain/Delapp
+- Parted Magic — (search) - Disk Partitioning / Data Recovery — /downloading/#software-sites
+- SSuite File Shredder and Burner — File Shredder with Disk Burning — https://www.ssuiteoffice.com/software/ssuitefileshredder.htm
+- Low Level Format — , nwipe or ShredOS - Complete Hard Drive Erasers — https://www.lowlevelformat.info/ | nwipe: https://github.com/martijnvanbrummelen/nwipe | ShredOS: https://github.com/PartialVolume/shredos.x86_64
+- RED — Remove Empty Directories — https://www.jonasjohn.de/red.htm
+
+### Data Automation
+- Advanced Renamer — , PowerRename , Szyszka , F2 , Ant Renamer , Flut Renamer or Bulk Rename Utility - Bulk Renamers — https://www.advancedrenamer.com/ | PowerRename: https://learn.microsoft.com/en-us/windows/powertoys/powerrename | Szyszka: https://github.com/qarmin/szyszka | F2: https://github.com/ayoisaiah/f2 | Ant Renamer: https://www.antp.be/software/renamer | Flut Renamer: https://github.com/sun-jiao/flut-renamer | Bulk Rename Utility: https://www.bulkrenameutility.co.uk/
+- FoliCon — Automatic Custom Media Icons / Folders — https://dineshsolanki.github.io/FoliCon/ | GitHub: https://github.com/DineshSolanki/FoliCon
+- MediaMonkey — Media Organizer — https://www.mediamonkey.com/
+- tinyMediaManager — or MediaElch - Media Collection Managers — https://www.tinymediamanager.org/ | MediaElch: https://www.kvibes.de/mediaelch/
+- FileBot — Media File Renaming — https://www.filebot.net/
+- TVRename — or ⁠Rename My TV Series - TV File Data Automation — https://www.tvrename.com/ | ⁠Rename My TV Series: https://www.tweaking4all.com/home-theatre/rename-my-tv-series-v2/
+- Shoko — Anime File Data Automation — https://github.com/shokoanime
+
+## PDF Tools
+
+- PDFGrep — or OCRmyPDF - PDF Text Search — https://pdfgrep.org/ | OCRmyPDF: https://github.com/ocrmypdf/OCRmyPDF
+- PDFEncrypt — PDF File Encryption — https://pdfencrypt.net/
+- GraphPaper — PDF Graphs — https://incompetech.com/graphpaper/
+- PDF Bookmark Editor — PDF Bookmark Editor — https://mrfragger.github.io/pdf-bookmark-editor/ | GitHub: https://github.com/mrfragger/pdf-bookmark-editor
+- PDF Fixer — Repair Damaged PDFs — https://pdffixer.com/
+- OpenSign — , Signature PDF / , FalsiScan , JustSignPDF or Adobe Sign - PDF Signature Tools — https://github.com/OpenSignLabs/OpenSign | Signature PDF: https://pdf.24eme.fr/ | GitHub: https://github.com/24eme/signaturepdf | FalsiScan: https://gitlab.com/edouardklein/falsisign | JustSignPDF: https://justsignpdf.com/ | Adobe Sign: https://www.adobe.com/acrobat/online/sign-pdf.html
+- Google Drive PDF Downloader — Download Protected Google Drive PDFs — https://github.com/zeltox/Google-Drive-PDF-Downloader
+- PDFCoffee — Upload PDF, Word or PowerPoint Files — https://pdfcoffee.com/
+- PrintFriendly — Printer Formatting Tools — https://www.printfriendly.com/
+
+### Online PDF Toolkits
+- BentoPDF — or File PDF - Client-Side — https://bentopdf.com/ | File PDF: https://filepdf.net/ | GitHub: https://github.com/alam00000/bentopdf
+- ⁠ihatepdf — Client-Side — https://www.ihatepdf.cv/
+- PDFCraft — Client-Side — https://pdfcraft.devtoolcafe.com/ | GitHub: https://github.com/PDFCraftTool/pdfcraft
+- BreezePDF — Client-Side — https://breezepdf.com/
+- ⁠itinypdf — Client-Side — https://itinypdf.com/
+- PDFClear — Client-Side — https://www.pdfclear.com/
+- DigiPDF — Client-Side — https://digipdf.app/?lang=en_US
+- Sejda — https://www.sejda.com/
+- ILovePDF — https://www.ilovepdf.com/
+- ⁠PDRResizer — https://pdfresizer.com/
+- PDF2Go — https://www.pdf2go.com/
+- DPDF — https://dpdf.com/
+- Digiparser — https://www.digiparser.com/free-tools/pdf
+
+### Offline PDF Toolkits
+- Stirling-PDF — Requires Sign-Up — https://www.stirlingpdf.com/ | GitHub: https://github.com/Stirling-Tools/Stirling-PDF
+- PDF24 — Web-Based — https://www.pdf24.org/
+- ⁠PDF4QT — https://jakubmelka.github.io/ | GitHub: https://github.com/JakubMelka/PDF4QT
+- Foxit — All Platforms / Features (search) — https://www.foxit.com/pdf-reader/ | Features: /downloading/#software-sites
+- xPDFReader — https://www.xpdfreader.com/
+- PDF Arranger — https://github.com/pdfarranger/pdfarranger
+
+### PDF Conversion Tools
+- Rare2PDF — , online2pdf or 2PDFConverter - File to PDF Conversion — https://rare2pdf.com/ | online2pdf: https://online2pdf.com/ | 2PDFConverter: https://www.2pdfconverter.com/
+- ⁠Tideflow — or MD2PDF - Markdown to PDF Converters — https://github.com/BDenizKoca/Tideflow-md-to-pdf | MD2PDF: https://md2pdf.netlify.app/
+- PDFconvert — PDF File Converters — https://docupub.com/pdfconvert/
+- Marker — PDF to Markdown — https://github.com/VikParuchuri/marker
+- PDFCrowd — , TailWindPDF or wkhtmltopdf - HTML to PDF / Image Converter — https://pdfcrowd.com/ | TailWindPDF: https://tailwindpdf.com/ | wkhtmltopdf: https://wkhtmltopdf.org/
+- Issuu — Convert PDF Files to Webpages, Flipbooks, Brochures & More / Downloader — https://issuu.com/ | Downloader: https://docdownloader.com/
+- WebToPDF — or Percollate - Webpage to PDF Converters — https://webtopdf.com/ | Percollate: https://github.com/danburzo/percollate
+- Dangerzone — Convert Malicious PDFs to Safe Files — https://dangerzone.rocks/ | GitHub: https://github.com/freedomofpress/dangerzone
+
+## File Transfer
+
+- LocalSend — Local / All Platforms — https://localsend.org/ | Discord: https://discord.com/invite/GSRWmQNP87 | Reddit: https://www.reddit.com/r/localsend/ | GitHub: https://github.com/localsend/localsend
+- Blip — Hybrid / Turn "Searchable by Name" Off in Settings — https://blip.net/
+- Photon — Local — https://photondev.netlify.app/ | GitHub: https://github.com/abhi16180/photon
+- KDE Connect — Local / All Platforms / Source — https://kdeconnect.kde.org/ | Source: https://kdeconnect.kde.org/get-involved.html
+- Wormhole — Online — https://wormhole.app/ | Discord: https://discord.com/invite/de6FscsK5Z | GitHub: https://github.com/webtorrent/wormhole-crypto
+- Warpinator — Local — https://github.com/linuxmint/warpinator
+- ⁠Phone Link — Hybrid — https://www.microsoft.com/windows/sync-across-your-devices
+- Sefirah — Local — https://github.com/shrimqy/Sefirah
+- QRServ — Local — https://play.google.com/store/apps/details?id=dev.uint.qrserv | GitHub: https://github.com/uintdev/qrserv
+- Magic Wormhole — Online — https://github.com/magic-wormhole/magic-wormhole
+- croc — Online / / GUI — https://github.com/schollz/croc | GUI: https://github.com/howeyc/crocgui
+- LANDrop — Local / All Platforms — https://landrop.app/ | Discord: https://discord.com/invite/5adm6sPugT | X: https://x.com/LANDropApp
+- NahrajSoubor — Online — https://new.nahrajsoubor.cz/
+- FilePizza — Online — https://file.pizza/
+- IPFS — Desktop / Mobile Transfer — https://ipfs.tech/ | Discord: https://discord.gg/vj7qWuAyHY
+- Resources — IPFS Tools - Resources , 2 / Extension / Desktop / IPFS Cluster — https://awesome.ipfs.tech/ | 2: https://github.com/ipfs/awesome-ipfs | Extension: https://github.com/ipfs/ipfs-companion | Desktop: https://github.com/ipfs/ipfs-desktop | IPFS Cluster: https://ipfscluster.io/
+- aQRoss — Web or qrcp / Share Files Using QR Codes — https://aqross.app/ | qrcp: https://qrcp.sh/ | GitHub: https://github.com/claudiodangelis/qrcp
+- OnionShare — Share Files Over Tor Network — https://onionshare.org/ | GitHub: https://github.com/onionshare/onionshare
+- FileZilla — FTP Client — https://filezilla-project.org/download.php?show_all=1
+- ⁠Sendme — or Alt⁠Sendme / - P2P File Transfer CLI — https://www.iroh.computer/sendme | GitHub: https://github.com/n0-computer/sendme | Alt⁠Sendme: https://www.altsendme.com/ | GitHub: https://github.com/tonyantony300/alt-sendme
+- WinSCP — FTP Client — https://winscp.net/eng/index.php
+- ⁠robocopy — Windows Built-In File Transfer Guide / WebUI — https://learn.microsoft.com/windows-server/administration/windows-commands/robocopy | WebUI: https://ar-puuk.github.io/robocopy-gui/
+
+### P2P Transfer
+- PairDrop — or ⁠Snapdrop - Web — https://pairdrop.net/ | GitHub: https://github.com/schlagmichdoch/pairdrop | ⁠Snapdrop: https://node-snapdrop.onrender.com/
+- JustBeamIt — Web — https://justbeamit.com/
+- Surge — P2P App — https://getsurge.io/ | GitHub: https://github.com/rule110-io/surge
+- ToffeeShare — Web — https://toffeeshare.com/ | GitHub: https://github.com/ToffeeShare
+- ⁠Station307 — Web — https://www.station307.com/
+- new.space — Web, iOS — https://new.space/
+- WebWormhole — Chrome / Firefox / Web — https://webwormhole.io/ | Chrome: https://chromewebstore.google.com/detail/webwormhole/jhombkhjanncdalcbcahinpjoacaiidn | Firefox: https://addons.mozilla.org/en-US/firefox/addon/webwormhole/ | GitHub: https://github.com/saljam/webwormhole
+- ⁠Clip Fish — Web — https://clip.fish/ | GitHub: https://github.com/clip-fish/web
+
+## File Hosts
+
+- Awesome File Hosts — or PolyUpload File Hosts - File Host Indexes — https://fhhy.vercel.app/ | GitHub: https://github.com/FahadBinHussain/awesome-file-hosts | PolyUpload File Hosts: https://github.com/spel987/PolyUploader?tab=readme-ov-file#-hosts
+- Video File Hosts — ️ Video File Hosts — /video-tools/#video-file-hosts
+- Image File Hosts — ️ Image File Hosts — /image-tools/#image-hosts
+- Gofile — 100GB Monthly / Unlimited / 10 Days After Last Download / Manager Export — https://gofile.io/ | Manager Export: https://greasyfork.org/en/scripts/515250
+- Pixeldrain — 10GB / 60 Days After Last Download (10% min) / Mirrors / Speedtest / Bypass — https://pixeldrain.com/ | Mirrors: https://docs.pixeldrain.com/questions_and_answers/#alternative-domain-names | Speedtest: https://pixeldrain.com/speedtest | Bypass: https://pixeldrain-bypass.gamedrive.org/
+- VikingFile — Unlimited / 15 Days After Last Download / Use Adblocker — https://vikingfile.com/ | Discord: https://discord.gg/EPEFC6KkpF
+- Buzzheavier — , 2 , 3 - Unlimited / 7 Day Expiry / +1 Hour Per DDL / File Expiry — https://buzzheavier.com/ | 2: https://fuckingfast.net/ | 3: https://bzzhr.co/ | File Expiry: https://buzzheavier.com/help | Discord: https://discord.gg/ttQjgC28WP
+- ⁠ZeroFS — Unlimited / 15 Days After Last Download / CLI — https://zerofs.link/ | CLI: https://github.com/kirmola/zerofs-cli | Discord: https://discord.gg/PJWsgUt7XM
+- ⁠Rootz — 25GB / 15 Days After Last Download / Account Required / Unlimited for Backstage Users / Use Adblocker — https://rootz.so/ | Discord: https://discord.com/invite/rtz
+- Catbox — 200MB / Forever / Proxy — https://catbox.moe/ | Proxy: https://fatbox.moe/
+- Pillowcase — Audio File Host / 200MB (500MB w / Account) / Forever — https://pillows.su/
+- FileQ — 50GB / 20GB / 3 Days After Last Download / Has Unlimited Plans — https://fileq.net/ | Discord: https://discord.gg/zc2r9pZzF
+- FileMirage — 50GB / 30 Days After Last View — https://filemirage.com/
+- Send.now — 100GB / 30 Days After Last Download (w / Account) — https://send.now/
+- ⁠Patrins — 1TB / 7 Days — https://patrins.com/ | Discord: https://discord.gg/TrSHTfUaSN
+- ⁠storage.to — 25GB / 7 Days — https://storage.to/
+- Litterbox — 1GB / 3 Days — https://litterbox.catbox.moe/
+- Transfer.it — Unlimited / 90 Days / Owned by MEGA.nz — https://transfer.it/
+- MediaFire — 4GB / Forever — https://www.mediafire.com/
+- ⁠Filester — 10GB / 45 Days After Last Download — https://filester.me/
+- DesiUpload — 15 Days (2GB per file / 30 Days w / Account) — https://desiupload.co/
+- FileDitch — or SendGB - 25GB / 90 Days — https://new.fileditch.com/ | Discord: https://discord.gg/gACnap5kKx | SendGB: https://www.sendgb.com/
+- hostb — Unlimited / 30 Days After Last Download — https://hostb.org/ | Source Code: https://r-w-x.org/r/hostb.git
+- MixDrop — Unlimited / 60 Days / Requires Sign-Up — https://mixdrop.ag/
+- Ranoz — 20GB / 30 Days After Last Download — https://ranoz.gg/
+- Fast File — 10GB / 20 Days After Last Download / Status — https://fast-file.com/ | Status: https://status.fast-file.com/
+- 1fichier.com — 300GB / 15 Days (30 Days w / Account) — https://1fichier.com/
+- Filebin — Unlimited / 6 Days — https://filebin.net/
+- file.kiwi — Unlimited / 90 Hours / File Expiry — https://file.kiwi/ | File Expiry: https://file.kiwi/en/price
+- ⁠UpZur — 5GB / 1.95TB / 120 Days After Last Download / Requires Sign-Up — https://upzur.com/
+- ⁠UploadHive — Unlimited / 50 Days After Last Download / Use Adblock — https://uploadhive.com/
+- FireLoad — Unlimited / 60 Days / Requires Sign-Up — https://www.fireload.com/
+- FEX.NET — 100GB / 7 Days — https://fex.net/ | Telegram: https://t.me/FEXNETWORK
+- DropMeFiles — 50GB / 14 Days — https://dropmefiles.com/
+- ⁠MixLoads — 25.6GB / 2TB / 60 Days After Last Download / Requires Sign-Up — https://mixloads.to/
+- ⁠CryptFiles — 10GB / Unlimited / 1 Year — https://cryptfiles.cloud/
+- GigaFile — 300GB / 100 Days — https://gigafile.nu/
+- UploadNow — 100GB / 7 Days After Last Download — https://uploadnow.io/
+- eDisk — 20GB / 30 Days — https://www.edisk.cz/
+- Drop Download — 25GB / 90 Days / Requires Sign-Up — https://drop.download/
+- SwissTransfer — 50GB / 30 Days / 250 Downloads — https://www.swisstransfer.com/
+- ⁠Dfiles — 10GB / 90 Days — https://dfiles.com/
+- BowFile — 20GB / 20 Days — https://bowfile.com/
+- ⁠TheUserCloud — 10GB / 60 Days — https://theuser.cloud/
+- Hexupload — or AnonTransfer - 15GB / 30 Days — https://hexload.com/ | AnonTransfer: https://anontransfer.com/
+- Tempcloud — 10GB / 3 Days — https://temp.kotol.cloud/
+- GrosFichiers — 10GB / 14 Days — https://www.grosfichiers.com/
+- FileFast — 5GB / Unlimited — https://file.fast/
+- Akira Box — , 2 - 20GB Free / 30 Days After Last Download — https://akirabox.com/ | 2: https://akirabox.to/
+- Imagenetz — 5GB / 30 Days After Last Download — https://www.imagenetz.de/?setLang=en
+- FilePort — 5GB / 7 Days — https://fileport.io/
+- MegaUp — 5GB / 30 Days — https://megaup.net/
+- uDrop — 5GB / Forever — https://www.udrop.com/
+- ⁠DataVaults — 5GB / 15GB / 7 Days After Last Download / Requires Sign-Up — https://datavaults.co/
+- Filegoat — 5GB / 90 Days After Last View — https://filego.at/
+- Bestfile — 5GB / 80 Days After Last Download — https://bestfile.io/
+- ufile.io — 5GB / 30 Days — https://ufile.io/
+- Internxt Send — 5GB / 15 Days — https://send.internxt.com/
+- ⁠JuiceBox — 15GB / 14 Days — https://box.juicey.dev/
+- UserDrive — 5GB / 65 Days — https://usersdrive.com/
+- pCloud Transfer — or Tresorit Send - 5GB / 7 Days / Requires Email — https://transfer.pcloud.com/ | Tresorit Send: https://send.tresorit.com/
+- Temp.sh — 4GB / 3 Days — https://temp.sh/
+- ⁠Mega4Upload — 3GB / 183GB / 150 Days After Last Download — https://mega4upload.net/
+- Workupload — 2GB / 90 Days — https://workupload.com/
+- Send — 2.5GB / 3 Days / 10 Downloads / CLI / Instances — https://send.vis.ee/ | CLI: https://github.com/timvisee/ffsend | Instances: https://gitlab.com/timvisee/send-instances
+- JUMBOmail — 2GB / 7 Days / Requires Email — https://www.jumbomail.me/
+- TransferSize — 50GB / 7 Days — https://www.transfersize.com/
+- KrakenFiles — 1GB / 3 Months on Sign-Up — https://krakenfiles.com/
+- DropMB — 512MB / 5 Years — https://dropmb.com/
+- ⁠Lufi — 2GB / 30 Days — https://upload.adminforge.de/
+- FileGo — 2GB / 30 Days / Requires Sign-Up — https://filego.app/
+- Lufi — 2GB / 30 Days — https://upload.disroot.org/
+- FilesPayouts — 10GB / Forever / Requires Sign-Up — https://filespayouts.com/
+- DooDrive — 2GB / 30 Days / Requires Sign-Up — https://doodrive.com/
+- Clicknupload — 10GB / 8 Days / Requires Sign-Up — https://clicknupload.click
+- Smash — 2GB / 7 Days / Requires Email — https://fromsmash.com/
+- MultiUp.io — Extract / Upload / or Mirrored.to - Multi Host Uploaders — https://multiup.io/ | Extract / Upload: https://github.com/Reddiepoint/MultiUp-Direct | Discord: https://discord.gg/2yUEQPxTTU | Mirrored.to: https://www.mirrored.to/
+- ⁠PolyUploader — or Z-o-o-m - Multi-Host Upload Desktop Apps — https://polyuploader.vercel.app/ | GitHub: https://github.com/spel987/PolyUploader | Z-o-o-m: https://z-o-o-m.eu/
+- DataNodes — Webmasters Only File Host / Use Adblocker — https://datanodes.to/ | Discord: https://discord.gg/mKyBMyeKvh
+- Limited Upload Hosts — More Hosts / 1GB or Below — https://rentry.org/xc48kg
+- ⁠Pearcrypt — File Link Containers — https://pearcrypt.lol/ | Discord: https://discord.com/invite/QrrryWKA6X
+
+> TIP Keep in mind that it's never a good idea to upload personal or confidential files to any file host, even if they claim to be encrypted. Most file hosts only remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Total Storage (x days w/ acc) / Max File Size / File Expiry (x days w/ acc) / Signup Requirements.
+### Cloud Storage
+- Eylenburg Comparisons — or ComparisonTabl.es - Compare Cloud Storage Sites — https://eylenburg.github.io/cloud_comparison.htm | ComparisonTabl.es: https://comparisontabl.es/cloud-storage/
+- Self-Hosted Cloud Storage — ️ Self-Hosted Cloud Storage — /linux-macos/#server-selfhosting
+- Google Drive — 5GB (15GB w / Phone) / 2 Years / ~$3.33 (5TB Google AI Pro) — https://drive.google.com/
+- MEGA — 20GB / 3 Months / ~$1.72 (20TB Pro III) — https://mega.io/ | GitHub: https://github.com/meganz
+- disk.yandex — 5GB / 2 Years / ~$2.61 (4TB Personal) — https://disk.yandex.com/
+- Filen — 10GB / 3 Months / ~$3.84 (10TB Pro X) / Requires Sign-Up for Sharing — https://filen.io/
+- Dropbox — 1 or 2GB / 12 Months / ~$4.15 (15TB Advanced) / Client — https://www.dropbox.com/ | Client: https://github.com/SamSchott/maestral
+- MediaFire — 10GB / 8 Months / ~$5.83 (1TB Pro) — https://www.mediafire.com/
+- icedrive — 10GB / 3 Months / ~$2.07 (6TB Pro Max) — https://icedrive.net/
+- pCloud — 10GB / 1 Year / ~$2.88 (10TB Ultra) — https://www.pcloud.com/
+- FEB — 10GB / 1 Month / ~$2.20 (1TB Personal) — https://www.febbox.com/
+- Keybase — 250GB / Forever — https://keybase.io/ | GitHub: https://github.com/keybase/client
+- Proton Drive — 5GB / 1 Year / ~$6.66 (3TB Workspace Premium) / / Note — https://proton.me/drive | Discord: https://discord.com/invite/proton | Note: https://proton.me/support/more-free-storage-existing-users
+- ⁠InfiniCLOUD — 20GB / 1 Year / ~$3.66 for 3TB — https://infini-cloud.net/en/
+- ⁠CryptFiles — 10GB / 1 Year / ~$9.24 (1-100TB Flexible) — https://cryptfiles.cloud/
+- JumpShare — 2GB / 1 Year / $5.33 (3TB Business) — https://jumpshare.com/
+- FileLu — 10GB / Forever / ~$3.13 for 40TB — https://filelu.com/
+- CyberFile — 10GB — https://cyberfile.me/
+- MrOwl — 10GB / ~$16.67 (1TB Premium Plus) — https://www.mrowl.com/
+- Blomp — 40GB / 1 Month / ~$1 for 10TB+ — https://www.blomp.com/
+- Backblaze B2 — 10GB / ~$6 — https://www.backblaze.com/cloud-storage/
+- Cloudflare R2 — 10GB / Forever / ~$15 — https://www.cloudflare.com/developer-platform/products/r2/
+- ⁠Tresorit — 3GB / Forever / 500 Per File / ~$6.94 (4TB Personal Pro) — https://tresorit.com/
+- 1Cloud File — 10GB — https://1cloudfile.com/
+- Fix-OneDrive-Zip — Fix OneDrive Zip Files >4GB — https://github.com/pmqs/Fix-OneDrive-Zip
+
+> TIP Free storage / Free account inactivity deletion / Cheapest USD/TB/month (Plan Name).
+### Cloud Managers
+- Rclone — Cloud Storage Manager / Guide / GUI / Colab / Transfer Tool — https://rclone.org/ | Guide: https://rentry.co/simple-rclone-usage | GUI: https://github.com/liriliri/rem | Colab: https://colab.research.google.com/github/szyha/RcloneLabArchive/blob/master/RcloneLab.ipynb | Transfer Tool: https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool | Telegram: https://t.me/rclonexbot
+- gclone — Cloud Storage Manager — https://github.com/dogbutcat/gclone
+- Air Explorer — Cloud Storage Manager — https://airexplorer.net/en/
+- RaiDrive — Cloud Storage Manager — https://www.raidrive.com/
+- Cyberduck — Libre Server / Cloud Storage Browser — https://cyberduck.io/ | GitHub: https://github.com/iterate-ch/cyberduck
+- SpaceDrive — Cloud Storage Manager — https://www.spacedrive.com/
+- OpenList — Cloud Storage Manager — https://github.com/OpenListTeam/OpenList
+- MultCloud — Cloud Storage Manager — https://www.multcloud.com/
+- xpipe — Remote File Manager — https://xpipe.io
+- FileStash — File Manager — https://www.filestash.app/ | GitHub: https://github.com/mickael-kerjean/filestash
+
+### Google Drive Tools
+- OneClickRun — Google Drive Tools / Use Throwaway Google Account — https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb
+- DriveUploader — Receive Files via Google Drive — https://driveuploader.com/
+- ZIP Extractor — Google Drive / Gmail File Archiver — https://zipextractor.app/
+- Google Drive CLI — Google Drive CLI Client — https://github.com/glotlabs/gdrive
+- goodls — Google Drive Downloader — https://github.com/tanaikech/goodls
+- gdrivedl — Google Drive Python Download Script — https://github.com/matthuisman/gdrivedl
+- ISAAC — Google Service Account Generators — https://rentry.co/FMHYB64#gservice-gen
+- goindex-extended — Themes or Google-Drive-Index - Google Drive Indexers — https://github.com/menukaonline/goindex-extended | Themes: https://install.kenci.workers.dev/ | Google-Drive-Index: https://gitlab.com/GoogleDriveIndex/Google-Drive-Index
+- gdurl — , GDrive Link Generator , Direct.GDrive , Maulvi or GDriveWebAppPublic - GDrive Link Generators / Host Direct Links — https://gdurl.com/ | GDrive Link Generator: https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/ | Direct.GDrive: https://direct.gdrive.vip/en/ | Maulvi: https://maulvi.github.io/ | GDriveWebAppPublic: https://github.com/CloudflareHackers/GDriveWebAppPublic
+- Google Drive Clone Bot — Copy Google Drives — https://jsmsj.github.io/GdriveCloneBot/ | GitHub: https://github.com/jsmsj/GdriveCloneBot
+- GD-EFC Link Encryptor — Google Drive Link Encryptor for GD-EFC — https://rekulous.github.io/gd-efc-encryptor/
+- DriveRename — Bulk Google Drive File Rename — https://driverename.iblogbox.com/
+- Sharer — Google Drive File Sharing — https://sharer.pw
+
+### MEGA Tools
+- Megabasterd — Download Quota Bypass — https://github.com/tonikelope/megabasterd
+- MEGA Account Generators — Account Gen / Unlimited Upload Size / Fix — https://rentry.co/FMHYB64#mega-gen | Fix: https://rentry.co/mega_account_generator
+- MEGA Desktop — Official GUI App — https://mega.io/desktop | GitHub: https://github.com/meganz/MEGAsync
+- MEGA CMD — Official CLI App — https://mega.io/cmd | GitHub: https://github.com/meganz/MEGAcmd

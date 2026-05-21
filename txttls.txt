@@ -1,0 +1,540 @@
+FMHY Text Tools Library
+Source: https://fmhy.net/text-tools
+
+Scraped from the FMHY Text Tools page.
+
+> Text Tools Text Editors, Pastebins, Fonts, Translators
+## Text Tools
+
+- Image to Text — ️ Image to Text — /image-tools/#image-to-text-ocr
+- Text to Speech — ️ Text to Speech — /ai/#text-to-speech
+- Study / Research — ️ Study / Research — /educational/#study-research
+- Data Visualization — ️ Data Visualization — /storage/#data-visualization-tools
+- SortMyList — , TextCleanr , Text Mechanic , TextFixer , OnlineTextTools , Convert Case , TextCleaner or The Alphabetizer - Organize / Format Text — https://sortmylist.com/ | TextCleanr: https://www.textcleanr.com/ | Text Mechanic: https://textmechanic.com/ | TextFixer: https://www.textfixer.com/ | OnlineTextTools: https://onlinetexttools.com/ | Convert Case: https://convertcase.net/ | TextCleaner: https://textcleaner.net/all-tools/ | The Alphabetizer: https://alphabetizer.flap.tv/
+- Goblin.tools — Transform Text with Spiciness Levels — https://goblin.tools/Formalizer/
+- OpenPaper — , papis , PaperMerge , Paperless-ngx / Doc Analyzer / , ⁠Docspell / , ⁠Papra or DataShare - Document Managers — https://openpaper.work/en/ | papis: https://github.com/papis/papis | PaperMerge: https://www.papermerge.com/ | Paperless-ngx: https://docs.paperless-ngx.com | Doc Analyzer: https://github.com/clusterzx/paperless-ai/ | GitHub: https://github.com/paperless-ngx/paperless-ngx | ⁠Docspell: https://docspell.org/ | GitHub: https://github.com/eikek/docspell | ⁠Papra: https://github.com/papra-hq/papra | DataShare: https://datashare.icij.org/
+- SmartDoc — Document Analyzer — https://killytoronto.github.io/textanalyzer/
+- Diffr — , Diffchecker , TextCompare , Text-Compare , OnlineTextCompare , CompareText or DiffNow - Compare Text — https://loilo.github.io/diffr/ | Diffchecker: https://www.diffchecker.com/ | TextCompare: https://www.textcompare.org/ | Text-Compare: https://text-compare.com/ | OnlineTextCompare: https://onlinetextcompare.com/ | CompareText: https://www.comparetext.io/ | DiffNow: https://www.diffnow.com/
+- Count Duplicates — or DuplicateWord - Count / Remove Duplicates in a List — https://www.somacon.com/p568.php | DuplicateWord: https://duplicateword.com/
+- WindowTextExtractor — Extract Text from Any Window — https://github.com/AlexanderPro/WindowTextExtractor
+- ⁠Unredact — PDF Redaction Text Recovery — https://github.com/leedrake5/unredact
+- Textify — Copy Text from Any Dialog — https://ramensoftware.com/textify
+- BeefText — Text Substitution Tool — https://beeftext.org/
+- ⁠Asciify — ASCII Character Reference — https://asciify.dev/
+- Scanner — or NAPS2 - Scanner Apps — https://simon-knuth.github.io/scanner/index | GitHub: https://github.com/simon-knuth/scanner | NAPS2: https://www.naps2.com/
+- Calligrapher.ai — , Text to Handwriting , texttohandwriting or HandWrittner - Text to Handwriting Converters — https://www.calligrapher.ai/ | Text to Handwriting: https://saurabhdaware.github.io/text-to-handwriting/ | texttohandwriting: https://texttohandwriting.com/ | HandWrittner: https://handwrittner.com/?lang=en
+- telescopictext — Write Text Within Text — https://www.telescopictext.org/
+- DocuSeal — Free Document Signing — https://www.docuseal.com/
+- TemplateLab — or FreePrintables - Free Document Templates — https://templatelab.com/ | FreePrintables: https://www.freeprintable.net/
+
+### Pastebins
+- GitHub Gists — or GitLab Snippets - Multi-Syntax / Requires Sign-Up — https://gist.github.com/ | GitLab Snippets: https://docs.gitlab.com/user/snippets/
+- pastes.dev — Multi-Syntax / Markdown Support — https://pastes.dev/ | GitHub: https://github.com/lucko/paste
+- PrivateBin — , NoteBin or ⁠ZeroBin - Markdown Support / Syntax Highlighting / Instances — https://privatebin.net/ | NoteBin: https://notebin.de/ | ⁠ZeroBin: https://www.zerobin.net/ | Instances: https://privatebin.info/directory | GitHub: https://github.com/PrivateBin/PrivateBin
+- Rentry — , 2 - Markdown Support / Custom URLs / CLI / Styling — https://rentry.co/ | 2: https://rentry.org/ | CLI: https://github.com/radude/rentry | Styling: https://rentry.co/rentryarchived
+- Markbox — , 2 - Markdown Support / Custom URLs — https://markbox.cc/ | 2: https://fluffle.cc/ | Source Code: https://git.0x8e.net/t/fluffle
+- Katbin — Plain Text — https://katb.in/ | GitHub: https://github.com/sphericalkat/katbin
+- Text.is — Markdown Support — https://text.is/
+- Yasosu — Multi-Syntax / Markdown Support — https://yaso.su/ | Telegram: https://t.me/yaso_updates
+- bpa.st — Multi-Syntax / Markdown Support — https://bpa.st/
+- snowbin — , 2 - Markdown Support — https://pastes.fmhy.net/ | 2: https://paste.fmhy.net/ | GitHub: https://github.com/fmhy/snowbin
+- ⁠Ghostbin — Multi-Syntax / Markdown Support — https://ghostbin.co/
+- cryptgeon — Single View / Plain Text — https://cryptgeon.org/ | GitHub: https://github.com/cupcakearmy/cryptgeon
+- pst.moe — Multi-Syntax / Markdown Support — https://pst.moe/
+- Pastee — Multi-Syntax / Markdown Support — https://pastee.dev/
+- Paste.to — Markdown Support — https://paste.to/
+- TxtBin — Markdown Support — https://txtbin.org/
+- dpaste.com — Multi-Syntax / Markdown Support — https://dpaste.com/
+- Paste — Multi-Syntax / Markdown Support — https://paste.boxlabs.uk/ | GitHub: https://github.com/boxlabss/PASTE
+- ⁠Codepasta — Multi-Syntax / Markdown Support — https://codepasta.app/
+- lesma — Multi-Syntax — https://lesma.eu/ | GitLab: https://gitlab.com/ogarcia/lesma
+- NoPaste — Multi-Syntax — https://nopaste.boris.sh/ | GitHub: https://github.com/bokub/nopaste
+- Pastebin.com — Multi-Syntax — https://pastebin.com/
+- pastemyst — Multi-Syntax — https://paste.myst.rs/ | GitHub: https://github.com/codemyst/pastemyst
+- CentOS Pastebin — Multi-Syntax — https://paste.centos.org/
+- snippet.host — Multi-Syntax — https://snippet.host/
+- ProtectedText — Multi-Tab — https://www.protectedtext.com/
+- ⁠Memochō — or bin - Minimal Pastebins — https://bin.kv2.dev/ | GitHub: https://github.com/SitiSchu/memocho | bin: https://basedbin.fly.dev/
+- txt.fyi — Markdown Pastebin — https://txt.fyi/
+- MarkdownPastebin — Markdown Support — https://markdownpastebin.com/
+- Sparked Paste — Plain Text / Syntax Highlighting — https://paste.sparked.host/
+- Riseup Pad — WYSIWYG Pastebin — https://pad.riseup.net/
+- itty.bitty — Site / Pastebin — https://itty.bitty.site/
+- Opengist — Self-Hosted Pastebin / GitHub Gists Alt / Demo — https://opengist.io/ | Demo: https://demo.opengist.io/ | Discord: https://discord.gg/9Pm3X5scZT
+
+### Translators
+- DeepL — Online AI-Based Translation — https://www.deepl.com/translator
+- Google Translate — Chrome Extension / - Online — https://translate.google.com/ | Chrome Extension: https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb | .onion: http://st.g4c3eya4clenolymqbpgwz3q3tawoxw56yhzk4vugqrl6dtu3ejvhjid.onion/
+- Kagi Translate — Online — https://translate.kagi.com/
+- Translate Web Pages — (firefox), Kagi Extension or Linguist Translator - Browser Extensions — https://github.com/FilipePS/Traduzir-paginas-web | Kagi Extension: https://translate.kagi.com/extension | Linguist Translator: https://github.com/translate-tools/linguist
+- r/Translator — Translation Request Community — https://www.reddit.com/r/translator/
+- ⁠Mozhi — Multi Translation Engine Frontend — https://codeberg.org/aryak/mozhi#instances
+- LibreTranslate — FOSS Translator / Self-Hosted / Offline — https://libretranslate.com/ | GitHub: https://github.com/LibreTranslate/LibreTranslate
+- Translate Shell — Translation CLI — https://www.soimort.org/translate-shell/ | GitHub: https://github.com/soimort/translate-shell
+- Bing Translator — Online — https://www.bing.com/translator
+- Yandex Translator — Online — https://translate.yandex.com/
+- Reverso — Online In-Context Translations — https://context.reverso.net/translation/
+- Nice Translator — Batch Multi-Language Translation — https://nicetranslator.com/
+- Translator++ — or Renpy Translator - CAT For Games — https://dreamsavior.net/ | Renpy Translator: https://github.com/anonymousException/renpy-translator
+- ⁠Translumo — Real-Time Translation Tool — https://github.com/ramjke/Translumo
+- Poedit — Software Translation — https://poedit.net/ | GitHub: https://github.com/vslavik/poedit
+- Morsecode World — Morse Code Translation Tools — https://morsecode.world/
+- Sign Translate — Text to Sign-Language Video Translator — https://sign.mt/
+- Text to Sign — Sign Language Translator — https://wecapable.com/tools/text-to-sign-language-converter/
+- ⁠Braille Tanslator — Braille Translator — https://wecapable.com/braille-translator/
+- LingoJam — Translator Creator — https://lingojam.com/
+
+> TIP AI Chatbots sometimes translate better than traditional translators, especially when it comes to languages with inherently different structures.
+### Audio Transcription
+- ASR Leaderboard — Speech to Text Leaderboard — https://huggingface.co/spaces/hf-audio/open_asr_leaderboard
+- Whisper — Audio Transcription / WebUI , 2 — https://github.com/openai/whisper | WebUI: https://huggingface.co/spaces/hf-audio/whisper-large-v3 | 2: https://ggml.ai/whisper.cpp/
+- SpeechTexter — , VoiceToText , ⁠Transcrisper , Dictation , oTranscribe or TalkTyper - Browser-Based Audio Transcription Tools — https://www.speechtexter.com/ | VoiceToText: https://voicetotext.org/ | ⁠Transcrisper: https://transcrisper.com/ | Dictation: https://dictation.io/speech | oTranscribe: https://otranscribe.com/ | TalkTyper: https://talktyper.com/
+- Revoldiv — or Turboscribe - AI-Based Transcriptions — https://revoldiv.com/ | Turboscribe: https://turboscribe.ai/
+- Vibe — Audio Transcription Software — https://thewh1teagle.github.io/vibe/
+- Buzz — Audio Transcription Tool — https://github.com/chidiwilliams/buzz
+- Handy — Audio Transcription Tool — https://handy.computer/ | Discord: https://discord.gg/WVBeWsNXK4 | GitHub: https://github.com/cjpais/Handy
+- ⁠TransPocket — Audio Transcription Tool — https://transpocket.com/
+- WhisperX — Audio Transcription Tool — https://github.com/m-bain/whisperX
+- Parakeet — Audio Transcription / HuggingFace — https://huggingface.co/spaces/nvidia/parakeet-tdt-0.6b-v2
+- SpeechNotes — Speech Recognition Notes App — https://speechnotes.co/
+- LilySpeech — Fast Voice-To-Text Software — https://lilyspeech.com/
+- VoiceNotebook — Speech Transcription Notebook — https://voicenotebook.com/
+
+### Encode / Decode
+- CyberChef — Encode / Decode Text — https://gchq.github.io/CyberChef/ | GitHub: https://github.com/gchq/CyberChef
+- Base64 Decode — or base64.run - Encode / Decode Base64 — https://www.base64decode.org/ | base64.run: https://base64.run/
+- Auto Decoder — Auto-Decode B64 Links on Pastebins — https://greasyfork.org/en/scripts/485772-fmhy-base64-auto-decoder
+- Online Tools — Text / URL Encoding and Decoding — https://emn178.github.io/online-tools/index.html
+- Ciphey — Automated Decryption Tool — https://github.com/Ciphey/Ciphey
+- Universal Encoding Tool — Encode / Convert Text — https://unenc.com/
+- cryptii — or DenCode - Text / URL Encoding — https://cryptii.com/ | DenCode: https://dencode.com/
+- Coder — Text / File / URL Encoding — https://www.den4b.com/tools/coder
+- URLDecode — or URL-Decode - URL Encoding / Decoding — https://www.urldecode.org/ | URL-Decode: https://url-decode.com/
+- SearchDecode — ⁠Base64 Search Decoder — https://github.com/bewf/SearchDecode
+- quipqiup — or dCode - Cryptogram Solvers — https://www.quipqiup.com/ | dCode: https://www.dcode.fr/en
+- StegCloak — Hide Messages in Text — https://stegcloak.surge.sh/
+- Base64 Repair — Fix Broken Base64 — https://base64.guru/tools/repair
+- Chrome — Base64 Extensions - Chrome / Firefox — https://chromewebstore.google.com/detail/base64-decode-copy/llcfmnginbnmkeddkjjellcimmffjdcf | Firefox: https://addons.mozilla.org/en-US/firefox/addon/base64-decoder/
+
+### Grammar Check
+- LanguageTool — Web App — https://languagetool.org/ | GitHub: https://github.com/languagetool-org/languagetool
+- QuillBot — Web App / Extension / Features — https://quillbot.com/grammar-check | Extension: https://chromewebstore.google.com/detail/quillbot-ai-writing-and-g/iidnbdjijdkbmajdffnidomddglmieko | Features: https://rentry.co/FMHYB64#quill
+- Grammarly — Web App / Extension — https://www.grammarly.com/grammar-check | Extension: https://www.grammarly.com/browser
+- Writing Tools — Desktop App - Requires Sign-Up — https://github.com/theJayTea/WritingTools
+- Harper — Web App / Extension — https://writewithharper.com/ | Discord: https://discord.com/invite/JBqcAaKrzQ | GitHub: https://github.com/automattic/harper
+- DeepL Write — Web App — https://www.deepl.com/write
+- ⁠Kagi Proofread — Web App — https://translate.kagi.com/proofread
+- Scribens — Web App — https://www.scribens.com/
+- EditGPT — Web App / Requires Sign-Up — https://www.editgpt.app/
+- ProWritingAid — Web App / Requires Sign-Up — https://prowritingaid.com/grammar-checker
+- Outwrite — Web App / Requires Sign-Up — https://www.outwrite.com/
+
+> TIP Most chatbots in the AI section can also check grammar.
+### Emoji Indexes
+- Emojipedia — , List of Emojis , EmojiDB , Slackmojis , Emoji Picker or ⁠Emoji Guide - Emoji Indexes — https://emojipedia.org/ | List of Emojis: https://en.wikipedia.org/wiki/List_of_emojis#Unicode_single_emoji | EmojiDB: https://emojidb.org/ | Slackmojis: https://slackmojis.com/ | Emoji Picker: https://github-emoji-picker.vercel.app/ | ⁠Emoji Guide: https://emojiguide.org/
+- Emoji Engine — Multilingual Emoji Search — https://www.emojiengine.com/
+- winMoji — Emoji Managers — https://www.winmoji.com/
+- EmojiRequests — Custom User-Made Emojis — https://emojirequest.com/
+- Cult of the Party Parrot — Party Parrot Emojis — https://cultofthepartyparrot.com/
+- Pepe Server Archive — Pepe Emojis — https://github.com/Overimagine1/pepe-server-archive
+- Emojify — Emojify Text — https://madelinemiller.dev/apps/emojify/
+
+### Unicode Characters
+- Amp What — https://www.amp-what.com/
+- Unicode Explorer — or Compart - Unicode Character Identification — https://unicode-explorer.com/ | Compart: https://www.compart.com/en/unicode
+- CopyChar — https://copychar.cc/
+- Unicode Table — https://symbl.cc/
+- Symbol.so — https://symbol.so/
+- Graphemica — https://graphemica.com/
+- SymbolSelect — https://www.symbolselect.com/
+- Character Map — https://github.com/character-map-uwp/Character-Map-UWP
+- Unifoundry — https://unifoundry.com/
+- Cool Symbol — https://coolsymbol.com/
+- emotes.io — , CuteSymbols , 2 or GetSymbol / 2 - Copy Unicode Emotes — https://emotes.io/ | CuteSymbols: https://www.cutesymbols.net/ | 2: https://www.textemoji.org/ | GetSymbol: https://www.getsymbol.net/ | 2: https://www.cute-kaomoji.com/
+
+### Typing Lessons
+- Monkeytype — Custom Touch Typing Tests — https://monkeytype.com/ | Discord: https://discord.com/invite/monkeytype | GitHub: https://github.com/monkeytypegame/monkeytype
+- keybr — Custom Touch Typing Practice — https://www.keybr.com/ | GitHub: https://github.com/aradzie/keybr.com
+- ⁠Layouts Wiki — Alt Typing Layouts Wiki — https://layouts.wiki/
+- Typing Guide — In-Depth Typing Guide — https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o
+- Typ.ing — , Typings , ⁠TypeGG / or typing.works - Typing Tests — https://typ.ing/ | Typings: https://typings.gg/ | ⁠TypeGG: https://typegg.io/ | Discord: https://discord.com/invite/64v955z | typing.works: https://typing.works/
+- Typing.com — Touch Typing Lessons — https://www.typing.com/
+- Typing Club — Touch Typing Lessons — https://www.typingclub.com/
+- typing.academy — Typing Lessons / Requires JavaScript Enabled — https://www.typing.academy/
+- TypeRacer — , ZType , TypeRush or ARRRType - Typing Games — https://play.typeracer.com/ | ZType: https://zty.pe/ | TypeRush: https://www.typerush.com/ | ARRRType: https://www.arrrtype.com/
+- NGram Type — , KeyZen MAB or Keyzen Colmak - Touch Typing Tests — https://ranelpadon.github.io/ngram-type/ | KeyZen MAB: https://adamgradzki.com/keyzen-mab/ | Keyzen Colmak: https://ranelpadon.github.io/keyzen-colemak-dh/
+- ⁠Typersguild — , TypeLit.io or Entertrained - Book Typing Tests — https://typersguild.com/ | TypeLit.io: https://www.typelit.io/ | Entertrained: https://entertrained.app/
+- TypingStudy — or TypeFast - Multilingual Touch Typing Tests — https://www.typingstudy.com/ | TypeFast: https://typefast.io/
+- 10fastfingers — Typing Competitions — https://10fastfingers.com/
+
+## Text Editors
+
+- List of Text Editors — Text Editor / Notepad Index — https://wikipedia.org/wiki/List_of_text_editors
+- ⁠TextEditors — Text Editor Index + Reviews — http://texteditors.org/
+- Android Text Editor — ️ Android Text Editor — /mobile/#android-text-tools
+- Code Editors / IDEs — ️ Code Editors / IDEs — /developer-tools/#ides-code-editors
+- Notepad++ — Notepad & Code Editor — https://notepad-plus-plus.org/ | GitHub: https://github.com/notepad-plus-plus/notepad-plus-plus
+- NotepadNext — Notepad & Code Editor — https://github.com/dail8859/NotepadNext
+- EncryptPad — Encrypted Text Editor — https://evpo.net/encryptpad/ | GitHub: https://github.com/evpo/EncryptPad
+- Notepads — Text Editor — https://www.notepadsapp.com/ | GitHub: https://github.com/0x7c13/Notepads
+- FastNotes — Text Editor — https://fastedit.frozenassassine.de/ | GitHub: https://github.com/FrozenAssassine/Fastedit
+- Kompad — Text Editor / Web Based — https://github.com/hudy9x/kompad
+- Sublime Text — Text Editor / / Package Manager — https://www.sublimetext.com/ | Package Manager: https://packagecontrol.io/
+- Zim Wiki — Wiki Text Editor — https://zim-wiki.org/
+- tomboy-ng — TomBoy-Based Text Editor — https://github.com/tomboy-notes/tomboy-ng
+- SciTE — Text Editor — https://www.scintilla.org/SciTE.html
+
+### Note-Taking
+- Android Note-Taking — ️ Android Note-Taking — /mobile/#android-text-tools
+- Obsidian — Markdown Note-Taking / All Platforms — https://obsidian.md/ | Discord: https://discord.gg/obsidianmd
+- Publish Notes — Obsidian Tools - Publish Notes / Web Clipper / Google Drive Sync / Guides / Forum — https://dg-docs.ole.dev/ | Web Clipper: https://github.com/obsidianmd/obsidian-clipper | Google Drive Sync: https://github.com/stravo1/obsidian-gdrive-sync | Guides: https://help.obsidian.md/Home | Forum: https://forum.obsidian.md/
+- AnyType — Note-Taking / E2EE / All Platforms — https://anytype.io/ | Telegram: https://t.me/anytype | GitHub: https://github.com/anyproto/anytype-ts
+- AppFlowy — Note-Taking / All Platforms + — https://appflowy.com/ | Discord: https://discord.com/invite/appflowy-903549834160635914 | GitHub: https://github.com/AppFlowy-IO
+- Logseq — Outlining / All Platforms — https://logseq.com/ | Discord: https://discord.com/invite/VNfUaTtdFb | GitHub: https://github.com/logseq/logseq
+- Notesnook — Note-Taking / E2EE / All Platforms + — https://notesnook.com/ | Discord: https://discord.com/invite/zQBK97EE22 | GitHub: https://github.com/streetwriters/notesnook
+- Simplenote — Note-Taking / All Platforms — https://simplenote.com/ | GitHub: https://github.com/Automattic/simplenote-electron
+- AFFiNE — Note-Taking / All Platforms + — https://affine.pro/ | GitHub: https://github.com/toeverything/AFFiNE
+- Notion — Note-Taking / All Platforms + — https://www.notion.com/
+- Resources — Notion Tools - Resources , 2 / Guide / Markdown Extractor / Web Clipper — https://www.notioneverything.com/notion-world | 2: https://chief-ease-8ab.notion.site/List-of-200-Notion-Resources-e1b46cd365094265bd47b8a2b25bb41e | Guide: https://easlo.notion.site/Notion-Beginner-to-Advanced-8a492960b049433289c4a8d362204d20 | Markdown Extractor: https://notionconvert.com/ | Web Clipper: https://www.notion.com/web-clipper
+- Lokus — Markdown Note-Taking — https://www.lokusmd.com/ | GitHub: https://github.com/lokus-ai/lokus
+- Trilium — Info Manager — https://github.com/TriliumNext/Trilium
+- Mochi Cards — Note-Taking / Study Tools / All Platforms — https://mochi.cards/
+- Silicon — Note-Taking / Self-Hosted — https://github.com/cu/silicon
+- Flotes — Markdown Note-Taking — https://flotes.app/
+- QOwnNotes — Markdown Note-Taking — https://www.qownnotes.org/
+- vNote — Markdown Note-Taking — https://app.vnote.fun/en_us/ | GitHub: https://github.com/vnotex/vnote
+- Tiddly — Info Manager / / Desktop — https://tiddlywiki.com/ | Desktop: https://github.com/tiddly-gittly/TidGi-Desktop
+- Org-roam — Info Manager / Self-Hosted — https://www.orgroam.com/ | GitHub: https://github.com/org-roam/org-roam
+- Desklamp — Reading / Note-Taking / Highlighting Tool / / Guide — https://desklamp.io/ | Guide: https://app.desklamp.io/read?id=46b203c6-d8df-453d-b546-95a8fa7a44b9&mode=explore
+- Memos — Note-Taking / Self-Hosted — https://usememos.com/ | Discord: https://discord.gg/tfPJa4UmAv | GitHub: https://github.com/usememos/memos
+- Papers.IM — Note-Taking — https://papers.im/
+- Joplin — Note-Taking / All Platforms / Firefox / Chrome — https://joplinapp.org/ | Firefox: https://addons.mozilla.org/en-US/firefox/addon/joplin-web-clipper/ | Chrome: https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?hl=en-GB | Discord: https://discord.com/invite/d2HMPwE | GitHub: https://github.com/laurent22/joplin
+- MicroPad — Note-Taking / / Web — https://getmicropad.com/ | Web: https://web.getmicropad.com/
+- WriteDown — Note-Taking — https://writedown.app/ | GitHub: https://github.com/NayamAmarshe/writedown
+- DocMost — Note-Taking / Self-Hosted — https://docmost.com/ | GitHub: https://github.com/docmost/docmost
+- KeyNote NF — Note-Taking / E2EE — https://github.com/dpradov/keynote-nf
+- SilentNotes — Note-Taking / E2EE — https://www.martinstoeckli.ch/silentnotes/ | GitHub: https://github.com/martinstoeckli/SilentNotes
+- Google Keep — Simple Notes / / Chrome — https://keep.google.com/ | Chrome: https://chromewebstore.google.com/detail/google-keep-chrome-extens/lpcaedmchfhocbbapmcbpinfpgnhiddi
+- ⁠Crypt.ee — Encrypted Notes / E2EE / All Platforms — https://crypt.ee/
+- Standard Notes — Encrypted Notes / E2EE / All Platforms / Web — https://standardnotes.com/ | Web: https://app.standardnotes.com/ | Discord: https://discord.com/invite/9VNW3kK554 | GitHub: https://github.com/standardnotes/app
+- Saber — Handwritten Notes / All Platforms — https://saber.adil.hanney.org/ | GitHub: https://github.com/saber-notes/saber
+- Butterfly — Handwritten Notes / All Platforms — https://butterfly.linwood.dev/ | Discord: https://discord.com/invite/97zFtYN | GitHub: https://github.com/LinwoodDev/Butterfly
+- Xournal++ — Handwritten Notes — https://xournalpp.github.io/ | GitHub: https://github.com/xournalpp/xournalpp
+- BookStack — , NoteDiscovery / or Siyuan / - Self-Hosted Info Managers — https://www.bookstackapp.com/ | GitHub: https://github.com/BookStackApp/BookStack | NoteDiscovery: https://www.notediscovery.com/ | GitHub: https://github.com/gamosoft/NoteDiscovery/ | Siyuan: https://b3log.org/siyuan/en | GitHub: https://github.com/siyuan-note/siyuan
+
+### Office Suites
+- Office Activation — ️ Office Activation / Custom Install Guide — /system-tools/#windows-activation | Custom Install Guide: https://massgrave.dev/office_c2r_custom
+- LibreOffice — FOSS Office Suite — https://www.libreoffice.org/
+- OnlyOffice — Office Suite — https://www.onlyoffice.com/
+- Microsoft Office — Linux - Office Suite / Hotkeys / Removal Tool , 2 , 3 — https://massgrave.dev/office_c2r_links | Linux: https://gist.github.com/eylenburg/38e5da371b7fedc0662198efc66be57b | Hotkeys: https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-microsoft-365-e765366f-24fc-4054-870d-39b214f223fd | Removal Tool: https://github.com/abbodi1406/WHD/blob/master/scripts/OfficeScrubber_14.zip | 2: https://gitlab.com/stdout12/batutil/-/tree/master/OfficeScrubber | 3: https://codeberg.org/stdout12/BatUtil/src/branch/master/OfficeScrubber
+- Calligra — FOSS Office Suite — https://calligra.org/
+- Ziziyi — Online Office Suite — https://office.ziziyi.com/ | GitHub: https://github.com/baotlake/office-website
+- Office365Version — Office 365 Version History — https://www.office365versions.com/
+
+### Online Editors
+- Proton Docs — Local / Cloud Saves — https://proton.me/drive/docs | Discord: https://discord.com/invite/proton
+- Zen — Local Saves — https://zen.unit.ms/
+- Leaflet — Cloud Saves / Customizable / Examples — https://leaflet.pub/ | Examples: https://leaflet.pub/bfed2569-f9c0-4c2a-a281-9f57bc372082
+- Browserpad — Local Saves — https://browserpad.org/
+- Online Notepad — Local Saves — https://onlinenotep.ad
+- Notepad — Local Saves — https://notepad.js.org/
+- onlinenotepad — Local Saves — https://onlinenotepad.org/
+- notepad-online.net — Local Saves — https://notepad-online.net/
+- ssavr — Local Saves — https://www.ssavr.com/
+- notepad-online.com — Local Saves — https://notepad-online.com/
+- JustNotePad — Local Saves — https://justnotepad.com/
+- NotesOnline — Local Saves — https://notesonline.org/
+- PasteePad — Local Saves — https://pasteepad.com/
+- Notes — Local / Cloud Saves — https://notes.xtra.wtf/
+- Shrib — Local / Cloud Saves — https://shrib.com/
+- MemOnNotepad — Local / Cloud Saves — https://www.memonotepad.com/
+- Write Box — Local / Cloud Saves — https://write-box.appspot.com/
+- dDocs — Cloud Saves — https://docs.fileverse.io/
+- NimbleText — Cloud Saves — https://nimbletext.com/Live
+- ZippyJot — Cloud Saves — https://www.zippyjot.com/
+- KiloDoc — Cloud Saves — https://www.kilodoc.com/
+- TinyList — Cloud Saves — https://tinylist.app/
+- TextSlave — Cloud Saves — https://www.textslave.com/
+- GhostText — Cloud Saves — https://ghosttext.fregante.com/
+- AnyTextEditor — Cloud Saves — https://anytexteditor.com/
+
+### Mind Mapping
+- Obsidian Canvas — https://obsidian.md/canvas
+- FreeMind — https://freemind.sourceforge.net/
+- Kinopio — https://kinopio.club/
+- Freeplane — https://github.com/freeplane/freeplane
+- Mindomo — https://www.mindomo.com/
+- Yuque — https://www.yuque.com/
+- MindMapp — https://mindmapp.cedoor.dev/app
+- are.na — https://www.are.na/
+- Domino — https://kool.tools/domino
+- GitMind — https://gitmind.com/
+- xTiles — https://xtiles.app/en
+- Capacities — https://capacities.io/
+- bubbl — https://bubbl.us/
+- Heimer — https://github.com/juzzlin/Heimer
+- Cubox — https://cubox.cc/
+- vym — https://github.com/insilmaril/vym
+- ⁠Tangent — Markdown Mind Mapping — https://www.tangentnotes.com/ | Discord: https://discord.gg/6VpvhUnxFe | GitHub: https://github.com/suchnsuch/Tangent
+- markmap — Markdown Mind Mapping — https://markmap.js.org/ | GitHub: https://github.com/markmap/markmap
+- Coggle — Collaborative — https://coggle.it/
+- CardSmith — Collaborative Mind Mapping — https://cardsmith.co/
+- MindMeister — Collaborative Mind Mapping — https://www.mindmeister.com/
+- Slatebox — Collaborative Mind Mapping — https://slatebox.com/
+
+### Text / Code Collaboration
+- Google Docs — HTML Converter / Templates — https://www.google.com/docs/about/ | HTML Converter: https://github.com/evbacher/gd2md-html | Templates: https://gdoc.io/
+- CryptPad — https://cryptpad.fr/
+- Mattermost — https://mattermost.com/
+- Codeshare — https://codeshare.io/
+- HackMD — https://hackmd.io/
+- Taskade — https://www.taskade.com/
+- Socket — https://socket.io/
+- Whimsical — https://whimsical.com/
+- Ellipsus — https://ellipsus.com/
+- Etherpad — https://etherpad.org/
+- SharePad — https://sharepad.io/
+- Pixso — https://pixso.net/
+- FidusWriter — https://www.fiduswriter.org/
+- Overleaf — https://www.overleaf.com/
+- Typst — Resources — https://typst.app/home | Resources: https://github.com/qjcg/awesome-typst | GitHub: https://github.com/typst/typst
+- Rustpad — https://rustpad.io | GitHub: https://github.com/ekzhang/rustpad
+- OnlineInterview.io — https://onlineinterview.io/
+
+### Spreadsheet Editors
+- MTEB Leaderboard — Text Embedding AI Leaderboard — https://huggingface.co/spaces/mteb/leaderboard
+- ⁠QSV — or Xan - CSV CLI Toolkits — https://github.com/dathere/qsv | Xan: https://github.com/medialab/xan
+- ⁠Proton Sheets — , ⁠dSheets or EditCSVOnline - Online Spreadsheet Viewers / CSV Editors — https://proton.me/drive/sheets | Discord: https://discord.com/invite/proton | ⁠dSheets: https://sheets.fileverse.io/ | EditCSVOnline: https://www.editcsvonline.com/
+- tad — , Tree Sheets , VisiData , Gnumeric or Quadratic - Spreadsheet Viewers / CSV Editors — https://github.com/antonycourtney/tad | Tree Sheets: https://strlen.com/treesheets/ | VisiData: https://www.visidata.org/ | Gnumeric: https://gnome.pages.gitlab.gnome.org/gnumeric-web/ | Quadratic: https://www.quadratichq.com/
+- Framacalc — or EtherCalc / - Collaborative Spreadsheets — https://framacalc.org/ | EtherCalc: https://ethercalc.net/ | GitHub: https://github.com/audreyt/ethercalc
+- Jamovi — Statistical Spreadsheets — https://www.jamovi.org/
+- ⁠Excel Easy — Excel / Spreadsheet Guide — https://www.excel-easy.com/
+- Excel Macro Mastery — Excel VBA Guides — https://excelmacromastery.com/vba-articles/
+- ExcelJet — or Excel Functions - Excel Formulas — https://exceljet.net/formulas | Excel Functions: https://www.excelfunctions.net/
+- Vertex42 — Excel Templates — https://www.vertex42.com/
+- Plain Text Table — Text Tables — https://plaintexttools.github.io/plain-text-table/
+- SubjectiveSort — Create Ranked List from CSV — https://wiesenthal.github.io/SubjectiveSort/
+- Structifi — Convert Files to Structured Data — https://structifi.com/
+- TadViewer — View / Analyze Tabular Data — https://www.tadviewer.com/
+
+### Writing Tools
+- AI Writing Tools — ️ AI Writing Tools — /ai/#ai-writing-tools
+- RPG / Fantasy Writing Tools — ️ RPG / Fantasy Writing Tools — /gaming-tools/#rpg-worldbuilding
+- Writer — , FocusWriter , Writemonkey , blank.page , Telegra.ph , Aurelius , ZenPen , Write.as , Owri , WriteSpace or WriteNext - Distraction-Free Writing — https://www.gibney.org/writer | FocusWriter: https://gottcode.org/focuswriter/ | Writemonkey: https://writemonkey.com/ | blank.page: https://blank.page/ | Telegra.ph: https://telegra.ph/ | Aurelius: https://aurelius.ink | ZenPen: https://zenpen.io/ | Write.as: https://write.as/ | Owri: https://owri.netlify.app/ | WriteSpace: https://www.writespace.app/ | WriteNext: https://www.writenext.io/
+- Manuskript — Writing Organizer / Planner — https://www.theologeek.ch/manuskript/
+- NovelWriter — or Bibisco - Novel Editors — https://novelwriter.io/ | Bibisco: https://bibisco.com/
+- Linked — , journaltxt , Gekri , Microsoft Journal , Diarium or jrnl.sh - Journal Apps — https://uselinked.com/ | journaltxt: https://journaltxt.github.io/ | Gekri: https://gekri.com/ | Microsoft Journal: https://www.microsoft.com/en-us/garage/profiles/journal/ | Diarium: https://diariumapp.com/ | jrnl.sh: https://jrnl.sh/
+- ⁠Heavyweight — Generate Important-Looking Letters — https://heavyweight.cc/
+- Tuesday JS — Visual Novel Editor — https://kirill-live.itch.io/tuesday-js | GitHub: https://github.com/Kirilllive/tuesday-js
+- RenPy — Visual Novel Editor — https://www.renpy.org/ | GitHub: https://github.com/renpy/renpy
+- Fortelling — or Novelist - Novel Plotting / Editing Workspaces — https://www.fortelling.app/ | Novelist: https://beta.novelist.app
+- Infinite Story — , Strand , Agora or WriteAlong - Collaborative Writing / Feedback — https://infinite-story.com/ | Strand: https://strand.jinay.dev/ | Agora: https://www.agorawriter.com/ | WriteAlong: https://www.writealong.io/
+- Gateway Forge — Modules / or Chronicler / / - Worldbuilding / Story Writing Apps — https://gatewayforge.com/ | Modules: https://gatewayforge.com/resources | Discord: https://discord.gg/c3PEQxxKfn | Chronicler: https://chronicler.pro/ | Discord: https://discord.gg/cXJwcbe2b7 | GitHub: https://github.com/mak-kirkland/chronicler
+- LanguageIsAVirus — or MDWA - Writing Prompts — https://www.languageisavirus.com/ | MDWA: https://www.squibler.io/dangerous-writing-prompt-app
+- Twinery — Interactive Non-Linear Story Creator — https://twinery.org/
+- TextUSM — User Story Map Generator — https://textusm.com/ | GitHub: https://github.com/harehare/textusm
+- Idyll — Create Interactive Essays — https://idyll-lang.org/editor | GitHub: https://github.com/idyll-lang/idyll
+- STARC — , WriteSolo or Celtx - Script / Screen Writing Tools — https://starc.app/ | WriteSolo: https://www.writersolo.com/ | Celtx: https://www.celtx.com/
+- Rarebit — Webcomics Template — https://rarebit.neocities.org/
+- PolyGlot — or VulgarLang - Spoken Language Construction Tools — https://draquet.github.io/PolyGlot/ | VulgarLang: https://www.vulgarlang.com/
+- How to annotate literally everything — Annotation Tools / Resources — https://beepb00p.xyz/annotating.html
+- Label Buddy — Annotation Tool — https://jeromedockes.github.io/labelbuddy/labelbuddy/current/ | GitHub: https://github.com/jeromedockes/labelbuddy
+- rNote — Annotation Tool — https://rnote.flxzt.net/ | GitHub: https://github.com/flxzt/rnote
+- MonsterWriter — Thesis Writing / Note-Taking — https://www.monsterwriter.com/
+
+### To Do Lists
+- Android To-Do Apps — ️ Android To-Do Apps — /mobile/#to-do-apps
+- Calendars / Events — ️ Calendars / Events — /misc/#calendars-events
+- Goblin.tools — Automatic Task Breakdown — https://goblin.tools/ToDo
+- TickTick — Features (search) — https://www.ticktick.com/ | Features: /linux-macos/#software-sites-1
+- Super Productivity — https://super-productivity.com/
+- Columns — Checklists — https://columns.app/
+- YearCompass — New Years Resolution Booklet — https://yearcompass.com/
+- daily.place — https://www.daily.place/
+- SuperList — https://www.superlist.com/
+- dooit — Extras — https://github.com/dooit-org/dooit | Extras: https://github.com/dooit-org/dooit-extras
+- ToDo List — https://www.abstractspoon.com/ | GitHub: https://github.com/abstractspoon
+- Diry AI — https://www.diry.ai/
+- Fokus — https://fokus-website.netlify.app/
+- OpenToDoList — https://gitlab.com/rpdev/opentodolist
+- Microsoft To Do — https://to-do.office.com/
+- NullBoard — https://github.com/apankrat/nullboard
+- LunaTask — https://lunatask.app/
+- ToDoZero — https://todozero.com/
+- LifeAt — https://lifeat.io/
+- Tasks — https://github.com/BaldissaraMatheus/Tasks.md
+- Taskwarrior — https://taskwarrior.org/
+- Vikunja — Self-Hosted — https://vikunja.io/
+
+### ASCII Art
+- TAAG — , DeepAA , Kammerl , ASCII Art Studio or ASCII Today - ASCII Art / Text Generators — https://patorjk.com/software/taag/ | DeepAA: https://github.com/OsciiArt/DeepAA | Kammerl: https://www.kammerl.de/ascii/AsciiSignature.php | ASCII Art Studio: https://www.majorgeeks.com/files/details/ascii_art_studio.html | ASCII Today: https://ascii.today/
+- REXPaint — , Asciistrator , ASCII Sketch , Playscii , ⁠Monosketch or PabloDraw - ASCII Editors / Drawing — https://www.gridsagegames.com/rexpaint/ | Asciistrator: https://wieslawsoltes.github.io/Asciistrator/ | ASCII Sketch: https://files.littlebird.com.au/ascii-sketch.html | Playscii: https://jp.itch.io/playscii | ⁠Monosketch: https://monosketch.io/ | PabloDraw: https://picoe.ca/products/pablodraw/
+- ASCII Paint — , ⁠TextPaint or ⁠ASCII Blaster , 2 / - ASCII Paint Tools — https://ascii.alienmelon.com/ | ⁠TextPaint: https://textpaint.com/ | ⁠ASCII Blaster: https://asdf.us/asciiblaster/ | 2: https://ircart.github.io/asciiblaster/ | GitHub: https://github.com/ircart/asciiblaster
+- ⁠shabzefilters — , ascii-art-generator , asciiart , ascii-image-converter , Monospace , ITOA , text-image or ASCII-art-creator - Image to ASCII Art — https://shabzefilters.netlify.app/ | ascii-art-generator: https://www.ascii-art-generator.org/ | asciiart: https://asciiart.club/ | ascii-image-converter: https://github.com/TheZoraiz/ascii-image-converter | Monospace: https://codepen.io/Mikhail-Bespalov/pen/JoPqYrz | ITOA: https://itoa.hex.dance/ | text-image: https://www.text-image.com/ | ASCII-art-creator: https://github.com/CherryPill/ASCII-art-creator
+- Love ASCII — , asciiart.eu , EmojiCombos , 16colors , ascii.co or RoySAC - Browse / Copy ASCII Art — http://loveascii.com/ | asciiart.eu: https://www.asciiart.eu/ | EmojiCombos: https://emojicombos.com/ | 16colors: https://16colo.rs/ | ascii.co: https://ascii.co.uk/art | RoySAC: https://www.roysac.com/sitemap.html
+- Image to Braille — Convert Images to Braille — https://505e06b2.github.io/Image-to-Braille/
+- AnsiLove — or convert-ascii-to-image - ANSI / ASCII Art to PNG Converters — https://www.ansilove.org/downloads.html | convert-ascii-to-image: https://onlinetools.com/ascii/convert-ascii-to-image
+- lvllvl — or Petmate - C64 PETSCII Image Editor — https://lvllvl.com/ | Petmate: https://nurpax.github.io/petmate/
+
+## Markup Tools
+
+- HTML Tools — ️ HTML Tools — /developer-tools/#html
+- Markdown Guide — Guide for Markdown (.md) — https://www.markdownguide.org/
+- generatedata.com — Generate Test Data in Markup Formats — https://generatedata.com/
+- markup.rocks — Online Markup Editor — https://markup.rocks/
+- Markup Validation Service — Validate Your Markup Language Structure — https://validator.w3.org/
+- YAMLine — Online YAML Tools / Converters — https://yamline.com/
+- yq — Portable YAML Processor — https://mikefarah.gitbook.io/yq/ | GitHub: https://github.com/mikefarah/yq
+- readme.so — Create README.md Files — https://readme.so/
+- Tableconvert — Markdown / Code Converter — https://tableconvert.com/
+- Linkspector — Check Markdown Files for Dead Links — https://github.com/UmbrellaDocs/action-linkspector
+- Table Magic — Table to Markdown Converters — https://stevecat.net/table-magic/
+- Clipboard2Markdown — Text to Markdown Converter — https://euangoddard.github.io/clipboard2markdown/
+- gd2md-html — Convert Google Doc to Markdown — https://github.com/evbacher/gd2md-html
+- MarkItDown — or GetMarkdown - File to Markdown Converter — https://github.com/microsoft/markitdown | GetMarkdown: https://www.getmarkdown.com/
+- Quartz — , Perlite or FlowerShow - Publish Markdown — https://quartz.jzhao.xyz/ | Perlite: https://perlite.secure77.de/ | FlowerShow: https://flowershow.app/
+- Markdown Tutorial — Interactive Markdown Tutorial — https://www.markdowntutorial.com/
+- emoji-cheat-sheet — Emoji Markdown Cheatsheet — https://github.com/ikatyang/emoji-cheat-sheet
+
+### Markdown Editors
+- MarkD — https://markd.it/ | GitHub: https://github.com/itzcozi/markd/
+- HedgeDoc — https://hedgedoc.org/
+- ⁠Markdown Monster — https://markdownmonster.west-wind.com/ | GitHub: https://github.com/RickStrahl/MarkdownMonster
+- Zettlr — https://www.zettlr.com/ | GitHub: https://github.com/Zettlr/Zettlr
+- Dillinger — https://dillinger.io/
+- MarkdownTools — https://www.markdowntools.com/
+- MarkLiveEdit — https://markdownlivepreview.dev/
+- Glow — https://github.com/charmbracelet/glow
+- MarkdownLivePreview — https://markdownlivepreview.com/
+- Vrite — https://editor.vrite.io/
+- MindForger — https://www.mindforger.com/
+- ⁠Markpad — Lightweight / Minimal — https://markpad.sftwr.dev/ | GitHub: https://github.com/alecdotdev/Markpad
+
+### LaTeX Tools
+- Typst — LaTeX Alternative / Resources — https://typst.app/home | Resources: https://github.com/qjcg/awesome-typst | GitHub: https://github.com/typst/typst
+- Overleaf — , LyX or TeXStudio - LaTeX Editors — https://www.overleaf.com/ | LyX: https://www.lyx.org/ | TeXStudio: https://texstudio.org/
+- ⁠MathCheap — or ⁠Prism / - AI-Powered LaTeX Editors — https://mathcheap.xyz/ | Discord: https://discord.gg/Q4chBVDFvK | ⁠Prism: https://prism.openai.com/ | Discord: https://discord.com/invite/ffMZrSxUQa
+- ⁠SimpleTex — Convert Images to LaTeX / Markdown — https://simpletex.cn/
+- Learn LaTeX — LaTeX Guide — https://www.learnlatex.org/
+- Tables Generator — Create LaTeX Tables — https://www.tablesgenerator.com/
+- LaTeX-OCR — Extract Mathematical Expressions — https://lukas-blecher.github.io/LaTeX-OCR/
+- Detexify — Character Recognition — https://detexify.kirelabs.org/classify.html
+
+## Fonts
+
+- Nerd Fonts — Icon-Rich Developer / Terminal Fonts — https://www.nerdfonts.com/
+- OpenDyslexic — Typeface for Dyslexia — https://opendyslexic.org/
+- Typewolf — or Typ.io - Trending Website Fonts — https://www.typewolf.com/ | Typ.io: https://typ.io/
+- Cava's Pixel Resources — Pixel Fonts — https://caveras.net/
+- Oldschool PC Fonts — Oldschool PC Fonts — https://int10h.org/oldschool-pc-fonts/
+- FiraCode — , Cascadia Code or Maple Font - Monospace Fonts — https://github.com/tonsky/FiraCode | Cascadia Code: https://github.com/microsoft/cascadia-code | Maple Font: https://github.com/subframe7536/Maple-font
+
+### Open Source / Freeware
+- FontSource — Open Source — https://fontsource.org/
+- Font Squirrel — Commercial Use — https://www.fontsquirrel.com/
+- DaFont — Freeware — https://www.dafont.com/
+- 1001 Fonts — Freeware — https://www.1001fonts.com/
+- Modern Fonts Stacks — Collection of CSS System Font Stacks — https://modernfontstacks.com/
+- Velvetyne — Open Source — https://velvetyne.fr/
+- uncut.wtf — Open Source — https://uncut.wtf/
+- Beautiful Web Type — Open Source — https://beautifulwebtype.com/
+- FontRepo — Open Source — https://www.fontrepo.com/
+- Bunny Fonts — Open Source — https://fonts.bunny.net/
+- Google Fonts — Commercial Use / Self-Host / Privacy-Friendly API — https://fonts.google.com/ | Self-Host: https://gwfh.mranftl.com/fonts | Privacy-Friendly API: https://fonts.coollabs.io/
+- FontShare — Commercial Use — https://fontshare.com/
+- OnlineWebFonts — Commercial Use — https://www.onlinewebfonts.com/
+- Fontlot — Freeware — https://fontlot.com/
+- Fontsly — Freeware — https://fontsly.com/
+- FOSSFonts — Freeware — https://fossfonts.com/
+- Fonts4Free — Freeware — https://www.fonts4free.net/
+- FontSpace — Freeware — https://www.fontspace.com/
+- Online Fonts — Freeware — https://online-fonts.com/
+- CDNFonts — Freeware — https://www.cdnfonts.com/
+- Fontesk — Freeware — https://fontesk.com/
+- FontStruct — Freeware — https://fontstruct.com/
+- iFonts — Freeware — https://ifonts.xyz/
+- DownloadFonts — Freeware — https://www.downloadfonts.io/
+- AbstractFonts — Freeware — https://www.abstractfonts.com/
+- FontGet — Freeware — https://www.fontget.com/
+- FreeFontsDownload — Freeware — https://freefontsdownload.net/
+- Fonts2u — Freeware — https://fonts2u.com/
+- Awwwards — Freeware — https://www.awwwards.com/awwwards/collections/free-fonts/
+- GlukFonts — Freeware — https://www.glukfonts.pl/fonts.php
+- Iconian — Freeware — https://www.iconian.com/
+
+### Free Fonts
+- Fonts CSE — Multi-Site Font Search — https://cse.google.com/cse?cx=82154ebab193e493d
+- Font Piracy 101 — Font Download Guide — https://gist.github.com/Overimagine1/9f32e11b4c770fcd33374ad936a57d90
+- wFonts — https://wfonts.com/
+- BeFonts — https://befonts.com/
+- Free Fonts Family — https://freefontsfamily.org/
+- Cufon Fonts — https://www.cufonfonts.com/
+- FontsFree — https://fontsfree.net
+- DFonts — https://www.dfonts.org/
+- ⁠Font.Download — https://font.download/
+- ⁠dafont.style — https://dafont.style/
+- Font Spring — https://www.fontspring.com/free
+- ⁠FontBolt — https://www.fontbolt.com/
+- FFonts — https://www.ffonts.net/
+- ⁠DaFontFree — https://www.dafontfree.co/
+- FontsHub — https://fontshub.pro/
+- Font Meme — https://fontmeme.com/
+- FONToMASS — https://m.vk.com/topic-178186634_39300099?offset=0
+- Mr.E-Fonts — https://archive.org/details/Mr.E-Fonts
+- psd_fonts — https://vk.com/psd_fonts
+- 1001 Free Fonts — https://www.1001freefonts.com/
+
+## Font Tools
+
+- Font Interceptor — Download Fonts from Websites — https://fontinterceptor.mschfmag.com/
+- FontDrop — Analyze Font Files — https://fontdrop.info/
+- Font Analyzer — , Adobe Fonts , Font Finder , WhatTheFont , Identifont - Find Similar Fonts — https://font-analyzer-six.vercel.app/ | Adobe Fonts: https://fonts.adobe.com/fonts/vs/upload | Font Finder: https://www.whatfontis.com/ | WhatTheFont: https://www.myfonts.com/pages/whatthefont | Identifont: http://www.identifont.com/
+- Transfonter — Create CSS @font-face Kits — https://transfonter.org/
+- FontBase — , NexusFont or Linux Font Manager - Font Managers — https://fontba.se/ | NexusFont: https://www.xiles.app/ | Linux Font Manager: https://github.com/FontManager/font-manager
+- Fonts Ninja — or WhatFont - Find Similar Fonts / Extensions — https://fonts.ninja/tools | WhatFont: https://whatfonttool.com/
+- Colors & Fonts — Typography Tools — https://www.colorsandfonts.com/
+- DS-Fusion — AI Typography Generator — https://ds-fusion.github.io/
+- Formito — Typography Logo Maker — https://formito.com/tools/logo
+- Type Terms — Typography Cheat Sheet — https://avark.agency/typeterms/
+- The Good Line-Height — Typography Scaling Editor — https://thegoodlineheight.com/
+- Font List — or So You Need A Typeface 2.0 - Examples of Font Styles — https://wavian.com/font-list.html | So You Need A Typeface 2.0: https://ianli.github.io/so-you-need-a-typeface/
+- Type Design Resources — or Free Faces - Typeface Resources — https://typedesignresources.com/ | Free Faces: https://www.freefaces.gallery/
+
+### Font / Text Generators
+- FontoGen — or ⁠Refont - Custom AI Font Generators — https://github.com/SerCeMan/fontogen | ⁠Refont: https://refont.ai/
+- Make WordArt — , FlameText , MakeText , TextGiraffe , Text Pro or CoolText - WordArt Generators / 3D Text — https://www.makewordart.com/ | FlameText: https://www.flamingtext.com/ | MakeText: https://maketext.io/ | TextGiraffe: https://www.textgiraffe.com/ | Text Pro: https://textpro.me/ | CoolText: https://cooltext.com/
+- Polona Typo — Generate WordArt from Book, Poster, & Map Letters — https://typo.polona.pl/en/
+- Text Color Fader — Rainbow Text Generator — https://patorjk.com/text-color-fader/
+- Fast3DText — , TextDrom , 3DText2GIF or TextStudio - Animated / 3D Text Generators — https://fast3dtext.com/ | TextDrom: https://en.textdrom.com/ | 3DText2GIF: https://3dtext2gif.com/ | TextStudio: https://www.textstudio.com/
+- Textanim — or Space Type Generator - Animated Text Generators — https://textanim.com/ | Space Type Generator: https://spacetypegenerator.com/
+- Batname — Batman (2022) Text Generator — https://batname.vercel.app/
+- NFG's Arcade Font Maker — or Arcade Font Writer - Arcade Text Generators — https://nfggames.com/games/fontmaker/ | Arcade Font Writer: https://arcade.photonstorm.com/
+- The Ransomizer — Ransom Note Style Text — https://www.ransomizer.com/
+- Glitch — Zalgo Text Generator — https://glitchtextgenerator.com/
+
+### Font Customization
+- TypeTrials — Variable Font Playground — https://typetrials.com/
+- V-Fonts — or Phase - Variable Fonts Testers — https://v-fonts.com/ | Phase: https://www.eliashanzer.com/phase/
+- enFont — or Calligraphr - Custom Font Creators — https://enfont.javierarce.com/ | Calligraphr: https://www.calligraphr.com/en/
+- Fontjoy — Generate Font Combinations — https://fontjoy.com/
+- FontSprite — FontSprite Editor — https://adamstrange.itch.io/fontsprite
+- BitFontMaker2 — BitMap Font Editor — https://pentacom.jp/pentacom/bitfontmaker2/
+- FontEdit — , metaflop , MFEKglif , Glyphr Studio , Birdfont , Universal Sans or FontForge / - Font / Typeface Editors — https://github.com/ayoy/fontedit | metaflop: https://www.metaflop.com/ | MFEKglif: https://github.com/MFEK/glif | Glyphr Studio: https://www.glyphrstudio.com/ | Birdfont: https://birdfont.org/ | Universal Sans: https://universalsans.com/ | FontForge: https://fontforge.org/en-US/ | GitHub: https://github.com/fontforge/fontforge
+
+### Unicode Text Generators
+- YayText — https://yaytext.com/
+- Messletters — https://www.messletters.com/
+- FSymbols — https://fsymbols.com/generators/
+- Fancy Text — https://fancy-text.net/
+- Cool Fonts Online — https://coolfont.org/
+- ⁠Discord Fonts — https://discord-fonts.com/
+- Aesthetic Font Generator — https://www.tesms.net/
+- Text-Generator — https://text-generator.app/
+- BoldTextGenerator — https://boldtextgenerator.org/
+- TextEditor — https://texteditor.com/
+- FontGenerator.design — https://fontgenerator.design/
+- Font Generator Online — https://www.fontgeneratoronline.com/
+- FontGenerator.cc — https://fontgenerator.cc/
+- FontGen — https://fontgen.cool/
+- FontGenerator.cool — https://fontgenerator.cool/
+- Fancy Text Decorator — https://fancytextdecorator.com/

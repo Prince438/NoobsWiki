@@ -1,0 +1,462 @@
+FMHY Video Tools Library
+Source: https://fmhy.net/video-tools
+
+Scraped from the FMHY Video Tools page.
+
+> Video Tools Video Players, Video Editors, Live Streaming, Animation
+## Video Tools
+
+- Digital Video Intro — Digital Video Guides / Resources — https://github.com/leandromoreira/digital_video_introduction
+- AI Video Generators — ️ AI Video Generators — /ai/#video-generation
+- Reincubate Camo — Use Any Camera as Webcam — https://camo.com/studio
+- Kast — , Screen Share Party or Screenz - Online Screen Share — https://kast.gg/ | Screen Share Party: https://ba.net/screen/ | Screenz: https://screenz.agst.dev/
+- ⁠LonelyScreen — AirPlay Receiver for PC / macOS — https://www.lonelyscreen.com/
+- Deep-Live-Cam — , Rope , SimSwap or Roop - Video Face Swap Tools — https://github.com/hacksider/Deep-Live-Cam | Rope: https://github.com/Hillobar/Rope | SimSwap: https://github.com/neuralchen/SimSwap | Roop: https://github.com/s0md3v/roop
+- VideoHelp Forum — All Things Media / Video — https://forum.videohelp.com/
+- ICAT — or Video Compare - Video Quality Comparison & Analysis Tools — https://www.nvidia.com/en-us/geforce/technologies/icat/ | Video Compare: https://github.com/pixop/video-compare
+- videoduplicatefinder — Duplicate Video Finder — https://github.com/0x90d/videoduplicatefinder
+- MkvDefaultTrackChanger — Easily Change Default MKV Subtitle / Audio Tracks — https://mkvdefaulttrackchanger.pages.dev/ | GitHub: https://github.com/MikeMoolenaar/MkvDefaultTrackChanger
+- ⁠MP4Recover — Recover Broken MP4 Files — https://github.com/ActiveTK/MP4Recover
+- VHS Decode — VHS Decoder — https://github.com/oyvindln/vhs-decode
+- VidClue — Short Form Video Inspiration — https://vidclue.com/
+
+### Disc Utilities
+- ImgBurn — , DVDStyler , DeepBurner or Alcohol Soft - CD / DVD Burning — https://www.majorgeeks.com/files/details/imgburn.html | DVDStyler: https://www.dvdstyler.org/en/ | DeepBurner: https://www.deepburner.com/ | Alcohol Soft: https://www.alcohol-soft.com/
+- VidCoder — or XReveal - DVD / Blu-ray Ripping — https://vidcoder.net/ | XReveal: https://www.xreveal.com/
+- MakeMKV — Create MKV from Blu-ray / DVD / Beta Version , 2 — https://www.makemkv.com/ | Beta Version: https://forum.makemkv.com/forum/viewtopic.php?f=5&t=1053 | 2: https://cable.ayra.ch/makemkv/
+- DGDemux — Blu-ray / UHD Disk Demuxer — https://www.rationalqm.us/dgdemux/dgdemux.html
+- PgcDemux — DVD Disk Demuxer — https://www.videohelp.com/software/PgcDemux
+- BatchGuy — Blu-ray Ripping — https://github.com/yaboy58/BatchGuy
+- UHD Drives Flashing Guide — https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634
+- Redump — Disc Preservation Info Project — http://redump.org/
+
+### Video File Hosts
+- Streaming Hosts — ️ Streaming Hosts - Host Videos on YouTube Style Sites — /video/#video-streaming
+- DoodStream — 5GB / 60 Days / Requires Sign-Up — https://doodstream.com/
+- Litterbox — 1GB / 3 Days — https://litterbox.catbox.moe/
+- Catbox — 200MB / Forever / Allows Hotlinking — https://catbox.moe/
+- Gofile — 100GB Monthly / 10 Days — https://gofile.io/
+- Send.now — Unlimited / 30 Days After Last View (w / Account) — https://send.now/
+- VOE — Unlimited / 60 Days / 720p / Requires Sign-Up — https://voe.sx/
+- MixDrop — Unlimited / 60 Days / 720p / Requires Sign-Up — https://mixdrop.ag/
+- FEX.NET — 100GB / 10GB Guest / 7 Days — https://fex.net/ | Telegram: https://t.me/FEXNETWORK
+- Byse — , 2 , 3 , 4 - 50GB / 40TB per account / Forever / Requires Sign-Up — https://byse.sx/ | 2: https://filemoon.sx/ | 3: https://filemoon.to/ | 4: https://filemoon.in/
+- Hexupload — or AnonTransfer - 15GB / 30 Days — https://hexload.com/ | AnonTransfer: https://anontransfer.com/
+- Vidoza — 15GB / 15 Days / Requires Sign-Up — https://vidoza.net/
+- ⁠Streamain — Unlimited / Forever — https://streamain.com/
+- Vidmoly — 15TB / 1 Year — https://vidmoly.me/
+- NetU — 7.5GB / 90 Days (after last view) — https://netu.tv/
+- Streamplay — 30TB / 20GB — https://streamplay.to/
+- Luluvdoo — , 2 - 15GB / 60 Days Since Last Download — https://luluvdoo.com/ | 2: https://lulustream.com/
+- Streamtape — 15GB / Requires Sign-Up / .to — https://streamtape.com/ | .to: https://streamtape.to/
+- ⁠Darkibox — 10GB / 53 Days — https://darkibox.com/
+- Dubz — 100MB / Forever — https://dubz.co/
+- Streamable — 250MB / 2 Days (90 Days with Account) — https://streamable.com/
+- uguu — 128MB / 3 Hours — https://uguu.se/
+- webmshare — WebM & GIF Hosting / 20MB / Forever — https://webmshare.com/
+- Videy — 100MB / MP4 Only — https://videy.co/
+- ⁠SpectrShare — P2P Video Streaming / Temp Files — https://spectrshare.com/
+
+> TIP Most file hosts remove files after inactivity, while some delete them regardless. Check each host if you're concerned about file expiry. Tags are: Account Space / Individual File Limit / File Retention.
+### Screen Recording
+- OBS Studio — https://obsproject.com/ | Discord: https://discord.com/invite/obsproject | GitHub: https://github.com/obsproject/obs-studio
+- SteelSeries Moments — , Medal / Watermark Remover , Segra / or RePlays - Game Recording Tools — https://steelseries.com/gg/moments | Medal: https://medal.tv/ | Watermark Remover: https://rentry.co/FMHYB64#medel | Segra: https://segra.tv/ | GitHub: https://github.com/Segergren/Segra | RePlays: https://github.com/lulzsun/RePlays
+- Shinobi — Network Video Recorder — https://shinobi.video/ | Discord: https://discord.com/invite/mdhmvuH | GitLab: https://gitlab.com/Shinobi-Systems/Shinobi
+- MythTV — Digital Video Recorder (DVR) — https://www.mythtv.org/ | GitHub: https://github.com/MythTV/mythtv
+- FFmpeg — Tools — https://ffmpeg.org/ | GitHub: https://github.com/FFmpeg/FFmpeg | Tools: /video-tools/#ffmpeg-tools
+- Openscreen — https://openscreen.vercel.app/ | GitHub: https://github.com/siddharthvaddem/openscreen
+- Recordly — https://recordly.dev/ | GitHub: https://github.com/webadderall/Recordly
+- ShareX — https://getsharex.com/ | Discord: https://discord.com/invite/ShareX | GitHub: https://github.com/ShareX/ShareX
+- vokoscreenNG — https://linuxecke.volkoh.de/vokoscreen/vokoscreen.html | GitHub: https://github.com/vkohaupt/vokoscreenNG
+- Cap — https://cap.so/ | GitHub: https://github.com/CapSoftware/Cap
+- Shar.ec — https://shar.ec/
+- ScreenREC — https://screen-rec.vercel.app/ | GitHub: https://github.com/heysagnik/screenREC
+- RecordScreen — https://recordscreen.io/
+- Google Screen Recorder — https://toolbox.googleapps.com/apps/screen_recorder/
+- ⁠Cursorful — Browser Screen Recording — https://cursorful.com/
+
+### Processing / Encoding
+- HandBrake — or VidCoder - Video Encoding Software / / Guide — https://handbrake.fr/ | VidCoder: https://vidcoder.net/ | Guide: https://www.rapidseedbox.com/blog/guide-to-mastering-handbrake | GitHub: https://github.com/HandBrake/HandBrake
+- FFmpeg — Multimedia Processors / Tools — https://ffmpeg.org/ | Tools: /video-tools/#ffmpeg-tools | GitHub: https://github.com/FFmpeg/FFmpeg
+- Shutter Encoder — Video Encoding Software — https://www.shutterencoder.com/ | GitHub: https://github.com/paulpacifico/shutter-encoder
+- MKVToolNix — MKV Editing Tools — https://mkvtoolnix.download/
+- archived-things — , ⁠Video Noob Guide , JET Guide , The Encoding Guide or Silentaperture - Video Encoding Guides — https://sometimes-archives-things.github.io/archived-things/ | ⁠Video Noob Guide: https://gist.github.com/arch1t3cht/b5b9552633567fa7658deee5aec60453/ | JET Guide: https://jaded-encoding-thaumaturgy.github.io/JET-guide/master/ | The Encoding Guide: https://encoding-guide.neocities.org/ | Silentaperture: https://silentaperture.gitlab.io/mdbook-guide/
+- Basics to the Art of Remuxing — , 2 - Learn How to Remux Videos — https://claraiscute.neocities.org/Guides/remuxing/ | 2: https://claraiscute.pages.dev/Guides/remuxing/
+- DDVT — Dolby Vision RPU Demuxing / Injecting / Editing — https://forum.doom9.org/showthread.php?t=183479
+- MKV Muxing Batch GUI — Mux Videos — https://github.com/yaser01/mkv-muxing-batch-gui
+- IFME — Video Encoding — https://github.com/Anime4000/IFME
+- Av1an — Video Encoding — https://github.com/rust-av/Av1an
+- FastFlix — Video Conversion — https://fastflix.org/ | GitHub: https://github.com/cdgriffith/FastFlix
+- Winnydows — Video Conversion Software — https://winnydows.com/ | Telegram: https://t.me/xvid4psp81
+- staxrip — Video Encoding / Contact Sheet + Thumbnails Creator — https://github.com/staxrip/staxrip/
+- XMedia Recode — Video Conversion — https://www.xmedia-recode.de/en/
+- NEAV1E — AV1 Encoding — https://github.com/Alkl58/NotEnoughAV1Encodes
+- sickbeard_mp4_automator — Automate Video Processing — https://github.com/mdhiggins/sickbeard_mp4_automator
+- selur — Video Encoding — https://www.selur.de/
+- vvenc — , vvdec or VVCEasy - VVC Encode / Decode — https://github.com/fraunhoferhhi/vvenc | vvdec: https://github.com/fraunhoferhhi/vvdec | VVCEasy: https://github.com/MartinEesmaa/VVCEasy
+
+### Online Processing
+- Compress Video Online — Compress / Unlimited — https://compress-video-online.com/
+- 8mb.video — Compress / 2GB — https://8mb.video/ | Discord: https://discord.com/invite/UzmzPfX
+- autocompressor — Compress / 2GB — https://autocompressor.net/
+- Rotato — Compress / 2GB — https://tools.rotato.app/
+- VideoSmaller — Compress / 500MB — https://www.videosmaller.com/
+- YouCompress — Compress / 500MB — https://www.youcompress.com/
+- MP4Compress — Compress / 500MB — https://www.mp4compress.com/
+- VERT — Converter — https://vert.sh/ | Discord: https://discord.gg/8XXZ7TFFrK | GitHub: https://github.com/VERT-sh/VERT
+- Video Express Converter — https://vc.germanov.dev/
+- VideoConverter — Converter — https://www.movavi.com/video-converter/
+- Restream Tools — Converter — https://restream.io/tools
+
+### FFmpeg Tools
+- FFmpeg-Builds — or media-autobuild_suite - Autobuild Tools — https://github.com/BtbN/FFmpeg-Builds | media-autobuild_suite: https://github.com/m-ab-s/media-autobuild_suite
+- ffmpeg-web — , FFmpeg Online or ffmpegwasm / 2 - FFmpeg Web App — https://ffmpeg-web.netlify.app/ | GitHub: https://github.com/Dinoosauro/ffmpeg-web | FFmpeg Online: https://ffmpeg.wide.video/ | ffmpegwasm: https://ffmpegwasm.netlify.app/ | 2: https://ffmpeg.gcc.ac.cn/
+- FFmpeg Libav — or ffmprovisr - FFmpeg Guides — https://github.com/leandromoreira/ffmpeg-libav-tutorial | ffmprovisr: https://amiaopensource.github.io/ffmprovisr/
+- ASM Lessons — FFmpeg Assembly Language Lessons / Multiple Languages — https://github.com/FFmpeg/asm-lessons
+- FFmpeg Cheat Sheet — , FFmpeg Commander or FFmpeg Buddy - Command Lists — https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730 | FFmpeg Commander: https://alfg.github.io/ffmpeg-commander/ | FFmpeg Buddy: https://evanhahn.github.io/ffmpeg-buddy/
+- WebMConverter — WebM Converter — https://argorar.github.io/WebMConverter/
+- PureMPV — Info Copy Tool — https://github.com/4ndrs/PureMPV
+- FFmpeg Batch — Bulk Conversion Tools — https://ffmpeg-batch.sourceforge.io/
+
+### Live Streaming
+- Awesome Streaming — or StreamerFreebies - Live Streaming Resources — https://github.com/juancarlospaco/awesome-streaming-tools | StreamerFreebies: https://streamerfreebies.com/
+- OBS Studio — Live Stream Manager — https://obsproject.com/ | GitHub: https://github.com/obsproject/obs-studio
+- Tweaks — OBS Tools - Tweaks / Background Remover / Web App / Phone Controller / Smooth Zoom / Plugin Updater / Guide — https://ctt.cx/video/obs/ | Background Remover: https://github.com/locaal-ai/obs-backgroundremoval | Web App: https://github.com/Niek/obs-web | Phone Controller: https://github.com/Kounex/obs_blade | Smooth Zoom: https://github.com/JustAdumbPrsn/OBS-Smooth-Zoom | Plugin Updater: https://ko-fi.com/s/0b5bd4536d | Guide: https://www.nvidia.com/en-us/geforce/guides/broadcasting-guide/
+- Streamer.bot — Live Stream Manager — https://streamer.bot/ | X: https://x.com/streamerdotbot | Reddit: https://www.reddit.com/r/streamerbot | Discord: https://discord.com/invite/hYqQGG3puC | GitHub: https://github.com/Streamerbot
+- ⁠TikFinity — TikTok Live Toolkit — https://tikfinity.zerody.one/ | Discord: https://discord.gg/uthtmVdpy8
+- TikTok Chat Reader — Live TikTok Chat Reader — https://tiktok-chat-reader.zerody.one/
+- ⁠MeldStudio — Live Stream Manager — https://meldstudio.co/
+- StreamLabs — Live Stream Manager — https://streamlabs.com/ | GitHub: https://github.com/streamlabs/desktop
+- Stream Elements — Streaming Service Manager — https://streamelements.com/
+- Restream — Multi-Platform Streams — https://restream.io/
+- TwitchChat — Live Stream Manager — https://twitchat.fr/ | Discord: https://discord.com/invite/fmqD2xUYvP | GitHub: https://github.com/Durss/Twitchat
+- VDO Ninja — Live Stream Colab Tool — https://vdo.ninja/
+- LiveStreamDVR — or ⁠StreamRecorder - Live Stream Recorder — https://github.com/MrBrax/LiveStreamDVR | ⁠StreamRecorder: https://streamrecorder.io/
+- NVIDIA Broadcast — Stream Audio / Video Enhancer — https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/
+- Owncast — , OwnCast / or Restreamer - Self-Hosted Live Streaming — https://owncast.online/ | GitHub: https://github.com/owncast/owncast | GitHub: https://github.com/owncast/owncast | Restreamer: https://github.com/datarhei/restreamer
+- WDFlat — Stream Elements — https://www.wdflat.com/
+- Strem — Stream Automation — https://github.com/strem-app/strem
+- ppInk — , ⁠AnnotateWeb , glnk , Annotate Screen or Live Draw - Screen Annotation — https://github.com/PubPub-zz/ppInk/ | ⁠AnnotateWeb: https://annotateweb.com/ | glnk: https://github.com/geovens/gInk | Annotate Screen: https://annotatescreen.com/ | Live Draw: https://github.com/antfu/live-draw
+- ⁠Overlays — Live Stream Overlays — https://overlays.uno/
+- Amuse — or Songify - Now Playing Overlays — https://6klabs.com/amuse | Songify: https://songify.overcode.tv/
+- real-url — Copy Live Stream URLs — https://github.com/wbt5/real-url
+- Chat-Downloader — Retrieve Chat Messages from Livestreams — https://github.com/xenova/chat-downloader
+
+### VTuber Tools
+- Runa's Archive — VTuber Resources — https://kekuwi.github.io/Runa-Archive | Discord: https://discord.com/invite/GdfHVZ6Z33
+- Best VTuber — VTuber Resources — https://gist.github.com/emilianavt/cbf4d6de6f7fb01a42d4cce922795794
+- VTResources — VTuber Resources — https://vtresources.carrd.co/
+- VTuber Assets — VTuber Resources — https://discord.gg/acU3dFRtvC
+- VTuber Kit — or VRoid - VTuber Character Creators / Tracking — https://kyuppin.itch.io/vtuber-kit | VRoid: https://vroid.com/en/studio
+- VSeeFace — , Kalidoface 3D or Animaze - 3D Tracking & Puppeteering (VRM) — https://www.vseeface.icu/ | Kalidoface 3D: https://3d.kalidoface.com/ | Animaze: https://www.animaze.us/
+- Vtube Studio — or Inochi2D / - 2D / Live2D Tracking — https://denchisoft.com/ | Inochi2D: https://inochi2d.com/ | Discord: https://discord.com/invite/abnxwN6r9v
+- veadotube — PNGTuber & Reactive Software — https://olmewe.itch.io/veadotube-mini
+- avatarify-python — Real-Time Photo / Video Avatars — https://github.com/alievk/avatarify-python
+- VTuberized Logos — VTuber Style Logos — https://vtuber-style-logos.vercel.app/
+
+### Subtitle Tools
+### Linux Video Tools
+### Mac Video Tools
+## Video Players
+
+- Awesome Video — Video Streaming Resources — https://github.com/krzemienski/awesome-video
+- Video Help — Video Player Index — https://www.videohelp.com/software/sections/video-players?orderby=Rating
+- MPV Clients — , MPC-QT or MPV (Official) - Video Player / Custom Builder / Frontends — https://mpv.rocks/ | MPC-QT: https://mpc-qt.github.io/ | MPV (Official): https://mpv.io/ | Custom Builder: https://mpv-easy.github.io/mpv-build/ | Frontends: https://github.com/mpv-player/mpv/wiki/Applications-using-mpv | GitHub: https://github.com/mpv-player/mpv
+- MPC-HC — or MPC-BE - Video Player / YT-DL Support — https://github.com/clsid2/mpc-hc/ | MPC-BE: https://sourceforge.net/projects/mpcbe/ | YT-DL Support: https://www.free-codecs.com/guides/how_to_stream_videos_with_mpc-hc.htm
+- VLC — Video Player — https://www.videolan.org/ | GitHub: https://github.com/videolan/vlc
+- FastStream — Fragmentation Streaming Extension / Firefox Note — https://faststream.online/ | Firefox Note: https://github.com/Andrews54757/FastStream?tab=readme-ov-file#notice-for-firefox-extension-store-users | GitHub: https://github.com/Andrews54757/FastStream/
+- OpenVideo — or Stream-Bypass - Use Streaming Sites in Ad-Free Player with Subs, Speed Control & More — https://openvideofs.github.io | Stream-Bypass: https://github.com/ByteDream/stream-bypass
+- Codec Guide — , ALF FreeWare VideoCODECs , or Free-Codecs - Video Player Codec Collections — https://www.codecguide.com/ | ALF FreeWare VideoCODECs: https://codec.kyiv.ua/ | Free-Codecs: https://www.free-codecs.com/
+- PotPlayer — Video Player / Twitch Addon / YouTube Addon — https://potplayer.tv/ | Twitch Addon: https://github.com/TwitchPotPlayer/TwitchPotPlayer | YouTube Addon: https://chromewebstore.google.com/detail/potplayer-youtube-shortcu/cfdpeaefecdlkdlgdpjjllmhlnckcodp
+- Screenbox — Video Player — https://github.com/huynhsontung/Screenbox
+- AVPlayer — , ICAT or GridPlayer - Multi-Video Players — http://www.awesomevideoplayer.com/ | ICAT: https://www.nvidia.com/en-us/geforce/technologies/icat/ | GridPlayer: https://github.com/vzhd1701/gridplayer
+- SPlayer — Video Player with Smart Translation — https://www.splayer.org/
+- ImPlay — Video Player — https://github.com/tsl0922/ImPlay
+- SMPlayer — , 2 - Video Player / SMTube — https://www.smplayer.info/ | 2: https://sourceforge.net/projects/smplayer/ | SMTube: https://www.smtube.org/ | GitHub: https://github.com/smplayer-dev/smplayer
+- uView — Video Player — https://www.idruf.com/
+- Rise Media Player — Video Player — https://github.com/Rise-Software/Rise-Media-Player
+- Flyleaf — Video Player — https://github.com/SuRGeoNix/Flyleaf
+- MoonPlayer — Video Player — https://github.com/coslyk/moonplayer
+- KikoPlay — Video Player — https://kikoplay.fun/
+- Plyr — Online HTML5, YouTube and Vimeo Player — https://plyr.io/ | GitHub: https://github.com/sampotts/plyr
+- ⁠panoptic — Watch Multiple Live Streams At Once — https://panoptic.live/
+- MotionMonkey — Stream Online Videos in Player — https://omega.gg/MotionMonkey/
+- ⁠Private Video Sharing — P2P Video Streaming / Temp Files — https://privatevideosharing.com/
+- StreamLink — Extract Videos from Sites to Players / Twitch Adblock — https://streamlink.github.io/ | Twitch Adblock: https://github.com/2bc4/streamlink-ttvlol | GitHub: https://github.com/streamlink/streamlink
+- polsy.org.uk — Alt Players for Video Sites — https://polsy.org.uk/
+
+### Stream Sync
+- Synkplay — App — https://syncplay.pl/
+- Watch2Gether — Online Player — https://w2g.tv/
+- SyncWatch — Online Extension — https://github.com/Semro/syncwatch
+- Kosmi — Online Player — https://kosmi.io/
+- WatchParty — Online / Virtual Browser — https://www.watchparty.me/
+- neko — Docker Virtual Browser — https://neko.m1k1o.net/ | GitHub: https://github.com/m1k1o/neko
+- HyperBeam — VIP - Virtual Computer Embed — https://hyperbeam.com/ | VIP: https://greasyfork.org/en/scripts/457795
+- OpenTogetherTube — , TurtleTV or twoseven - Online Player — https://opentogethertube.com/ | TurtleTV: https://turtletv.app/ | twoseven: https://twoseven.xyz/
+- Metastream — Online Extension — https://getmetastream.com/ | X: https://x.com/getmetastream | Discord: https://discord.com/invite/nfwPRb9 | GitHub: https://github.com/samuelmaddock/metastream
+- Caracal Club — Online Player — https://caracal.club/
+- CyTube — Online Player — https://cytu.be/
+- ⁠CinevoSync — Online Player — https://sync.cinevo.site/
+- VideoTogether — App — https://2gether.video/en-us/
+- baked.live — Online Player — https://baked.live/
+- Rave.io — Online Extension — https://rave.io/
+- MovieNight — Docker — https://github.com/zorchenhimer/MovieNight | Discord: https://discord.gg/F2VSgjJ
+
+### MPV Tools
+- ⁠Awesome-MPV — MPV Tools / Resources — https://github.com/stax76/awesome-mpv
+- igv's shaders — Various Shaders — https://gist.github.com/igv
+- MPV Config Guide — , 2 , 3 — https://thewiki.moe/tutorials/mpv/ | 2: https://iamscum.wordpress.com/guides/videoplayback-guide/mpv-conf/ | 3: https://hooke007-github-io.translate.goog/unofficial/index.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp
+- ⁠Flower's MPV Config — MPV Configs — https://github.com/flowerey/flower-mpv-config
+- ModernZ — , tethys or uosc - Alt User Interfaces — https://github.com/Samillion/ModernZ | tethys: https://github.com/Zren/mpv-osc-tethys | uosc: https://github.com/tomasklaen/uosc
+- Simple MPV WebUI — WebUI Controller — https://github.com/open-dynaMIX/simple-mpv-webui
+- MPV Context Menu — https://gitlab.com/carmanaught/mpvcontextmenu
+- MPV Scripts — Userscripts — https://github.com/mpv-player/mpv/wiki/User-Scripts
+- VideoClip — , 2 - Clip Tool — https://github.com/Ajatt-Tools/videoclip | 2: https://github.com/f0e/mpv-lossless-cut
+- MPV WebM — WebM Tool — https://github.com/ekisu/mpv-webm
+- Play With MPV — or ff2mpv - Open Videos with MPV — https://greasyfork.org/en/scripts/416271 | ff2mpv: https://github.com/woodruffw/ff2mpv
+- MPV WebTorrent Hook — Torrent Streaming — https://github.com/noctuid/mpv-webtorrent-hook
+- AutoSubSync MPV — Sub Sync — https://github.com/joaquintorres/autosubsync-mpv
+- MPV SponsorBlock — , 2 - SponsorBlock for MPV — https://github.com/po5/mpv_sponsorblock | 2: https://codeberg.org/jouni/mpv_sponsorblock_minimal
+- ThumbFast — MPV Thumbnails — https://github.com/po5/thumbfast
+- ArtCNN — , AniSD or Ani4k - Anime Upscaling — https://github.com/Artoriuz/ArtCNN | AniSD: https://github.com/Sirosky/Upscale-Hub/releases/tag/AniSD-ArtCNN | Ani4k: https://github.com/Sirosky/Upscale-Hub/releases/tag/Ani4k-v2-ArtCNN
+- FSR — or CAS - AMD FidelityFX port — https://gist.github.com/agyild/82219c545228d70c5604f865ce0b0ce5 | CAS: https://gist.github.com/agyild/bbb4e58298b2f86aa24da3032a0d2ee6
+- MPV Prescalers — NNEDI / RAVU Upscaling — https://github.com/bjin/mpv-prescalers/
+- GLSL CFL Prediction — Chroma Upscaling — https://github.com/Artoriuz/glsl-chroma-from-luma-prediction
+
+### VLC Tools
+- Awesome VLC — VLC Resources — https://github.com/mfkl/awesome-vlc
+- VLSub — Sub Downloader — https://github.com/exebetche/vlsub
+- VLC Slow Seek Fix — https://redd.it/os6f1q
+
+## Media Servers
+
+- Torrent Automation — ️ Torrent Automation — /video/#torrent-apps
+- Jellyfin — Media Server / Tools / Matrix — https://jellyfin.org/ | Tools: /video-tools/#plex-tools | Matrix: https://matrix.to/#/#jellyfinorg:matrix.org | Discord: https://discord.gg/zHBxVSXdBV | GitHub: https://github.com/jellyfin/jellyfin
+- Kodi — or Xbox Kodi - Media Server / Tools — https://kodi.tv/ | Xbox Kodi: https://apps.microsoft.com/detail/9nblggh4t892 | Tools: /video-tools/#plex-tools
+- TRaSH Guides — , ⁠Duck Guides or The Complete Guide - Server Setup Guides — https://trash-guides.info/ | Discord: https://discord.com/invite/4K2kdvwzFh | ⁠Duck Guides: https://duckkota.gitlab.io/guides/ | The Complete Guide: https://redd.it/pqsomd
+- Self-Hosted Anime — Anime Server Setup Guides — https://github.com/shyonae/selfhosted-anime/wiki
+- Prowlarr — , FlexGet or r / softwarr - Autodownload Tools — https://prowlarr.com/ | GitHub: https://github.com/Prowlarr/Prowlarr | FlexGet: https://flexget.com/ | r/softwarr: https://reddit.com/r/softwarr
+- Reiverr — Media Server Manager — https://github.com/aleksilassila/reiverr
+- Fixarr — Media Server File Renamer — https://github.com/sachinsenal0x64/fixarr | Discord: https://discord.com/invite/EbfftZ5Dd4
+- HTPC Download Box — Media Server Automation — https://github.com/sebgl/htpc-download-box
+- Seanime — Anime Server — https://seanime.app/ | Discord: https://discord.com/invite/3AuhRGqUqh
+- Plex — or Plezy / - Media Server / Tools — https://www.plex.tv/ | Plezy: https://plezy.app/ | GitHub: https://github.com/edde746/plezy | Tools: /video-tools/#plex-tools
+- DMS — Media Server — https://github.com/anacrolix/dms
+- Emby — Media Server — https://emby.media/
+- Universal Media Server — Media Server — https://www.universalmediaserver.com/
+- OSMC — Media Server — https://osmc.tv/
+- Kawaii-Player — Media Server — https://github.com/kanishka-linux/kawaii-player
+- Streama — Media Server — https://github.com/streamaserver/streama
+- Gerbera — Media Server — https://gerbera.io/
+- Homehost — Media Server — https://github.com/ridhwaans/homehost
+- Dim — Media Server — https://github.com/Dusk-Labs/dim
+- Kyoo — Media Server — https://github.com/zoriya/Kyoo | Discord: https://discord.com/invite/E6Apw3aFaA
+- Chocolate — Media Server — https://github.com/ChocolateApp/Chocolate
+- Media-Hoarder — Media Catalog Frontend — https://github.com/theMK2k/Media-Hoarder
+- Frames — Google Drive Server — https://github.com/Eleven-am/frames
+- HTPC — Home Theater PC guides — https://r-htpc.github.io/wiki/ | Reddit: https://www.reddit.com/r/htpc/
+- MSX — Web App — https://msx.benzac.de/info/
+- TheIntroDB — Intro / Credit Skipping Extension — https://theintrodb.org/ | Discord: https://discord.gg/Qn6RhamxT5 | Telegram: https://t.me/theintrodb | GitHub: https://github.com/TheIntroDB
+- Tunarr — , ErsatzTV or dizqueTV - Custom Live Channel Servers — https://tunarr.com/ | GitHub: https://github.com/chrisbenincasa/tunarr/ | ErsatzTV: https://ersatztv.org/ | dizqueTV: https://github.com/vexorian/dizquetv
+- ⁠YAMS — Linux Media Server Auto-Install Script — https://yams.media/
+- ansible-hms-docker — or DockSTARTer - Automated Docker Media Server Setups — https://github.com/ahembree/ansible-hms-docker | DockSTARTer: https://github.com/GhostWriters/DockSTARTer
+- Seerr — Mobile or Ombi - User Request Management — https://github.com/seerr-team/seerr | Mobile: https://github.com/seerr-team/mobile-app | Ombi: https://github.com/Ombi-app/Ombi
+- Dispatcharr — or ⁠tuliprox - IPTV Playlist Managers for Servers — https://github.com/Dispatcharr/Dispatcharr | ⁠tuliprox: https://github.com/euzu/tuliprox
+- YTDL-Sub — Add YouTube Channels to Media Servers — https://ytdl-sub.readthedocs.io/en/ | GitHub: https://github.com/jmbannon/ytdl-sub
+- xTeVe — Plex / Emby M3U Proxy — https://github.com/xteve-project/xTeVe
+
+### Plex Tools
+- Reddit Guide — Plex Setup Guides — https://redd.it/ma1hlm
+- Tautulli — Server Monitor — https://tautulli.com/
+- Kitana — Plugin Frontend — https://github.com/pannal/Kitana
+- Reaparr — Merge Plex Libraries w / Your Own — https://www.reaparr.rocks/
+- PlexDrive — or mergerfs - Mount Google Drive — https://github.com/plexdrive/plexdrive | mergerfs: https://docs.ultra.cc/books/rclone/page/rclone-vfs-and-mergerfs-setup
+- SyncLounce — Media Sync — https://synclounge.tv/
+- PseudoTV — Create TV Channels — https://github.com/DEFENDORe/pseudotv
+- Overseerr — User Requests / IMDb Extension — https://overseerr.dev/ | IMDb Extension: https://chromewebstore.google.com/detail/overseerr-assistant/hopnjiadheaagfhpipecoamoegijhnij
+- Pasta Tool — Audio / Sub Changer — https://www.pastatool.com/
+
+### Jellyfin Tools
+- Awesome Jellyfin — Jellyfin Resources — https://github.com/awesome-jellyfin/awesome-jellyfin
+- Fladder — Desktop Client — https://github.com/DonutWare/Fladder/
+- Blink — Desktop Client — https://github.com/prayag17/Blink
+- jellyfin-desktop — Desktop Client — https://github.com/jellyfin/jellyfin-desktop
+- Findroid — or Streamyfin - JellyFin Android Clients — https://github.com/jarnedemeulemeester/findroid | Streamyfin: https://github.com/streamyfin/streamyfin
+- Jellyfin Forum — Official Jellyfin Forum — https://forum.jellyfin.org/
+- Jellyfin Vue — Jellyfin Web Client — https://github.com/jellyfin/jellyfin-vue
+- Jellyfin "arr" Setup Guide — https://www.fuzzygrim.com/posts/media-server
+- Jellyfin Customization Guide — https://youtu.be/F85qMyBeiDI
+- Jellyfin Themes — https://jellyfin.org/docs/general/clients/css-customization/#community-themes
+- Jellyfin RPC — Jellyfin Discord Rich Presence — https://github.com/Radiicall/jellyfin-rpc
+
+### Kodi Tools
+- Elementum — Torrent Streaming / Trakt Sync / Similar to Stremio + Torrentio — https://elementum.surge.sh/
+- EverythingKodi — Kodi Addon Tutorials — https://rumble.com/c/EverythingKodi
+- Kodi Builds Chart — https://kodiapps.com/builds-chart
+- r/Addons4Kodi — Tracker / Trending or ⁠TroyPoint - Kodi Addons — https://www.reddit.com/r/Addons4Kodi/ | Tracker: https://kinkeadtech.com/best-kodi-streaming-addons/ | Trending: https://kodiapps.com/addons-chart | ⁠TroyPoint: https://troypoint.com/
+- Kodi Skins — or WIP Skins - Kodi Skins — https://kodi.tv/addons/omega/category/skins/ | WIP Skins: https://forum.kodi.tv/forumdisplay.php?fid=160
+- Synko — Kodi Stream Sync — https://github.com/Skaytacium/synko
+- Plex Kodi Connect — or plex-for-kodi - Plex for Kodi — https://github.com/croneter/PlexKodiConnect | plex-for-kodi: https://github.com/pannal/plex-for-kodi
+- quasar — Torrent Plugin — https://quasar.surge.sh/
+- IPTV Client — https://kodi.wiki/view/Add-on:PVR_IPTV_Simple_Client
+- Simkl — Media Tracker — https://simkl.com/
+- tinyMediaManager — or MediaElch - Media Collection Managers — https://www.tinymediamanager.org/ | MediaElch: https://www.kvibes.de/mediaelch/
+
+## Video Download
+
+- YouTube Video Downloaders — ️ YouTube Video Downloaders — /social-media-tools/#youtube-downloaders
+- Twitch Video Downloaders — ️ Twitch Video Downloaders — /social-media-tools/#twitch-downloaders
+- Download Managers — ️ Download Managers — /file-tools/#download-managers
+- yt-dlp — or YTDL-PATCHED - Multi-Site / Commands — https://github.com/yt-dlp/yt-dlp | YTDL-PATCHED: https://github.com/ytdl-patched/ytdl-patched | Commands: https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection | Discord: https://discord.gg/H5MNcFW63r
+- cobalt — Multi-Site / Online / Instances , 2 — https://cobalt.tools/ | Instances: https://instances.cobalt.best/ | 2: https://cobalt.directory/ | X: https://x.com/justusecobalt | Discord: https://discord.com/invite/pQPt8HBUPu | GitHub: https://github.com/imputnet/cobalt
+- 9xbuddy — , 2 , 3 - Multi-Site / Online — https://9xbuddy.com/ | 2: https://9xbuddy.site/ | 3: https://9xbuddy.in/
+- Video DownloadHelper — , FetchV or MPMux - Extensions — https://www.downloadhelper.net/ | FetchV: https://fetchv.net/ | MPMux: https://mpmux.com/
+- CD(R)M-Project — DRM Tools — https://cdm-project.com/explore/repos | Discord: https://discord.gg/zvGBza34JP
+- DRM Bypass Toolkit — DRM Bypass Guide — https://rentry.co/FMHYB64#dbt
+- ⁠VideoDL — Multi-Site — https://github.com/CharlesPikachu/videodl
+- NeoDLP — Multi-Site / Extension — https://neodlp.neosubhamoy.com/ | Extension: https://github.com/neosubhamoy/neodlp-extension | GitHub: https://github.com/neosubhamoy/neodlp
+- VideoFK — Multi-Site / Online — https://www.videofk.com/
+- ⁠OFA Downloader — Multi-Site / Online — https://oneforalldownloader.com/
+- ⁠YT-DLP Online — , 2 - Multi-Site / Online — https://ytdlp.online/ | 2: https://ytdlp.wiki/
+- ⁠dltkk — Multi-Site / Online — https://dltkk.to/
+- ⁠YT-DLP Online — , 2 - Multi-Site / Online — https://ytdlp.online/ | 2: https://ytdlp.wiki/
+- ⁠imov.life — Multi-Site / Online — https://imov.life/
+- you-get — Multi-Site / CLI — https://you-get.org/ | GitHub: https://github.com/soimort/you-get
+- SCrawler — Multi-Site / Software — https://github.com/AAndyProgram/SCrawler | Discord: https://discord.gg/uFNUXvFFmg
+- Musvkrobot — Multi-Site / Telegram Bot — https://t.me/musvkrobot
+- SSSTik — , myfaveTT or tiktok-to-ytdlp - TikTok — https://ssstik.io/ | myfaveTT: https://myfavett.com/ | tiktok-to-ytdlp: https://github.com/Dinoosauro/tiktok-to-ytdlp
+- Threads Downloader — Threads — https://threadsdownloader.com/
+- Piner — Pinterest / Online — https://piner.io/
+- ⁠ReelSave — Instagram — https://reelsave.app/
+- iTeraPlay — or 1024TeraDL - ⁠TeraBox — https://iteraplay.com/ | 1024TeraDL: https://1024teradl.com/
+- hls-downloader — , ⁠cat-catch , hls extension or hlsloader - HLS Downloaders — https://github.com/puemos/hls-downloader | ⁠cat-catch: https://github.com/xifangczy/cat-catch/blob/master/README_en.md | hls extension: https://webextension.org/listing/hls-downloader.html | hlsloader: https://www.hlsloader.com/
+- GetWVKeys — Send Widevine Requests — https://getwvkeys.cc/ | GitHub: https://github.com/GetWVKeys/
+
+## Video Editing
+
+- r/VideoEditing — Video Editing Subreddit / Wiki — https://www.reddit.com/r/VideoEditing/ | Wiki: https://www.reddit.com/r/VideoEditing/wiki/index/
+- Eyecandy — Visual Technique Examples — https://eyecannndy.com/ | Discord: https://discord.com/invite/WRyrPkWEzT
+- Waifu2x GUI — , ⁠TheAnimeScripter , Video2x , Enhancr , Warlock-Studio , Lossless Scaling (search) or Dandere2x - Video Upscaling — https://github.com/AaronFeng753/Waifu2x-Extension-GUI | ⁠TheAnimeScripter: https://github.com/NevermindNilas/TheAnimeScripter | Video2x: https://github.com/k4yt3x/video2x | Enhancr: https://github.com/mafiosnik777/enhancr | Warlock-Studio: https://github.com/Ivan-Ayub97/Warlock-Studio | Lossless Scaling: https://fmhy.net/gaming#download-games | Dandere2x: https://github.com/akai-katto/dandere2x
+- Codecs and Containers — Info on Codecs & Containers — https://www.reddit.com/r/VideoEditing/wiki/codecsandcontainers
+- VideoHelp Forum — Video Editing Forums — https://forum.videohelp.com/forums/2-Video
+
+### Video Editors
+- Editing Software — ️ Editing Software — /torrenting/#torrent-sites
+- DaVinci Resolve — Video Editor / Requires Sign-Up (Fake Info Works) / Guides / Subtitle Generator / Green Screen Extract — https://www.blackmagicdesign.com/products/davinciresolve | Guides: https://www.blackmagicdesign.com/products/davinciresolve/training | Subtitle Generator: https://tom-moroney.com/auto-subs/ | Green Screen Extract: https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime | Discord: https://discord.gg/davinci-resolve-community-714620142096482314
+- Kdenlive — Video Editor — https://kdenlive.org/en/ | GitHub: https://github.com/KDE/kdenlive
+- LosslessCut — Single Video Editor — https://github.com/mifi/lossless-cut
+- Shotcut — Video Editor — https://shotcut.org/ | GitHub: https://github.com/mltframework/shotcut
+- Satvrn — Video Editors / Plugins — https://rentry.co/FMHYB64#satvrn
+- OpenShot — Video Editor — https://www.openshot.org/
+- VSDC — Video Editor — https://www.videosoftdev.com/
+- Auto-Editor — CLI Editor — https://auto-editor.com/
+- MoviePy — Python Editor — https://zulko.github.io/moviepy/
+- Webm Generator — Webm Editor — https://github.com/dfaker/WebmGenerator
+- avisynth — Video Processor — http://avisynth.nl/index.php/Main_Page
+- VapourSynth — Video Processor — https://www.vapoursynth.com/
+- Source Filmmaker — Steam Movie-Making Tool / Resources — https://store.steampowered.com/app/1840/Source_Filmmaker/ | Resources: https://sfmlab.com/
+- OpenRV — Image / Sequence Playback Review — https://github.com/AcademySoftwareFoundation/OpenRV
+- suckless-cut — Cut & Trim Videos — https://github.com/couleur-tweak-tips/suckless-cut
+- vidcutter — Cut & Trim Videos / Script — https://github.com/ozmartian/vidcutter
+- FreeMoCap — Motion Tracking — https://freemocap.org/
+- Kurku — Motion Tracking — https://app.kurku.tech/
+
+### Online Editors
+- wide.video — https://wide.video/ | Discord: https://discord.gg/Q54kW97yj5
+- Pikimov — Use Edge or Chrome — https://pikimov.com/
+- Mastershot — Requires Sign-Up — https://mastershot.app/
+- Klippy — https://www.klippy.pro/ | Discord: https://discord.gg/xJVXbQVPZP
+- FreeCut — , 2 — https://www.freecut.net/ | 2: https://freecut-sandy.vercel.app/ | GitHub: https://github.com/walterlow/freecut
+- Panzoid — https://panzoid.com/
+- ⁠Tooscut — https://tooscut.app/ | GitHub: https://github.com/mohebifar/tooscut
+- vidmix — https://vidmix.app/
+- Video Cutter — https://video-cutter-js.com/
+- Omniclip — https://omniclip.app/ | Discord: https://discord.com/invite/Nr8t9s5wSM | GitHub: https://github.com/omni-media/omniclip
+- Cuttr — Transcription Based Editor — https://cuttr.in/
+- Vididoo — Multitool — https://vididoo.vercel.app/
+- VideoCandy — Multitool — https://videocandy.com/
+- Video2Edit — Multitool — https://www.video2edit.com/
+- Crop Video — Crop Videos — https://crop-video.com/
+- LoopVid — Loop Videos — https://loopvid.kastden.org/
+- Crossfade — Video / Audio Crossfading — https://crossfade.io/
+- VidLouder — Increase Video Volume — https://www.videolouder.com/
+- Convert2Video — Image / Audio to Video — https://convert2video.com/
+
+### Effects / Enhancements
+- Efecto — , ⁠Grainrad or effect.app - Online Video Effects — https://efecto.app/ | ⁠Grainrad: https://grainrad.com/ | effect.app: https://effect.app/
+- Video Enhance AI — Video Enhancement Tool / Search "Topaz" or "UniFab" on LR — https://lrepacks.net/repaki-programm-dlya-grafiki/
+- Gyroflow — or ComfyUI-Video-Stabilizer - Video Stabilization — https://gyroflow.xyz/ | Discord: https://discord.com/invite/YaUtNpWTUh | GitHub: https://github.com/gyroflow/gyroflow | ComfyUI-Video-Stabilizer: https://github.com/nomadoor/ComfyUI-Video-Stabilizer
+- Flowframes — Beta or SVP / Guide - Video Interpolation / Increase FPS — https://nmkd.itch.io/flowframes | Beta: https://kemono.cr/patreon/user/19695417 | SVP: https://www.svp-team.com/ | Guide: https://www.svp-team.com/wiki/Manual:SVPcode
+- ⁠ntsc-rs — TV + VHS Artifact Video Effect Editor / Web Version — https://ntsc.rs/ | Web Version: https://web.ntsc.rs/ | GitHub: https://github.com/ntsc-rs/ntsc-rs
+- VideoColorizerColab — Video Colorization Colab — https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb
+- OpenColorIO — Video Color Manager — https://opencolorio.org/
+- FreshLUTs — Free LUTs (Color Filters) — https://freshluts.com/
+- blur — or Smoothie - Add Motion Blur to Videos / Tutorial — https://github.com/f0e/blur | Smoothie: https://github.com/couleur-tweak-tips/smoothie-rs | Tutorial: https://youtu.be/16-KU4r3BcA
+- ProPainter — Video Inpainting — https://github.com/sczhou/ProPainter
+- CorridorKey — AI Green Screen Extraction Tool / Unmixing / High VRAM Requirements / DaVinci Plugin / GUI — https://github.com/nikopueringer/CorridorKey | DaVinci Plugin: https://github.com/alexandremendoncaalvaro/CorridorKey-Runtime | GUI: https://github.com/edenaion/EZ-CorridorKey/ | Discord: https://discord.gg/zvwUrdWXJm
+
+### VFX Sites
+- FootageCrate — https://footagecrate.com/
+- FreeVideoEffect — https://freevideoeffect.com/
+- VideoCoPilot — https://www.videocopilot.net/products/ae22/
+- VFXmed — https://www.vfxmed.com/
+- Team V.R releases — https://rentry.co/FMHYB64#team-vr
+- flex_cg_vfx — https://t.me/flex_cg_vfx
+- Download Pirate — Use Adblock — https://www.downloadpirate.com/ | Adblock: /privacy/#adblocking | Discord: https://discord.gg/ucTvVtBz9Z
+- ShareAE — After Effects — https://www.shareae.com/
+- HunterAE — After Effects — https://hunterae.com/
+- AETemp — After Effects — https://t.me/AETemp
+- Visual Effects Pack — After Effects — https://t.me/visual_effects_pack
+- AEDownloadPro — After Effects — https://aedownloadpro.com/
+- Intro HD — After Effects — https://intro-hd.net/
+
+### Animation Tools
+- Creator Resources — Art & Animation Resource Index — https://www.newgrounds.com/wiki/creator-resources/
+- Unreal Engine — , MoonRay , cgsoftbox , SketchUp / Plugins or Twinmotion - 3D Creation Tools — https://www.unrealengine.com/ | MoonRay: https://openmoonray.org/ | cgsoftbox: https://t.me/cgsoftbox | SketchUp: https://www.sketchup.com/ | Plugins: https://sucj.me/ | Twinmotion: https://www.twinmotion.com/en-US
+- Modding Guides — Unreal Engine Tools - Modding Guides / Megascans / Model Viewer / UPK Explorer / Wiki — https://github.com/Dmgvol/UE_Modding | Megascans: https://quixel.com/megascans | Model Viewer: https://www.gildor.org/en/projects/umodel | UPK Explorer: https://www.nexusmods.com/site/mods/587 | Wiki: https://www.pcgamingwiki.com/wiki/UPK_Explorer | Discord: https://discord.gg/9KPvQ4H
+- Immersity AI — 2D Image to 3D Animation Tool — https://www.immersity.ai/
+- ⁠Autograph — , OpenToonz / , Friction / , Wick Editor , Tixl / , Clipnote Studio , ⁠Touch Designer or Pencil2D - Motion Graphics Editors / Animation Tools — https://www.maxon.net/en/autograph | OpenToonz: https://opentoonz.github.io/e/ | GitHub: https://github.com/opentoonz/opentoonz | Friction: https://friction.graphics/ | GitHub: https://github.com/friction2d/friction | Wick Editor: https://www.wickeditor.com/editor/ | Tixl: https://tixl.app/ | GitHub: https://github.com/tixl3d/tixl | Clipnote Studio: https://calcium-chan.itch.io/clipnote | ⁠Touch Designer: https://derivative.ca/ | Pencil2D: https://www.pencil2d.org/
+- Animaker — Animated Video Creator — https://www.animaker.com/
+- 3DThis — 3D Animation Tools — https://3dthis.com/
+- ⁠Su3yaki — Create 3D Turntable Animations — https://kasuga.itch.io/su3yaki
+- Mega Scans — 3D Scans — https://quixel.com/megascans
+- Mixer — 3D Texture Creation Tool — https://quixel.com/mixer
+- PlanetSide — CG Environment Generator — https://planetside.co.uk/
+- cgplugdump — CG Software Plugins — https://t.me/cgplugdump
+- Physically Based — RGB Values of Elements — https://physicallybased.info/
+- AnimeEffects — , enve , Cavalry , TupiTube or Synfig - 2D Animation Tools — https://github.com/AnimeEffectsDevs/AnimeEffects | enve: https://maurycyliebner.github.io/ | Cavalry: https://cavalry.studio/ | TupiTube: https://tupitube.com/ | Synfig: https://www.synfig.org/
+- ScribbleDiffusion — Turn Doodles into Artwork — https://scribblediffusion.com/
+- MonsterMash — Sketch-Based Modeling & Animation Tool — https://monstermash.zone/
+- Storyboarder — Quickly Visualize & Test Animations — https://wonderunit.com/storyboarder/ | GitHub: https://github.com/wonderunit/storyboarder
+- LuxCoreRender — Rendering Engine — https://luxcorerender.org/
+- RenderChan — 2D Animation Render Manager — https://morevnaproject.org/renderchan/
+- Mandelbulber — or FragM - Fractal Rendering Software / 3D — https://mandelbulber.com/ | FragM: https://github.com/3Dickulus/FragM | 3D: https://mb3d.overwhale.com/
+- JWildfire — , IFSRenderer or Fractorium - Flame Fractal Rendering Software — https://jwildfire.overwhale.com/ | IFSRenderer: https://github.com/bezo97/IFSRenderer | Fractorium: http://fractorium.com/
+- BestSnip — , Sketch Machine , Plask or Rive - Online Animation Tools — https://bestsnip.com/animation/ | Sketch Machine: https://sketchmachine.net/ | Plask: https://plask.ai/ | Rive: https://rive.app/
+- Glaxnimate — or Trangram - Vector Animation Tools — https://glaxnimate.mattbas.org/ | Trangram: https://www.trangram.com/
+- LibreSprite — , GraphicsGale , Poxil / , JPixel , Aseprite / Guide , SpriteSheep / , KPix or SpookyGhost - Pixel Art Animation Tools — https://libresprite.github.io/ | GitHub: https://github.com/LibreSprite/LibreSprite | GraphicsGale: https://graphicsgale.com/us/ | Poxil: https://poxil.vercel.app/ | GitHub: https://github.com/F4tal1t/Poxil | JPixel: https://pixelfromhell.itch.io/jpixel | Aseprite: https://github.com/aseprite/aseprite | Guide: https://youtu.be/Z4Enx-Nb43E | SpriteSheep: https://spritesheep.com/ | Discord: https://discord.gg/cQBZV3FcEZ | KPix: https://github.com/krush62/KPix | SpookyGhost: https://encelo.itch.io/spookyghost
+- ⁠Wigglypaint — or FizzPaint - Browser Painting / Animated Brushes — https://wigglypaint.net/ | FizzPaint: https://fizzpaint.ameniwa.com/
+- Spritesheet Generator — Spritesheet Generator — https://spritesheetgenerator.online/
+- Animated Drawings — , ⁠FliiipBook , Mutsuacen , FAIR Animated Drawings or MotorPen - Animate Drawings — https://sketch.metademolab.com/ | ⁠FliiipBook: https://www.fliiipbook.com/ | Mutsuacen: https://mutsuacen.com/ | FAIR Animated Drawings: https://fairanimateddrawings.com/site/home | MotorPen: https://motorpen.com/
+- FlipAnim — Create Animated Flipbooks — https://flipanim.com/
+- Viggle — Animated Character Creators — https://viggle.ai/ | Discord: https://discord.com/invite/viggle
+- Mixamo — , Endorphin (search) / or Cascadeur - 3D Character Animation Tools — https://www.mixamo.com/ | Endorphin: https://archive.org/ | Reddit: https://www.reddit.com/r/endorphin/ | Cascadeur: https://cascadeur.com/
+- MMHuman3D — 3D Human Model Creator — https://github.com/open-mmlab/mmhuman3d
+- Talking Face Avatar — Talking Avatar Generator — https://github.com/Yazdi9/Talking_Face_Avatar
+- Blender Open Movies — CGI Assets — https://youtube.com/playlist?list=PLav47HAVZMjnTFVZL-aImCQIC0uLZtNCz
+
+### Stock Videos
+- Awesome Stock Resources — or CuteStockFootage - Stock Video Indexes — https://github.com/neutraltone/awesome-stock-resources#videos | CuteStockFootage: https://cutestockfootage.com/free/video
+- Pexels — Stock Videos — https://www.pexels.com/
+- Dareful — 4K Stock Videos — https://dareful.com/
+- Monzoom — 4K Stock Videos — https://www.monzoom.com/
+- BeachFrontBroll — Stock Videos — https://www.beachfrontbroll.com/
+- Videvo — Stock Videos — https://www.videvo.net/
+- veed.io — Stock Videos — https://www.veed.io/videos
+- VidsPlay — Stock Videos — https://www.vidsplay.com/
+- MixKit — Stock Videos — https://mixkit.co/
+- ineedfx — Stock Videos — https://ineedfx.com/
+- MotionPlaces — Worldwide Stock Videos — https://www.motionplaces.com/
+- DroneStock — Drone Video Footage — https://dronestock.com/
+- MovieTools — Video Loops — https://movietools.info/

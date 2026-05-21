@@ -1,0 +1,185 @@
+FMHY Downloading Library
+Source: https://fmhy.net/downloading
+
+Scraped from the FMHY Downloading page.
+
+> Downloading Download Sites, Software Sites, Open Directories
+## Download Directories
+
+- r/opendirectories — Open Directories Subreddit / / / u / ODScanner — https://www.reddit.com/r/opendirectories/ | Telegram: https://t.me/r_OpenDirectories | /u/ODScanner: https://reddit.com/u/ODScanner
+- EyeDex — , ODCrawler / or mmnt - Open Directory Search Engines — https://www.eyedex.org/ | ODCrawler: https://odcrawler.xyz/ | GitHub: https://github.com/MCOfficer/odcrawler-discovery | mmnt: https://www.mmnt.net/
+- Nicotine+ — or Soulseek - File Sharing App / / Stats / Server App / Batch DDL — https://nicotine-plus.org/ | GitHub: https://github.com/nicotine-plus/nicotine-plus | Soulseek: https://slsknet.org/ | Stats: https://github.com/mrusse/Slsk-Upload-Stats-Tracker | Server App: https://github.com/slskd/slskd | Batch DDL: https://github.com/fiso64/sldl
+- eMule — File Sharing App — https://www.emule-project.com/ | GitHub: https://github.com/irwir/eMule
+- mega.archive (Discord) — Chat - Megadrive Archive — https://discord.gg/R3zEZUPp3Q | Chat: https://discord.gg/ZRhpUtzvkC
+- Napalm FTP — , Mamont or Search-22 - FTP Search — https://www.searchftps.net/ | Mamont: https://www.mmnt.ru/int/ | Search-22: https://search-22.com/ftp-search-tools
+- Sala De Espera — Drive Sharing Community — https://matrix.to/#/!qbOtnJEDGsPuWZBHLX:matrix.org?via=matrix.org
+- Open Directory Downloader — Open Directory Indexer — https://github.com/KoalaBear84/OpenDirectoryDownloader
+- DemoZoo — , Pouet or scene.org - Demoscene Archives — https://demozoo.org/ | Pouet: https://www.pouet.net/prodlist.php | scene.org: https://files.scene.org/
+- CD.TextFiles — CD Text File Archive — http://cd.textfiles.com/
+- Defacto2 — Scene / Sub-Scene Database — https://defacto2.net/
+
+> TIP Some Open Directories track IP addresses. Always use a VPN or Tor when accessing these resources.
+## Download Sites
+
+- Internet Archive — Video / Audio / Books / Magazines / Newspapers / ROMs / Tools — https://archive.org/ | Tools: /storage/#internet-archive-tools
+- r/DataHoarder — or Archive Team / - Data Hoarding Communties — https://reddit.com/r/DataHoarder | Archive Team: https://wiki.archiveteam.org/ | Reddit: https://www.reddit.com/r/Archiveteam/
+- MaxRelease — Video / Audio / Magazines — https://max-rls.com/
+- SCNLOG — Video / Audio / ROMs / Books — https://scnlog.me/
+- SceneSource — , 2 - Video / Audio / ROMs / Books — https://www.scnsrc.me/ | 2: https://www.scenesource.me/
+- WorldSRC — Video / Audio — https://www.worldsrc.net/
+- DirtyWarez — Video / Audio / Books / Comics — https://forum.dirtywarez.com/
+- WarezForums — Video / Audio / ROMs / Books / Comics — https://warezforums.com/
+- AditHD — Video / Audio / Books — https://www.adit-hd.com/
+- wJungle — Audio / Books / NSFW / Requires Sign-Up — https://wjungle.net/
+- Novanon — Audio / Magazines / Comics / Books / Courses — https://novanon.net/
+- ReleaseBB — , 2 , 3 , 4 - Audio / Books / Magazines / Track Shows / PreDB — https://rlsbb.ru/ | 2: https://rlsbb.to/ | 3: https://rlsbb.cc/ | 4: https://rlsbb.in/ | Track Shows: https://openuserjs.org/scripts/drdre1/ReleaseBB_rlsbb_TV_Show_Tracker | PreDB: https://log.rlsbb.ru/
+- Psycho downloads — Audio / Books / Magazines — https://psychodownloads.com/
+- Merlin Warez — Audio / Books / Audiobooks / Comics / Magazines — https://merlinwz.com/
+- 1DDL — Audio / Books / Comics / Magazines — https://1ddl.org/
+- WarezLoad — Audio / Books — https://warezload.net/index.php
+- Katz DDL — Audio / Books / NSFW — https://katzddl.net/
+- TehParadox — Audio / Books / Magazines / ROMs — https://www.tehparadox.net/
+- downTURK — Audio / Books — https://www.downturk.net/
+- SoftArchive — , 2 , 3 , 4 , 5 , 6 , 7 - Audio / Books / Comics / Newspapers / Magazines / Status — https://softarchive.download/ | 2: https://softarchive.is/ | 3: https://sanet.lc/ | 4: https://sanet.st/ | 5: https://sanet.sb/ | 6: https://soft.ac/ | 7: https://sanet.ws/ | Status: https://sastatus.com/
+
+> TIP General DDL sites use multiple sources, so it's best to avoid them for software and games. If needed, use redirect bypassers to skip link shorteners.
+### Search Sites
+- Download CSE — CSE 2 - Multi-Site Search — https://cse.google.com/cse?cx=006516753008110874046:1ugcdt3vo7z | CSE 2: https://cse.google.com/cse?cx=006516753008110874046:reodoskmj7h
+- 4Shared — https://www.4shared.com/
+- File Host Search — https://cse.google.com/cse?cx=90a35b59cee2a42e1
+- Linktury — https://www.ddlspot.com/
+- MediafireTrend — Mediafire Search — https://mediafiretrend.com/
+- WarezOmen — Indexer / Search Engine — https://warezomen.com/
+- SunXDCC — or XDCC.EU - XDCC / Search Engine — https://sunxdcc.com/ | XDCC.EU: https://www.xdcc.eu/
+
+> TIP These aggregate from multiple sources, so it's best to avoid them for software / games.
+### Video Sites
+### Anime Sites
+### Educational Sites
+### Game Sites
+### Audio Sites
+## Software Sites
+
+- Adobe Alternatives — Adobe Software Alternative Index — https://github.com/KenneyNL/Adobe-Alternatives
+- Editing Software — ️ Editing Software or Satvrn - Editing Software — /torrenting/#torrent-sites | Satvrn: https://rentry.co/FMHYB64#satvrn
+- Virgil Software Search — , 2 / or Software CSE - Multi-Site Software Search — https://virgil.samidy.com/Software/ | 2: https://virgil-search.pages.dev/Software/ | GitHub: https://github.com/SamidyFR/Virgil | Software CSE: https://cse.google.com/cse?cx=ae17d0c72fa6cbcd4
+- CracksURL — Download Guide — https://cracksurl.com/ | Download Guide: https://cracksurl.com/how-to-download/
+- LRepacks — Use Translator — https://lrepacks.net/ | Translator: /text-tools/#translators
+- Mobilism — Requires Sign-Up — https://forum.mobilism.org/
+- Nsane Forums — Requires Sign-Up — https://www.nsaneforums.com/
+- AlternativeTo — or European Alternatives - Crowdsourced Recommendations — https://alternativeto.net/ | European Alternatives: https://european-alternatives.eu/
+- AIOWares — Software Forum — https://www.aiowares.com/
+- Moum — https://moum.top/en/
+- RetroSystemRevival — Oldschool Software — https://retrosystemsrevival.blogspot.com/
+- Libreware — Telegram Channels — https://t.me/Libreware
+- Rarewares — Rare Software — https://www.rarewares.org/
+- Software Heritage — Software Source Code Archive — https://www.softwareheritage.org/
+- ZXPInstaller — Adobe Extension Installer — https://zxpinstaller.com/
+
+> TIP Always scan downloaded software with VirusTotal before installation or run it in a sandboxed environment like Triage to prevent system compromise. Note that any apps with fake names are generally not worth using. Keep in mind some file hosts have fake popups, real downloads happen within the download pages themselves, not redirected pages, or popup tabs.
+### FOSS Sites
+- Awesome Open Source — , ⁠definitive-opensource , Awesome Useful Projects or Awesome OSS - FOSS Indexes — https://awesomeopensource.com/ | ⁠definitive-opensource: https://github.com/mustbeperfect/definitive-opensource | Awesome Useful Projects: https://github.com/Furthir/awesome-useful-projects | Awesome OSS: https://github.com/RunaCapital/awesome-oss-alternatives
+- Git Project Indexes — ️ Git Project Indexes — /storage/#git-projects
+- new(releases) — Software Release Notifications — https://newreleases.io/ | GitHub: https://github.com/newreleasesio
+- Is It Really FOSS — Determine if Software is FOSS — https://isitreallyfoss.com | Source Code: https://codeberg.org/danb/isitreallyfoss
+- SourceForge — FOSS Repositories — https://sourceforge.net/
+- OSSSoftware — FOSS Directory — https://osssoftware.org/
+- Fossies — FOSS Directory — https://fossies.org/
+- Gadgeteer — FOSS Directory — https://gadgeteer.co.za/opensourcesoftware/
+- FossHub — FOSS Directory — https://www.fosshub.com/
+- OSS Gallery — FOSS Directory — https://oss.gallery/ | GitHub: https://github.com/dubinc/oss-gallery
+- Opensource Builders — FOSS Alt Directory — https://opensource.builders/ | GitHub: https://github.com/junaid33/opensource.builders
+- OpenAlternative — FOSS Alt Directory — https://openalternative.co/
+- opensourcealternative.to — FOSS Alt Directory — https://www.opensourcealternative.to/
+- Awesome CLI Apps — or CLI Club / - FOSS CLI Apps / Tools — https://github.com/toolleeo/awesome-cli-apps-in-a-csv | CLI Club: https://cli.club/ | GitHub: https://github.com/cli-club/cli-club.github.io
+- Free Software Directory — FOSS Wikis — https://directory.fsf.org/wiki/Main_Page
+- FOSS Wiki — FOSS Wikis — https://wikipedia.org/wiki/Portal:Free_and_open-source_software/Categories
+
+### Freeware Sites
+- Awesome Free Software — , Awesome Free Apps , Windows Ultimate Collection or Free Lunch - Freeware Indexes — https://github.com/Axorax/awesome-free-apps | Windows Ultimate Collection: https://xdaforums.com/t/windows-ultimate-collection-guides.4507867/ | Free Lunch: https://github.com/auctors/free-lunch
+- Awesome Python Applications — Python App Index — https://github.com/mahmoud/awesome-python-applications
+- Software Package Managers — ️ Software Package Managers — /system-tools/#package-managers
+- FluentStore — Alt Microsoft Store App — https://github.com/yoshiask/FluentStore
+- DanStore — , store.rg or StoreWeb / - Microsoft Store WebUIs / Guide — https://danstore-ms.vercel.app/ | store.rg: https://store.rg-adguard.net/ | StoreWeb: https://msft-store.tplant.com.au/ | GitHub: https://github.com/StoreDev | Guide: https://rentry.co/paidAppsMsStore
+- MajorGeeks — Freeware Downloads — https://www.majorgeeks.com/
+- Softpedia — Freeware Directory — https://www.softpedia.com/
+- Realityripple — Freeware Directory — https://realityripple.com/
+- OlderGeeks — Freeware Directory — https://oldergeeks.com/
+- FilePuma — Freeware Directory — https://www.filepuma.com/
+- FileEagle — Freeware Directory — https://www.fileeagle.com/
+- LO4D — Freeware Directory — https://www.lo4d.com/
+- SoftwareOK — Freeware Directory — https://www.softwareok.com/
+- GRC — Freeware Directory — https://www.grc.com/freepopular.htm
+- Uwe Sieber — Freeware Directory — https://www.uwe-sieber.de/english.html
+- Software Informer — Freeware Directory — https://software.informer.com/
+- PortableApps.com — , PortableFreeware , Portapps or PortableAppZ - Portable Apps — https://portableapps.com/ | PortableFreeware: https://www.portablefreeware.com/ | Portapps: https://portapps.io/ | PortableAppZ: https://portableappz.blogspot.com/
+- Nirsoft — , Windows-Utilities , OS Vault or WinTools - Windows Software — https://www.nirsoft.net/ | Windows-Utilities: https://orga.cat/windows-utilities | OS Vault: https://osvault.weebly.com/directory.html | WinTools: https://www.wintools.info/
+- Suckless — Minimalist Software Ecosystem — https://suckless.org/
+- VETUSWARE — Abandonware / Operating Systems / Games — https://vetusware.com/
+- OldVersion — Old Versions of Software — http://www.oldversion.com/
+- Vintage Software Collection — or SCiZE's Classic Warez - Retro Software — https://rentry.co/FMHYB64#the-vintage-software-collection | SCiZE's Classic Warez: https://scenelist.org/
+- ⁠Commodore Software — Commodore 64 / Commodore 128 / VIC-20 Software — https://commodore.software/search/
+
+### Linux Software
+### Mac Software
+### IRC Tools
+- Awesome IRC — IRC Resources — https://github.com/davisonio/awesome-irc
+- IRC Client Comparisons — https://wikipedia.org/wiki/Comparison_of_IRC_clients
+- IRC Guide — , Libera Guides , New Blood or Simple Wiki Guide - IRC Guides — https://rentry.org/ircfmhyguide | Libera Guides: https://libera.chat/guides/ | New Blood: https://anonops.com/newblood/ | Simple Wiki Guide: https://wikipedia.org/wiki/Wikipedia:IRC/Tutorial
+- AdiIRC — , KVIrc , or Halloy - IRC Clients — https://adiirc.com/ | KVIrc: https://github.com/kvirc/KVIrc | Halloy: https://github.com/squidowl/halloy
+- Konversation — IRC Client — https://konversation.kde.org/ | GitHub: https://github.com/KDE/konversation
+- Convos — or TheLounge / - Self-hosted IRC Client — https://convos.chat/ | GitHub: https://github.com/convos-chat/convos/ | TheLounge: https://thelounge.chat/ | GitHub: https://github.com/thelounge
+- Libera — , tilde , AnonOps or Rizon - IRC Networks — https://libera.chat/ | tilde: https://tilde.chat/ | AnonOps: https://anonops.com/ | Rizon: https://rizon.net/
+
+## Usenet
+
+- Usenet-Uploaders — https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders
+- Usenet Guide / Automation Setup — 2 / 3 / 4 / 5 / 6 — https://docs.google.com/document/d/1TwUrRj982WlWUhrxvMadq6gdH0mPW0CGtHsTOFWprCo/mobilebasic | 2: https://redd.it/4x2mc9 | 3: https://www.iitk.ac.in/LDP/HOWTO/Usenet-News-HOWTO/x27.html | 4: https://graph.org/EVERYTHING-YOU-NEED-TO-KNOW-ABOUT-USENET-09-04 | 5: https://www.reddit.com/r/usenet/wiki/index/ | 6: https://blog.decryption.net.au/t/a-fully-automated-usenet-piracy-machine-with-plex-sabnzbd-and-sonarr/130
+- r/usenet — https://reddit.com/r/usenet
+
+### Indexers
+- Indexer List — Indexer List — https://www.reddit.com/r/usenet/wiki/indexers/
+- r/UsenetInvites — https://reddit.com/r/UsenetInvites
+- NZBHydra2 — NZB Meta search — https://github.com/theotherp/nzbhydra2
+- SceneNZBs — Multinational Indexer — https://scenenzbs.com
+- NzbPlanet — https://nzbplanet.net/
+- Orion — https://orionoid.com/
+- binsearch — https://binsearch.info/
+- NZB King — https://nzbking.com/
+- NZB Index — , 2 — https://www.nzbindex.com/ | 2: https://www.nzbindex.nl/
+- Newznab — https://www.newznab.com/
+- NZBStars — https://nzbstars.com/
+- usenet-crawler — https://www.usenet-crawler.com/
+- GingaDaddy — https://www.gingadaddy.com/
+- NZBFinder — https://nzbfinder.ws/
+- OldUSe — Search Usenet Articles — https://article.olduse.net/
+- altHUB — Unlimited Free Trials — https://althub.co.za
+- Spotweb — Spotnet Client — https://github.com/spotweb/spotweb
+
+### Providers
+- r/usenet Providers — Provider Lists — https://www.reddit.com/r/usenet/wiki/providers
+- r/usenet Deals — Provider Deals — https://www.reddit.com/r/usenet/wiki/providerdeals
+- Usenet Provider Deals — https://usenet.rexum.space/deals
+- Usenet Providers Map — https://usenet.rexum.space/tree
+- Free Trials — https://www.ngprovider.com/free-usenet-trials.php
+
+### Downloaders
+- sabnzbd — Grabber — https://sabnzbd.org/ | Grabber: https://github.com/lem6ns/sabgrab
+- NZBUnity — Send NZBs to Client / Firefox / Chrome — https://github.com/tumblfeed/nzbunity | Firefox: https://addons.mozilla.org/en-US/firefox/addon/nzb-unity/ | Chrome: https://chromewebstore.google.com/detail/nzb-unity/mpejfoghnejnbfkpbiafklkmlhebkapb
+- NZBGet — https://nzbget.com/ | GitHub: https://github.com/nzbgetcom/nzbget
+- ⁠magicNZB — 30 Day Trial (reset w / temp mail) — https://magicnzb.com/
+- Usenet File Hashes — Link File Hashes — https://gist.github.com/4chenz/de3a3490aff19fd72e4fdd9b7dafc8f4
+
+## Debrid / Leeches
+
+- Debrid Services Comparison — https://debridcompare.pages.dev/ | GitHub: https://github.com/fynks/debrid-services-comparison
+- Debrid Compatible Apps — ️ Debrid Compatible Apps — /video/#torrent-apps
+- TorBox — Paid / Requires Sign-Up / Unofficial Mobile Client — https://torbox.app/ | Unofficial Mobile Client: https://github.com/93Pd9s8Jt/atba | Reddit: https://www.reddit.com/r/TorBoxApp/ | Discord: https://discord.com/invite/torbox | GitHub: https://github.com/TorBox-App
+- Real-Debrid — Paid / Android Client / Torrent Client / DDL Client — https://real-debrid.com/ | Android Client: https://github.com/LivingWithHippos/unchained-android | Torrent Client: https://github.com/rogerfar/rdt-client | DDL Client: https://github.com/ItsYeBoi20/TorrentDownloaderRD
+- ⁠Cocoleech — , ⁠Downloader Zone or ⁠MixDebrid (use shortlink bypass) - Bypass Premium Link Limits — https://cocoleech.com/premium-link-generator | ⁠Downloader Zone: https://debrid.downloader.zone/ | ⁠MixDebrid: https://mixdebrid.com/
+- PixelDrain Bypass — , 2 - Bypass PixelDrain Link Speed Limits — https://pixeldrain-bypass.gamedrive.org/ | 2: https://pixeldrain-bypass.gamedrive.to/
+- iTeraPlay — , ⁠TeraBox Gen or 1024TeraDL - ⁠TeraBox Video Downloaders — https://iteraplay.com/ | ⁠TeraBox Gen: https://terabox.hnn.workers.dev/ | 1024TeraDL: https://1024teradl.com/
+- Multi-OCH Helper — Quickly Send DDL Links to Premiumize & NoPremium — https://greasyfork.org/en/scripts/13884-multi-och-helper
+- Debrid Media Manager — or Debrid Vault + Eclipse - ⁠Debrid Managers — https://debridmediamanager.com/ | Debrid Vault + Eclipse: https://discord.gg/B3QKzPRjhM
+
+## Download Managers

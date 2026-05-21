@@ -1,0 +1,793 @@
+FMHY Image Tools Library
+Source: https://fmhy.net/image-tools
+
+Scraped from the FMHY Image Tools page.
+
+> Image Tools Image Editors, Generators, Compress
+## Image Editing
+
+- PuccaNoodles' Sheet — Image Creation Resources — https://docs.google.com/spreadsheets/d/1-8OKuEvRR038Uno--Vi9tQRe4eFCSfQTPov7nXgiJ3w/
+- AI Image Generators — ️ AI Image Generators — /ai/#image-generation
+- Art Education — ️ Art Education — /educational/#art-editing
+- Croppola — , AutoCropper , Bulk Image Crop or Avatar Cropper - Cropping Tools — https://croppola.com/ | AutoCropper: https://www.autocropper.io/ | Bulk Image Crop: https://bulkimagecrop.com/ | Avatar Cropper: https://avatarcropper.com/
+- ⁠PixelFrame — Custom Pop Culture Graphic Generator — https://pixelframe.design/
+- Scribus — or Quarkdown / - Page Layout & Typesetting Programs — https://www.scribus.net/ | Quarkdown: https://quarkdown.com/ | GitHub: https://github.com/iamgio/quarkdown
+- Images.weserv.nl — Image Editing Server — https://images.weserv.nl/
+- GradientArt — or TailBlend - Gradient Editor — https://gra.dient.art/ | TailBlend: https://tailblend.vercel.app/
+- Canvas — Turn Simple Art into Photorealistic Landscapes — https://www.nvidia.com/en-us/studio/creative-side-hustle/
+- Image Splitter — Split Images into Tiles — https://ruyili.ca/image-splitter/
+- PicFont — Add Text to Images — https://picfont.com/
+
+### Editing Software
+- Editing Software — ️ Editing Software or Satvrn - Editing Software — /torrenting/#torrent-sites | Satvrn: https://rentry.co/FMHYB64#satvrn
+- Android Editors — ️ Android Editors — /mobile/#image-tools
+- GIMP — Photoshop UI / Texture Synthesizer — https://www.gimp.org/ | Photoshop UI: https://github.com/Diolinux/PhotoGIMP | Texture Synthesizer: https://github.com/bootchk/resynthesizer | Discord: https://discord.gg/kHBNw2B | Reddit: https://www.reddit.com/r/GIMP/ | GitLab: https://gitlab.gnome.org/GNOME/gimp
+- ImageMagick — Scripts — https://imagemagick.org/index.php | Scripts: https://www.fmwconcepts.com/imagemagick/index.php | GitHub: https://github.com/imagemagick/imagemagick
+- ⁠Affinity — or ⁠AffinityOnLinux / / No Login Method — https://www.affinity.studio/ | ⁠AffinityOnLinux: https://github.com/ryzendew/Linux-Affinity-Installer | No Login Method: https://rentry.co/FMHYB64#affinity
+- LazPaint — https://lazpaint.github.io/ | GitHub: https://github.com/bgrabitmap/lazpaint/
+- PhotoDemon — https://photodemon.org/ | GitHub: https://github.com/tannerhelland/PhotoDemon
+- ⁠RapidRAW — https://www.getrapidraw.com/ | Discord: https://discord.com/invite/cvFugZ2Hw8 | GitHub: https://github.com/CyberTimon/RapidRAW
+- Paint.net — https://www.getpaint.net/index.html | GitHub: https://github.com/paintdotnet
+- Gimel Studio — https://gimelstudio.com/ | GitHub: https://github.com/GimelStudio/GimelStudio
+- Hugin — Panorama Image Generator — https://hugin.sourceforge.io/
+- IOPaint — AI Image Multitool Editor — https://github.com/Sanster/IOPaint
+
+### Online Editors
+- Pixlr — Simple Editor / Hide Premium / Unlimited Saves , 2 — https://pixlr.com/ | Hide Premium: https://greasyfork.org/en/scripts/425737 | Unlimited Saves: https://greasyfork.org/en/scripts/460881 | 2: https://greasyfork.org/en/scripts/490940
+- Lunapic — Multi-Tool — https://lunapic.com/
+- Photopea — Photoshop Alt — https://www.photopea.com/
+- BitMappery — Photoshop Alt — https://www.igorski.nl/application/bitmappery/
+- iPiccy — Photoshop Alt — https://ipiccy.com/
+- Stet — Photoshop Alt — https://stet.io/
+- Polarr — Multi-Tool — https://photoeditor.polarr.co/
+- Resize Pixel — Multi-Tool — https://www.resizepixel.com/
+- Tom's Editor — Multi-Tool — https://tomseditor.com/editor/
+- photo.codes — Simple Editor w / Shareable Colab Codes — https://www.photo.codes/
+- MiNi Photo Editor — Simple Editor — https://mini2-photo-editor.netlify.app/ | GitHub: https://github.com/xdadda/mini-photo-editor
+- Polotno Studio — Simple Editor — https://studio.polotno.com/
+- ILoveImg — Simple Editor — https://www.iloveimg.com/photo-editor
+- UpperPix — Simple Editor — https://upperpix.com/
+- Online Photo Editor — Simple Editor — https://www.freeonlinephotoeditor.com/
+- Picverse — Simple Editor — https://www.picverse.com/online-photo-editor
+- webp2jpg — Simple Editor — https://renzhezhilu.github.io/webp2jpg-online/
+- edit.photo — Simple Editor — https://edit.photo/
+- RedKetchup — Multi-Tool — https://redketchup.io/
+- fffuel — Multi-Tool — https://fffuel.co/
+- Mara — Multi-Tool — https://mara.photos/
+
+### Content Removers
+- ObjectRemover — , Lama Cleaner , Inpaint , Cleanup.pictures or HAMA - Object Removers — https://objectremover.com/ | Lama Cleaner: https://lama-cleaner-docs.vercel.app/ | Inpaint: https://theinpaint.com/ | Cleanup.pictures: https://cleanup.pictures/ | HAMA: https://www.hama.app/
+- BG Bye — Background Remover — https://bgbye.io/ | GitHub: https://github.com/MangoLion/bgbye
+- Pixelcut — Background Remover — https://www.pixelcut.ai/
+- Ripolas Background Remover — Background Remover / Non-AI — https://ripolas.org/background-remover/
+- Change BG — Background Remover — https://www.change-bg.org/
+- Adobe Express Background Remover — Background Remover — https://www.adobe.com/express/feature/image/remove-background
+- remove.bg — Background Remover / GIMP Plugin — https://www.remove.bg/ | GIMP Plugin: https://github.com/manu12121999/RemoveBG-GIMP
+- Rembg — Self-Hosted Background Remover — https://github.com/danielgatis/rembg
+- Segment Anything — Visual Segmentation / GUI / Stable Diffusion WebUI / Extensions — https://aidemos.meta.com/segment-anything | GUI: https://github.com/dibrale/samist | Stable Diffusion WebUI: https://github.com/continue-revolution/sd-webui-segment-anything | Extensions: https://github.com/kevmo314/magic-copy
+
+### Upscale / Restore
+- Waifu2x — Anime Image Upscaling / WebUI , 2 , 3 / Self-Hosted — https://github.com/nagadomi/nunif | WebUI: https://www.waifu2x.net/ | 2: https://unlimited.waifu2x.net/ | 3: https://waifu2x.pro/
+- WaifuXL — Anime Image Upscaling / Online / Self-Hosted — https://waifuxl.com/
+- image-upscaling — Image Upscaling / Online — https://image-upscaling.net/
+- Upscayl — Image Upscaling / Self-Hosted — https://upscayl.org/ | GitHub: https://github.com/upscayl/upscayl
+- chaiNNer — Image Upscaling / Self-Hosted — https://chainner.app/ | GitHub: https://github.com/chaiNNer-org/chaiNNer
+- OpenModelDB — AI Upscaling Model Database — https://openmodeldb.info/
+- Real-ESRGAN — Image Restoration Algorithms / Face Restoration / Online / Self-Hosted — https://github.com/xinntao/Real-ESRGAN | Face Restoration: https://github.com/TencentARC/GFPGAN
+- IMGUpscaler — Image Upscaling / Restoration / Video Upscaling / Online — https://imgupscaler.ai/
+- Bigjpg — Image Upscaling / Online — https://bigjpg.com/
+- Ilaria_Upscaler — Image Upscaling / Online — https://huggingface.co/spaces/TheStinger/Ilaria_Upscaler
+- Final2x — Image Upscaling / Self-Hosted — https://github.com/Tohrusky/Final2x
+- Lossless Scaling — (search) - Image Upscaling — https://fmhy.net/gaming#download-games
+- Warlock-Studio — Image Upscaling — https://github.com/Ivan-Ayub97/Warlock-Studio
+- imgupscaler — Image Upscaling / Online — https://imgupscaler.com/
+- QualityScaler — Image Upscaling / Video Upscaling / Denoising / Self-Hosted — https://github.com/Djdefrag/QualityScaler
+- resdet — Detect Source Resolution of Upscaled Images / Self-Hosted — https://github.com/0x09/resdet
+
+### Image Effects
+- Mosh — , Efecto , glitch2 or GlitchyImage - Glitch Images — https://moshpro.app/ | Efecto: https://efecto.app/ | glitch2: https://akx.github.io/glitch2/ | GlitchyImage: https://glitchyimage.com/
+- PhotoFunia — , ⁠Grainrad , effect.app , ⁠Tooooools or Image Mage - Photo Effects / Filters — https://photofunia.com/ | ⁠Grainrad: https://grainrad.com/ | effect.app: https://effect.app/ | ⁠Tooooools: https://tooooools.app/ | Image Mage: https://imagemageage.github.io/
+- Palettum — Add Custom Color Palettes to Images & GIFs — https://palettum.com/ | GitHub: https://github.com/arrowpc/palettum
+- InColor — B&W Image Colorization / Requires Sign-Up — https://www.myheritage.com/incolor
+- ⁠Dual Shades — Generate B&W Images w / Colorized Subjects — https://dual-shades.anmolagrawal.dev/
+- PhotoJoiner — or ⁠Collaigo / (chrome) - Collage Makers / Editors — https://www.photojoiner.com/ | ⁠Collaigo: https://www.collaigo.com/ | Discord: https://discord.gg/WbVXpRkWZv
+- ⁠shabzefilters — ASCII, Dot, Braille, Block, Line, etc — https://shabzefilters.netlify.app/
+- VHS-Engine — VHS Effect Editor ⁠ — https://vhs-engine.netlify.app/
+- AIDraw — or ⁠FiniteCurve - Turn Photos into Line Art — https://ai-draw.tokyo/en/ | ⁠FiniteCurve: https://www.finitecurve.com/
+- Tiler — Mosaic Image Generator — https://github.com/nuno-faria/tiler
+- Fotosketcher — Turn Photos into Artwork — https://fotosketcher.com/
+- ⁠ImageToCartoon — Turn Images into Cartoons — https://imagetocartoon.com/
+- Mimi — Turn Photos into Coloring Book Sketch — https://mimi-panda.com/
+- Text-Image — Text Image Generator — https://www.text-image.com/
+- ordered-dither-maker — , BDFM , Ditherista or Dither Me This - Image Dithering / Bitmap Generators — https://seleb.github.io/ordered-dither-maker/ | BDFM: https://bitmap.designfamilymarket.com/ | Ditherista: https://github.com/robertkist/ditherista/ | Dither Me This: https://doodad.dev/dither-me-this/
+- Rutt-Etra-Izer — Scanned-line Images — https://airtightinteractive.com/demos/js/ruttetra/
+- Tinter — Hue Editor — https://github.com/uxie-io/tinter
+- Geometrize — Redraw Images with Geometric Shapes — https://www.geometrize.co.uk/ | GitHub: https://github.com/Tw1ddle/geometrize
+- PBNify — Paint by Number Tool — https://pbnify.com/
+- Party-ify — Party-ify Images — https://nathanielw.github.io/party-ify/
+
+### Linux Image Editing
+### Mac Image Editing
+## Image Creation
+
+### Painting / Drawing
+- Digital Art Brushes — Download Brushes — /storage/#digital-brushes
+- Krita — Painting App / / AI Generation / Docs — https://krita.org/en/ | AI Generation: https://github.com/Acly/krita-ai-diffusion/ | Docs: https://docs.krita.org/en/ | GitHub: https://github.com/KDE/krita
+- miniPaint — Browser Painting — https://viliusle.github.io/miniPaint/ | GitHub: https://github.com/viliusle/miniPaint
+- Pinta — Painting App — https://www.pinta-project.com/ | GitHub: https://github.com/PintaProject/Pinta
+- Magma — , ⁠MagicalDraw , DrawPile or malmal - Collaborative Drawing — https://magma.com/ | ⁠MagicalDraw: https://draw.kuku.lu/ | DrawPile: https://drawpile.net/ | malmal: https://malmal.io/
+- SmoothDraw — Painting App — https://qrli.github.io/smoothdraw/
+- ⁠Wigglypaint — or FizzPaint - Browser Painting / Animated Brushes — https://wigglypaint.net/ | FizzPaint: https://fizzpaint.ameniwa.com/
+- Inkscape — Drawing / Sketching — https://inkscape.org/ | GitLab: https://gitlab.com/inkscape/inkscape
+- FireAlpaca — Painting App — https://firealpaca.com/
+- PixiEditor — Vector Editor / Painting App — https://pixieditor.net/ | Discord: https://discord.com/invite/qSRMYmq | GitHub: https://github.com/PixiEditor/PixiEditor
+- SumoPaint — Browser Painting — https://sumopaint.com/
+- KRESKA.art — Browser Painting / Drawing — https://kreska.art/
+- Milton — Infinite Canvas Painting — https://www.miltonpaint.com/ | GitHub: https://github.com/serge-rgb/milton
+- AutoDraw — AI Drawing Tool — https://www.autodraw.com/
+- ⁠VibePaintAI — AI Painting Tool — https://vibepaint-ai-795372324720.us-west1.run.app/
+- VectorPaint — Vector Editor / Painting — https://vectorpaint.yaks.co.nz/
+- ⁠Provector — Vector Editor — https://start.provector.app/ | GitHub: https://github.com/diaoliu/provector
+- Graphite — Vector Editor — https://graphite.art | Reddit: https://www.reddit.com/r/graphite/ | Discord: https://discord.com/invite/uMjBz5N68W | GitHub: https://github.com/GraphiteEditor/Graphite
+- ⁠Vectorpea — Vector Editor — https://www.vectorpea.com/
+- Tilda — Vector Editor — https://tilda.cc/lp/vector/
+- HeavyPaint — Water Color Painting — https://www.heavypaint.com/
+- Mixbox Painter — Realistic Paint Mixing — https://scrtwpns.com/mixbox/painter/
+- Vervette — Realistic Fluid Painting — https://www.taron.de/Vervette/sandbox/
+- ArtistAssistApp — Useful Painting Tools — https://artistassistapp.com/
+- Inscribed — Sketch-Based Slides — https://inscribed.app/ | GitHub: https://github.com/chunrapeepat/inscribed
+- Sketch Toy — Drawing / Sketching — https://www.sketchtoy.com/
+- tldraw — Drawing / Sketching — https://www.tldraw.com/
+- Ok! So — Drawing / Sketching — https://okso.app/
+- Kleki — Drawing / Sketching — https://kleki.com/
+- Sketchbook — Drawing / Sketching — https://www.sketchbook.com/
+- Fresco — Drawing — https://www.adobe.com/products/fresco.html
+- Concepts — Drawing / Sketching — https://concepts.app/
+- MonsterMash — Sketch-Based Modeling & Animation Tool — https://monstermash.zone/
+- IOGraphica — Turn Mouse Movement into Art — https://iographica.com/
+- Perfect Freehand — Draw Free Hand Lines — https://perfect-freehand-example.vercel.app/ | GitHub: https://github.com/steveruizok/perfect-freehand
+- minimator — Create Grid-Based Drawings — https://minimator.app/ | GitHub: https://github.com/maxwellito/minimator/
+- Perspective Tools — Interactive Perspective Grids — https://perspectivetools.com/
+- Animated Drawings — , FAIR Animated Drawings , MotorPen - Animate Drawings — https://sketch.metademolab.com/ | FAIR Animated Drawings: https://fairanimateddrawings.com/site/home | MotorPen: https://motorpen.com/
+- DrawTab — Drawing Tablet Info / Wiki — https://docs.thesevenpens.com/drawtab
+
+### Pixel Art
+- Awesome Pixel Art — Pixel Art Resource Index — https://github.com/Siilwyn/awesome-pixel-art
+- Pixel Art Animation — ️ Pixel Art Animation — /video-tools/#animation-tools
+- ASCII Art — ️ ASCII Art — /text-tools/#ascii-art
+- Aseprite — Pixel Art Editor / Guide — https://github.com/aseprite/aseprite | Guide: https://youtu.be/Z4Enx-Nb43E
+- LibreSprite — Pixel Art Editor — https://libresprite.github.io/
+- Piskel — Pixel Art Editor — https://www.piskelapp.com/
+- rx — Pixel Art Editor — https://rx.cloudhead.io/ | Discord: https://discord.com/invite/xHggPjfsS9 | GitHub: https://github.com/cloudhead/rx
+- PixiEditor — Pixel Art Editor — https://pixieditor.net/ | Discord: https://discord.com/invite/qSRMYmq | GitHub: https://github.com/PixiEditor/PixiEditor
+- CSprite — Pixel Art Editor — https://csprite.github.io/ | GitHub: https://github.com/csprite/csprite
+- PyDPainter — Bitmap Graphics Editor — https://pydpainter.org/ | GitHub: https://github.com/mriale/PyDPainter
+- Paint Of Persia — Rotoscoping Pixel Art Tool — https://dunin.itch.io/ptop
+- Pixelated — Pixel Art Editor — https://pixelated.vercel.app/
+- PixilArt — Pixel Art Editor — https://www.pixilart.com/draw
+- ⁠Poxil — Pixel Art Editor — https://poxil.vercel.app/ | GitHub: https://github.com/F4tal1t/Poxil
+- GraphicsGale — Pixel Art Editor — https://graphicsgale.com/us/
+- JPixel — Pixel Art Editor — https://pixelfromhell.itch.io/jpixel
+- ⁠KPix — Pixel Art Editor — https://github.com/krush62/KPix
+- SpookyGhost — Pixel Art Editor — https://encelo.itch.io/spookyghost
+- PixelartVillage — , ⁠Pixel Converter , Pixel It , PixelartGenerator or Pixelart Converter - Image to Pixel Art Converters — https://pixelartvillage.com/ | ⁠Pixel Converter: https://pixel-converter.ameniwa.com/ | Pixel It: https://giventofly.github.io/pixelit/ | PixelartGenerator: https://pixelartgenerator.app/ | Pixelart Converter: https://app.monopro.org/pixel/?lang=en
+- GB Dot Converter — Image to Game Boy Style Art Converter — https://deepblizzard.itch.io/gb-dot-converter
+- ⁠GLORP — Convert Pixel Art to Optimized SVGs — https://zack-gphom.itch.io/glorp-pixel-to-svg | GitHub: https://github.com/ZackGphom/GLORP/
+- Pixelorama — 2D Sprite Editor — https://pixelorama.org/ | Discord: https://discord.com/invite/GTMtr8s | GitHub: https://github.com/Orama-Interactive/Pixelorama
+- pixeldudesmaker — or Creature Mixer - Sprite Generator — https://0x72.itch.io/pixeldudesmaker | Creature Mixer: https://kenney.itch.io/creature-mixer
+- Nasu — Spritesheet Editor — https://hundredrabbits.itch.io/nasu
+- GIF to Frames — GIF to Spritesheet — https://giftoframes.com/
+- Pixel Snapper — Auto-Fix Pixel Art into Grids — https://www.spritefusion.com/pixel-snapper | Discord: https://discord.com/invite/8sCEAspmBV | GitHub: https://github.com/Hugo-Dz/spritefusion-pixel-snapper
+- Pixel Reconstructor — , Pixel Art Upscaler or Pixel Art Scaler - ⁠Pixel Art Upscalers — https://i-win.neocities.org/pixel/ | Pixel Art Upscaler: https://imaginarycatlab.com/free-pixel-art-upscaler.html | Pixel Art Scaler: https://lospec.com/pixel-art-scaler/
+
+### GIF Tools
+- Gifski — GIF Encoder — https://gif.ski/ | GitHub: https://github.com/ImageOptim/gifski
+- EZGif — , ⁠Klipy or GIFnText - GIF Generators — https://ezgif.com/ | ⁠Klipy: https://klipy.com/create/gif-maker/ | GIFnText: https://www.gifntext.com/
+- ⁠PicMix — Glitter Style GIF Creator — https://www.picmix.com/
+- ⁠MakeEmoji — , EmojiCreator or Slackmoji Lab - Make Custom Animated Emojis — https://makeemoji.com/ | EmojiCreator: https://emojicreator.ai/ | Slackmoji Lab: https://slackmojilab.com/
+- Gifsicle — GIF Generator — http://www.lcdf.org/gifsicle/ | GitHub: https://github.com/kohler/gifsicle
+- Giphy — , Tenor , Gifer , GifCities , Animations or GIFBin - View / Download GIFs — https://giphy.com/ | Tenor: https://tenor.com/ | Gifer: https://gifer.com/en | GifCities: https://gifcities.org/ | Animations: https://bleuje.com/animationsite/ | GIFBin: https://gifbin.com/
+- ⁠AnimGifMoji — GIF to Emoji Converter — https://www.animgifmoji.com/
+- DrawIsland — or Sketch Machine - Create GIFs from Drawings — https://drawisland.com/ | Sketch Machine: https://sketchmachine.net/
+- ScreenToGif — GIF Recorder — https://www.screentogif.com/ | GitHub: https://github.com/NickeManarin/ScreenToGif
+- licecap — Create GIFs via Screencasts — https://www.cockos.com/licecap/ | GitHub: https://github.com/justinfrankel/licecap
+- ugiffer — Create GIFs via Screencasts — https://iobureau.com/ugiffer/
+- blinkies.cafe — Custom Retro Blinkie GIFs / Badges — https://blinkies.cafe/ | GitHub: https://github.com/piconaut/blinkies.cafe
+
+### Meme Tools
+- Know Your Meme — or FindThatMeme - Meme Databases — https://knowyourmeme.com/ | FindThatMeme: https://findthatmeme.com/
+- ImgFlip — Remove Watermarks , 2 , Meme Generator , Meme Town , MemeBetter , meme-generator , Classic Memes or Emacs Meme Generator - Meme Creators — https://imgflip.com/memegenerator | Remove Watermarks: https://greasyfork.org/en/scripts/485073 | 2: https://greasyfork.org/scripts/470387 | Meme Generator: https://www.memegenerator.top/ | Meme Town: https://meme.town/ | MemeBetter: https://memebetter.com/ | meme-generator: https://newfastuff.com/meme-generator/ | Classic Memes: https://classic.createa.meme/ | Emacs Meme Generator: https://github.com/larsmagne/meme
+- MemeCam — AI Meme Generator — https://www.memecam.io/
+- GreenScreenMemes — Green Screen Memes — https://greenscreenmemes.com/
+- TweetGen — Fake Tweet Creator — https://www.tweetgen.com/
+- iFake — Fake Text Creator — https://ifaketextmessage.com/
+- Objection! — Ace Attorney Courtroom / Objection Generator — https://objection.lol/
+- ⁠Iceberg Threads — Iceberg Chart Generator — https://icebergthreads.com/
+- Pokémon Battle Creator — Pokémon Battle Scene Meme Generator — http://www.pokemonbattlecreator.com/
+- Master of all Science — Rick and Morty Meme Generator — https://masterofallscience.com/
+- Frinkiac — Simpsons Meme Generator — https://frinkiac.com/
+- Morbotron — Futurama Meme Generator — https://morbotron.com/
+- LowQualitymemes — Low Quality / Cursed Meme Generator — https://www.lowqualitymemes.com/
+- YouWouldntStealAWebsite — "You Wouldn't Steal" Meme Generator — https://youwouldntsteala.website/editor.html
+- BreakYourOwnNews — Breaking News Meme Generator — https://www.breakyourownnews.com/
+- AnimorphGenerator — Animorph Image Generator — https://animorphgenerator.com/
+- AwesomeCars — Drip Car Memes — https://awesomecars.neocities.org/
+- GIFMemes — GIF Memes Creator — https://gifmemes.io/
+
+### Animation
+## Design Resources / Ideas
+
+- Design Resources — ️ Design Resources — /storage/#design-resources
+- archives.design — Graphic Design Archive — https://archives.design/
+- Muzli — or ⁠Cosmos - Design Inspiration Sites — https://search.muz.li/ | ⁠Cosmos: https://www.cosmos.so/
+- CARI — or CARI Are.na - Design Aesthetics History — https://cari.institute/ | CARI Are.na: https://www.are.na/consumer-aesthetics-research-institute/channels
+- People’s Graphic Design Archive — Graphic Design History — https://peoplesgdarchive.org/
+- One Page Love — Single Page Site Design Ideas — https://onepagelove.com/
+- SMPoster — Poster Designs — https://www.smposter.com/
+- AnotherGraphic — Typography Designs — https://anothergraphic.org/
+- The Boolean Game — Learn Boolean Operations in Vector Editors — https://boolean.method.ac/
+
+### Design Apps
+- Figma — Design Collab App — https://www.figma.com/
+- Canva — Design App / / Invites — https://www.canva.com/ | Invites: https://rentry.co/FMHYB64#canva
+- lunacy — Design App — https://icons8.com/lunacy
+- VistaCreate — Design App — https://create.vista.com/
+- Penpot — Design App & Prototyping Platform — https://penpot.app/ | GitHub: https://github.com/penpot/penpot
+- blush — Illustration Design — https://blush.design/
+- Pattern Ninja — Background / Pattern Design — https://patterninja.com/
+- Pixelied — Online Design Tool — https://pixelied.com/
+- ⁠Antlii — Online Design Generators — https://antlii.work/
+
+### Icons / Avatars
+- SVG Icons — ️ SVG Icons / SVG Tools — /storage/#svg-icons | SVG Tools: /developer-tools/#svg-tools
+- Alphacoders Avatars — PFPs / Avatars — https://avatars.alphacoders.com/
+- Picrew — Avatar Creator — https://picrew.me/en/
+- ⁠Icon Gen — Logo to Avatar / Icon Generator — https://icon-gen.netlify.app/
+- PixelMe — or Avatar Mixer - 8-bit Avatar Creators — https://xsgames.co/pixelme/ | Avatar Mixer: https://kenney.itch.io/avatar-mixer
+- ⁠Square Face Generator — Square Face Avatar Generator — https://squareface.app/
+- ⁠Icon Z — , Avatar Maker , Avataaars or Personas - Simple Face Avatar Creators — https://icon-z.com/ | Avatar Maker: https://avatarmaker.com/ | Avataaars: https://getavataaars.com/ | Personas: https://personas.draftbit.com/
+- MultiAvatar — Generate Random Avatars — https://multiavatar.com/
+- ⁠FreeLogoMaker — , ⁠BrandCrowd , ⁠Logo Surf or OnlineLogoMaker - Logo Creators — https://myfreelogomaker.com/ | ⁠BrandCrowd: https://www.brandcrowd.com/ | ⁠Logo Surf: https://www.logo.surf/ | OnlineLogoMaker: https://www.onlinelogomaker.com/
+- Worldvectorlogo — , Brands of the World , seeklogo or SuperTinyIcons - Logo Search / Designs — https://worldvectorlogo.com/ | Brands of the World: https://www.brandsoftheworld.com/ | seeklogo: https://seeklogo.com/ | SuperTinyIcons: https://edent.github.io/SuperTinyIcons/
+- Logo Fast — or LogoFreeway - Simple Logo Creators Based on Premade Icons — https://logofa.st/ | LogoFreeway: https://logofreeway.com/logos.php
+- LogoMaker — Generate Logos Based on Project Name & Style — https://www.namecheap.com/logo-maker/app/new/
+- PFP Finder — PFPs / Avatars — https://pfpfinder.com
+- Random Avatars — PFPs / Avatars — https://randomavatar.com/
+- pfps.gg — Profile Picture Index — https://pfps.gg/
+- Innocenzi — Round Avatar Creator — https://avatar.innocenzi.dev/
+- RealFaviconGenerator — Favicon Generator — https://realfavicongenerator.net/
+- Formia — 2D to 3D Icon Converter — https://www.formia.so/
+
+### Textures / Patterns
+- AmbientCG — Textures — https://ambientcg.com/
+- TextureTown — Textures — https://textures.neocities.org/
+- 3D textures — Textures — https://icons8.com/l/3d-textures/
+- Textureking — Textures — https://www.textureking.com/
+- Texture Labs — Textures — https://texturelabs.org/
+- Transparent Textures — Textures — https://www.transparenttextures.com/
+- Texture Club — Textures — https://www.sketchuptextureclub.com/
+- TexturesForFree — Textures — https://texturesforfree.com/
+- texture4photoshop — Textures — https://t.me/texture4photoshop
+- MatLib — Textures — https://matlib.gpuopen.com/main/materials/all
+- TextureNinja — Textures — https://texture.ninja/
+- cgbookcase — Textures — https://www.cgbookcase.com/
+- Subtle Patterns — Patterns — https://www.toptal.com/designers/subtlepatterns/
+- Background Tiles — Patterns — https://background-tiles.com/
+- Pixela — or TextureLab - Texture Generators — https://pixela.ai/ | TextureLab: https://www.texturelab.io/
+- ⁠Normal Map Generator — 2D to 3D Texture Map Converter — https://normalmapgenerator.art/
+- TextureLab — Procedural Texture Generator — https://njbrown.itch.io/texturelab | Discord: https://discord.com/invite/975NdQPsSc | GitHub: https://github.com/njbrown/texturelab
+- Material Maker — Procedural Texture Creator — https://rodzilla.itch.io/material-maker
+- DoodDad — , Repeater , PatternPad , patternico , Repeater , more.graphics or Haikei - Pattern Generators — https://doodad.dev/pattern-generator | Repeater: https://repeater.space/ | PatternPad: https://patternpad.com/ | patternico: https://patternico.com/ | Repeater: https://www.richardwestenra.com/repeater/ | more.graphics: https://more.graphics/ | Haikei: https://app.haikei.app/
+- Noise & Gradient — , PhotoGradient , BGJar , MeshGradient or BGGenerator - Background / Gradient Generators — https://www.noiseandgradient.com/ | PhotoGradient: https://photogradient.com/ | BGJar: https://bgjar.com/ | MeshGradient: https://meshgradient.in/ | BGGenerator: https://bggenerator.com/
+- Tabbied — or Slopes - Art Pattern Generators — https://tabbied.com/ | Slopes: https://tinkersynth.com/slopes/
+- Mixer — 3D Texture Creation Software — https://quixel.com/mixer
+- The Textures Resource — Game Textures — https://textures.spriters-resource.com/
+- Trianglify.io — Low-Poly Texture Generator — https://trianglify.io/
+
+### Free Assets
+- Gumroad — Enter $0 / Some NSFW — https://gumroad.com/
+- Freeject — https://www.freeject.net/
+- ⁠Salvaged — https://salvaged.nu/
+- AvaxGFX — https://avxgfx.com/
+- Cg_peers Archive — https://t.me/Cgpeers_archive
+- PNGTree — https://pngtree.com/
+- TianUI — https://www.titanui.com/
+- Designer Candies — https://designercandies.net/category/freebies/
+- PSDLY — https://www.psdly.to/
+- Unblast — https://unblast.com/
+- Gift4Designer — https://gift4designer.net/
+- CGPerec — https://t.me/cgperec
+- SearchGFX — https://searchgfx.com/
+- designersgan9 — https://m.vk.com/designersgan9
+- Free_Design_Files — https://t.me/Free_Design_Files
+- WockupWorld — https://m.vk.com/mockupworld
+- OnlyGFX — https://www.onlygfx.com/
+- The GFX — https://m.vk.com/the_gfx
+- Graphics Materials — https://vk.com/topic-178186634_39330245
+- desiignertm — https://vk.com/desiignertm
+- all_psd — https://vk.com/all_psd
+- Playersdsg — https://t.me/playersdsg
+- DOPE Editing — https://t.me/DOPE_editing
+- desgang — https://t.me/desgang
+- creativemrkt — https://t.me/creativemrkt
+- freepsdvn — https://freepsdvn.com/
+- PrivateDesigner — https://t.me/privatedesigner
+- Solutioonn — https://t.me/solutioonn
+- ae-project — https://ae-project.su/
+- godownloads — https://www.godownloads.org/
+- PanosFX — or Fix the Photo - Photoshop Actions — https://www.panosfx.com/ | Fix the Photo: https://fixthephoto.com/free-photoshop-actions
+
+## Download Images
+
+- designer — Image Download Site Indexes — https://start.me/p/jj0JAp/designer
+- PNG Images / Clipart — ️ PNG Images / Clipart — /storage/#png-images-clipart
+- gallery-dl — , RipMe , WFDownloader , ImgDownloader , SCrawler / or Image Extractor - Image Download Tools — https://codeberg.org/mikf/gallery-dl | Discord: https://discord.gg/rSzQwRvGnE | RipMe: https://github.com/RipMeApp/ripme | WFDownloader: https://www.wfdownloader.xyz/ | ImgDownloader: https://imgdownloader.com/ | SCrawler: https://github.com/AAndyProgram/SCrawler | Discord: https://discord.gg/uFNUXvFFmg | Image Extractor: https://extract.pics/
+- same.energy — Visual Search Engine — https://same.energy/
+- Dezoomify — Download Zoomable Images — https://dezoomify.ophir.dev/
+- OpenMoji — or JoyPixels - Emojis — https://openmoji.org/ | JoyPixels: https://www.joypixels.com/
+- PixelJoint — , Lospec or rsrcs - Download / Share Pixel Art — https://pixeljoint.com/ | Lospec: https://lospec.com/ | rsrcs: https://rentry.co/rsrcs
+- shot.cafe — , ⁠StillsLab , FanCaps , Movie Screencaps , Animation Screencaps , or Film Grab - Media Screenshots / Stills — https://shot.cafe/ | ⁠StillsLab: https://stillslab.com/ | FanCaps: https://fancaps.net/ | Movie Screencaps: https://movie-screencaps.com/ | Animation Screencaps: https://animationscreencaps.com/ | Film Grab: https://film-grab.com/
+- Free Classic Image — Vintage / Retro Image Collection / Some NSFW — https://freeclassicimages.com/
+- Footyrenders — Football Related Images — https://www.footyrenders.com/
+- PSDGraphics — PSD Files — https://www.psdgraphics.com/
+- Placeit — Image Templates — https://placeit.net/
+- MariaLetta — Free Doodles — https://github.com/MariaLetta/mega-doodles-pack
+- Block Posters — , PosterRazor or Rasterbator - Create Printable Posters — https://www.blockposters.com/ | PosterRazor: https://posterazor.sourceforge.io/ | Rasterbator: https://rasterbator.net/
+
+### Image Search Engines
+- Search by Image — Browser Extension — https://github.com/dessant/search-by-image
+- Yandex Images — or Mavink - Image Search — https://yandex.com/images/ | Mavink: https://mavink.com/
+- SauceNao — Reverse Image Search / Extension — https://saucenao.com/ | Extension: https://saucenao.com/tools/
+- SmartImage — Reverse Image Search App — https://github.com/Decimation/SmartImage
+- Google Lens — Reverse Image Search — https://www.google.com/?olud
+- TinEye — Reverse Image Search / Extension — https://tineye.com/ | Extension: https://tineye.com/extensions
+- ⁠Bing Visual Search — Reverse Image Search — https://bing.com/camera
+- Copyseeker — Reverse Image Search — https://copyseeker.net/
+- infini.wtf — Reddit Image Search — https://infini.wtf/
+- IQDB — Reverse Image Search — https://iqdb.org/
+- MaxURL — Larger Image Search — https://qsniyg.github.io/maxurl/ | GitHub: https://github.com/qsniyg/maxurl
+- VISE — Image Search with Search Queries — https://www.robots.ox.ac.uk/~vgg/software/vise/
+- Have I Been Trained? — AI Image Search — https://haveibeentrained.com/
+- RootAbout — Archive / OpenLibrary Reverse Image Search — https://rootabout.com/
+- Multicolr — Color-Based Image Search — https://labs.tineye.com/multicolr/
+- trace.moe — or Saucekudasai - Anime Reverse Image Search — https://trace.moe/ | Saucekudasai: https://saucekudasai.com/
+- Pose Search — Pose Reference Image Search — https://x6ud.github.io/pose-search/ | GitHub: https://github.com/x6ud/pose-search
+
+### Stock Images
+- Awesome Stock Resources — Stock Photo Index — https://github.com/neutraltone/awesome-stock-resources#photography
+- GetPaidStock — , DownPic or Downloader.la - Paid Stock Photo Downloaders — https://getpaidstock.com/ | DownPic: https://downpic.cc | Downloader.la: https://downloader.la/
+- EveryPixel — , O-DAN or LibreStock - Stock Photo Search Engines — https://www.everypixel.com/ | O-DAN: https://o-dan.net/en/ | LibreStock: https://librestock.com/
+- Unsplash — Stock Photos / Royalty-Free — https://unsplash.com/
+- Pixabay — Stock Photos — https://pixabay.com/
+- Adobe Stock — Stock Photos / Royalty-Free — https://stock.adobe.com/free
+- Pixnio — Stock Photos / Royalty-Free — https://pixnio.com/
+- Pikwizard — Stock Photos / Royalty-Free — https://pikwizard.com/
+- Pexels — Stock Photos / Royalty-Free — https://www.pexels.com/
+- Pixelmob — Stock Photos / Royalty-Free — https://app.pixelmob.co/
+- diverseui — Human Face Photos / Royalty-Free — https://diverseui.com/
+- themeisle — Stock Photos / CC0 — https://mystock.themeisle.com/
+- PxHere — Stock Photos / CC0 — https://pxhere.com/
+- focastock — Stock Photos / CC0 — https://focastock.com/
+- Foodiesfeed — Food Photos / CC0 — https://www.foodiesfeed.com/
+- freenaturestock — Nature Photos / CC0 — https://freenaturestock.com/
+- Burst — Stock Photos — https://www.shopify.com/stock-photos
+- Hippopx — Stock Photos — https://www.hippopx.com/
+- BarnImages — Stock Photos — https://barnimages.com/
+- Lummi — AI Generated Stock Photos — https://www.lummi.ai/
+- Smithsonian Open Access — Smithsonian High-Quality Photos — https://www.si.edu/OpenAccess
+- desirefx — Stock Photo Overlays — https://desirefx.me/category/stock_images/
+- creativity103 — Abstract Background Photos — https://creativity103.com/
+- Warren Photographic — Animal Photos — https://www.warrenphotographic.co.uk/index.php
+- PhyloPic — Animal Silhouettes — https://www.phylopic.org/
+- iwaria — African Photos — https://iwaria.com/
+- twnsnd — Vintage Photos / Public Domain — https://nos.twnsnd.co/
+- PNGIMG — or stickpng - PNG Photos / Noncommercial License — https://pngimg.com/ | stickpng: https://www.stickpng.com/
+- gfxmountain — Stock Photo Collections — https://gfxmountain.com/stock-photos/
+- freepikuz_pro — FreePik Downloader — https://t.me/freepikuz_pro
+- Flickr Commons — Public Photo Archives / Downloader — https://www.flickr.com/commons | Downloader: https://github.com/beaufour/flickr-download
+- Shutterstock Premium — , freestockphotos or Shutter - Shutterstock Telegram Downloaders — https://t.me/shutterstockpremium | freestockphotos: https://t.me/freestockphotos | Shutter: https://t.me/Shutter
+- Nohat — , FreeImages , cgispread , Vecteezy or FreeDesignFile - Stock Photos / Vectors — https://nohat.cc/ | FreeImages: https://www.freeimages.com/ | cgispread: https://cgispread.com/ | Vecteezy: https://www.vecteezy.com/ | FreeDesignFile: https://freedesignfile.com/
+- publicdomainvectors — , Free Vector , VectorJunky , freevectors or vector4free - Vector Images — https://publicdomainvectors.org/ | Free Vector: https://www.freevector.com/ | VectorJunky: https://www.vectorjunky.com/ | freevectors: https://www.freevectors.net/ | vector4free: https://www.vector4free.com/
+- VectorPortal — or VectorStock - Vectores Images / Creative Common Attribution — https://www.vectorportal.com/ | VectorStock: https://www.vectorstock.com/free-vectors
+- 123freevectors — Background Vectors — https://www.123freevectors.com/
+- mockups-design — , zippypixels or Mockups - Product Mockups — https://mockups-design.com/ | zippypixels: https://zippypixels.com/ | Mockups: https://mockups.pixeltrue.com/
+
+> TIP Royalty-free implies images free for personal or commercial use with some usage restrictions (see site's TOS). CC0 stands for Creative Commons Zero and means images are public domain. Sites not tagged have licensing that varies.
+### Art / Illustrations
+- Digital Art Collections — ️ Digital Art Collections — /storage/#digital-art-collections
+- Kemono — Patreon Content / Some NSFW / Patreon Redirect , 2 / Use Adblock — https://kemono.cr/posts?tag= | Patreon Redirect: https://sleazyfork.org/en/scripts/483259 | 2: https://greasyfork.org/en/scripts/553616 | Adblock: /privacy/#adblocking
+- ArtStation — User-Made Art / Fanart — https://www.artstation.com/
+- Pixiv — Japanese Fanart — https://www.pixiv.net/
+- Downloader — Pixiv Tools - Downloader , 2 / Rankings / Official Frontend / Frontend List / Preview , 2 / Android — https://github.com/Nandaka/PixivUtil2 | 2: https://github.com/xuejianxianzun/PixivBatchDownloader | Rankings: https://pixiv.navirank.com/ | Official Frontend: https://pixiv.perennialte.ch/ | Frontend List: https://pixivfe-docs.pages.dev/instance-list/ | Preview: https://github.com/NightLancer/PixivPreview | 2: https://github.com/ppixiv/ppixiv | Android: https://github.com/Notsfsssf/pixez-flutter/blob/master/.github/README_en.md
+- Danbooru — , Sankaku Complex or yande.re - Anime-Style Image Booru / Downloader — https://safebooru.donmai.us/ | Sankaku Complex: https://www.sankakucomplex.com/ | yande.re: https://yande.re/ | Downloader: https://github.com/kuanyui/BooruShinshi
+- hydrus — Booru-Style Media Tagger — https://hydrusnetwork.github.io/hydrus/ | GitHub: https://github.com/hydrusnetwork/hydrus
+- ⁠Kultura — Art Discovery / Curation Platform — https://kultura.art/
+- Buzzly — User-Made Art / Fanart — https://buzzly.art/
+- ⁠Sheezy.Art — User-Made Art / Fanart — https://sheezy.art/
+- Artfol — User-Made Art / Fanart — https://www.artfol.app/
+- Cara — User-Made Art / Fanart — https://cara.app/
+- DeviantArt — User-Made Art / Fanart — https://www.deviantart.com/
+- InkBlot — User-Made Art / Fanart / Requires Sign-Up — https://inkblot.art/
+- ⁠Zerochan — Japanese Fanart / Some NSFW — https://www.zerochan.net/?p=1 | Discord: https://discord.gg/HkGgX6Qs3N
+- ⁠PidgiWiki — Video Game PNGs — https://www.pidgi.net/ | Discord: https://discord.gg/Eg9QahqpXf
+- Safebooru — or TBIB - Image Boorus — https://safebooru.org/ | TBIB: https://tbib.org/
+- icons8 — , LostGeometry , 3D Illustrations - 3D Illustrations — https://icons8.com/illustrations | LostGeometry: https://lostgeometry.craftwork.design/ | 3D Illustrations: https://3d.khagwal.com/
+- StorySet — , unDraw , blush or Humaaans - Customizable Illustrations — https://storyset.com/ | unDraw: https://undraw.co/illustrations | blush: https://blush.design/ | Humaaans: https://www.humaaans.com/
+- Pastel — Marker Illustrations — https://usepastel.com/marker-illustrations
+- Fresh Folk — or lukaszadam - Illustrations of People — https://fresh-folk.com/ | lukaszadam: https://lukaszadam.com/illustrations
+- free-gophers-pack — Gophers Illustrations — https://github.com/MariaLetta/free-gophers-pack
+- reshot — , freeillustrations , DrawKit , NiceIllustrations or manypixels - Misc Illustrations — https://www.reshot.com/ | freeillustrations: https://freeillustrations.xyz/ | DrawKit: https://www.drawkit.com/ | NiceIllustrations: https://niceillustrations.com/free-illustrations/ | manypixels: https://www.manypixels.co/gallery
+- OldBookIllustrations — Illustrations from Old Books — https://www.oldbookillustrations.com/
+- Buhitter — X.com Illustration Search — https://buhitter.com/
+- imgbrd-grabber — Booru Image Downloader — https://www.bionus.org/imgbrd-grabber/
+- Artbreeder — Image Discovery / Combining — https://artbreeder.com/
+- TEv2 — Share Your Drawings — http://te2.tewi.us/
+
+### Media Covers / Posters
+- Ben Dodson — , 2 - Movies / TV / Music / Comic / Book / Anime / Manga — https://bendodson.com/projects/itunes-artwork-finder/ | 2: https://bendodson.com/projects/apple-tv-movies-artwork-finder/
+- BigBoxCollection — 3D Game Boxes — https://bigboxcollection.com/
+- The Poster DB — , DVD Covers or MediUX - Movies / TV — https://theposterdb.com/ | Reddit: https://www.reddit.com/r/ThePosterDB | Discord: https://discord.com/invite/NARZqQX | DVD Covers: https://www.dvd-covers.org/ | MediUX: https://mediux.pro/
+- Movie Posters Gallery — , Film On Paper , The Poster Collector or IMP Awards - Movies — https://www.moviepostersgallery.com/ | Film On Paper: https://www.filmonpaper.com/posters/ | The Poster Collector: https://postercollector.co.uk/ | IMP Awards: http://www.impawards.com/
+- GameTDB — , The Cover Project , LibRetro Thumbnails or Gaming Alexandria - Games — https://www.gametdb.com/ | The Cover Project: https://www.thecoverproject.net/ | LibRetro Thumbnails: https://thumbnails.libretro.com/ | Gaming Alexandria: https://www.gamingalexandria.com/wp/#
+- Cover Century — Movies / Games — https://www.covercentury.com/
+- FanArt — Poster Fanart — https://fanart.tv/ | Discord: https://discord.gg/r9VufRk
+- r/MoviePosterPorn — Movie Poster Subreddit — https://www.reddit.com/r/MoviePosterPorn/
+
+### Download Extensions
+- Download all Images — https://webextension.org/listing/save-images.html | GitHub: https://github.com/belaviyo/save-images/
+- Cute Save Button — https://github.com/Dezaimasu/cute-button
+- svgexport — https://svgexport.io/
+- SVG Gobbler — https://github.com/rossmoody/svg-gobbler
+- Image Picka — https://github.com/eight04/image-picka
+
+### Wallpapers
+## 3D Models
+
+- Thingiverse — Share / Download 3D Models — https://www.thingiverse.com/
+- Printables — Find Practical 3D Models Ready for Printing — https://www.printables.com/
+- PolyHaven — , CadNav , Open3dModel or Archibase - Misc 3D Models — https://polyhaven.com/ | CadNav: https://www.cadnav.com/ | Open3dModel: https://open3dmodel.com/ | Archibase: https://archibase.co/
+- Sketchfab — , ⁠Tripo Studio (temp mail), 3DArchive , cgtrader or 3dsky - Misc 3D Models / Requires Sign-Up — https://sketchfab.com/ | ⁠Tripo Studio: https://studio.tripo3d.ai/ | 3DArchive: https://t.me/ArchiveStl | cgtrader: https://www.cgtrader.com/free-3d-models | 3dsky: https://3dsky.org/
+- Cults — , Thangs , MakerWorld or Pinshape - Printable 3D Models / Requires Sign-Up — https://cults3d.com/ | Thangs: https://thangs.com/ | MakerWorld: https://makerworld.com/ | Pinshape: https://pinshape.com/
+- STLFinder — Multi-Site Search — https://www.stlfinder.com/
+- 3D Warehouse — 3D Models Compatible with SketchUp / Requires Sign-Up — https://3dwarehouse.sketchup.com/
+- Pack 3D Models — Vehicle / Character 3D Models — https://p3dm.ru/
+- Figurosity — Human 3D Models — https://figurosity.com/
+- Handz — 3D Hand Models — https://www.handz.design/
+- Generated Photos — AI Generated Model Photos — https://generated.photos/
+- Archive3D — Furniture / Accessories / Vehicle 3D Models — https://free3d.io/
+- poly.pizza — Low Poly 3D Models — https://poly.pizza/
+- RIGModels — Rig / Animate 3D Models — https://rigmodels.com/
+- NASA 3D Resources — NASA 3D Models — https://nasa3d.arc.nasa.gov/models/printable
+- 3D Find It — Industrial / Engineering 3D Models — https://www.3dfindit.com/en/
+- ⁠McMaster — or 3D Find It - 3D Printable Hardware Parts + Tools — https://www.mcmaster.com/ | 3D Find It: https://www.3dfindit.com/en/
+- thebasemesh — Mesh 3D Models — https://www.thebasemesh.com/
+- BlenderKit — 3D Model Library Integrated into Blender — https://www.blenderkit.com/
+- ⁠Gridfinity — , ⁠Multiboard , ⁠openGrid or Jerrari Design - 3D Storage Systems — https://gridfinity.xyz/ | ⁠Multiboard: https://www.multiboard.io/ | ⁠openGrid: https://www.opengrid.world/ | Jerrari Design: https://www.jerrari3d.com/
+- CosplayStaticFigure — Cosplay / Figurine 3D Models — https://t.me/CosplayStaticFigure
+- 3DBrute — , 3DZip or DesignConnected - 3D Furniture Models — https://3dbrute.com/ | 3DZip: https://3dzip.org/ | DesignConnected: https://www.designconnected.com/
+- Vertex — 3D Icons — https://vertex.im/
+- Ameede — CNC / Laser Design Vectors — https://www.ameede.com/
+- Skybox — AI Generated 3D Environments — https://skybox.blockadelabs.com/
+- PoseManiacs — , Anatomy Doc or Adorkastock - Pose References — https://www.posemaniacs.com/ | Anatomy Doc: https://photos.google.com/share/AF1QipMbaSTp0BlK1kBCKVvfZzyDhcgCZQuaDBbp8v8Lj6hxnBaNh7YWoKwCPCYr-10--A?pli=1&key=cU5OaV9TVWhoMWlVZERnaEc2YVFKQTJHbnVDeWR3 | Adorkastock: https://www.adorkastock.com/
+
+### 3D Modeling Apps
+- Blender — FOSS 3D Modeling App — https://www.blender.org/ | Source Code: https://projects.blender.org/blender/blender
+- Resources — Blender Tools - Resources , / Addons / Plugins / Textures / Renderer / 3D Nodes / AI Render — https://awesome-blender.netlify.app/ | GitHub: https://github.com/agmmnn/awesome-blender | Addons: https://t.me/BlenderUniverse/3 | Plugins: https://t.me/blenderplugs | Textures: https://github.com/carson-katri/dream-textures | Renderer: https://github.com/prman-pixar/RenderManForBlender | 3D Nodes: https://t.me/geometrynodes | AI Render: https://github.com/benrugg/AI-Render
+- MCprep — All-in-one Minecraft Blender Addon — https://theduckcow.com/dev/blender/mcprep/ | Discord: https://discord.com/invite/mb8hBUC | GitHub: https://github.com/Moo-Ack-Productions/MCprep
+- Shap-e — Generate 3D Objects Based on Text / Image Prompts — https://github.com/openai/shap-e
+- Goo Engine — 3D Anime Blender Mod — https://www.dillongoostudios.com/gooengine/
+- Meshy.ai — , ⁠Tripo Studio (temp mail) or TRELLIS / / HuggingFace - AI 3D Model Generators — https://www.meshy.ai/ | Discord: https://discord.com/invite/KgD5yVM9Y4 | ⁠Tripo Studio: https://studio.tripo3d.ai/ | TRELLIS: https://trellis3d.github.io/ | GitHub: https://github.com/microsoft/TRELLIS | HuggingFace: https://huggingface.co/spaces/JeffreyXiang/TRELLIS
+- VFXmed — Blender Addons — https://www.vfxmed.com/
+- Wings 3D — Cross-Platform 3D Modeling App — https://www.wings3d.com/
+- Bforartists — Cross-Platform 3D Modeling App — https://www.bforartists.de/ | Discord: https://discord.com/invite/yKuR77v | GitHub: https://github.com/Bforartists/Bforartists
+- JustSketchMe — Cross-Platform 3D Pose Reference Tool — https://justsketch.me/
+- MakeHuman — 3D Humanoid Modeler — https://static.makehumancommunity.org/
+- PoseMy.art — , SetPose , DesignDoll , Magic Poser , Quickposes or JustSketchMe - Posing Tools — https://app.posemy.art/ | SetPose: https://setpose.com/ | DesignDoll: https://terawell.net/en/index.php | Magic Poser: https://magicposer.com/ | Quickposes: https://quickposes.com/en | JustSketchMe: https://app.justsketch.me/
+- Vectary — , Womp , Bloom3D or Zdog - Online 3D Modeling Tools — https://www.vectary.com/ | Womp: https://beta.womp.com/ | Bloom3D: https://bloom3d.com/ | Zdog: https://zzz.dog/
+- FaceMaker — 3D Face / Avatar Generator — http://facemaker.uvrg.org/
+- Recursivity — 3D Tree Creator — https://gregtatum.com/poems/recursive/5/
+- ModelViewer — , 3DViewer or F3D - 3D Model Viewers — https://modelviewer.dev/ | 3DViewer: https://3dviewer.net/ | F3D: https://f3d.app/
+- ⁠BumpMesh — 3D Model Texture Editor — https://bumpmesh.com/
+- Armorpaint — 3D Painting — https://armorpaint.org/
+- SculptGL — 3D Sculpting — https://stephaneginier.com/sculptgl/
+- MagicaVoxel — or Goxel - Voxel Art Editor / Interactive Path Tracing Renderer — https://ephtracy.github.io/ | Goxel: https://goxel.xyz/
+
+### 3D Modeling Tools
+- Efecto — 3D Model Visual Effects — https://efecto.app/
+- Embossify — or Tripo3D - Image to 3D Model Converters — https://www.embossify.com/ | Tripo3D: https://www.tripo3d.ai/app/home
+- ⁠Kiri:Moto — Web-Based 3D Model Slicer — https://grid.space/kiri/
+- 3D Transformer — Rotate 3D Images — https://www.3dtransformer.com/
+- 3DConvert — Online 3D Image Converter — https://3d-convert.com/en/
+- PaintUp — or ⁠VGGT - Make 2D Art into 3D — http://technohippy.github.io/teddyjs/ | ⁠VGGT: https://huggingface.co/spaces/facebook/vggt
+- Keygen — 3D Key Model Generator — https://keygen.co/
+- AliceVision — 3D Reconstruction / Camera Tracking — https://alicevision.org/ | GitHub: https://github.com/alicevision
+- Perspective Grid — 3D Perspective Tool — https://www.reubenlara.com/perspectivegrid/
+- Assemblr — Augmented Reality Image Creator — https://www.assemblrworld.com/
+- MeshLab — 3D Mesh Processing — https://www.meshlab.net/ | GitHub: https://github.com/cnr-isti-vclab/meshlab
+- Ninja Ripper — 2 - Extract 3D Models from Games — https://gamebanana.com/tools/5638 | 2: https://0curtain0.github.io/ninja_ripper.html
+
+### 3D Printing
+- Awesome 3D Printing — 3D Printing Resources — https://github.com/ad-si/awesome-3d-printing
+- Polymaker — or Teaching Tech / - 3D Printer Guides / Learning — https://wiki.polymaker.com/ | Discord: https://discord.com/invite/polymaker | Teaching Tech: https://teachingtechyt.github.io/index.html | GitHub: https://github.com/teachingtechYT/teachingtechYT.github.io
+- 3D Printer Recs — Hobbyist 3D Printer Recommendations — https://redd.it/1bh9jud
+- ⁠SpoolScout — Search / Compare 3D Printing Filament Prices — https://www.spoolscout.com/
+- ⁠step.parts — 3D Printing Step Files — https://www.step.parts/
+- OrcaSlicer — , ⁠PrusaSlicer / , ⁠CrealityPrint or Ultimaker Cura - 3D Printing Software — https://www.orcaslicer.com/ | X: https://x.com/real_OrcaSlicer | Discord: https://discord.gg/P4VE9UY9gJ | GitHub: https://github.com/OrcaSlicer/OrcaSlicer | ⁠PrusaSlicer: https://help.prusa3d.com/product/prusaslicer | GitHub: https://github.com/prusa3d/PrusaSlicer | ⁠CrealityPrint: https://github.com/CrealityOfficial/CrealityPrint | Ultimaker Cura: https://ultimaker.com/software/ultimaker-cura
+- ⁠e-NABLE — Volunteer Own 3D Printer for use in Prosthetic Limb Printing — https://enablingthefuture.org/
+
+### CAD Engineering
+- ⁠Solid Edge — CAD App — https://resources.sw.siemens.com/en-US/download-solid-edge-community-edition/
+- Onshape — CAD Modeling with Real-time Collaboration — https://www.onshape.com/en/products/free
+- Tinkercad — Educational CAD Modeling — https://www.tinkercad.com/
+- FreeCAD — Parametric CAD Modeling — https://www.freecad.org/ | GitHub: https://github.com/FreeCAD/FreeCAD
+- ⁠Chili3d — Web-Based CAD App — https://chili3d.com/ | GitHub: https://github.com/xiangechen/chili3d
+- BRL-CAD — or OpenSCAD - Cross-Platform CSG CAD Modeling — https://brlcad.org/ | OpenSCAD: https://openscad.org/
+- LibreCAD — or QCAD - 2D CAD Modeling — https://librecad.org/ | QCAD: https://www.qcad.org/en/
+- Mayo — 3D CAD Viewer and Converter — https://github.com/fougue/mayo
+- CadHub — , CAD Mapper or GrabCAD - Free CAD Files — https://cadhub.xyz/ | CAD Mapper: https://cadmapper.com/ | GrabCAD: https://grabcad.com/library
+
+## Image Tools
+
+- Creator Resources — Art / Animation Resources — https://www.newgrounds.com/wiki/creator-resources/
+- Awesome Colab Notebooks — Image Colab Resources — https://github.com/amrzv/awesome-colab-notebooks
+- Color Scheme Tools — ️ Color Scheme Tools — /developer-tools/#color-schemes
+- ImgOps — Image Operations Meta-Tool — https://imgops.com/
+- AntiDupl — or cbird - Duplicate Image Removers — https://github.com/ermig1979/AntiDupl | cbird: https://github.com/scrubbbbs/cbird
+- Slowpoke Pics — , ICAT or Image Comparison Tool - Image Comparisons — https://slow.pics/ | ICAT: https://www.nvidia.com/en-us/geforce/technologies/icat/ | Image Comparison Tool: https://jklgit.github.io/Image-Comparison-in-Browser/index.html
+- odiff — Image Visual Difference Tool — https://github.com/dmtrKovalenko/odiff
+- Picviewer CE+ — Turn Webpages into Image Galleries — https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+
+- ⁠Universal Sig Rotator — Rotates Image for Forum Signatures / Site Banners — https://sig.grumpybumpers.com/
+- Image Color Summarizer — Image Color Summarizer — https://mk.bcgsc.ca/color-summarizer/
+- Image Colors — Image Color Scatter Plot — https://franciscouzo.github.io/image_colors/
+- Image Pixel Sorter — Sort Pixels of Images — http://birdhat.org/misc/sort-pixels/
+- Adobe Bridge — Adobe Assets Manager — https://adobe.com/products/bridge.html
+- behind! — View Background Images — https://github.com/kubuzetto/behind
+- Visual Center — Find the Visual Center of an Image — https://javier.xyz/visual-center/
+- Watermarkly — , BatchWatermark or Watermarkup - Image Watermarking — https://watermarkly.com/ | BatchWatermark: https://batchwatermark.com/ | Watermarkup: https://watermarkup.com/watermark.html
+- Watermark Remover — , Unwatermark or DeWatermark - Watermark Removal — https://www.watermarkremover.io/ | Unwatermark: https://unwatermark.ai/ | DeWatermark: https://dewatermark.ai/
+- Glaze — or Nightshade - Protect Digital Art from AI Copies — https://glaze.cs.uchicago.edu/index.html | Nightshade: https://nightshade.cs.uchicago.edu/downloads.html
+- APNG Maker — Create / Optimize APNG Images — https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html
+- JPEGMedic ARWE — Ransomware-Encrypted Image Recovery Tool — https://www.jpegmedic.com/tools/jpegmedic-arwe/
+- CamScanner — Scan & Digitize Documents — https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783
+- Swapface — , Face Swapper , FaceSwapVideo , facy.ai , AIFaceSwap or FaceFusion - Face Swapping — https://swapface.org/ | Discord: https://discord.com/invite/5yPew6Cy6a | Face Swapper: https://faceswapper.ai/ | FaceSwapVideo: https://faceswapvideo.io/ | facy.ai: https://facy.ai/swap-face-ai/photo | AIFaceSwap: https://aifaceswap.io/ | FaceFusion: https://github.com/facefusion/facefusion
+- WiseTagger — Image Tagger — https://github.com/0xb8/WiseTagger
+- BooruDatasetTagManager — Booru Image Tagger — https://github.com/starik222/BooruDatasetTagManager
+- Cluttr — , Diffractor / , Exif Sorter or TagStudio - Image File Organizers / Managers — https://gitlab.com/bearjaws/cluttr | Diffractor: https://www.diffractor.com/ | GitHub: https://github.com/diffractor/diffractor | Exif Sorter: https://www.amok.am/en/freeware/amok_exif_sorter/ | TagStudio: https://github.com/TagStudioDev/TagStudio
+- Allusion — Reference Image Manager — https://allusion-app.github.io/
+
+### Image Compressors
+- Caesium — Compression Software / Web App / CLI — https://saerasoft.com/caesium/ | Web App: https://caesium.app/ | CLI: https://github.com/Lymphatus/caesium-clt | GitHub: https://github.com/Lymphatus/caesium-image-compressor
+- Squoosh — Compressor / Converter — https://squoosh.app/ | GitHub: https://github.com/GoogleChromeLabs/squoosh
+- Seopix — Batch Compressor / Editor — https://www.seopix.io/
+- optimize.photos — Batch Compressor — https://optimize.photos/
+- CompressImage — Batch Compressor — https://compressimage.io/
+- CrushImage — Batch Compressor — https://crushimage.com/
+- Bulk Image Compress — Batch Compressor — https://imagecompressr.com/
+- HiCompress — Batch Compressor — https://hicompress.com/tools
+- Compress JPEG — Batch Compressor / Unlimited Upload — https://compressjpeg.com/
+- TinyPNG — or TinyJPG - Batch Compressor / 20MB Upload — https://tinypng.com/ | TinyJPG: https://tinyjpg.com/ | GitHub: https://github.com/tinify
+- ImageSmaller — Compressor / 50MB Upload — https://www.imagesmaller.com/
+- CompressOrDie — Multitool — https://compress-or-die.com/
+- PNGQuant — PNG Compression Software — https://pngquant.org/ | GitHub: https://github.com/kornelski/pngquant
+
+### Image Optimization
+- ImageMagick — Image Optimization / Scripts — https://imagemagick.org/index.php | Scripts: https://www.fmwconcepts.com/imagemagick/index.php
+- RIOT — Image Optimization — https://riot-optimizer.com/
+- YOGA — Image Optimization — https://yoga.flozz.org/
+- ImageFoo — Image Optimization — https://imagefoo.com/
+- tiny.pictures — Image Optimization — https://tiny.pictures/
+- Pingo — Image Optimization / GUI — https://css-ig.net/pingo | GUI: https://css-ig.net/pinga
+- Ihancer — Image Optimization — https://ihancer.com
+- Oxipng — PNG Optimization — https://github.com/shssoichiro/oxipng
+- Crunch — PNG Optimization / Self-Hosted / No Sign-Up — https://github.com/chrissimpkins/Crunch
+
+### Image Converters
+- File Converter — ️ File Converter - Multi-Format Converters — /file-tools/#file-converters
+- RedKetchup — https://redketchup.io/
+- Knvrt — https://www.knvrt.one/
+- Convertmyimage — https://convert-my-image.com/
+- ImageConvert — https://imageconvert.org/
+- imverter — https://www.imverter.com/
+- Raw Pics — https://raw.pics.io/
+- Converseen — https://converseen.fasterland.net/
+
+### Image Resizing
+- PixelHunter — Resize Images for Different Sites — https://pixelhunter.io/
+- Resize App Icon — Resize Square Images — https://resizeappicon.com/
+- ⁠Pro Image Tool — https://proimagetool.com/
+- Simple Image Resizer — https://www.simpleimageresizer.com/
+- ImageResizer — https://imageresizer.com/
+- PicResize — https://picresize.com/
+- Birme — https://www.birme.net/
+- Bulk Image Resize — https://bulkimageresize.com/
+- ResizeNow — https://www.resizenow.com/en
+- BulkResizePhotos — https://bulkresizephotos.com/
+
+### Image to Text / OCR
+- ImageToText — Online OCR — https://www.imagetotext.info/
+- Capture2Text — , ⁠NormCap , / , tesseract or gImageReader - OCR Desktop Apps — https://capture2text.sourceforge.net/ | ⁠NormCap: https://dynobo.github.io/normcap/ | GitHub: https://github.com/dynobo/normcap | tesseract: https://github.com/tesseract-ocr/tesseract | gImageReader: https://github.com/manisandro/gImageReader
+- Text Grab — Minimal OCR Windows Tool — https://github.com/TheJoeFin/Text-Grab
+- TextShot — Cross-Platform OCR — https://github.com/ianzhao05/textshot
+- ImageScanOCR — Windows OCR Tool — https://github.com/ttop32/ImageScanOCR
+- Handwriting-OCR — Handwriting OCR — https://github.com/Breta01/handwriting-ocr
+- Project Naptha — Automatic OCR while Browsing Images — https://projectnaptha.com/
+- i2ocr — Online OCR — https://www.i2ocr.com/
+- GLM-OCR — Online OCR — https://ocr.z.ai/
+- OCR.SPACE — Online OCR — https://ocr.space/
+- OCRTool — Online OCR — https://ocrtool.net/
+- 2OCR — Online OCR — https://2ocr.com/
+- OnlineOCR — Online OCR — https://onlineocr.org/
+- NewOCR — Online OCR — https://www.newocr.com/
+- OnlineOCR — Online OCR — https://www.onlineocr.net/
+
+> TIP Keep in mind most AI Chatbots have built-in image to text, and in many cases are even more accurate than OCR tools. Note that these can also hallucinate content that may not actually be there.
+### Image Viewers
+- IrfanView — https://www.irfanview.com/
+- JPEGView — https://github.com/sylikc/jpegview
+- FastStone — https://www.faststone.org/index.htm
+- qView — https://interversehq.com/qview/
+- XnView MP — https://www.xnview.com/en/xnviewmp/
+- Digikam — https://www.digikam.org/
+- ImageGlass — https://imageglass.org/ | GitHub: https://github.com/d2phap/ImageGlass
+- ⁠Imagine — https://www.nyam.pe.kr/dev/imagine/
+- nomacs — https://nomacs.org/ | GitHub: https://github.com/nomacs/nomacs
+- qimgv — https://github.com/easymodo/qimgv
+- oculante — https://github.com/woelper/oculante
+- Diffractor — https://www.diffractor.com/ | GitHub: https://github.com/diffractor/diffractor
+- PhotoQt — https://github.com/luspi/photoqt
+- ⁠NeeView — https://neelabo.github.io/NeeView/en-us/ | GitHub: https://github.com/neelabo/NeeView
+- PicView — https://picview.org/
+- ImagefanReloaded — https://github.com/mihnea-radulescu/imagefanreloaded
+- Image Eye — https://www.fmjsoft.com/imageeye.html
+- Quick Picture Viewer — https://moduleart.github.io/quick-picture-viewer/
+- HoneyView — https://en.bandisoft.com/honeyview/
+- picturama — https://picturama.github.io/
+- narrative — https://narrative.so/
+- G'MIC — https://gmic.eu/
+- BeeRef — or PureRef - Reference Image Viewers — https://beeref.org/ | PureRef: https://www.pureref.com/
+- HDRView — or tev - HDR / Technical Image Viewers — https://github.com/wkjarosz/hdrview | tev: https://github.com/Tom94/tev
+- FlipFlip — Image Slideshow — https://github.com/ififfy/flipflip/
+
+### Offline Galleries
+- FOSS Photo Libraries — https://meichthys.github.io/foss_photo_libraries/
+- Android Galleries — ️ Android Galleries — /mobile/#image-galleries
+- Immich — Storage Server / Bulk Uploader — https://immich.app/ | Storage Server: https://pixelunion.eu/ | Bulk Uploader: https://github.com/simulot/immich-go | GitHub: https://github.com/immich-app/immich
+- Damselfly — https://github.com/Webreaper/Damselfly
+- Lap — https://julyx10.github.io/lap/ | GitHub: https://github.com/julyx10/lap
+- HomeGallery — https://home-gallery.org/
+- LibrePhotos — https://github.com/LibrePhotos/librephotos
+- Lychee — https://lycheeorg.github.io/
+- PhotoPrism — https://github.com/photoprism/photoprism
+- Photoview — https://github.com/photoview/photoview
+- Ente — https://help.ente.com/self-hosting/
+- Photonix — https://photonix.org/
+- photos — https://github.com/nextcloud/photos/
+- imagestore — https://github.com/gregordr/imagestore
+- Memories — https://memories.gallery/
+- Piwigo — https://piwigo.org/
+- PiGallery 2 — https://bpatrik.github.io/pigallery2/
+- Up1 — https://github.com/Upload/Up1
+- Chevereto — https://chevereto.com/
+- Photofield — https://github.com/SmilyOrg/photofield
+- ⁠Urocissa — Handles Millions of Images — https://hsa00000.github.io/urocissa/ | GitHub: https://github.com/hsa00000/urocissa
+
+> TIP Note that the options listed in this section require self-hosting.
+### Online Galleries
+- Postimages — 32MB / Forever — https://postimages.org/
+- Rimgo — , 2 - Imgur Frontend — https://rimgo.codeberg.page/ | 2: https://codeberg.org/rimgo/instances
+- tixte — 15GB Storage Total / Forever / Requires Sign-Up — https://tixte.com/
+- lookimg — 20MB / Forever / Requires Sign-Up — https://lookimg.com/
+- Horizon — 75MB (500MB Storage) / Forever / Requires Sign-Up — https://horizon.pics/
+- imgchest — 10MB (30MB with Account) / Forever — https://imgchest.com/
+- Imgur — 20MB Image / 200MB Animated / Forever / Upload Limits / Direct Link Grabber — https://imgur.com/ | Upload Limits: https://help.imgur.com/hc/en-us/articles/26511665959579-What-files-can-I-upload-Is-there-a-size-limit | Direct Link Grabber: https://imgur.plen.io/
+- Google Photos — 200MB / 15GB Cloud / Forever — https://photos.google.com/
+- Zonerama — Unlimited / Forever — https://eu.zonerama.com/
+- Ente — Unlimited / 10GB Cloud — https://ente.com/
+- Piczel — 10MB / Forever / Requires Sign-Up — https://piczel.tv/
+- TurboImageHost — 20MB / Forever — https://www.turboimagehost.com/
+- ⁠gotohp — Save Morphe Session for Unlimited Google Photo Uploads — https://rentry.co/FMHYB64#gotohp
+- Google Photos Toolkit — Manage / Delete Google Photos — https://github.com/xob0t/Google-Photos-Toolkit
+- Google Takeout — Export from Google Photos / Script / Migration Tool — https://takeout.google.com/ | Script: https://github.com/Xentraxx/GooglePhotosTakeoutHelper | Migration Tool: https://github.com/garzj/google-photos-migrate
+- Google Photos EXIF — Populate Missing EXIF metadata in Google Photos — https://github.com/mattwilson1024/google-photos-exif
+
+### Image Hosts
+- ImgBB — 32MB / Forever — https://imgbb.com/
+- Catbox — 200MB / Forever / Proxy / ShareX Config / Tools / Extensions — https://catbox.moe/ | Proxy: https://fatbox.moe/ | ShareX Config: https://files.catbox.moe/w4ztcf.sxcu | Tools / Extensions: https://catbox.moe/tools.php
+- pixelfed — Decentralized Image Sharing Social Network / Requires Sign-Up / Tools / Android — https://pixelfed.org/ | Tools: /social-media-tools/#pixelfed-tools | Android: https://gitlab.shinice.net/pixeldroid/PixelDroid | GitHub: https://github.com/pixelfed/pixelfed
+- sxcu.net — Free ShareX Uploader Service / 95MB / N / A — https://sxcu.net/
+- FreeImage.Host — 64MB (128MB W / Account) / Forever — https://freeimage.host/
+- imgbox — 10MB / Forever — https://imgbox.com/
+- i — 8MB / Forever — https://tikolu.net/i/
+- IMGPile — 100MB / Forever — https://imgpile.com/
+- YourImageShare — 100MB / Forever — https://yourimageshare.com/
+- pic.maxiol — 100MB / Forever — https://pic.maxiol.com/
+- GIFYU — 50MB (100MB w / Account) / Forever — https://gifyu.com/
+- ThumbSnap — 48MB / Forever — https://thumbsnap.com/
+- Kepkuldes — 40MB / Forever — https://kepkuldes.com/
+- Pikky — 20MB / Forever — https://pikky.net/
+- imagebam — 20MB / Forever — https://www.imagebam.com/
+- imagevenue — 20MB / Forever — https://www.imagevenue.com/
+- FastPic — 25MB / Forever — https://fastpic.org/
+- ⁠EasyCaptures — Forever — https://easycaptures.com/
+- PicoShare — Self-Hosted — https://github.com/mtlynch/picoshare
+
+### Screenshot Tools
+- ShareX — Screenshot & Screen Recorder Tool / / Image Hosts / File Manager — https://getsharex.com/ | Image Hosts: /image-tools/#image-hosts | File Manager: https://xbackbone.app/ | Discord: https://discord.com/invite/ShareX | GitHub: https://github.com/ShareX/ShareX
+- Flameshot — https://flameshot.org/ | GitHub: https://github.com/flameshot-org/flameshot
+- Zipline — Self-Hosted ShareX Server — https://zipline.diced.sh/ | GitHub: https://github.com/diced/zipline
+- Greenshot — https://getgreenshot.org/ | GitHub: https://github.com/greenshot/greenshot
+- KSnip — https://github.com/ksnip/ksnip
+- FuseBase Capture — Chrome-based Extension — https://thefusebase.com/screenshot
+- PixpinApp — https://pixpin.cn/
+- ScreenshotX — https://screenshotx.com/
+- ⁠Pilko — Video Frame Capture Tool — https://pilko.studio/
+- VideoToJPG — Video Frame Extraction — https://videotojpg.com/ | Discord: https://discord.com/invite/PjJUPzrkRM
+- FRAMED — In-Game Screenshotting Tips — https://framedsc.com/index.htm
+- Moocup — or Screenshot Studio / - Screenshot Editors / Mockups — https://moocup.jaydip.me/ | GitHub: https://github.com/jellydeck/moocup/ | Screenshot Studio: https://www.screenshot-studio.com/ | GitHub: https://github.com/KartikLabhshetwar/screenshot-studio
+- Screenshot Guru — , Site-Shot or Pikwy - Take Screenshots of Websites — https://screenshot.guru/ | Site-Shot: https://www.site-shot.com/ | Pikwy: https://pikwy.com/
+- Screenshot Rocks — Create Screenshot Mockups of Websites — https://screenshot.rocks/ | GitHub: https://github.com/daveearley/screenshot.rocks
+- paste.photos — Paste Image to Download — https://www.paste.photos/ | GitHub: https://github.com/AlejandroAkbal/Paste-Image-to-Download
+- How to Screenshot — Multi-Platform Screenshot Tutorials — https://screenshot.help/ | GitHub: https://github.com/s-thom/howtoscreenshot
+
+### Palette Generators
+- Color Designer — , Color Palette Pro / Guide , TheGoodColors , Super Color Palette , ⁠ColorTones , Nof / or Coolors - Color Palette Generators — https://colordesigner.io/tools | Color Palette Pro: https://colorpalette.pro/ | Guide: https://colorpalette.pro/manual | TheGoodColors: https://thegoodcolors.com/ | Super Color Palette: https://supercolorpalette.com/ | ⁠ColorTones: https://colortones.aashuu.tech/ | Nof: https://nofpg.netlify.app/ | GitHub: https://github.com/Northstrix/nof | Coolors: https://coolors.co/
+- Clariss — , Color Palette Generator , Palitra or Color Picker - Generate Color Palettes from Images — https://www.clariss.xyz/ | Color Palette Generator: https://www.degraeve.com/color-palette | Palitra: https://palitra.app/ | Color Picker: https://imagecolorpicker.com/
+- Color Space — Generate Gradient Color Palettes — https://mycolor.space/
+- Colors Wall — or ColorKit - Generate Random Color Palettes — https://colorswall.com/ | ColorKit: https://colorkit.co/color-palette-generator/
+- Color Kit — Generate Color Palettes by Mixing 2 Colors — https://colorkit.io/
+- Pigment — , Eva Design System , Scale or Huey - Simple Color Palette Generators — https://pigment.shapefactory.co/ | Eva Design System: https://colors.eva.design/ | Scale: https://hihayk.github.io/scale/ | Huey: https://huey.design/
+- ColorBox — , hue.tools , Randoma11y , accessiblepalette or colorcolor - Advanced Color Palette Generators — https://colorbox.io/ | hue.tools: https://hue.tools/ | Randoma11y: https://randoma11y.com/ | accessiblepalette: https://accessiblepalette.com/ | colorcolor: https://colorcolor.in/
+- Good Palette — , Huemint , AI Colors or PaletteMaker - Generate UI Color Palettes — https://goodpalette.io/ | Huemint: https://huemint.com/ | AI Colors: https://aicolors.co/ | PaletteMaker: https://palettemaker.com/
+- Couleur.io — CSS Color Palettes Generator — https://couleur.io/
+- UI Colors — or Tints - Tailwind CSS Color Generators — https://uicolors.app/create | Tints: https://www.tints.dev/
+- Poolors — Generate Most / Least Used Color Palettes — https://poolors.com/
+
+### Color Pickers
+- React Color — Color Pickers Index — https://casesandberg.github.io/react-color/
+- BrandColors — Brand Color Palettes Index — https://brandcolors.net/
+- Material UI — , OKLCH , Color Deck , Picular or ColorKit's Color Picker - Color Pickers — https://materialui.co/colors/ | OKLCH: https://oklch.com/ | Color Deck: https://color.obscuredetour.com/ | Picular: https://picular.co/ | ColorKit's Color Picker: https://colorkit.co/color-picker/
+- Colorpicker — , Just Color Picker or epick - Color Picker Desktop Apps — https://colorpicker.fr/ | Just Color Picker: https://annystudio.com/software/colorpicker/ | epick: https://github.com/vv9k/epick
+- Colorscales — Find Colors in Color Space — https://www.colorscales.com/en/start
+- ColourCode — or Colordot - Find Colors by Moving Mouse — https://www.toptal.com/designers/colourcode/ | Colordot: https://color.hailpixel.com/
+- Geenes — or Leonardo - Find UI Color Palettes — https://geenes.app/welcome | Leonardo: https://leonardocolor.io/
+- Sorted CSS Colors — Find Similar CSS Colors — https://enes.in/sorted-colors/
+- Color Hunt — , COLOURlovers , SchemeColor , Culrs or Colorffy - Find Color Palettes — https://colorhunt.co/ | COLOURlovers: https://www.colourlovers.com/ | SchemeColor: https://www.schemecolor.com/ | Culrs: https://culrs.com/ | Colorffy: https://colorffy.com/
+- Adobe Color — Find Color Palettes with Color Wheel — https://color.adobe.com/
+- Color Lisa — Find Art-Based Color Palettes — https://colorlisa.com/
+- Color Leap — Find Historical Color Palettes — https://colorleap.app/
+
+## Photography / Cameras
+
+- Android Camera — ️ Android Camera - Android Camera Resources / Tools — /mobile/#android-camera
+- r/Photography Guide — or Cambridge In Colour - Photography / Camera Guides — https://www.reddit.com/r/photography/wiki/introduction | Cambridge In Colour: https://www.cambridgeincolour.com/
+- Camera Decision — or Digicamfinder - Compare Cameras — https://cameradecision.com/ | Digicamfinder: https://digicamfinder.com/
+- ⁠PentaxForums Reviews — Camera Gear Reviews — https://www.pentaxforums.com/reviews/all/
+- Camera Wiki — Camera Model Wiki — http://camera-wiki.org/
+- PhotoFeeler — Get Photo Feedback — https://www.photofeeler.com/
+- ⁠DaVinci Resolve — , darktable / , ⁠RapidRAW / / , RawTherapee / or ⁠LightZone - RAW Photo Editors — https://www.blackmagicdesign.com/products/davinciresolve | darktable: https://www.darktable.org/ | GitHub: https://github.com/darktable-org/darktable | ⁠RapidRAW: https://www.getrapidraw.com/ | Discord: https://discord.com/invite/cvFugZ2Hw8 | GitHub: https://github.com/CyberTimon/RapidRAW | RawTherapee: https://www.rawtherapee.com/ | GitHub: https://github.com/RawTherapee/RawTherapee | ⁠LightZone: https://github.com/ktgw0316/LightZone
+- HDRMerge — RAW Photography HDR Merge Tool — https://jcelaya.github.io/hdrmerge/ | GitHub: https://github.com/jcelaya/hdrmerge
+- PixelPeeper — Extract Lightroom Edits / Settings — https://pixelpeeper.com/
+- PhotoEphemeris — Photography Sunlight Calculator — https://photoephemeris.com/
+- MagicLantern — Custom Canon EOS Firmware / Unsupported — https://www.magiclantern.fm/ | Unsupported: https://magiclantern.fandom.com/wiki/Other_dslr | Reddit: https://www.reddit.com/r/MagicLantern/ | Discord: https://discord.gg/uaY8akC
+- CHDK — Custom Canon PowerShot Firmware — https://chdk.fandom.com/wiki/CHDK
+- fSpy — Still Image Camera Matching — https://fspy.io/
+- DPReview — Camera Image Quality Comparison — https://www.dpreview.com/reviews/image-comparison/fullscreen
+- Canon Camera Museum — History of Canon Cameras — https://global.canon/en/c-museum/camera-series.html
+
+### Photo Forensics / Metadata
+- Photo OSINT — Image OSINT Resources — https://start.me/p/0PgzqO/photo-osint
+- File Info / Metadata — ️ File Info / Metadata — /file-tools/#file-info-metadata
+- Fawkes — Facial Cloaking — http://sandlab.cs.uchicago.edu/fawkes/
+- FotoForensics — , Sherloq or Forensically - Photo Forensics Tools — https://www.fotoforensics.com/ | Sherloq: https://github.com/GuidoBartoli/sherloq | Forensically: https://29a.ch/photo-forensics/
+- ViewEXIF — , Jimpl , ExifData , OnlineEXIFViewer , ExifLooter or CameraSummary - EXIF / Metadata Viewers — https://www.imgonline.com.ua/eng/exif-info.php | Jimpl: https://jimpl.com/ | ExifData: https://exifdata.com/ | OnlineEXIFViewer: https://onlineexifviewer.com/ | ExifLooter: https://github.com/aydinnyunus/exifLooter | CameraSummary: https://camerasummary.com/
+- exiftool — , 2 , EXIFRemove , scrambled-exif , MetaEditor , Metadata-Remover , adarsus or VerExif - Remove Meta / EXIF Data — https://exiftool.org/ | 2: https://github.com/FrankBijnen/ExifToolGui/ | EXIFRemove: https://www.exifremove.com/ | scrambled-exif: https://gitlab.com/juanitobananas/scrambled-exif | MetaEditor: https://metaeditor.picvario.com/ | Metadata-Remover: https://github.com/Anish-M-code/Metadata-Remover | adarsus: https://www.adarsus.com/en/remove-metadata-online-document-image-video/ | VerExif: https://www.verexif.com/en/
+- Pic2Map — Image EXIF data viewer with GPS support — https://www.pic2map.com/
+- TheExifer — , Photini or ColorPilot - Image EXIF Data Editors — https://www.thexifer.net/ | Photini: https://github.com/jim-easterbrook/Photini | ColorPilot: https://www.colorpilot.com/exif.html
+- Picarta — , GeoSpy or GeoEstimation - Image Geolocation / Location Estimation — https://picarta.ai/ | Discord: https://discord.gg/g5BAd2UFbs | GeoSpy: https://geospy.net/ | GeoEstimation: https://labs.tib.eu/geoestimation
+- Image Identification Project — Image Identification Tool — https://www.imageidentify.com/
+- StegOnline — , OpenStego , OpenPuff , Steganography-PNG / , ImSter , stegano , hide-text or stegpy - Images Steganography Tools — https://georgeom.net/StegOnline/upload | OpenStego: https://www.openstego.com/ | OpenPuff: https://embeddedsw.net/OpenPuff_Steganography_Home.html | Steganography-PNG: https://pedrooaugusto.github.io/steganography-png/ | GitHub: https://github.com/pedrooaugusto/steganography-png | ImSter: https://github.com/DJayalath/ImSter | stegano: https://bztsrc.gitlab.io/stegano/ | hide-text: https://all-tools.github.io/hide-text-in-image/ | stegpy: https://github.com/izcoser/stegpy
+- Aperisolve — 2 or stegextract - Steganography Analysis Tool — https://aperisolve.fr/ | 2: https://www.aperisolve.com/ | stegextract: https://github.com/evyatarmeged/stegextract
+- Redacted — Blur, Pixelate or Blackout parts of Images — https://redacted.app/
+- Image Scrubber — Blur Images / Scrub Metadata — https://everestpipkin.github.io/image-scrubber/
+- Schizoware — Image Name / Hash Randomizer — https://sourceforge.net/projects/schizoware/
+- Base64 Image — Encode / Decode Images — https://www.base64-image.de/

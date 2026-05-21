@@ -1,0 +1,418 @@
+FMHY AI Library
+Source: https://fmhy.net/ai
+
+Scraped from the FMHY AI page.
+
+> Artificial Intelligence Chatbots, Text Generators, Image Generators, Chatbot Tools
+## AI Chatbots
+
+> TIP It's never a good idea to upload anything personal or confidential to cloud-based AIs, as many of them use your prompts for data collection or training purposes. If you want privacy, it's best to run LLMs locally. If a site does not state that sign-up is required, you can still use it without logging in, but you will face stricter limits and have access to fewer models.
+### Official Model Sites
+- DeepSeek — V4-Pro (Expert) / V4-Flash (Instant) / Sign-Up / Unlimited — https://chat.deepseek.com/ | Reddit: https://www.reddit.com/r/DeepSeek/ | Discord: https://discord.com/invite/Tc7c45Zzu5 | GitHub: https://github.com/deepseek-ai
+- Google AI Studio — Gemini 3.1 Pro / Gemini 3.5 Flash / Google Sign-Up / Add Features — https://aistudio.google.com/app/prompts/new_chat | Add Features: https://github.com/Nagi-ovo/gemini-voyager | Reddit: https://www.reddit.com/r/Bard/ | Discord: https://discord.com/invite/gemini
+- ⁠Z.ai — GLM-5.1 / GLM-5-Turbo / Slides / Sign-Up — https://chat.z.ai/ | Discord: https://discord.gg/QR7SARHRxK
+- Qwen — Qwen3.7-Max-Preview / Qwen3.7-Plus-Preview / Sign-Up — https://chat.qwen.ai/ | Reddit: https://www.reddit.com/r/Qwen_AI/ | Discord: https://discord.com/invite/CV4E9rpNSD | GitHub: https://github.com/QwenLM
+- Gemini — Gemini 3.1 Pro Preview (5 daily) / Gemini 3.1 Flash Lite / Add Features / Limits — https://gemini.google.com/ | Add Features: https://github.com/Nagi-ovo/gemini-voyager | Limits: https://support.google.com/gemini/answer/16275805 | Reddit: https://www.reddit.com/r/Bard/ | Discord: https://discord.com/invite/gemini
+- Kimi — Kimi K2.6 (Thinking) / Slides / Google Login or Phone # Required — https://www.kimi.com/ | Reddit: https://www.reddit.com/r/kimi/ | Discord: https://discord.gg/TYU2fdJykW | GitHub: https://github.com/MoonshotAI
+- Meta AI — Muse Spark / Meta Sign-Up / Unlimited — https://www.meta.ai/
+- ⁠Ernie — 5.1 Instant / Ernie 5.1 Thinking — https://ernie.baidu.com/
+- ChatGPT — GPT-5.5 Instant / r / OpenAI / r / ChatGPT — https://chatgpt.com/ | r/OpenAI: https://www.reddit.com/r/OpenAI/ | r/ChatGPT: https://www.reddit.com/r/ChatGPT/ | Discord: https://discord.com/invite/openai
+- ⁠MiMo Studio — MiMo-V2.5-Pro / MiMo-V2.5 / Sign-Up — https://aistudio.xiaomimimo.com/
+- Grok — Grok 4.2 Fast-Non-Reasoning / Grok 4.2 Fast-Reasoning / Traffic Based / Rate Display , 2 — https://grok.com/ | Rate Display: https://greasyfork.org/en/scripts/558017 | 2: https://chromewebstore.google.com/detail/grok-rate-limit-display/fcoijmefliggikpeofhojmkpoooocifk | Reddit: https://www.reddit.com/r/grok/ | Discord: https://discord.com/invite/kqCc86jM55
+- Microsoft Copilot — GPT-5.1 / Unlimited — https://copilot.microsoft.com
+- Claude — Claude Sonnet 4.6 / Require Sign-Up + Phone # / Resources / Learning , 2 / Usage Tracker — https://claude.ai/ | Resources: https://awesomeclaude.ai/ | Learning: https://github.com/ComposioHQ/awesome-claude-skills | 2: https://github.com/BehiSecc/awesome-claude-skills | Usage Tracker: https://github.com/lugia19/Claude-Usage-Extension | Reddit: https://www.reddit.com/r/ClaudeAI/ | Discord: https://discord.com/invite/6PPFFzqPDZ
+- MiniMax AI — MiniMax-M2.7 — https://agent.minimax.io/ | GitHub: https://github.com/MiniMax-AI/
+- ArceeAI — Trinity Large Thinking / Unlimited — https://chat.arcee.ai/chat | Discord: https://discord.com/invite/arceeai
+- Mistral — or Mistral (console) - Mistral Large 3 — https://chat.mistral.ai | Mistral (console): https://console.mistral.ai/home | Reddit: https://www.reddit.com/r/MistralAI/ | Discord: https://discord.gg/mistralai
+- ⁠Ai2 Playground — Olmo 3.1 32B (Think) / No Sign-Up / Unlimited — https://playground.allenai.org/ | Discord: https://discord.gg/NE5xPufNwu
+- ⁠LongCat — LongCat Flash Reasoning / Sign-Up / Unlimited — https://longcat.chat/ | X: https://x.com/Meituan_LongCat
+- ⁠Solar — Solar Pro 3 / No Sign-Up — https://console.upstage.ai/playground/chat | Discord: https://discord.com/invite/Cge9FYjV4h
+- Sarvam — Sarvam-105b / Sarvam-30b / Unlimited / Sign-Up — https://dashboard.sarvam.ai/chat
+- Apertus — , 2 - Apertus 70B — https://publicai.co/chat | 2: https://chat.publicai.co/
+- ⁠Hy3-preview — ⁠Hy3-preview / Unlimited — https://huggingface.co/spaces/tencent/Hy3-preview
+- Reka — Reka Flash 3.1 / Sign-Up — https://www.reka.ai/ | Discord: https://discord.gg/jtjNSD52mf
+- ⁠K2Think — LLM360 / MBZUAI (not Kimi) / Sign-Up — https://www.k2think.ai/
+- ⁠Inception Chat — Mercury 2 / Unlimited — https://chat.inceptionlabs.ai/
+
+### Multiple Model Sites
+- ⁠ISH — Claude Opus 4.6 / Claude Sonnet 4.6 / Multiple Models / Sign-Up (GitHub) — https://beta.ish.chat/ | Reddit: https://www.reddit.com/r/Ishchat/ | Discord: https://discord.gg/cwDTVKyKJz
+- ⁠Woozlit — Sonnet 4.6 / Gemini 3.1 Pro / DeepSeek-v4-Pro / Multiple Models / ≈2000 Monthly / Sign-Up — https://woozlit.com/ | Discord: https://discord.gg/rdBN6TYf66
+- Arena — , 2 - Multiple Models / Sign-Up / OpenAI Bridge — https://arena.ai/text/direct | 2: https://canaryarena.ai/text/direct | OpenAI Bridge: https://github.com/CloudWaddie/LMArenaBridge | X: https://x.com/arena | Discord: https://discord.com/invite/lmarena
+- Pollinations Chat — , 2 , 3 - Grok 4.20 Non-Reasoning / GLM-5.1 / GPT-5.4 / Multiple Models / Limits and Models — https://pollinations.ai/play | 2: https://ai-studio.puter.site/index.html | 3: https://hey-hi.space/unified | Limits and Models: https://enter.pollinations.ai/sign-in##models | Discord: https://discord.com/invite/pollinations-ai-885844321461485618
+- NVIDIA NIM — GLM-5.1 / Deepseek-v4-Pro / Kimi K2.6 / Multiple Models / No Sign-Up / Unlimited — https://build.nvidia.com/models
+- ⁠Together.ai — GLM-5.1 / Kimi K2.6 / Deepseek-V4 / Multiple Models / Up To 110 Daily — https://chat.together.ai/ | Discord: https://discord.gg/9Rk6sSeWEG
+- ⁠Element Flash — Multiple Models / Queue (if traffic is high) / Sign-Up — https://flash.kernal.bid/ | Discord: https://discord.gg/RwNb8YrHQX
+- ⁠Indic LLM Arena — Multiple Models / Unlimited — https://arena.ai4bharat.org/#/chat | Discord: https://discord.com/invite/HqJXnJNDaq
+- AI Assistant — Deepseek V3.2 / GLM-4.7 / Kimi K2.5 / Multiple Models / No Sign-Up — https://aiassistantbot.pages.dev/
+- Cerebras Chat — GLM-4.7 / Qwen3-235B / Qwen3 235B Instruct / Multiple Models / Sign-Up — https://chat.cerebras.ai/
+- Groq — GPT-OSS-120B / Llama 3.3 70B / Multiple Models / Sign-Up / Limits — https://console.groq.com/playground | Limits: https://console.groq.com/docs/rate-limits | Discord: https://discord.com/invite/e6cj7aA4Ts
+- Dolphin Chat — Dolphin 24B / Unrestricted / No Sign Up / Unlimited — https://chat.dphn.ai/
+
+### Specialized Chatbots
+- Awesome AI Web Search — , 2 - AI Search Engine Index — https://github.com/felladrin/awesome-ai-web-search | 2: https://huggingface.co/spaces/Felladrin/awesome-ai-web-search
+- NotebookLM — Document Chatbot / Note-Taking / Slides / Anki Export — https://notebooklm.google.com/ | Anki Export: https://chromewebstore.google.com/detail/ankinlm/ecoealfdeebafjpmhjdlbdgpgegjeaem | X: https://x.com/NotebookLM | Reddit: https://www.reddit.com/r/notebooklm/ | Discord: https://discord.com/invite/notebooklm
+- Google AI Mode — AI Search Engine / Pro (Google Signup) / Fast (No Signup) — https://google.com/aimode
+- ⁠Ask Brave — AI Search Engine — https://search.brave.com/ask
+- Perplexity — AI Search Engine / Enhancements — https://www.perplexity.ai/ | Enhancements: https://www.cplx.app/ | Discord: https://discord.com/invite/perplexity-ai
+- Arena — , 2 - AI Search Engine / Sign-Up / OpenAI Bridge — https://arena.ai/?mode=direct&chat-modality=search | 2: https://canaryarena.ai/search/direct | OpenAI Bridge: https://github.com/CloudWaddie/LMArenaBridge | X: https://x.com/arena | Discord: https://discord.com/invite/lmarena
+- ⁠iAsk AI — Research Chatbot — https://iask.ai/
+- ⁠AI Roundtable — Run Multi-Model Debates on Any Question — https://opper.ai/ai-roundtable/chat
+- ⁠Exa — AI Search Engine — https://exa.ai/search
+- Alphaxiv — Research Chatbot — https://www.alphaxiv.org/
+- Vane — FOSS AI Search Engine / Self-Hosted — https://github.com/ItzCrazyKns/Vane | Discord: https://discord.gg/26aArMy8tT
+- Learn About — or Learning Coach - Google's Educational Search AIs / Add Features — https://learning.google.com/experiments/learn-about | Learning Coach: https://gemini.google.com/gem/learning-coach | Add Features: https://github.com/Nagi-ovo/gemini-voyager
+- ⁠Sci-Bot — Sci-Hub Research Chatbot — https://sci-bot.ru/
+- SciSpace — Research Chatbot — https://scispace.com/ | Discord: https://discord.com/invite/cR3r8wP92C
+- Scinito — Research Chatbot — https://ekb.scinito.ai/ai/chat
+- Elicit — Research Chatbot — https://elicit.com/ | GitHub: https://github.com/elicit
+- PrivateGPT — Document Chatbot / Note-Taking — https://privategpt.dev/ | Discord: https://discord.com/invite/bK6mRVpErU | GitHub: https://github.com/zylon-ai/private-gpt
+- Onyx — Document Chatbot / Note-Taking — https://www.onyx.app/ | Discord: https://discord.com/invite/jDnRGhWhg4 | GitHub: https://github.com/onyx-dot-app/onyx
+- DocsGPT — Document Chatbot / Note-Taking — https://www.docsgpt.cloud/ | Discord: https://discord.com/invite/n5BX8dh8rU | GitHub: https://github.com/arc53/DocsGPT
+- ⁠Anara — Document Chatbot — https://anara.com/
+- ⁠Paper2Gal — Turn Academic Papers into Visual Novels via AI — https://paper2gal.com/
+- Hyperspace — P2P AI Network — https://hyper.space/ | GitHub: https://github.com/hyperspaceai
+
+### Local AI Frontends
+- SillyTavern — Desktop App / Presets / Themes — https://docs.sillytavern.app/ | Presets / Themes: https://discord.gg/MU5FKZvuT7 | Reddit: https://www.reddit.com/r/SillyTavernAI/ | Discord: https://discord.gg/sillytavern | GitHub: https://github.com/SillyTavern/SillyTavern
+- Open WebUI — Web UI — https://openwebui.com/ | Discord: https://discord.gg/5rJgQTnV4s | GitHub: https://github.com/open-webui/open-webui
+- Jan — Desktop App — https://jan.ai/ | Discord: https://discord.com/invite/FTk2MvZwJH | GitHub: https://github.com/menloresearch/jan
+- LM Studio — Desktop App / Self-Hosted Models Only — https://lmstudio.ai/ | Discord: https://discord.gg/aPQfnNkxGC | GitHub: https://github.com/lmstudio-ai
+- oobabooga — Web UI / Self-Hosted Models Only / Colab — https://github.com/oobabooga/textgen | Colab: https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb | Reddit: https://www.reddit.com/r/Oobabooga/ | Discord: https://discord.gg/jwZCF2dPQN
+- GPT4Free — Desktop App / Web — https://github.com/xtekky/gpt4free | Web: https://g4f.dev/chat/ | Telegram: https://telegram.me/g4f_channel | Discord: https://discord.com/invite/qXA4Wf4Fsm
+- Msty — Desktop App — https://msty.app/ | Discord: https://discord.gg/2QBw6XxkCC
+- Cherry Studio — Desktop App / Mobile — https://www.cherry-ai.com/ | Mobile: https://github.com/CherryHQ/cherry-studio-app | Discord: https://discord.gg/wez8HtpxqQ | GitHub: https://github.com/CherryHQ/cherry-studio
+- Chatbox — Desktop App — https://chatboxai.app/ | GitHub: https://github.com/chatboxai/chatbox
+- LobeHub — Desktop App / Requires Sign-Up — https://lobechat.com/chat | Discord: https://discord.gg/AYFPHvv2jT | GitHub: https://github.com/lobehub/lobe-chat
+- Noi — Desktop App — https://noib.app/ | Discord: https://discord.gg/kq2HXcpJSQ | GitHub: https://github.com/lencx/Noi
+- LibreChat — Web UI — https://librechat.ai/ | Discord: https://discord.com/invite/CEe6vDg9Ky | GitHub: https://github.com/danny-avila/LibreChat
+- LoLLMs — Web UI — https://lollms.com/ | GitHub: https://github.com/ParisNeo/lollms-webui
+- AnythingLLM — Desktop App — https://anythingllm.com/ | Discord: https://discord.com/invite/YCtUYD5vBf | GitHub: https://github.com/Mintplex-Labs/anything-llm
+- GPT4All — Self-Hosted — https://www.nomic.ai/gpt4all | Discord: https://discord.com/invite/myY5YDR8z8 | GitHub: https://github.com/nomic-ai/gpt4all
+- tgpt — Command-Line Interface — https://github.com/aandrew-me/tgpt
+- ⁠ch.at — Language Model Bridge / Lightweight / Minimal — https://github.com/Deep-ai-inc/ch.at
+
+### Self-Hosting Tools
+- Awesome Local LLM — Local LLM Platforms / Resources — https://github.com/rafska/awesome-local-llm/
+- llama.cpp — Self-Hosted Transformer-Based LLMs — https://github.com/ggerganov/llama.cpp
+- KoboldCpp — llama.cpp with API + GUI / ROCm / Colab — https://github.com/LostRuins/koboldcpp | ROCm: https://github.com/YellowRoseCx/koboldcpp-rocm | Colab: https://colab.research.google.com/github/LostRuins/koboldcpp/blob/concedo/colab.ipynb
+- Aphrodite Engine — Serve LLMs at Scale with Kobold & OpenAI APIs / Colab — https://aphrodite.pygmalion.chat/ | Colab: https://colab.research.google.com/github/AlpinDale/misc-scripts/blob/main/Aphrodite.ipynb | GitHub: https://github.com/PygmalionAI/aphrodite-engine
+- Petals — Self-Hosted — https://petals.dev/ | Discord: https://discord.gg/D9MwApKgWa | GitHub: https://github.com/bigscience-workshop/petals
+- Leon — Self-Hosted — https://getleon.ai/ | Discord: https://discord.gg/MNQqqKg | GitHub: https://github.com/leon-ai/leon
+- Ollama — Self-Hosted — https://ollama.com/ | Discord: https://discord.com/invite/ollama | GitHub: https://github.com/ollama/ollama
+- llamafile — Run LLM with Single Files — https://github.com/Mozilla-Ocho/llamafile | Discord: https://discord.gg/YuMNeuKStr
+- LLM-API-Key-Proxy — LLM API Key Proxy — https://github.com/Mirrowel/LLM-API-Key-Proxy
+- ⁠Can I Run AI Locally — or What Models? - Determine Which AI Models You Can Run Locally — https://www.canirun.ai/ | What Models?: https://whatmodelscanirun.com/
+- ⁠LocalAI — Self-Hosted Models — https://localai.io/ | GitHub: https://github.com/mudler/LocalAI
+
+### Roleplaying Chatbots
+- Sukino-Findings — AI Roleplay Resources — https://rentry.org/Sukino-Findings
+- Perchance — , 2 or Custom Api - Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW / Resources / Lemmy — https://perchance.org/ai-character-chat | 2: https://perchance.org/urv-ai-chat | Custom Api: https://perchance.org/amoled-chat | Resources: https://perchance.org/perlist | Lemmy: https://lemmy.world/u/perchance | Reddit: https://www.reddit.com/r/perchance/ | Discord: https://discord.gg/43qAQEVV9a
+- SillyTavern — Self-Hosted Roleplaying Models / Presets / Themes — https://docs.sillytavern.app/ | Presets / Themes: https://discord.gg/MU5FKZvuT7 | Reddit: https://www.reddit.com/r/SillyTavernAI/ | Discord: https://discord.gg/sillytavern | GitHub: https://github.com/SillyTavern/SillyTavern
+- PygmalionAI — Roleplaying Chatbots / Unlimited (Free Models) / Sign-Up / Guide / Resources , 2 — https://pygmalion.chat/ | Guide: https://wikia.schneedc.com/bot-creation/intro | Resources: https://claraiscute.neocities.org/Guides/PygmalionLinks/ | 2: https://claraiscute.pages.dev/Guides/PygmalionLinks/ | Reddit: https://www.reddit.com/r/PygmalionAI/ | Discord: https://discord.com/invite/pygmalionai | GitHub: https://github.com/PygmalionAI
+- Agnai — Chatbot Builders + Roleplaying + Images / Unlimited / Some NSFW — https://agnai.chat/ | Discord: https://discord.com/invite/DAn38sA8Qj
+- FlowGPT — Roleplaying Chatbots / Unlimited (Model-Ares) / Some NSFW — https://flowgpt.com | Discord: https://discord.com/invite/tWZGzcpTkf
+- Chub — Roleplaying Chatbots / Sign-Up / Some NSFW — https://chub.ai/ | Reddit: https://www.reddit.com/r/Chub_AI/ | Discord: https://discord.gg/chubai | GitHub: https://github.com/CharHubAI
+- HammerAI — Chatbot Builder + Roleplaying + Images / Unlimited / Some NSFW / Local — https://www.hammerai.com/characters | Local: https://www.hammerai.com/desktop | Discord: https://discord.com/invite/kXuK7m7aa9 | Reddit: https://www.reddit.com/r/HammerAI/ | X: https://x.com/HammerAIDotCom
+- Miku — Live Demo / Open-Source / Roleplaying / Some NSFW — https://docs.miku.gg/ | Live Demo: https://bots.miku.gg/ | Discord: https://discord.gg/3XPdpUdGgV
+- 4thWall AI — or WyvernChat - Roleplaying Chatbots / No Sign-Up — https://beta.4wall.ai/ | Reddit: https://www.reddit.com/r/4WallAI/ | Discord: https://discord.com/invite/4wallai | WyvernChat: https://app.wyvern.chat/
+- AI Dungeon — or Spellbound or FictionLab / - Roleplaying + Story Chatbot / No Sign-Up — https://aidungeon.com/ | Reddit: https://www.reddit.com/r/AIDungeon/ | Discord: https://discord.com/invite/HB2YBZYjyf | Spellbound: https://www.tryspellbound.com/ | FictionLab: https://fictionlab.ai/ | Discord: https://discord.com/invite/SKcb2C7HjH
+- KoboldAI Web — Roleplaying + Images / No Sign-Up / Unlimited / Some NSFW — https://lite.koboldai.net/ | Discord: https://discord.com/invite/XuQWadgU9k
+- TavernAI — Roleplaying / Story Chatbot / Colab — https://tavernai.net/ | Colab: https://colab.research.google.com/github/vrihatgan/TavernAI/blob/main/colab/colab.ipynb | Discord: https://discord.gg/zmK2gmr45t | GitHub: https://github.com/TavernAI/TavernAI
+- KoboldAI — GUI for Roleplaying Chatbots / No Sign-Up — https://koboldai.com/ | Discord: https://discord.com/invite/XuQWadgU9k | GitHub: https://github.com/henk717/KoboldAI
+- Crossing the Uncanny Valley — Realistic AI Voice Chatlooks — https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice#demo
+- ⁠your ai slop bores me — Interactive Human AI Roleplaying — https://youraislopbores.me/ | Discord: https://discord.gg/aislop
+
+## AI Writing Tools
+
+- Toolbaz — Online AI Text Tools — https://toolbaz.com/
+- TextFX — or Rytr - AI Creative Writing Tools / No Sign-Up — https://textfx.withgoogle.com/ | GitHub: https://github.com/google/generative-ai-docs/tree/main/demos/palm/web/textfx | Rytr: https://rytr.me/
+- Quarkle — AI Writing Assistant — https://quarkle.ai/
+
+### Grammar Check
+## Video Generation
+
+- VBench — Video Generation Model Leaderboard — https://huggingface.co/spaces/Vchitect/VBench_Leaderboard
+- ⁠GeminiGen AI — Veo 3.1 / Sora 2 / Grok / Meta (Image to Video) / Login required — https://geminigen.ai/app/video-gen | Discord: https://discord.gg/vJnYe86T8F
+- Google Flow — Veo 3.1 / Veo 3.1 Lite / 50 Credits Daily / Google Sign-Up — https://labs.google/fx/tools/flow | Discord: https://discord.com/invite/googlelabs
+- Bing Create — Sora 2 (10 Fast, Unlimited Slow- Per Day) / Image to Video / Sign-Up — https://www.bing.com/images/create/ai-video-generator
+- Arena — , 2 - 2 Daily / Sign-Up / Random Models / End-Watermark — https://arena.ai/?chat-modality=video | 2: https://canaryarena.ai/video | X: https://x.com/arena | Discord: https://discord.com/invite/lmarena
+- Design Arena — Multiple Models / Video Editing / Random Models / Reset Limits / w Temp Mail — https://www.designarena.ai/ | X: https://x.com/designarena | Discord: https://discord.com/invite/Bw9Ajcb3pR
+- Wan AI — Wan 2.7 / Image to Video / 10 Credits Daily (Fast Credit Based, Slow Unlimited) — https://create.wan.video/explore/video/generate?model=wan2.7 | GitHub: https://github.com/Wan-Video/Wan2.1
+- ⁠HunyuanVideo — Unlimited / Sign-Up — https://aistudio.tencent.com/modelSquare/home/play?modelId=303&from=/visual
+- Pollinations Chat — LTX-2.3 / Limits — https://pollinations.ai/play | Limits: https://enter.pollinations.ai/ | Discord: https://discord.com/invite/pollinations-ai-885844321461485618
+- Meta AI — Unlimited / Meta Sign-Up — https://www.meta.ai/
+- ⁠Klipy — Veo 3 / GIF Only / 4s-5s / 4 Daily / Sign-Up — https://klipy.com/create/gif-maker/
+- Qwen — 5 / 12 Per Hour — https://chat.qwen.ai/ | Discord: https://discord.com/invite/CV4E9rpNSD | GitHub: https://github.com/QwenLM
+- AIFreeVideo — Unlimited / MiniMax Video-01 / Sign-Up — https://aifreevideo.com/
+- ModelScope Video — Wan 2.2 14B / 3 Daily — https://modelscope.ai/civision/videoGeneration
+- Dreamina — 120 Credits Daily — https://dreamina.capcut.com/ai-tool/home?type=video&workspace=0
+- PixVerse — 3 Daily — https://pixverse.ai/ | Discord: https://discord.com/invite/MXHErdJHMg
+- Genmo — 30 Monthly — https://www.genmo.ai/ | GitHub: https://github.com/genmoai/mochi
+- FramePack — Desktop App / Local Models / Requires NVIDIA GPU — https://github.com/colinurbs/FramePack-Studio
+- Eggnog — AI Character Video Remixer + Editor — https://www.eggnog.ai/
+- ⁠Pinokio — Plugin-Based / Self-Hosted / NVIDIA Required — https://pinokio.co/
+
+> TIP Keep in mind that most of these will require signup, and in most cases can only generate relatively short videos.
+## Image Generation
+
+- Arena Text to Image — or Arena Editing - Image Gen Benchmarks / Leaderboards — https://arena.ai/leaderboard/text-to-image | Arena Editing: https://arena.ai/leaderboard/image-edit
+- Google Flow — Nano Banana Pro / 20+ Per Day / Varies / Nano Banana 2 / Unlimited / Google Login / / Remove Watermarks — https://labs.google/fx/tools/flow | Discord: https://discord.com/invite/googlelabs | Remove Watermarks: https://banana.ovo.re/
+- Google AI Mode — or Gemini / - Nano Banana 2 / 20 Per Day / Google Login / Remove Watermarks , 2 / Add Features — https://google.com/aimode | Discord: https://discord.com/invite/googlelabs | Gemini: https://gemini.google.com/ | Discord: https://discord.com/invite/gemini | Remove Watermarks: https://banana.ovo.re/ | 2: https://greasyfork.org/en/scripts/559574 | Add Features: https://github.com/Nagi-ovo/gemini-voyager
+- ⁠GeminiGen AI — Nano Banana Pro / Nano Banana 2 / Grok Imagine / Sign-up — https://geminigen.ai/app/imagen | Discord: https://discord.com/invite/vJnYe86T8F
+- Arena — , 2 - Multiple Generators / Editing / Sign-Up / OpenAI Bridge — https://arena.ai/?mode=direct&chat-modality=image | 2: https://canaryarena.ai/image/direct | OpenAI Bridge: https://github.com/CloudWaddie/LMArenaBridge | X: https://x.com/arena | Discord: https://discord.com/invite/lmarena
+- ⁠Hunyuan Image Generation — Generating / Editing / 3D / Sign-Up / Unlimited — https://aistudio.tencent.com/chat/HunyuanDefault?modelId=Hunyuan-Image-3.0-Instruct
+- Bing Create — Unlimited / GPT Image 1 / Editing / Generating / Sign-Up — https://www.bing.com/images/create
+- Design Arena — Multiple Generators / Editing / Sign-up / Random Models / Reset Limits / w Temp Mail — https://www.designarena.ai/ | Discord: https://discord.com/invite/Bw9Ajcb3pR
+- Google AI Studio — Nano Banana / Google Login — https://aistudio.google.com/generate-image | Discord: https://discord.com/invite/gemini
+- Pollinations Chat — GPT Image 1.5 / Wan 2.7 Image / Qwen Image Plus / Limits and models — https://pollinations.ai/play | Limits and models: https://enter.pollinations.ai/sign-in##models | Discord: https://discord.com/invite/pollinations-ai-885844321461485618
+- Perchance — 2 - Chroma-Based / Unlimited / Resources / Lemmy — https://perchance.org/ai-photo-generator | 2: https://perchance.org/ai-text-to-image-generator | Resources: https://perchance.org/perlist | Lemmy: https://lemmy.world/u/perchance | Reddit: https://www.reddit.com/r/perchance/ | Discord: https://discord.gg/43qAQEVV9a
+- Dreamina — 120 Credits Daily / Seedream 5.0 lite / Nano Banana / Sign-Up — https://dreamina.capcut.com/ai-tool/home?type=image&workspace=0
+- Qwen — 30 Per 24 Hours / Editing / Sign-Up — https://chat.qwen.ai/ | Discord: https://discord.com/invite/CV4E9rpNSD | GitHub: https://github.com/QwenLM
+- Wan AI Image — Wan 2.7 Pro / Wan 2.6 / 10 Credits Daily (Fast Credit Based, Slow Unlimited) / Sign-Up — https://create.wan.video/explore/image/generate?model=wan2.7-pro
+- OpenSourceGen — Hunyuan Image 3.0 / Z-Image Turbo / 1500 Credits Per Day / Sign-Up — https://opensourcegen.com/ | Discord: https://discord.gg/W4Svx2QhHb
+- Recraft — 30 Daily / Sign-Up — https://www.recraft.ai/ | Discord: https://discord.gg/recraft
+- Reve Image — 20 Daily / Editing / Sign-Up — https://app.reve.com | X: https://x.com/reve | Discord: https://discord.gg/Nedxp9fYUZ
+- TheresAnAIForThat — or ⁠Vheer / / - Editing / Unlimited / Flux Kontext Dev — https://theresanaiforthat.com/@taaft/image-to-image-generator/ | ⁠Vheer: https://vheer.com/dashboard/tools/image-to-image | X: https://x.com/VheerAI | Discord: https://discord.com/invite/33qfQRCp5j
+- ⁠ZonerAI — Editing (sign up) + Generating (no sign up) / Unlimited — https://zonerai.com/en/image-editor
+- Meta AI — Generating + Editing / Unlimited / Meta Sign-Up — https://www.meta.ai/
+- ModelScope Images — Qwen Image Edit / Z-Image Turbo / 100 Credits Daily / Model Cost Varies — https://modelscope.ai/civision/imageGeneration
+- Z-GEN TURBO — or Freegen or AIGazou / or AIFreeForever - Z-Image Turbo — https://z-gen-turbo.vercel.app/ | Freegen: https://freegen.app/ | AIGazou: https://muryou-aigazou.com/ | Discord: https://discord.gg/v6KzUbPeKh | AIFreeForever: https://aifreeforever.com/image-generators
+- ⁠Ernie — or ERNIE (HF) / 2 - Unlimited / Editing / Sign-Up — https://ernie.baidu.com/ | ERNIE (HF): https://huggingface.co/spaces/baidu/ERNIE-Image-Turbo | 2: https://huggingface.co/spaces/akhaliq/ERNIE-Image-Turbo
+- LongCat AI — 100 Daily / Editing — https://longcat.chat/
+- ⁠MAI Playground — MAI-Image-2 / 10 Daily / Sign-Up — https://playground.microsoft.ai/chat
+- ⁠ChatGPT Image — GPT Image 2 / 8 Daily / Sign-Up — https://chatgpt.com/images/
+- Mage — , ⁠Tater AI , Loras / / , AI Gallery / , AIFreeForever or Art Genie - Flux Schnell — https://www.mage.space/ | Discord: https://discord.com/invite/GT9bPgxyFP | ⁠Tater AI: https://taterai.github.io/Text2Image-Generator.html | Loras: https://www.loras.dev/ | X: https://x.com/tater_ai | GitHub: https://github.com/Nutlope/loras-dev | AI Gallery: https://aigallery.app/ | Telegram: https://t.me/aigalleryapp | AIFreeForever: https://aifreeforever.com/image-generators | Art Genie: https://artgenie.pages.dev/
+- ⁠Coze — Seadream 4.0 / 50 Daily / Sign-Up with Phone / US Select CA — https://space.coze.cn/
+- imgsys — Compare Generators / Unlimited / No Direct Mode — https://imgsys.org/
+- Diffusers Image Outpaint — AI Image Extender — https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint
+- Genie — , Shap-e , Stable Dreamfusion or threestudio / Colab / - 3D Image Generators — https://lumalabs.ai/genie | Discord: https://discord.com/invite/ASbS3EykXm | Shap-e: https://github.com/openai/shap-e | Stable Dreamfusion: https://github.com/ashawkey/stable-dreamfusion | threestudio: https://github.com/threestudio-project/threestudio | Colab: https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb | Discord: https://discord.gg/ejer2MAB8N
+- Interactive Scenes — Generate Interactive Scenes — https://lumalabs.ai/interactive-scenes | Discord: https://discord.com/invite/ASbS3EykXm
+- Illusion Diffusion — Illusion Artwork Generator — https://huggingface.co/spaces/AP123/IllusionDiffusion
+
+### Local Frontends
+- Stability Matrix — https://lykos.ai/ | Discord: https://discord.com/invite/TUrgfECxHz | GitHub: https://github.com/LykosAI/StabilityMatrix
+- Invoke — https://invoke-ai.github.io/InvokeAI/ | Discord: https://discord.com/invite/ZmtBAhwWhy | GitHub: https://github.com/invoke-ai/InvokeAI
+- ComfyUI — https://www.comfy.org/ | Reddit: https://www.reddit.com/r/comfyui/ | Discord: https://discord.gg/comfyorg | GitHub: https://github.com/comfyanonymous/ComfyUI
+- Fooocus — , 2 / Colab — https://github.com/lllyasviel/Fooocus | 2: https://github.com/MoonRide303/Fooocus-MRE | Colab: https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb
+- Mochi Diffusion — Stable Diffusion for Mac — https://github.com/MochiDiffusion/MochiDiffusion | Discord: https://discord.com/invite/x2kartzxGv
+- DiffusionBee — Stable Diffusion for Mac — https://diffusionbee.com/ | Discord: https://discord.com/invite/t6rC5RaJQn | GitHub: https://github.com/divamgupta/diffusionbee-stable-diffusion-ui
+- SDNext — Colab / Photoshop / Templates / Upscaling , 2 — https://github.com/vladmandic/sdnext | Colab: https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab | Photoshop: https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin | Templates: https://github.com/ThereforeGames/unprompted | Upscaling: https://github.com/Coyote-A/ultimate-upscale-for-automatic1111 | 2: https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111
+- StableStudio — https://github.com/Stability-AI/StableStudio
+- Easy Diffusion — https://easydiffusion.github.io/ | Discord: https://discord.com/invite/u9yhsFmEkB | GitHub: https://github.com/easydiffusion/easydiffusion
+- Makeayo — https://makeayo.com | Discord: https://discord.gg/FbdSxdeV8m
+- biniou — https://github.com/Woolverine94/biniou
+- Dione — https://github.com/dioneapp/dioneapp
+- Sygil WebUI — Colab — https://sygil-dev.github.io/sygil-webui/ | Colab: https://colab.research.google.com/github/Sygil-Dev/sygil-webui/blob/main/Web_based_UI_for_Stable_Diffusion_colab.ipynb | Discord: https://discord.com/invite/ttM8Tm6wge | GitHub: https://github.com/Sygil-Dev/sygil-webui
+- Radiata — https://ddpn08.github.io/Radiata/en/
+- SD WebUI Forge — https://github.com/lllyasviel/stable-diffusion-webui-forge
+- ComfyUI-Zluda — https://github.com/patientx/ComfyUI-Zluda
+- ⁠Pinokio — Plugin-Based / Self-Hosted / NVIDIA Required — https://pinokio.co/
+- ⁠Diffuse — Stable Diffusion for AMD Systems — https://huggingface.co/TensorStack/Diffuse | Discord: https://discord.gg/ptgMMv36Xu
+
+### Guides / Tools
+- Paper2GUI — , sdg-link , LocalModelsLinks or SDTools - AI Image Resources — https://github.com/Baiyuetribe/paper2gui/blob/main/README_en.md | sdg-link: https://rentry.co/sdg-link | LocalModelsLinks: https://rentry.org/LocalModelsLinks | SDTools: https://sdtools.org
+- Civitai — SD Model Index / Archive — https://civitai.com/ | Archive: https://civarchive.com/ | Reddit: https://www.reddit.com/r/civitai/ | Discord: https://discord.gg/UwX5wKwm6c | GitHub: https://github.com/civitai/civitai
+- ⁠Prompy — or promptoMANIA - Prompt Indexes — https://www.prompy.me/ | promptoMANIA: https://promptomania.com/
+- A Traveler's Guide to the Latent Space — AI Art Guide — https://sweet-hall-e72.notion.site/A-Traveler-s-Guide-to-the-Latent-Space-85efba7e5e6a40e5bd3cae980f30235f
+- ⁠ImagePromptGuru — or CLIP Interrogator / Colab , 2 - Determine Image Prompts — https://imagepromptguru.net/ | CLIP Interrogator: https://huggingface.co/spaces/fffiloni/CLIP-Interrogator-2 | Colab: https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb | 2: https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/open-clip/clip_interrogator.ipynb
+- SD Dynamic Prompts — Extension for Automatic1111 — https://github.com/adieyal/sd-dynamic-prompts
+- AI Horde — Stable Diffusion GPU Hoarde / Interface , 2 , 3 — https://stablehorde.net/ | Interface: https://aqualxx.github.io/stable-ui/ | 2: https://tinybots.net/artbot | 3: https://artificial-art.eu/ | Discord: https://discord.gg/3DxrhksKzn | GitHub: https://github.com/Haidra-Org/AI-Horde
+- IOPaint — Image Fill / Item Removal / Colab — https://www.iopaint.com/ | Colab: https://colab.research.google.com/drive/1TKVlDZiE3MIZnAUMpv2t_S4hLr6TUY1d?usp=sharing
+- Generative AI for Beginners — Generative AI Guides — https://microsoft.github.io/generative-ai-for-beginners/
+
+### Image Restoration
+## Audio Generation
+
+- Suno — 10 Daily / Guide — https://suno.com/ | Guide: https://sunoaiwiki.com/en | Discord: https://discord.com/invite/suno
+- Sonauto — Unlimited — https://sonauto.ai/ | Discord: https://discord.gg/pfXar3ChH8
+- Pollinations Chat — ACE-Step 1.5 Turbo / Limits and Models — https://pollinations.ai/play | Limits and Models: https://enter.pollinations.ai/sign-in##models | Discord: https://discord.com/invite/pollinations-ai-885844321461485618
+- MusicFX — Region-Based — https://labs.google/fx/tools/music-fx
+- WolframTones — No Sign-Up — https://tones.wolfram.com/
+- Stable Audio — 10 Monthly — https://www.stableaudio.com/ | Discord: https://discord.com/invite/stablediffusion
+- MusicGen — No Sign-Up / Colab — https://github.com/facebookresearch/audiocraft/blob/main/docs/MUSICGEN.md | Colab: https://colab.research.google.com/drive/1ECmNEoXk8kvnLEMBMF2LY82E7XmIG4yu
+- Waveformer — https://github.com/fofr/waveformer
+- SOUNDRAW — No Sign-Up — https://soundraw.io/
+- Google Flow Music — https://www.flowmusic.app/
+- Mubert — https://mubert.com/
+- ⁠ACE-Step 1.5 — No Sign-Up — https://huggingface.co/spaces/ACE-Step/Ace-Step-v1.5 | GitHub: https://github.com/ace-step/ACE-Step-1.5
+- AIVA — https://aiva.ai/ | Discord: https://discord.com/invite/ypDnFXN
+- Boomy — https://boomy.com/ | Discord: https://discord.gg/DNHQXeJegp
+- ⁠MusicGPT — https://musicgpt.com/
+- AI Jukebox — No Sign-Up — https://huggingface.co/spaces/enzostvs/ai-jukebox
+- Eapy — MIDI Sample Generator — https://home.eapy.io/
+- Pack Generator — Sample Pack Generator — https://output.com/products/pack-generator
+- MMAudio — Generate Audio for Silent Videos / Demo / Colab — https://hkchengrex.com/MMAudio/ | Demo: https://huggingface.co/spaces/hkchengrex/MMAudio | Colab: https://colab.research.google.com/drive/1TAaXCY2-kPk4xE4PwKB3EqFbSnkUuzZ8?usp=sharing | GitHub: https://github.com/hkchengrex/MMAudio
+
+### Text to Speech
+- Arena TTS — Text to Speech Model Benchmarks / Leaderboards — https://arena.ai4bharat.org/#/tts
+- TTS Online — No Sign-Up — https://www.text-to-speech.online/
+- Audiblez — , Ebook2Audiobook / 2 , ElevenReader , ⁠Paper2Audio or ReadWise (reset trial) - Convert Books / Documents to Audiobooks — https://github.com/santinic/audiblez | Ebook2Audiobook: https://github.com/DrewThomasson/ebook2audiobook | 2: https://huggingface.co/spaces/drewThomasson/ebook2audiobook | ElevenReader: https://elevenreader.io/ | ⁠Paper2Audio: https://www.paper2audio.com/ | ReadWise: https://readwise.io/read
+- Google Illuminate — Generate AI Conversations — https://illuminate.google.com/
+- ElevenLabs — No Sign-Up — https://elevenlabs.io/ | Discord: https://discord.gg/elevenlabs | GitHub: https://github.com/elevenlabs
+- Pollinations Chat — Whisper Large V3 / AssemblyAI Universal-2 / Qwen3-TTS Flash / Limits and Models — https://pollinations.ai/play | Limits and Models: https://enter.pollinations.ai/sign-in##models | Discord: https://discord.com/invite/pollinations-ai-885844321461485618
+- Google Speech Gen — https://aistudio.google.com/generate-speech
+- TTS-WebUI — No Sign-Up / Colab — https://ttswebui.com/ | Colab: https://colab.research.google.com/github/rsxdalv/tts-webui/blob/main/notebooks/google_colab.ipynb | Discord: https://discord.gg/V8BKTVRtJ9 | GitHub: https://github.com/rsxdalv/TTS-WebUI
+- FakeYou — No Sign-Up — https://fakeyou.com/ | Discord: https://discord.gg/fakeyou
+- Tortoise TTS — No Sign-Up — https://github.com/neonbjb/tortoise-tts
+- Bark — No Sign-Up / Colab — https://github.com/suno-ai/bark | Colab: https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing | Discord: https://discord.com/invite/J2B2vsjKuE
+- TTSOpenAI — or OpenAI.fm / No Sign-Up / OpenAI's Bot — https://ttsopenai.com/ | OpenAI.fm: https://www.openai.fm/
+- ⁠GPT-SoVITS — No Sign-Up — https://github.com/RVC-Boss/GPT-SoVITS
+- Kyutai TTS — No Sign-Up — https://kyutai.org/next/tts
+- ⁠KittenTTS — No Sign-Up — https://github.com/KittenML/KittenTTS
+- AudioArena — No Sign-Up — https://audioarena.ai/
+- LazyPy — No Sign-Up — https://lazypy.ro/tts/ | GitHub: https://github.com/chrisjp/tts
+- Kokoro TTS — No Sign-Up — https://huggingface.co/spaces/hexgrad/Kokoro-TTS | Discord: https://discord.gg/QuGxSWBfQy | GitHub: https://github.com/hexgrad/kokoro
+- Ondoku — No Sign-Up — https://ondoku3.com/en/
+- ⁠Speechma — No Sign-Up — https://speechma.com/
+- ⁠Kokoro-82M — No Sign-Up — https://huggingface.co/hexgrad/Kokoro-82M
+- ⁠Chatterbox — No Sign-Up — https://huggingface.co/spaces/ResembleAI/Chatterbox | GitHub: https://github.com/resemble-ai/chatterbox
+- ⁠Audio.Z.AI — https://audio.z.ai/
+- AnyVoiceLab — No Sign-Up — https://anyvoicelab.com/long-form-text-to-speech-converter/
+- VoiceCraft — Colab — https://github.com/jasonppy/VoiceCraft | Colab: https://colab.research.google.com/drive/1IOjpglQyMTO2C3Y94LD9FY0Ocn-RJRg6?usp=sharing
+- EmotiVoice — https://github.com/netease-youdao/EmotiVoice
+- ⁠Cartesia — https://play.cartesia.ai/
+- Fish Audio — https://fish.audio/ | GitHub: https://github.com/fishaudio
+- Audio-WebUI — No Sign-Up / Colab — https://github.com/gitmylo/audio-webui | Colab: https://colab.research.google.com/github/gitmylo/audio-webui/blob/master/audio_webui_colab.ipynb | Discord: https://discord.gg/NB86C3Szkg
+- VanillaVoice — No Sign-Up — https://www.vanillavoice.com/
+- LOVO — https://lovo.ai/ | Discord: https://discord.gg/vWHw5ZKEmk
+- SoundofText — No Sign-Up — https://soundoftext.com/
+- FreeTTS — https://freetts.com/
+- Hume — No Sign-Up — https://www.hume.ai/
+- NaturalReaders — No Sign-Up — https://www.naturalreaders.com/online/
+- AIVocal — Requires Google Account — https://aivocal.io/
+- Moe TTS — No Sign-Up / Colab — https://huggingface.co/spaces/skytnt/moe-tts | Colab: https://colab.research.google.com/drive/14Pb8lpmwZL-JI5Ub6jpG4sz2-8KS0kbS?usp=sharing
+
+### Voice Change / Clone
+- Applio — Voice Cloning / No Sign-Up — https://applio.org/ | Discord: https://discord.gg/urxFjYmYYh | GitHub: https://github.com/IAHispano/Applio
+- RVC V2 — RVC V2 Voice Cloning (Locally) — https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/blob/main/docs/en/README.en.md | Discord: https://discord.gg/HcsmBBGyVk
+- Voice Changer — Real-Time Voice Changer (W-Okada) / Guide / Colab — https://github.com/w-okada/voice-changer/blob/master/docs_i18n/README_en.md | Guide: https://rentry.co/VoiceChangerGuide | Colab: https://colab.research.google.com/github/w-okada/voice-changer/blob/master/Realtime_Voice_Changer_on_Colab.ipynb
+- Voice Models — AI Voice Models and Guides — https://voice-models.com/ | Discord: https://discord.gg/3WJ8r6Bf5A
+- AnyVoiceLab — Voice Cloning / No Sign-Up — https://anyvoicelab.com/voice-cloning/
+- AllVoiceLab — Voice Cloning — https://www.allvoicelab.com/
+- Zyphra — Voice Cloning — https://playground.zyphra.com/audio | GitHub: https://github.com/Zyphra/Zonos
+
+### Voice Removal / Separation
+- MultiSong Leaderboard — Music & Voice Separation AI Leaderboards — https://mvsep.com/quality_checker/multisong_leaderboard
+- MVSEP — 50 Daily — https://mvsep.com/
+- Splitter — Requires Sign-Up — https://www.bandlab.com/splitter
+- MDX23 — https://github.com/jarredou/MVSEP-MDX23-Colab_v2
+- Music-Source-Separation — https://github.com/jarredou/Music-Source-Separation-Training-Colab-Inference
+- VocalRemover — https://vocalremover.org/
+- Audacity Effects — https://www.audacityteam.org/download/openvino/ | GitHub: https://github.com/intel/openvino-plugins-ai-audacity
+- Ultimate Vocal Remover — https://colab.research.google.com/github/NaJeongMo/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb
+- Remove Vocals — , 2 — https://www.remove-vocals.com/ | 2: https://www.acapella-extractor.com/
+- Vocali.se — https://vocali.se/en
+- Mazmazika — https://www.mazmazika.com/
+- Ezstems — https://ezstems.com/
+
+## AI Coding Tools
+
+## AI Tools
+
+- AI Price Compare — , LLM Pricing / or PricePerToken - AI / LLM API Price Comparisons — https://countless.dev/ | LLM Pricing: https://www.llm-prices.com/ | GitHub: https://github.com/simonw/llm-prices | PricePerToken: https://pricepertoken.com/
+- sindresorhus's Awesome ChatGPT — or Awesome ChatGPT - AI Resources — https://github.com/sindresorhus/awesome-chatgpt | Awesome ChatGPT: https://github.com/uhub/awesome-chatgpt
+- Every ChatGPT GUI — ChatGPT GUI Index — https://github.com/billmei/every-chatgpt-gui
+- AI API Tools — ️ AI API Tools — /developer-tools/#api-tools
+- tldraw computer — Create Component Workflows to Generate or Transform Data — https://computer.tldraw.com/ | Discord: https://discord.com/invite/SBBEVCA4PG | GitHub: https://github.com/tldraw/tldraw
+- ⁠Page Assist — , ChatGPT Box or KeepChatGPT - Extensions — https://github.com/n4ze3m/page-assist | ChatGPT Box: https://github.com/josStorer/chatGPTBox | KeepChatGPT: https://github.com/xcanwin/KeepChatGPT/blob/main/docs/README_EN.md
+- LLM — LLM CLI — https://llm.datasette.io/ | Discord: https://discord.com/invite/RKAH4b8TvE | GitHub: https://github.com/simonw/llm
+- ⁠LightSession — Fix ChatGPT Lag — https://github.com/11me/light-session
+- ⁠Privatiser — Anonymize Sensitive Data for AI — https://privatiser.net/
+- ChatGPT DeMod — Block ChatGPT Moderation Checks — https://github.com/4as/ChatGPT-DeMod
+- ⁠Agent Reach — Connect AI Agents to Popular Internet Platforms — https://github.com/Panniantong/Agent-Reach
+- MassiveMark — Convert LLM Chats to DOCX — https://www.bibcit.com/en/massivemark | Discord: https://discord.gg/fPtQAQYmqq
+- screenpipe — AI Screen Recorder / No Sign-Up — https://screenpi.pe/ | Discord: https://discord.gg/dU9EBuw7Uq | GitHub: https://github.com/mediar-ai/screenpipe
+- ChatGPT Exporter — Export Chats — https://greasyfork.org/en/scripts/456055 | GitHub: https://github.com/pionxzh/chatgpt-exporter
+- GPThemes — ChatGPT Themes — https://github.com/itsmartashub/GPThemes
+- LLM Model VRAM Calculator — LLM Requirement Calculators — https://huggingface.co/spaces/NyxKrage/LLM-Model-VRAM-Calculator
+
+### AI Prompts
+- L1B3RT4S — Jailbreak Prompts — https://github.com/elder-plinius/L1B3RT4S | X: https://x.com/elder_plinius | Discord: https://discord.gg/basi
+- BlackFriday GPTs Prompts — Prompt Directory — https://github.com/friuns2/BlackFriday-GPTs-Prompts
+- Leaked Prompts — Prompt Directory — https://github.com/linexjlin/GPTs
+- Prompt Engineering Guide — , Google Whitepaper , Prompt_Engineering , LearnPrompting , OpenAI Guide or Claude Prompts / - Prompting Guides — https://www.promptingguide.ai | Discord: https://discord.gg/FUyz9vPAwf | GitHub: https://github.com/dair-ai/Prompt-Engineering-Guide | Google Whitepaper: https://www.kaggle.com/whitepaper-prompt-engineering | Prompt_Engineering: https://github.com/NirDiamant/Prompt_Engineering | LearnPrompting: https://learnprompting.org/docs/introduction | OpenAI Guide: https://platform.openai.com/docs/guides/prompt-engineering | Claude Prompts: https://docs.claude.com/en/docs/build-with-claude/prompt-engineering/overview | Discord: https://discord.com/invite/6PPFFzqPDZ
+- ChatGPT System Prompt — Prompt Directory — https://github.com/LouisShark/chatgpt_system_prompt
+- The Big Prompt Library — Prompt Directory — https://github.com/0xeb/TheBigPromptLibrary
+- Jailbreak Listings — Prompt Directory / Jailbreaks — https://rentry.org/jb-listing
+- InjectPrompt Companion — AI Jailbreak Prompt Assistant — https://companion.injectprompt.com/
+- ⁠Heretic — AI Jailbreak / Anti-Censorship Tool — https://github.com/p-e-w/heretic | Discord: https://discord.gg/gdXc48gSyT
+- promptfoo — Prompt Playgrounds — https://www.promptfoo.dev/ | Discord: https://discord.gg/gHPS9jjfbs | GitHub: https://github.com/promptfoo/promptfoo
+- Tensor Trust — or Gandalf / - Prompting Skill Games — https://tensortrust.ai/ | GitHub: https://github.com/HumanCompatibleAI/tensor-trust | Gandalf: https://gandalf.lakera.ai/ | GitHub: https://github.com/lakeraai
+- Gobble Bot — Generate Text Files for Chatbots — https://gobble.bot/
+
+> TIP Bypassing chatbot safeguards (aka jailbreaking) is against the TOS of most AI, so use them at your own risk.
+## AI Indexes
+
+- ⁠LLM Explorer — , Wiki LLM List or LifeArchitect - LLM Databases / Indexes — https://llm-explorer.com/ | Wiki LLM List: https://en.wikipedia.org/wiki/List_of_large_language_models | LifeArchitect: https://lifearchitect.ai/models-table/
+- FutureTools — AI Directory — https://www.futuretools.io/?pricing-model=free | Discord: https://discord.gg/WBk4ZDW6A9
+- Google Labs — or Google Labs FX - Google AI Experiments — https://labs.google/ | Google Labs FX: https://labs.google/fx | Reddit: https://www.reddit.com/r/labsdotgoogle/ | Discord: https://discord.gg/googlelabs
+- Models.dev — AI Model Database / Pricing — https://models.dev/ | GitHub: https://github.com/anomalyco/models.dev
+- YP for AI — AI Directory — https://www.ypforai.com
+- LLM Resources Hub — AI Directory — https://llmresourceshub.vercel.app/
+- It's Better With AI — AI Directory — https://itsbetterwithai.com/
+- GPT Demo — AI Directory — https://www.gptdemo.net/gpt/search?lg=en&cate=&keywords=&tags=free,&sort=popular
+- ArtificialStudio — Multi-Tool Browser AIs — https://app.artificialstudio.ai/tools | Discord: https://discord.gg/EdNztJJH6z
+
+## AI Benchmarks
+
+- ⁠LM Council — AI Benchmark Index / Comparisons — https://lmcouncil.ai/benchmarks
+- Artificial Analysis — Chatbot, Image, and Video Benchmarks — https://artificialanalysis.ai/ | X: https://x.com/ArtificialAnlys | Discord: https://discord.gg/aAvvUqxGjM
+- ⁠Kaggle Benchmarks — Chatbot Leaderboards / Benchmarks — https://www.kaggle.com/benchmarks
+- Arena — , 2 - Chatbot Leaderboards / Benchmarks — https://arena.ai/leaderboard | 2: https://canaryarena.ai/ | X: https://x.com/arena | Discord: https://discord.com/invite/lmarena
+- OpenRouter — Chatbot Popularity Rankings — https://openrouter.ai/rankings | Discord: https://discord.gg/fVyRaUDgxW | GitHub: https://github.com/OpenRouterTeam
+- SEAL LLM Leaderboards — Chatbot Leaderboards — https://scale.com/leaderboard
+- Context Arena — Chatbot Leaderboards / Benchmarks — https://contextarena.ai/
+- ⁠RankedAGI — Chatbot Leaderboards / Benchmarks — https://rankedagi.com/
+- LLM Stats — Chatbot Leaderboard — https://llm-stats.com/ | X: https://x.com/LlmStats | Discord: https://discord.com/invite/RxGUBvE42d
+- OpenLM Arena — Chatbot Leaderboard — https://openlm.ai/chatbot-arena/
+- Wolfram LLM Benchmarking Project — Chatbot Leaderboards / Benchmarks — https://www.wolfram.com/llm-benchmarking-project/
+- ⁠Epoch AI — Combines Multiple AI Benchmarks — https://epoch.ai/benchmarks/eci
+
+### Specialized Benchmarks
+- Open VLM Leaderboard — VLM Benchmark Leaderboard Aggregator — https://huggingface.co/spaces/opencompass/open_vlm_leaderboard
+- ⁠AI Roundtable — Run Multi-Model Debates on Any Question — https://opper.ai/ai-roundtable
+- ⁠DesignArena — AI Design Benchmarks — https://www.designarena.ai/leaderboard/ | X: https://x.com/designarena | Discord: https://discord.com/invite/Bw9Ajcb3pR
+- ⁠EQ-Bench — AI Emotional Intelligence Benchmarks — https://eqbench.com/ | GitHub: https://github.com/EQ-bench/eqbench3
+- ⁠IUMB — AI Mathematics Benchmarks / Leaderboard — https://pellaml.github.io/iumb/
+- MathArena — AI Mathematics Benchmarks / Competitions — https://matharena.ai/
+- ⁠Vals AI — AI Finance / Tax / Law Benchmarks — https://www.vals.ai/
+- ⁠Simple Bench — AI Human Reasoning Benchmarks — https://simple-bench.com/
+- ⁠VPCT — AI Visual Physics Benchmarks — https://cbrower.dev/vpct
+- ⁠SpeechMap.AI — AI Free Speech Benchmarks — https://speechmap.ai/ | GitHub: https://github.com/xlr8harder/llm-compliance
+- ⁠LLMs Bullshit Benchmark — Broken Premise Detection Benchmarks — https://petergpt.github.io/bullshit-benchmark/viewer/index.html
+- AI Elo — AI Game Competitions / Benchmarks — https://aielo.co/
+- ChessArena — AI Chess Benchmarks — https://www.chessarena.ai/
+- ⁠VoxelBench — Minecraft AI Generation Benchmark — https://voxelbench.ai/
+
+### Coding Benchmarks
+- SWEBench — Software Engineering AI Leaderboard / Benchmarks — https://www.swebench.com/ | GitHub: https://github.com/princeton-nlp/SWE-bench
+- ⁠AIBenchmarks — Coding AI Leaderboard / Benchmarks — https://aibenchmarks.net/ | GitHub: https://github.com/panilya/awesome-ai-benchmarks
+- WebDev Arena — Coding AI Leaderboard / Benchmarks — https://arena.ai/leaderboard/webdev
+- Aider LLM Leaderboards — Coding AI Leaderboard / Benchmarks — https://aider.chat/docs/leaderboards/
+- ⁠Vals AI — Coding AI Leaderboard / Benchmarks — https://www.vals.ai/
+
+## Machine Learning
+
+- Awesome Machine Learning — Machine Learning Framework Index — https://github.com/josephmisiti/awesome-machine-learning
+- Awesome ML — , ⁠Awesome LLM Resources or ML Resources - Machine Learning / LLM Resources — https://github.com/underlines/awesome-ml | ⁠Awesome LLM Resources: https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/ | ML Resources: https://ml-resources.vercel.app/
+- Hugging Face — , ModelScope , LLM Papers or OpenML - Machine Learning Datasets / Papers — https://huggingface.co/ | ModelScope: https://www.modelscope.ai/ | LLM Papers: https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5 | OpenML: https://www.openml.org/
+- Deep playground — Neural Networks Playground — https://playground.tensorflow.org/
+- Awesome Generative AI Guide — LLM Research Resources — https://github.com/aishwaryanr/awesome-generative-ai-guide
+- ⁠aman.ai — Artificial Intelligence / Deep Learning Stanford Notes — https://aman.ai/
+- LLM Visualization — , KO MicroGPT / , Machine Learning Roadmap , SAAYN , machine-learning-zoomcamp , ML Engineering , udlbook / , mlsysbook , Everything AI / ML / , ML Visualized / or LLM Course - Learn Machine Learning — https://bbycroft.net/llm | KO MicroGPT: https://ko-microgpt.vercel.app/ | GitHub: https://github.com/woduq1414/ko-microgpt | Machine Learning Roadmap: https://rentry.org/machine-learning-roadmap | SAAYN: https://spreadsheets-are-all-you-need.ai/ | machine-learning-zoomcamp: https://github.com/DataTalksClub/machine-learning-zoomcamp | ML Engineering: https://github.com/stas00/ml-engineering | udlbook: https://udlbook.github.io/udlbook/ | GitHub: https://github.com/udlbook/udlbook/ | mlsysbook: https://www.mlsysbook.ai/ | Everything AI/ML: https://viveknaskar.github.io/everything-ai-ml/ | GitHub: https://github.com/viveknaskar/everything-ai-ml | ML Visualized: https://ml-visualized.com/ | GitHub: https://github.com/gavinkhung/machine-learning-visualized | LLM Course: https://github.com/mlabonne/llm-course
+- ⁠Transformer Explainer — ⁠Transformer Visualization — https://poloclub.github.io/transformer-explainer/
+- Approaching (Almost) Any Machine Learning Problem — Machine Learning Problem-Solving Book — https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf
+- Deep ML — Solve Machine Learning Problems — https://www.deep-ml.com/
+- AI-For-Beginners — , Beginner Guides or HF Learn - Machine Learning Guides — https://github.com/microsoft/AI-For-Beginners | Beginner Guides: https://microsoft.github.io/generative-ai-for-beginners/ | HF Learn: https://huggingface.co/learn
+- ML Course Notes — Machine Learning Course Notes — https://github.com/dair-ai/ML-Course-Notes
+- 100-Days-Of-ML-Code — , DeepLearningWizard , DeepCourse , UFLDL , IAILab , Handson ML3 , DeepLearning.ai or Practical Deep Learning - Machine / Deep Learning Courses — https://github.com/Avik-Jain/100-Days-Of-ML-Code | DeepLearningWizard: https://www.deeplearningwizard.com/ | DeepCourse: https://arthurdouillard.com/deepcourse/ | UFLDL: http://ufldl.stanford.edu/tutorial/ | IAILab: https://iailab.kaist.ac.kr/teaching/deep-learning | Handson ML3: https://github.com/ageron/handson-ml3 | DeepLearning.ai: https://www.deeplearning.ai/ | Practical Deep Learning: https://course.fast.ai/
+- minitorch — Machine Learning Engineering Course Code — https://github.com/minitorch/minitorch
+- ML YouTube Courses — or Deep Learning Drizzle - Machine Learning Courses on YouTube — https://github.com/dair-ai/ML-YouTube-Courses | Deep Learning Drizzle: https://deep-learning-drizzle.github.io/
+- ⁠Unsloth — LLM Finetuning / Text Completion / Notebooks / Guide — https://unsloth.ai/docs/new/studio | Notebooks: https://github.com/unslothai/notebooks | Guide: https://docs.unsloth.ai/get-started/fine-tuning-guide | GitHub: https://github.com/unslothai/unsloth
+- ModelScope Finetuning — Image Gen Model Finetuning / Up to 100 Images Per LoRA — https://modelscope.ai/civision/modelTraining
+- Markdown Web Browser — Webpage > Markdown Converter — https://github.com/Dicklesworthstone/markdown_web_browser
+- DeepSpeed — Deep Learning Optimization Library — https://www.deepspeed.ai/
+- Netron — Visualizer for Neural Network, Deep Learning, and Machine Learning Models — https://github.com/lutzroeder/netron
+- MMDeploy — Deep Learning Model Deployment Toolset — https://mmdeploy.readthedocs.io/en/latest/ | GitHub: https://github.com/open-mmlab/mmdeploy
+- ChatGPT-Next-Web — Cross-Platform ChatGPT / Gemini UI — https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web
+- Nixified — Nix Flake for AI Projects — https://nixified.ai/

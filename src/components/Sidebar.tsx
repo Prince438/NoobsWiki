@@ -2,12 +2,13 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Users, Cpu, ShieldAlert } from "lucide-react";
+import { Users, Cpu, ShieldAlert, Wrench } from "lucide-react";
 
 const navLinks = [
   { href: "/community-groups", label: "Community Groups", icon: Users },
   { href: "/community-builders", label: "Community Builders", icon: Cpu },
   { href: "/government-agencies", label: "Government Agencies", icon: ShieldAlert },
+  { href: "/tech-tools", label: "Tech Tools", icon: Wrench },
 ];
 
 export default function Sidebar() {

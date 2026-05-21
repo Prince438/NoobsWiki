@@ -1,0 +1,425 @@
+FMHY System Tools Library
+Source: https://fmhy.net/system-tools
+
+Scraped from the FMHY System Tools page.
+
+> System Tools System Tools, Hardware Tools, Windows ISOs, Customization
+## System Tools
+
+- Awesome Windows 11 — Windows 11 Resources — https://github.com/awesome-windows11/windows11
+- PC-Optimization-Hub — System Optimization Resources — https://github.com/BoringBoredom/PC-Optimization-Hub
+- Gaming Optimization — ️ Gaming Optimization — /gaming-tools/#optimization-tools
+- PowerToys — System Tools / Search / Plugins — https://learn.microsoft.com/en-us/windows/powertoys/ | Search: https://github.com/lin-ycv/EverythingPowerToys | Plugins: https://github.com/hlaueriksson/awesome-powertoys-run-plugins | GitHub: https://github.com/microsoft/PowerToys/
+- Sysinternals — Advanced System Tools — https://learn.microsoft.com/en-us/sysinternals/
+- SuperF4 — or FKill - Process Killers — https://stefansundin.github.io/superf4/ | FKill: https://github.com/sindresorhus/fkill-cli
+- CPU-Z — , winfetch , CPU Fetch , Glow or GPU-Z - System Info Tools — https://www.cpuid.com/softwares/cpu-z.html | winfetch: https://github.com/lptstr/winfetch | CPU Fetch: https://github.com/Dr-Noob/cpufetch | Glow: https://github.com/turkaysoftware/glow | GPU-Z: https://www.techpowerup.com/download/techpowerup-gpu-z/
+- Bulk Crap Uninstaller — , Revo Uninstaller or GeekUninstaller - Bulk Uninstallation Tools — https://www.bcuninstaller.com/ | Revo Uninstaller: https://www.revouninstaller.com/products/revo-uninstaller-free/ | GeekUninstaller: https://geekuninstaller.com/
+- NanaRun — System Admin Tools — https://github.com/M2Team/NanaRun
+- BleachBit — Clean System Storage — https://www.bleachbit.org/
+- PolicyPlus — Local Group Policy Editor — https://github.com/Fleex255/PolicyPlus
+- GhostBuster — or Device Cleanup Tool - Remove Non-Present Devices — https://bitbucket.org/wvd-vegt/ghostbuster/src/master/ | Device Cleanup Tool: https://www.majorgeeks.com/files/details/device_cleanup_tool.html
+- Should I Remove It? — Program Removal Guide — https://www.shouldiremoveit.com/
+- CoreTemp — Process Monitor — https://www.alcpu.com/CoreTemp/
+- Why Is This Running? — Process Tracing / Debugging — https://github.com/pranshuparmar/witr
+- ThrottleStop — Laptop CPU Monitor / Optimizer — https://www.techpowerup.com/download/techpowerup-throttlestop/
+- RegExp — , RegScanner , ripgrep-all or Registry-Finder - Registry Explorers / Scanners — https://github.com/zodiacon/TotalRegistry | RegScanner: https://www.nirsoft.net/utils/regscanner.html | ripgrep-all: https://github.com/phiresky/ripgrep-all | Registry-Finder: https://registry-finder.com/
+- WinbIndex — Windows System Files / Binaries — https://winbindex.m417z.com/
+- OfflineInsiderEnroll — , 2 , 3 - Enable Windows Insider without Account — https://github.com/abbodi1406/offlineinsiderenroll | 2: https://gitlab.com/stdout12/offlineinsiderenroll | 3: https://codeberg.org/stdout12/offlineinsiderenroll
+- Rhasspy — Voice Assistant — https://rhasspy.readthedocs.io/en/latest/
+- OpenRecall — or Windrecorder - Memory Search App / System Recorders — https://github.com/openrecall/openrecall | Windrecorder: https://github.com/yuka-friends/Windrecorder/
+- Time.is — Check Accuracy of System Clock — https://time.is/
+- ⁠LenovoLegionToolkit — Lenovo Vantage + Hotkeys Replacement for Lenovo Legion Laptops — https://github.com/LenovoLegionToolkit-Team/LenovoLegionToolkit
+- G-Helper — Armoury Crate Replacement for ASUS Laptops — https://github.com/seerge/g-helper
+
+> WARNING It's not recommended to use debloaters unless you know what you're doing. Always research first, never just "Apply All" randomly.
+### System Tweaks
+- Windhawk — , MajorGeeks Windows Tweaks or Winaero / 2 - System Tweaking Tools — https://windhawk.net/ | Discord: https://discord.com/invite/windhawk-923944342991818753 | GitHub: https://github.com/ramensoftware/windhawk | MajorGeeks Windows Tweaks: https://www.majorgeeks.com/files/details/majorgeeks_registry_tweaks.html | Winaero: https://winaero.com/ | 2: https://winaerotweaker.com/
+- StartAllBack — Tweaked Start Menu & Taskbar / Windows 11 / Fix — https://www.startallback.com/ | Fix: https://rentry.co/FMHYB64#startxback
+- EverythingToolbar — Everything Search in Taskbar — https://github.com/srwi/EverythingToolbar
+- Open Shell — Customizable Skin or StartIsBack / Fix - Classic Start Menus — https://open-shell.github.io/Open-Shell-Menu/ | Customizable Skin: https://github.com/bonzibudd/Fluent-Metro | StartIsBack: https://startisback.com/ | Fix: https://rentry.co/FMHYB64#startxback
+- EarTrumpet — , Volumey or Volume2 - Tweaked Volume Mixer — https://eartrumpet.app/ | Volumey: https://github.com/G-Stas/Volumey | Volume2: https://github.com/irzyxa/Volume2
+- AltSnap — Tweaked Windows Dragging — https://github.com/RamonUnch/AltSnap
+- Edge-Uninstall — Microsoft Edge Removal Script — https://gist.github.com/ave9858/c3451d9f452389ac7607c99d45edecc6
+- BatUtil — 2 / 3 or TechNet-Gallery - System Scripts — https://github.com/abbodi1406/BatUtil | 2: https://gitlab.com/stdout12/batutil | 3: https://codeberg.org/stdout12/BatUtil | TechNet-Gallery: https://github.com/MScholtes/TechNet-Gallery
+- Wintoys — System App Tweaking — https://apps.microsoft.com/store/detail/wintoys/9P8LTPGCBZXD
+- Wox — , Listary , Raycast , FlowLauncher , Ueli / - Keystroke / App Launchers — https://github.com/Wox-launcher/Wox | Listary: https://www.listary.com/ | Raycast: https://www.raycast.com/ | FlowLauncher: https://www.flowlauncher.com/ | Ueli: https://ueli.app/ | GitHub: https://github.com/oliverschwendener/ueli
+- Kando — App Launcher / Pie Menu — https://kando.menu/ | Discord: https://discord.gg/hZwbVSDkhy | GitHub: https://github.com/kando-menu/kando
+- Cerebro App — Tweaked System Navigation — https://cerebroapp.com/
+- SmartSystemMenu — Tweaked System Menu — https://github.com/AlexanderPro/SmartSystemMenu
+- Shell — or RCWM - Tweaked / Custom Context Menus — https://nilesoft.org/ | GitHub: https://github.com/moudey/shell | RCWM: https://github.com/GChuf/RCWM
+- Explorer Tab Utility — Improved / Tweaked File Explorers — https://github.com/w4po/ExplorerTabUtility
+- Quick Access Popup — File Manager — https://www.quickaccesspopup.com/
+- Spencer — Classic Start Menu — https://www.the-sz.com/products/spencer/
+- yasb — Tweaked Taskbar — https://github.com/amnweb/yasb
+- Taskbar Tweaker — Taskbar Advanced Features / Win 10 — https://ramensoftware.com/7-taskbar-tweaker
+- ⁠AppGroup — Create Taskbar App Groups / Folders — https://github.com/iandiv/AppGroup
+- RBTray — Minimize any App to Tray — https://github.com/benbuck/rbtray
+- Taskbar Hide — Easily Hide / Show Taskbar — https://www.eusing.com/hidewindows/bosskey.htm
+- QuickLook — macOS Quick Look for Windows / Scan Note — https://github.com/QL-Win/QuickLook | Scan Note: https://github.com/QL-Win/QuickLook/issues/1576#issuecomment-2816980688
+- MSEdgeRedirect — Redirect Microsoft Edge — https://github.com/rcmaehl/MSEdgeRedirect
+- TopNotify — Move Windows Notifications — https://github.com/SamsidParty/TopNotify
+
+### Package Managers
+- WinGet — CLI Package Manager / Browse / Auto Update — https://learn.microsoft.com/en-us/windows/package-manager/winget | Browse: https://winstall.app/ | Auto Update: https://github.com/Romanitho/Winget-AutoUpdate | GitHub: https://github.com/microsoft/winget-cli
+- UniGetUI — GUI for Popular Package Managers — https://github.com/Devolutions/UniGetUI | GitHub: https://github.com/marticliment/UniGetUI
+- Scoop — Portable Package Manager — https://scoop.sh/ | GitHub: https://github.com/ScoopInstaller/Scoop
+- sfsu — or hok - Fast Scoop Utilities — https://github.com/winpax/sfsu/ | hok: https://github.com/chawyehsu/hok
+- Chocolatey — Package Manager / GUI — https://chocolatey.org/ | GUI: https://github.com/chocolatey/ChocolateyGUI | GitHub: https://github.com/chocolatey/choco
+- RuckZuck — Package Manager — https://ruckzuck.tools/
+- RepoHub — Package Manager / Web-Based — https://github.com/yusufipk/RepoHub
+- Topgrade — CLI Package Manager — https://github.com/topgrade-rs/topgrade
+- Silent Install — Build Multi-Program Installers — https://www.silentinstall.org/
+- 0Install — Decentralized Cross-Platform Package Manager — https://0install.net/
+- portableapps — Package Manager for Portable Apps — https://portableapps.com/download
+- Baulk — Minimalist Package Manager — https://github.com/baulk/baulk
+- NirLauncher — Portable Package Manager for NirSoft Utilities — https://launcher.nirsoft.net/
+- ⁠bin — Binary Manager — https://github.com/marcosnils/bin
+
+### Task Automation
+- AutoHotkey — Resources — https://www.autohotkey.com/ | Resources: https://github.com/ahkscript/awesome-AutoHotkey | Discord: https://discord.com/invite/Aat7KHmG7v
+- Scheduler — , ⁠FluentTaskScheduler or TaskRunner - System Task Scheduler — https://www.splinterware.com/products/scheduler.html | ⁠FluentTaskScheduler: https://github.com/TRGamer-tech/FluentTaskScheduler | TaskRunner: https://www.keyefficiency.com/
+- AutoIt — Resources — https://www.autoitscript.com/ | Resources: https://github.com/J2TEAM/awesome-AutoIt
+- Tinytask — https://tinytask.net/
+- sikulix — http://sikulix.com/
+- ChoEazyCopy — https://github.com/Cinchoo/ChoEazyCopy
+- MacroRecorder — https://www.macrorecorder.com/
+- Organize — Automated File Manager — https://organize.readthedocs.io | GitHub: https://github.com/tfeldmann/organize
+
+### Terminal / CLI
+- ⁠Awesome Terminals — Terminal Emulator List — https://github.com/cdleon/awesome-terminals
+- terminals-are-sexy — Terminal Resources — https://terminalsare.sexy/
+- Awesome CLI Apps — or Command Line Tools - Command Line Resources — https://github.com/agarrharr/awesome-cli-apps | Command Line Tools: https://github.com/learn-anything/command-line-tools
+- ss64 — Command Line Reference Index — https://ss64.com/
+- Windows Terminal — 2 , ConEmu , Tabby , MobaXterm or WezTerm - Windows Terminal Emulators — https://www.microsoft.com/store/productId/9N0DX20HK701 | 2: https://github.com/microsoft/terminal/ | ConEmu: https://github.com/Maximus5/ConEmu | Tabby: https://tabby.sh/ | MobaXterm: https://mobaxterm.mobatek.net/ | WezTerm: https://wezfurlong.org/wezterm/
+- PowerShell — Microsoft PowerShell — https://github.com/powershell/powershell
+- BusyBox — Unix Commands for Windows — https://frippery.org/busybox/
+- Clink — Command Line Editing — https://github.com/chrisant996/clink
+- Nushell — Alt Shell — https://www.nushell.sh/
+- Tiny Care Terminal — Terminal Dashboard That Cares — https://github.com/notwaldorf/tiny-care-terminal
+- Command Challenge — Command Line Learning — https://cmdchallenge.com/
+- Mintty — Cygwin Terminal Emulator — https://mintty.github.io/
+- GetDNote — Command Line Notebook — https://www.getdnote.com/
+- LeanandMean — Powershell Snippets / Use with Caution — https://github.com/AveYo/LeanAndMean
+- PowerShell Scripts — , PowershellGallery or WindowsPowerShell - Shell Scripts — https://github.com/fleschutz/PowerShell | PowershellGallery: https://www.powershellgallery.com/ | WindowsPowerShell: https://github.com/stevencohn/WindowsPowerShell
+
+### Remote Desktop
+- Parsec — Desktop Client — https://parsec.app/ | X: https://x.com/parsecteam | Discord: https://discord.com/invite/cQjEGFy
+- RustDesk — Desktop Client — https://rustdesk.com/ | Reddit: https://www.reddit.com/r/rustdesk/ | Discord: https://discord.com/invite/nDceKgxnkV | GitHub: https://github.com/rustdesk/rustdesk
+- Aspia — Desktop Client — https://aspia.org/ | Telegram: https://t.me/aspia_talks | GitHub: https://github.com/dchapyshev/aspia
+- Sunshine — or Apollo - Remote Server for Moonlight / Mobile — https://app.lizardbyte.dev/Sunshine/ | Apollo: https://github.com/ClassicOldSong/Apollo | Mobile: https://github.com/ClassicOldSong/moonlight-android | Discord: https://discord.com/invite/d6MpcrbYQs | GitHub: https://github.com/LizardByte/Sunshine
+- Moonlight — Gaming Remote Desktop Client — https://moonlight-stream.org/ | Discord: https://discord.com/invite/CGg5JxN | GitHub: https://github.com/moonlight-stream
+- Kasm — Container Streaming Platform / Resource Intensive / Guide — https://kasm.com/ | Guide: https://cbg.fmhy.bid/Server/Kasm/ | GitHub: https://github.com/kasmtech/KasmVNC
+- Arcane — Desktop Client — https://github.com/PhrozenIO/Arcane
+- HopToDesk — Desktop Client — https://www.hoptodesk.com/ | GitLab: https://gitlab.com/hoptodesk/hoptodesk
+- CoScreen — Desktop Client — https://www.coscreen.co/
+- ⁠DWS — Web-Based — https://www.dwservice.net/
+- Remote Desktop Connection — Desktop Client / Built Into Windows — https://support.microsoft.com/en-us/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c
+- Remotly — Desktop Client — https://remotly.com/
+- Bananas — Desktop Client — https://getbananas.net/ | Discord: https://discord.gg/BeN43eJVWS | GitHub: https://github.com/mistweaverco/bananas
+- ChromeRemoteDesktop — Web-Based — https://remotedesktop.google.com/
+- InputDirector — Multi-Computer Client — https://www.inputdirector.com/
+- Mouse Without Borders — Multi-Computer Client — https://www.microsoft.com/en-us/garage/wall-of-fame/mouse-without-borders/
+- p2p — Portable Client — https://github.com/miroslavpejic85/p2p
+- Screensy — Web-Based — https://screensy.marijn.it/ | GitHub: https://github.com/screensy/screensy
+- Screego — Web-Based — https://app.screego.net/ | GitHub: https://github.com/screego/server/
+- Screen-Sharing — Web-Based — https://share-your-screen.vercel.app/ | GitHub: https://github.com/tonghohin/screen-sharing
+- TigerVNC — VNC Client — https://tigervnc.org/ | GitHub: https://github.com/TigerVNC/tigervnc
+- TightVNC — VNC Client — https://www.tightvnc.com/
+- noVNC — JavaScript VNC Client — https://novnc.com/info.html | GitHub: https://github.com/novnc/noVNC
+
+### Clipboard Managers
+- Ditto — Clipboard Manager — https://ditto-cp.sourceforge.io/ | GitHub: https://sabrogden.github.io/Ditto/
+- PasteBar — Clipboard Manager — https://www.pastebar.app/ | GitHub: https://github.com/PasteBar/PasteBarApp
+- CrossPaste — Clipboard Manager — https://crosspaste.com/ | GitHub: https://github.com/crosspaste/crosspaste-desktop
+- ArsClip — Clipboard Manager — https://www.joejoesoft.com/vcms/97/
+- ClipAngel — Clipboard Manager — https://sourceforge.net/projects/clip-angel/
+- CopyQ — or XClipper / - Clipboard Managers with Editing and Scripting Features — https://hluk.github.io/CopyQ/ | GitHub: https://github.com/hluk/CopyQ | XClipper: https://kaustubhpatange.github.io/XClipper/ | GitHub: https://github.com/KaustubhPatange/XClipper
+- MultiClipBoardSlots — Extend Clipboard by 10 Memory Slots — https://www.softwareok.com/?seite=Microsoft/MultiClipBoardSlots
+
+### Window Managers
+- GlazeWM — Tiling Window Manager — https://github.com/glzr-io/glazewm
+- Komorebi — Tiling Window Manager — https://github.com/LGUG2Z/komorebi
+- WorkSpacer — Tiling Window Manager — https://workspacer.org/ | GitHub: https://github.com/workspacer/workspacer
+- ⁠Seelen UI — Tiling Window Manager — https://github.com/eythaann/Seelen-UI | Discord: https://discord.gg/ABfASx5ZAJ
+- Whim — Pluggable Dynamic Window Manager — https://github.com/dalyIsaac/Whim/
+- DWM — Port of X11 dwm to Windows — https://github.com/prabirshrestha/dwm-win32
+
+### Virtual Machines
+- Awesome Web Desktops — or Simone's Computer - Browser Operating Systems / VMs — https://github.com/syxanash/awesome-web-desktops | Simone's Computer: https://simone.computer/#/webdesktops
+- Emulators on Android — ️ Emulators on Android — /mobile/#emulators-on-android
+- VMware Workstation — Virtual Machine / macOS VM — https://www.techpowerup.com/download/vmware-workstation-pro/ | macOS VM: https://rentry.co/FMHYB64#vmware-workstation
+- QEMU — Virtual Machine / Use w / Virt-Manager or Vagrantup / Docker Container — https://www.qemu.org/ | Docker Container: https://github.com/qemus/qemu | GitLab: https://gitlab.com/qemu-project/qemu
+- VirtualBox — Virtual Machine — https://www.virtualbox.org/
+- Virt-Manager — or Vagrantup / - Virtual Machine Managers — https://virt-manager.org/ | GitHub: https://github.com/virt-manager/virt-manager | Vagrantup: https://www.vagrantup.com/ | GitHub: https://github.com/hashicorp/vagrant
+- Looking Glass — Kernel-Based Virtual Machine for VGA PCI Pass-Through — https://looking-glass.io/ | GitHub: https://github.com/gnif/LookingGlass
+- Hyper-V — Virtual Machine — https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/
+- Denodo Test — Virtual Machine — https://community.denodo.com/test-drives/
+- OSBoxes — Preinstalled Virtual Machine — https://www.osboxes.org/
+- JSLinux — Online Linux Virtual Machines — https://bellard.org/jslinux/
+- QuickEmu — or Dexpot - Virtual Machine Creator — https://github.com/quickemu-project/quickemu | Dexpot: https://www.dexpot.de/
+- WSL — Run Linux on Windows / Resources / Startup Launcher / Wayland / X Server — https://learn.microsoft.com/en-us/windows/wsl/ | Resources: https://github.com/sirredbeard/Awesome-WSL | Startup Launcher: https://github.com/nullpo-head/wsl-distrod | Wayland / X Server: https://github.com/microsoft/wslg | GitHub: https://github.com/microsoft/WSL
+- ⁠Dockur — Run Windows / macOS in Docker Containers — https://github.com/dockur
+- Virtual x86 — x86-compatible OS Emulators — https://copy.sh/v86/
+- PCjs Machines — Classic Computer Emulators — https://www.pcjs.org/
+- InfiniteMac — Apple OS Emulators — https://infinitemac.org/
+- winevdm — 16-bit Windows on 64-bit Systems — https://github.com/otya128/winevdm
+- Blink — Linux Emulator for Windows — https://github.com/jart/blink
+- Dockerholics — Docker Apps — https://github.com/petersem/dockerholics
+
+### Hackintosh
+- Hackintosh — Hackintosh Building Guides — https://hackintosh.com/ | Reddit: https://www.reddit.com/r/hackintosh/ | Discord: https://discord.gg/u8V7N5C
+- Dortania — Hackintosh Installation Guide — https://dortania.github.io/OpenCore-Install-Guide/
+- OpenCore-Legacy-Patcher — macOS on Unsupported Hardware — https://dortania.github.io/OpenCore-Legacy-Patcher
+- OneClick-macOS — macOS VM with QEMU — https://github.com/notAperson535/OneClick-macOS-Simple-KVM
+- Emaculation — Virtual macOS Environments — https://www.emaculation.com/
+- Hackintosh Tools — https://rentry.org/hackintosh-tools
+
+> TIP Generating a unique SMBIOS is crucial for Apple services like iMessage and iCloud to function properly.
+## Hardware Tools
+
+- PC Building / Shopping — ️ PC Building / Shopping — /misc/#electronics
+- PSU Calculator — Find Compatible Power Supplies — https://www.newegg.com/tools/power-supply-calculator/
+- DeviceTests — Multiple Device Tests — https://devicetests.com/
+- NotCPUCores — , BES , ParkControl , QuickCPU or Process Lasso - CPU Optimizer — https://github.com/rcmaehl/NotCPUCores | BES: https://mion.yosei.fi/BES/ | ParkControl: https://bitsum.com/parkcontrol/ | QuickCPU: https://coderbag.com/product/quickcpu | Process Lasso: https://bitsum.com/
+- Ozone3D — , UNIGINE Benchmarks or OCCT - System Benchmarking — https://www.ozone3d.net/index_softwares.php | UNIGINE Benchmarks: https://benchmark.unigine.com/ | OCCT: https://www.ocbase.com/occt/personal
+- Testmem5 — Memory Benchmarking — https://www.overclock.net/threads/memory-testing-with-testmem5-tm5-with-custom-configs.1751608/
+- MemTest — or ⁠RAMMap - Memory Diagnostic Tools / Usage Trackers — https://www.memtest.org/ | ⁠RAMMap: https://learn.microsoft.com/en-us/sysinternals/downloads/rammap
+- SDIO — , Drivers Collection , Driverscape or DriverStoreExplorer - Update / Install Missing Drivers — https://glenn.delahoy.com/snappy-driver-installer-origin | Drivers Collection: https://driverscollection.com/ | Driverscape: https://www.driverscape.com/ | DriverStoreExplorer: https://github.com/lostindark/DriverStoreExplorer
+- VOGONS Drivers — Vintage Computer Hardware Forum / Forums — https://vogonsdrivers.com/ | Forums: https://www.vogons.org/
+- ⁠PCI Lookup — PCI Vendor ID Lookup — https://pcilookup.com/
+
+### Hardware Monitors
+- HWiNFO — System Info & Monitoring — https://www.hwinfo.com/
+- Traffic Monitor — Network & Hardware Monitor / Use Lite Version — https://github.com/zhongyang219/TrafficMonitor/
+- CoolerControl — Cooling Device Monitor — https://docs.coolercontrol.org/ | Discord: https://discord.gg/MbcgUFAfhV | GitLab: https://gitlab.com/coolercontrol/coolercontrol
+- HWMonitor — Hardware Monitor — https://www.cpuid.com/softwares/hwmonitor.html
+- BatteryMode — System Tray Battery Percentage / Managers — https://en.bmode.tarcode.ru/ | GitHub: https://github.com/tarcode-apps/BatteryMode
+- fastfetch — Command Line System Info & Monitoring — https://github.com/fastfetch-cli/fastfetch
+- ⁠btop4win — System Info & Monitoring — https://github.com/aristocratos/btop4win
+- ⁠NeoHtop — or NeoHtop-cli - Task Manager Alt — https://abdenasser.github.io/neohtop/ | NeoHtop-cli: https://github.com/Abdenasser/neohtop-cli
+- Task Manager DeLuxe — , ⁠TaskSlinger , ⁠AppControl / or System Informer / - Task Manager Alts — https://www.mitec.cz/tmx.html | ⁠TaskSlinger: https://taskslinger.net/ | ⁠AppControl: https://www.appcontrol.com/ | Discord: https://discord.gg/txdQZtW8AV | System Informer: https://systeminformer.sourceforge.io/ | GitHub: https://github.com/winsiderss/systeminformer/
+- Libre Hardware Monitor — Updated Fork of Open Hardware Monitor — https://github.com/LibreHardwareMonitor/LibreHardwareMonitor
+- FanControl — or FanCtrl - PC Fan Controllers — https://getfancontrol.com/ | GitHub: https://github.com/Rem0o/FanControl.Releases | FanCtrl: https://github.com/lich426/FanCtrl
+- bottom — or Glances / - Terminal Hardware Monitors — https://bottom.pages.dev | GitHub: https://github.com/ClementTsang/bottom | Glances: https://nicolargo.github.io/glances/ | GitHub: https://github.com/nicolargo/glances
+
+### GPU Tools
+- NVTOP — GPU / Accelerator Process Monitor — https://github.com/Syllo/nvtop
+- NVCleanstall — or NVSlimmer - NVIDIA Driver Packages — https://www.techpowerup.com/download/techpowerup-nvcleanstall/ | NVSlimmer: https://forums.guru3d.com/threads/nvslimmer-nvidia-driver-slimming-utility-continued.457504/
+- Display Driver Uninstaller — , 2 - Display Driver Removal Tool — https://www.wagnardsoft.com/display-driver-uninstaller-ddu- | 2: https://www.guru3d.com/download/display-driver-uninstaller-download | GitHub: https://github.com/Wagnard/display-drivers-uninstaller
+- TinyNvidiaUpdateChecker — NVIDIA GPU Update Checker — https://github.com/ElPumpo/TinyNvidiaUpdateChecker
+- nvidiaProfileInspector — or NvidiaProfileInspectorRevamped - Modify / View Hidden NVIDIA Settings / Guide — https://github.com/Orbmu2k/nvidiaProfileInspector | NvidiaProfileInspectorRevamped: https://github.com/xHybred/NvidiaProfileInspectorRevamped | Guide: https://youtu.be/XncmeD8khKY
+- RadeonSoftwareSlimmer — Debloat AMD Drivers — https://github.com/GSDragoon/RadeonSoftwareSlimmer
+- R.ID — AMD 3rd Party Drivers — https://rdn-id.com/ | Discord: https://discord.gg/rdnid
+- PresentMon — GPU Benchmarking — https://github.com/GameTechDev/PresentMon
+- Universal x86 Tuning Utility — Laptop GPU Controller — https://amdaputuningutility.com/ | GitHub: https://github.com/JamesCJ60/Universal-x86-Tuning-Utility
+- RyzenAdj — Ryzen Laptop GPU Controller — https://github.com/FlyGoat/RyzenAdj
+
+### Disk Tools
+- Awesome Storage — File Storage Resources — https://github.com/okhosting/awesome-storage
+- Awesome DataHoarding — Data Hoarding Resources — https://github.com/simon987/awesome-datahoarding
+- WizTree — , TreeSize or WinDirStat / - Disk Usage Analyzers — https://www.diskanalyzer.com/ | TreeSize: https://www.jam-software.com/treesize | WinDirStat: https://windirstat.net/ | GitHub: https://github.com/windirstat/windirstat/
+- CrystalDiskMark — or CCISOBench - Disk Benchmarking Tools — https://crystalmark.info/en/software/crystaldiskmark/ | CCISOBench: https://ccsiobench.com/
+- GParted — , MiniTool Partition Wizard (Search) or AOMEI Partition Assistant / Features (search) - Partition Managers — https://gparted.org/ | GitLab: https://gitlab.gnome.org/GNOME/gparted/ | MiniTool Partition Wizard: /downloading/#software-sites | AOMEI Partition Assistant: https://www.diskpart.com/ | Features: /downloading/#software-sites
+- Validrive — Check True Storage Size of USB Devices — https://www.grc.com/validrive.htm
+- TrueNAS — Storage System — https://www.truenas.com/
+- QDirStat — Directory Statistics — https://github.com/shundhammer/qdirstat
+- CrystalDiskInfo — , Scrutiny , GSmartControl / or smartmontools - Drive Diagnostics — https://crystalmark.info/en/software/crystaldiskinfo/ | Scrutiny: https://github.com/AnalogJ/scrutiny | GSmartControl: https://gsmartcontrol.shaduri.dev/ | GitHub: https://github.com/ashaduri/gsmartcontrol | smartmontools: https://www.smartmontools.org/
+- Macrorit Partition Expert — Disk Usage Analyzer — https://macrorit.com/partition-magic-manager/partition-expert-download.html
+- Diskovery — Disk Usage Analyzer — https://diskovery.io/
+- Gdu — or dua - Disk Usage Analyzer with Parallel Processing — https://github.com/dundee/gdu | dua: https://lib.rs/crates/dua-cli
+- Erdtree — Cross-Platform Disk Usage Analyzer — https://github.com/solidiquis/erdtree
+- PC Manager — Disk Managers / Cleanup — https://pcmanager-en.microsoft.com/
+- Air Live Drive — Mount Cloud Drives as Local Disks — https://www.airlivedrive.com/en/
+- SFTPDrive — Mount SFTP Servers as Local Disks — https://www.callback.com/sftpdrive
+
+### Monitor Tools
+- DisplayFusion — or Dual Monitor Tool - Dual Monitor Tools — https://www.displayfusion.com/ | Dual Monitor Tool: https://sourceforge.net/projects/dualmonitortool/
+- f.lux — , LightBulb or ScreenTemperature - Auto-Adjust Display Color / Temperature — https://justgetflux.com/ | LightBulb: https://github.com/Tyrrrz/LightBulb | ScreenTemperature: https://github.com/massaiTHEdog1/ScreenTemperature
+- Monitorian — , Twinkle Tray / or Dimmer - Adjust Monitor Brightness — https://github.com/emoacht/Monitorian | Twinkle Tray: https://twinkletray.com/ | GitHub: https://github.com/xanderfrangos/twinkle-tray | Dimmer: https://www.nelsonpires.com/software/dimmer
+- EIZO — , Monitor or LCDTech - Monitor Performance Tests — https://www.eizo.be/monitor-test/ | Monitor: https://www.monitortests.com/ | LCDTech: https://lcdtech.info/en/tests/
+- TestUFO — Monitor Framerate Test — https://www.testufo.com/
+- LittleBigMouse — DPI Test — https://github.com/mgth/LittleBigMouse
+- Scalizer — Auto DPI Scaling / YouTube — https://github.com/wonmor/Scalizer-Windows | YouTube: https://youtu.be/f_3XWlmyat4
+- Display Calc — Display Distance / Dimension Calculator — https://www.tools.rodrigopolo.com/display_calc/
+- Multi-Monitor Calculator — Dual-Monitor Setup Planning / Tests — https://multimonitorcalculator.com/
+- Wide Gamut — Color Compatibility Test — https://www.wide-gamut.com/
+- ⁠novideo_srgb — Restrict NVIDIA GPUs to sRGB / Prevent Oversaturation — https://github.com/ledoge/novideo_srgb
+- Dead.Pixel — Dead Pixel Test — https://lcdtech.info/en/tests/dead.pixel.htm
+- JScreenFix — Repair Stuck Pixels — https://www.jscreenfix.com/
+- CenterOfMyScreen — Find Center of Monitor — https://centerofmyscreen.com/
+- ShowDesktopOneMonitor — Show Desktop for Only One Monitor — https://github.com/ruzrobert/ShowDesktopOneMonitor
+- ⁠Virtual Display Driver — Virtual Display Driver — https://github.com/VirtualDrivers/Virtual-Display-Driver
+- Deskreen — or SpaceDesk - Use Mobile Device as Monitor — https://deskreen.com/ | GitHub: https://github.com/pavlobu/deskreen | SpaceDesk: https://www.spacedesk.net/
+- ShaderGlass — Custom Screen Shaders — https://github.com/mausimus/ShaderGlass
+- DaltonLens — or Toptal - Color Blindness Filters — https://daltonlens.org/ | Toptal: https://www.toptal.com/designers/colorfilter
+- NVDA — Screen Reader for Blind Users — https://www.nvaccess.org/download/ | GitHub: https://github.com/nvaccess/nvda
+
+### Mouse / Keyboard
+- r/MechanicalKeyboards Wiki — Mechanical Keyboard Resources — https://www.reddit.com/r/MechanicalKeyboards/wiki/index
+- ⁠Keebfolio — Mechanical Keyboard Project Index — https://keebfolio.netlify.app/ | GitHub: https://github.com/Keycapsss/awesome-mechanical-keyboard
+- Hotkey Cheatsheet — , KeyCombiner or Use The Keyboard - Hotkey Cheatsheets — https://hotkeycheatsheet.com/ | KeyCombiner: https://keycombiner.com/ | Use The Keyboard: https://usethekeyboard.com/
+- VIA — , SharpKeys , Kanata , keymapper , Mahou - Custom Keyboard Layouts / Remapping — https://www.caniusevia.com/ | GitHub: https://github.com/the-via/app | SharpKeys: https://github.com/randyrants/sharpkeys/ | Kanata: https://github.com/jtroo/kanata | keymapper: https://github.com/houmain/keymapper | Mahou: https://gitea.com/BladeMight/Mahou
+- geekhack — or KeebTalk - Keyboard Forums — https://geekhack.org/ | KeebTalk: https://www.keebtalk.com/
+- Ergogen — Design / Make Ergonomic Keyboards — https://ergogen.xyz/
+- ⁠Keyboard Tester — or Key Test - Keyboard Testers — https://keyboardtest.io/ | Key Test: https://en.key-test.ru/
+- HotkeyP — or CheatKeys - Hotkey Remapping — https://sourceforge.net/projects/hotkeyp/ | CheatKeys: https://cheatkeys.com/cheatsheet
+- ⁠Mouse Tester — Mouse Testing Tools — https://mousetester.io/
+- X-Mouse Button Control — Re-Map Mouse Buttons / Scroll Wheel — https://www.highrez.co.uk/downloads/XMouseButtonControl.htm
+- MoveMouse — or MouseJiggler - Simulate User Activity — https://github.com/sw3103/movemouse/ | MouseJiggler: https://github.com/arkane-systems/mousejiggler
+- Raw Accel — Mouse Acceleration Tool — https://github.com/RawAccelOfficial/rawaccel
+- StrokeIt — Mouse Gestures — https://www.tcbmi.com/strokeit/
+- Espanso — Typing Shortcuts — https://espanso.org/ | GitHub: https://github.com/espanso/espanso
+- win-vind — Vim Style Keybindings for Windows — https://pit-ray.github.io/win-vind/
+- Vial — Custom Keyboard Config Tool — https://get.vial.today/
+- KeyViz — Keystroke Visualizer — https://github.com/mulaRahul/keyviz
+- WhatPulse — Mouse / Keyboard Usage Analyzer — https://whatpulse.org/
+- Kmonad — Keyboard Manager — https://github.com/kmonad/kmonad
+- Deskhop — Quickly Switch Devices between Computers — https://github.com/hrvach/deskhop
+- Is this good? — Custom Keyboard Guides — https://wiki.keyboard.gay/
+- DreyMaR's — Keyboard Tips and Resources — https://dreymar.colemak.org/
+- KDB — Mechanical Keyboard Building Guides — http://xahlee.info/kbd/keyboarding.html
+- Cosmos — Create Custom Keyboards — https://ryanis.cool/cosmos/
+- Keyboard Simulator — Design & Test Virtual Keyboards — https://keyboardsimulator.xyz/
+
+### System Audio
+- Equalizer APO — , 2 / GUI / 7.1 Surround / Dolby Access / or FXSound - Audio Equalizers — https://sourceforge.net/projects/equalizerapo/ | 2: https://equalizerapo.com/ | GUI: https://sourceforge.net/projects/peace-equalizer-apo-extension/ | 7.1 Surround: https://hesuvi.net/ | Dolby Access: https://apps.microsoft.com/detail/9n0866fs04w8 | FXSound: https://www.fxsound.com/
+- AutoEQ — or ⁠PEQdB - Create Custom Equalizer Presets — https://autoeq.app/ | ⁠PEQdB: https://peqdb.com/ | Discord: https://discord.gg/B7e8cM76PM
+- ⁠IEM EQ Guide — In-Ear Monitor Equalizer Guide — https://iem-eq-guide.pages.dev/
+- VoiceMeeter — Audio Mixers / Multi-Device Playback / Banana — https://vb-audio.com/Voicemeeter/index.htm | Banana: https://vb-audio.com/Voicemeeter/banana.htm
+- SteelSeries Sonar — or noise-suppression-for-voice - Noise Cancelling Software — https://steelseries.com/gg/sonar | noise-suppression-for-voice: https://github.com/werman/noise-suppression-for-voice
+- SoundSwitch — Switch Audio Device with Hotkey — https://soundswitch.aaflalo.me/ | GitHub: https://github.com/Belphemur/SoundSwitch
+- Audiocheck — Audio Tests — https://www.audiocheck.net/
+- SonyHeadphonesClient — Sony Headphones Clone — https://github.com/mos9527/SonyHeadphonesClient
+- VB-Audio — Virtual Audio Cable / Select Download on Homepage / Donation is Optional — https://vb-audio.com/Cable/
+- LowAudioLatency — Reduce Audio Latency — https://github.com/spddl/LowAudioLatency/
+- DigitalFeed — Lossless Audio Sound System Test — https://abx.digitalfeed.net/
+- Online Mic Test — or Check Mic - Mic Test — https://onlinemictest.com/ | Check Mic: https://webcammictest.com/check-mic.html
+- Sound Meter — or REW - Measure Surrounding Sound Level — https://mybrowseraddon.com/sound-meter.html | REW: https://www.roomeqwizard.com
+- AirPods Dirty Secret — AirPods Repair Directory — https://docs.kenp.io/
+
+## Windows ISOs
+
+- Genuine Installation Media — Windows ISOs / Clean Install Guide — https://massgrave.dev/genuine-installation-media | Clean Install Guide: https://massgrave.dev/clean_install_windows
+- Windows Install / Debloat Guide — https://wispydocs.pages.dev/windows/
+- files.rg-adguard — or MVS dump - Verify ISO Legitimacy — https://files.rg-adguard.net/ | MVS dump: https://awuctl.github.io/mvs/
+- OS.click — Windows ISOs — https://os.click/en
+- MyDigitalLife — Windows ISOs / Forums — https://forums.mydigitallife.net/
+- Microsoft SD — Windows ISOs / Official Site — https://www.microsoft.com/en-us/software-download/
+- Old School OS — , OS Vault , VETUSWARE or WinWorldPC - Oldschool ISOs — https://www.oldschoolos.com/ | OS Vault: https://osvault.weebly.com/directory.html | VETUSWARE: https://vetusware.com/ | WinWorldPC: https://winworldpc.com/
+- Fido — ISO Powershell Script — https://github.com/pbatard/Fido
+- NetBoot — iPXE Network Boot — https://netboot.xyz/
+- ⁠MrChromebox — , Chrultrabook or CoolStar - Install Windows / Linux on Chromebook — https://docs.mrchromebox.tech/ | Chrultrabook: https://docs.chrultrabook.com/ | CoolStar: https://coolstar.org/chromebook/windows-install.html
+
+### USB / Bootloaders
+- Rufus — Create Bootable USB Drives — https://rufus.ie/ | GitHub: https://github.com/pbatard/rufus
+- MediaCreationTool — Windows Deployment Automation — https://github.com/AveYo/MediaCreationTool.bat
+- USBTreeView — USB Device Tree Viewer — https://www.uwe-sieber.de/usbtreeview_e.html
+- CloverBootloader — Bootloaders / Config — https://github.com/CloverHackyColor/CloverBootloader/ | Config: https://mackie100projects.altervista.org/
+- EtchDroid — or ⁠Ventoid - Create Bootable USB Drives via Android — https://etchdroid.app/ | GitHub: https://github.com/etchdroid/etchdroid | ⁠Ventoid: https://github.com/GPLaider/Ventoid
+- ⁠Grub2Win — Windows > Linux Dual-Booting Tool — https://sourceforge.net/projects/grub2win/
+
+### Windows Activation
+- MAS — Windows & Office Activation — https://rentry.co/FMHYB64#mas | Discord: https://discord.gg/gjJEfq7ux8
+- OfficeRTool — Office Activation / Offline — https://rentry.co/FMHYB64#officertool-project
+
+### Windows Updates
+- Windows 10 After EOL — Receive Windows Updates After Win10's End-Of-Life — https://massgrave.dev/windows10_eol
+- ChangeWindows — Latest Windows Update Info — https://www.changewindows.org/timeline
+- VCRedist — , 2 , 3 - AIO Repack for Microsoft Visual C++ Redists — https://github.com/abbodi1406/vcredist | 2: https://gitlab.com/stdout12/vcredist | 3: https://codeberg.org/stdout12/vcredist
+- LegacyUpdate — Fix Windows Updates for Legacy Editions — https://legacyupdate.net/
+- WURefresh — Reset Windows Update Components — https://github.com/AveYo/MediaCreationTool.bat/blob/main/bypass11/windows_update_refresh.bat
+- UUP Dump — or Microsoft Update Catalog - Download Previous Windows Updates — https://uupdump.net/ | Microsoft Update Catalog: https://www.catalog.update.microsoft.com/
+- PC Health Check — or WhyNotWin11 - Identify why your PC isn't Ready for Windows 11 — https://aka.ms/GetPCHealthCheckApp | WhyNotWin11: https://github.com/rcmaehl/WhyNotWin11
+- FlashMyBoard — Receive Motherboard Update Notifications — https://flashmyboard.com/
+
+### Windows Repair
+- MagNumDB — , ErrorLookup or Microsoft Error Lookup - Windows Debugging Tools — https://www.magnumdb.com/ | ErrorLookup: https://github.com/henrypp/errorlookup | Microsoft Error Lookup: https://learn.microsoft.com/en-us/windows/win32/debug/system-error-code-lookup-tool
+- Troubleshooting Flowcharts — PC Troubleshooting Flowcharts — https://www.fonerbooks.com/pcrepair.htm
+- Medicat — , ⁠SergeiStrelec , PhoenixPE or Hiren's BootCD PE - WinPE / Recovery Toolkits — https://medicatusb.com/ | GitHub: https://github.com/mon5termatt/medicat_installer | ⁠SergeiStrelec: https://sergeistrelec.name/ | PhoenixPE: https://github.com/PhoenixPE/PhoenixPE | Hiren's BootCD PE: https://www.hirensbootcd.org/
+- r/TechSupport — Wiki - Tech Support Subreddit — https://www.reddit.com/r/techsupport/ | Wiki: https://rtech.support/ | Discord: https://discord.gg/2EDwzWa
+- Hardforum — , TechGuy , Eleven Forums or Ten Forums - Tech Support Forums — https://hardforum.com/ | TechGuy: https://www.techguy.org/ | Eleven Forums: https://www.elevenforum.com/ | Ten Forums: https://www.tenforums.com/
+
+## Customization
+
+- Windows-Ricing — , Frutiger Aero Archive or Heliohost Guide - Windows Customization Resources — https://github.com/winthemers/wiki | Frutiger Aero Archive: https://frutigeraeroarchive.org/ | Heliohost Guide: https://ninjasr.varesia.com/w/lb/windows
+- Rainmeter — or ⁠Seelen UI / - Desktop Customization Environments — https://www.rainmeter.net/ | Discord: https://discord.com/invite/rainmeter | ⁠Seelen UI: https://github.com/eythaann/Seelen-UI | Discord: https://discord.gg/ABfASx5ZAJ
+- OpenRGB — , WLED , Aurora , LiquidCTL , Artemis or FireLight - RGB Lighting Control — https://openrgb.org/ | WLED: https://kno.wled.ge/ | Aurora: https://www.project-aurora.com/ | LiquidCTL: https://github.com/liquidctl/liquidctl | Artemis: https://artemis-rgb.com/ | FireLight: https://github.com/nicolasdeory/firelight
+- VSThemes — , WindowsCustomization or 7Themes - Theme Indexes — https://vsthemes.org/en/ | WindowsCustomization: https://windowscustomization.com/ | 7Themes: https://7themes.su/
+- Anime — Styled Themes - Anime / Modern Style / macOS Style / Old School Style , 2 — https://winmoes.com/ | Modern Style: https://www.vinstartheme.com/ | macOS Style: https://redd.it/pd5ha6 | Old School Style: https://winclassic.boards.net/ | 2: https://forum.spacehey.com/topic?id=94545
+- VirtualCustoms — , ⁠WinClassic or winthemers - Customization Communities — https://virtualcustoms.net/ | ⁠WinClassic: https://winclassic.net/ | winthemers: https://discord.com/invite/8FFWAqdtc4
+- Desktops — Customization Showcases — https://deskto.ps/
+- ⁠ExplorerPatcher — Win 10 Style Customization App for Win 11 — https://github.com/valinet/ExplorerPatcher
+- SecureUxTheme — or UltraUXThemePatcher - UX Patcher — https://github.com/namazso/SecureUxTheme | UltraUXThemePatcher: https://mhoefs.eu/software_uxtheme.php?ref=syssel&lang=en
+- MechvibesDX — or MechaKeys - Keyboard Sound Effects — https://github.com/hainguyents13/mechvibes-dx | MechaKeys: https://mechakeys.robolab.io/
+- ElectricSheep — or After Dark CSS - Screensavers — https://electricsheep.org/ | After Dark CSS: https://www.bryanbraun.com/after-dark-css/
+- ⁠Wallpapers Clan — , FolderMarker , Flaired Folder or CustomFolder - Custom Folder Icons — https://wallpapers-clan.com/ | FolderMarker: https://foldermarker.com/ | Flaired Folder: https://flaired-folders.vercel.app/ | CustomFolder: https://www.gdzsoft.com/
+- Recycle Bin Themes — Custom Recycle Bin Icons — https://github.com/sdushantha/recycle-bin-themes
+- msstyleEditor — Visual Style Editor — https://github.com/nptr/msstyleEditor
+- Taskbar Tweaker — , TranslucentTB , NiceTaskbar - Taskbar Customization / Old School Style — https://tweaker.ramensoftware.com/ | TranslucentTB: https://github.com/TranslucentTB/TranslucentTB | NiceTaskbar: https://www.microsoft.com/en-us/p/nicetaskbar/9pkl2s93xwb5 | Old School Style: https://github.com/dremin/RetroBar
+- ⁠Sweezy Cursors — Custom Animated Cursors / Requires no Extension — https://sweezy-cursors.com/
+- AccentColorizer — Accent Color Customization — https://github.com/krlvm/AccentColorizer
+- BeautySearch — Search Customization — https://github.com/krlvm/BeautySearch
+- ElevenClock — Clock Customization — https://www.marticliment.com/elevenclock/
+- HackBGRT — Boot Logo Changer — https://github.com/Metabolix/HackBGRT
+- ExplorerBlurMica — File Explorer Effects — https://github.com/Maplespe/ExplorerBlurMica
+- QTTabBar — Windows File Explorer Enhancement — https://github.com/indiff/qttabbar
+- WinSetView — Globally Set Explorer Folder Views — https://lesferch.github.io/WinSetView/ | GitHub: https://github.com/LesFerch/WinSetView
+- MicaForEveryone — Title Bar Effects — https://github.com/MicaForEveryone/MicaForEveryone
+- FluentFlyout — (use github) or ModernFlyouts - Modernized Flyout Menus — https://fluentflyout.com/ | GitHub: https://github.com/unchihugo/FluentFlyout | ModernFlyouts: https://modernflyouts-community.github.io
+- Alternative Windows Shells Wiki — Alt Windows Shells — https://wikipedia.org/wiki/List_of_alternative_shells_for_Windows
+- Aerial — Apple TV Screensaver — https://github.com/OrangeJedi/Aerial
+- ExcelDarkThemeFix — Fix Excel on Themed Windows — https://github.com/matafokka/ExcelDarkThemeFix
+- MacType — Use Mac Fonts on Windows — https://www.mactype.net/ | GitHub: https://github.com/snowie2000/mactype
+
+### App Themes
+- Catppuccin — Custom App Theme — https://catppuccin.com/ | Discord: https://discord.gg/r6Mdz5dpFc
+- Dracula — Custom App Theme — https://draculatheme.com/ | Discord: https://discord.com/invite/yDcFsrYuq9
+- Rosé Pine — Custom App Theme — https://rosepinetheme.com/ | Discord: https://discord.gg/r6wf35KVJW
+- Aura Theme — Custom App Theme — https://github.com/daltonmenezes/aura-theme
+- theme.park — Custom App Theme — https://theme-park.dev/
+- Solarized — Custom App Theme — https://ethanschoonover.com/solarized/ | GitHub: https://github.com/altercation/solarized
+- gruvbox — Custom App Theme — https://github.com/morhetz/gruvbox | GitHub: https://github.com/morhetz/gruvbox-contrib
+- ⁠Flexoki — Custom App Theme — https://stephango.com/flexoki/ | GitHub: https://github.com/kepano/flexoki
+- Totally Awesome List — Old School App Themes — https://forum.spacehey.com/topic?id=94545
+- Pokemon Terminal — Pokémon Terminal Themes — https://github.com/LazoCoder/Pokemon-Terminal
+- Traffic Monitor — System Monitor Themes — https://github.com/zhongyang219/TrafficMonitor/
+- terminal.sexy — , TerminalSplash or WindowsTerminalThemes - Terminal Themes — https://terminal.sexy/ | TerminalSplash: https://terminalsplash.com/ | WindowsTerminalThemes: https://windowsterminalthemes.dev/
+
+### Wallpapers
+- WallSync — , 2 - Wallpaper Site Index — https://roigoatzzz.netlify.app/ | 2: https://wallsync.pages.dev/ | GitHub: https://github.com/leroiduflow/Wallsync
+- wallhaven.cc — Search Wallpapers / Some NSFW / Downloader — https://wallhaven.cc/ | Downloader: https://github.com/eramdam/WallbaseDirectDownloader
+- Wallpaper Abyss — Search Wallpapers — https://wall.alphacoders.com/
+- ⁠WallWidgy — , ⁠Fluffy , Simple Desktops or Minimalistic Wallpaper - Minimalist Wallpapers — https://www.wallwidgy.app/ | GitHub: https://github.com/not-ayan/wallwidgy | ⁠Fluffy: https://wp.kernal.bid/ | Simple Desktops: https://simpledesktops.com/ | Minimalistic Wallpaper: https://minimalistic-wallpaper.demolab.com/
+- Studio Ghibli Wallpapers — Studio Ghibli Wallpapers — https://www.ghibli.jp/info/013772
+- LWP — , DesktopHut / , r / LivingBackgrounds , WALLegend or MoeWalls - Live Wallpapers — https://github.com/jszczerbinsky/lwp | DesktopHut: https://www.desktophut.com/ | Discord: https://discord.com/invite/QzgnQtJdfs | r/LivingBackgrounds: https://reddit.com/r/LivingBackgrounds | WALLegend: https://wallegend.net/en/ | MoeWalls: https://moewalls.com/
+- WallpaperCave — Search Wallpapers — https://wallpapercave.com/
+- ⁠WallsCloud — Search Wallpapers — https://wallscloud.net/en/
+- WallpapersCraft — Search Wallpapers — https://wallpaperscraft.com/
+- ⁠WallBrowser — Search Wallpapers — https://wallbrowser.com/
+- VSThemes — Search Wallpapers — https://vsthemes.org/en/
+- ⁠Wallpapers Clan — Search Wallpapers — https://wallpapers-clan.com/
+- r/Wallpaper — Wallpapers Subreddit — https://www.reddit.com/r/wallpaper/
+- r/WallpaperRequests — Wallpaper Request Subreddit — https://www.reddit.com/r/WallpaperRequests/
+- Frutiger Aero Archive — 2000s Style Wallpapers — https://frutigeraeroarchive.org/
+- Basic Apple Guy — 2 - Apple Wallpaper Interpretations — https://basicappleguy.com/basicappleblog/category/Wallpaper | 2: https://basicappleguy.com/haberdashery/category/Wallpaper
+- ⁠Kawaii Hoshi — Cute Wallpapers — https://kawaiihoshi.com/
+- DualMonitorBackgrounds — Dual Monitor Wallpapers — https://www.dualmonitorbackgrounds.com/
+- CoolBackgrounds — Customizable Wallpapers — https://coolbackgrounds.io/
+- Aesthetic Wallpapers — Aesthetic Wallpapers — https://github.com/D3Ext/aesthetic-wallpapers
+- Xbox Wallpapers — Xbox Wallpapers — https://www.xbox.com/en-us/wallpapers/
+- Anime Pictures — , WallpaperWaifu or MyLiveWallpapers - Anime Wallpapers — https://anime-pictures.net/ | WallpaperWaifu: https://wallpaperwaifu.com/ | MyLiveWallpapers: https://mylivewallpapers.com/
+- WallsPic — , WallpaperFlare , HDQwalls or UHD Wallpaper - Misc Wallpapers — https://wallspic.com/ | WallpaperFlare: https://www.wallpaperflare.com/ | HDQwalls: https://hdqwalls.com/ | UHD Wallpaper: https://www.uhdpaper.com/
+- G_Walls — Telegram Wallpaper Channels — https://t.me/G_Walls
+- Engine Workshop File — Wallpaper Engine Wallpapers — https://discord.com/invite/KMbdezWjKY
+
+### Wallpaper Tools
+- Wallpaper Engine — 2 (search) - Wallpaper / Live Wallpaper Manager — /gaming/#download-games | 2: /torrenting/
+- PKG to Zip — Wallpaper Engine Tools - PKG to Zip / Collections , 2 / Workshop DL — https://github.com/TheRioMiner/Wallpaper-Engine-Pkg-to-Zip | Collections: https://www.wallpaperengine.space/collections | 2: https://steamcommunity.com/sharedfiles/filedetails/?id=2801058904 | Workshop DL: /gaming-tools/#steam-workshop-downloaders
+- Lively — or ScreenPlay - Live Wallpaper Manager — https://www.rocksdanister.com/lively/ | ScreenPlay: https://screen-play.app/
+- backiee — Wallpaper Manager — https://apps.microsoft.com/store/detail/backiee-wallpaper-studio-10/9WZDNCRFHZCD
+- wallhaven-desktop — Wallhaven Wallpaper Manager — https://github.com/luisflorido/wallhaven-desktop
+- SuperPaper — Cross-Platform Multi-Monitor Wallpaper Manager — https://github.com/hhannine/superpaper
+- Background Switcher — , WinDynamicDesktop or Dynamic Theme - Auto Change Wallpaper — https://johnsad.ventures/software/backgroundswitcher/ | WinDynamicDesktop: https://github.com/t1m0thyj/WinDynamicDesktop | Dynamic Theme: https://apps.microsoft.com/detail/9nblggh1zbkw
+- AutoWall — Turn Videos / GIFs to Live Wallpapers — https://github.com/SegoCode/AutoWall
+- Awesome Wallpaper — Show System Information on Wallpaper — https://awesome-wallpaper.com/
+- GoWall — Wallpaper Color Scheme Converter — https://github.com/Achno/gowall

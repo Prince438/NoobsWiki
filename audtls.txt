@@ -1,0 +1,912 @@
+FMHY Audio Tools Library
+Source: https://fmhy.net/audio
+
+Scraped from the FMHY Audio page.
+
+> Music / Podcasts / Radio Stream Audio, Download Audio, Torrent Audio
+## Audio Streaming
+
+### Streaming Apps
+- /music streaming/ — or Wiki Comparisons - Streaming Service Comparisons — https://rentry.co/musicstreaming | Wiki Comparisons: https://wikipedia.org/wiki/Comparison_of_music_streaming_services
+- Spotify Clients — ️ Spotify Clients — /audio/#spotify-tools
+- YouTube Music Tools — ️ YouTube Music Tools — /audio/#youtube-music-tools
+- YouTube Music Mobile — ️ YouTube Music Mobile — /mobile/#youtube-music
+- Pear Desktop — YouTube Music Client w / Adblock — https://github.com/pear-devs/pear-desktop
+- Moosync — YouTube / Spotify — https://moosync.app/ | Discord: https://discord.gg/HsbqbRune3 | GitHub: https://github.com/Moosync/Moosync
+- Audion — Streaming / Plugin-Based — https://audionplayer.com/ | Discord: https://discord.gg/27XRVQsBd9 | GitHub: https://github.com/dupitydumb/Audion
+- BeatBoss — Streaming / Plugin-Based — https://beatboss.thevolecitor.qzz.io/ | GitHub: https://github.com/TheVolecitor/BeatBoss
+- PlayTorrio — Streaming — https://playtorrio.xyz/ | Reddit: https://www.reddit.com/r/PlayTorrio/ | Discord: https://discord.gg/bbkVHRHnRk | GitHub: https://github.com/ayman708-UX/PlayTorrioV2
+- yewtube — YouTube Music Client — https://github.com/mps-youtube/yewtube
+- pulse — or Beatsync / - Listen Together / Listening Parties — https://473999.net/pulse | Beatsync: https://www.beatsync.gg/ | GitHub: https://github.com/freeman-jiang/beatsync
+- BetterSoundcloud — Soundcloud Client / Ad-Free — https://alirezakj.com/bsc/ | GitHub: https://github.com/AlirezaKJ/BetterSoundCloud
+- Nuclear — Streaming — https://nuclearplayer.com/ | Discord: https://discord.com/invite/JqPjKxE | GitHub: https://github.com/NuclearPlayer/nuclear-xrd
+- FunkWhale — Decentralized Streaming Platform — https://funkwhale.audio/
+- Muffon — Streaming — https://muffon.netlify.app/
+- ⁠Sonosano — Self-Hosted P2P Lossless Music Player / Web App — https://github.com/KRSHH/Sonosano | Web App: https://sonosano.krshh.com/ | Discord: https://discord.gg/Np7YYEVPhR
+
+### Streaming Sites
+- YouTube Music — YouTube Music WebUIs / Tools — https://music.youtube.com/ | Tools: /audio/#youtube-music-tools
+- Monochrome — , 2 , 3 , 4 - Browser Music — https://monochrome.tf/ | 2: https://monochrome.samidy.com/ | 3: https://monochromemusic.pages.dev | 4: https://lossless.wtf/ | Discord: https://monochrome.samidy.com/discord | GitHub: https://github.com/monochrome-music/monochrome
+- SoundCloud — User-Made & User-Uploaded Songs — https://soundcloud.com/
+- ArtistGrid — Unreleased / Render — https://artistgrid.cx/ | Render: https://dev.artistgrid.cx/ | Discord: https://discord.gg/tns89b3w7R | GitHub: https://github.com/ArtistGrid/
+- Spotify — Web Player / Lyrics / Lyrics Script — https://open.spotify.com/ | Lyrics: https://github.com/mantou132/Spotify-Lyrics | Lyrics Script: https://greasyfork.org/en/scripts/377439
+- Deezer — Browser Music / Requires Sign-Up — https://www.deezer.com/
+- Audiomack — Browser Music — https://audiomack.com/
+- Pandora — Browser Music — https://www.pandora.com/
+- Jango — Browser Music — https://jango.com/
+- SoundClick — Browser Music — https://www.soundclick.com/default.cfm
+- BeatBoss — Browser Music / Plugin-Based — https://beatboss-web.thevolecitor.qzz.io/ | GitHub: https://github.com/TheVolecitor/BeatBoss
+- Mixupload — Browser Music — https://mixupload.com/
+- zvu4no — or Tancpol - Russian Music / Use Translator — https://zvu4no.org/ | Tancpol: https://tancpol.net/ | Translator: /text-tools/#translators
+- jiosaavn — or Hayasaka - Browser Music / API — https://www.jiosaavn.com/ | Hayasaka: https://hayasaka.vercel.app/ | API: https://cyberboysumanjay.github.io/JioSaavnAPI/
+- MTV REWIND — 2 - Recreates MTV Experience from Different Eras — https://wantmymtv.xyz/ | 2: https://wantmymtv.vercel.app/
+- The 120 Minutes Archive — MTV's 120 Minutes Archive — https://120minutes.org/
+- Ballsack TV — MTV Style User-Submitted Music Video Feed — https://bsky.app/profile/feed.ballsack.tv | Discord: https://discord.gg/KT2Dht4zcZ
+- ⁠VersusMedia — Independent Music Video Feed — https://watch.versusmedia.com/music-channel
+- Hype Machine — Rising — https://hypem.com/popular
+- Bandcamp — Free Music Release Platform — https://bandcamp.com/discover/free-music
+- Mirlo — Free Music Release Platform — https://mirlo.space/
+- Newgrounds Audio — User-Made Electronic Music — https://www.newgrounds.com/audio
+- Audius — User Made Music — https://audius.co/
+- AudionautiX — Mood-Based Streaming — https://audionautix.com/
+- LostMyspace — Lost Myspace Songs — http://lostmyspace.com/
+- Openwhyd — Music Sharing Community / Chrome — https://openwhyd.org/ | Chrome: https://chromewebstore.google.com/detail/openwhyd-%E2%9C%9A-track/foohaghobcolamikniehcnnijdjehfjk
+
+### Genre Specific Streaming
+- The Urban Emporium — Hip-Hop — https://www.youtube.com/@theurbanemporium204/playlists
+- DatPiff — Hip-Hop / Mixtapes — https://datpiff.com/
+- MixtapeMonkey — Hip-Hop / Mixtapes — https://mixtapemonkey.com/
+- DMO — Electronic — https://dance-music.org/
+- Vapor Archive — Vaporwave — https://vaporarchive.neocities.org/
+- Jamendo — or Free Music Archive - Independent Music — https://www.jamendo.com/ | Free Music Archive: https://freemusicarchive.org/
+- Keygen Music — Keygen Music — https://keygenmusic.tk/
+- OperaOnVideo — Opera Recordings — https://www.operaonvideo.com/
+- Classical Music Only — or Musopen - Classical Music — https://classicalmusiconly.com/ | Musopen: https://musopen.org/music/
+- New Age Music — New Age Music — https://newage.one/
+
+### YouTube Music Tools
+- Themesong — or BetterYTM - Enhancement Extensions — https://themesong.app/ | BetterYTM: https://github.com/Sv443/BetterYTM
+- YT Music Deleter — Library Manager / Deleter — https://github.com/apastel/ytmusic-deleter
+- YouLy+ — or Better Lyrics / Uploader / / - Improved Lyrics Browser Extensions — https://github.com/ibratabian17/YouLyPlus | Better Lyrics: https://better-lyrics.boidu.dev/ | Uploader: https://darkforcefreefire.github.io/unison-web/ | Discord: https://discord.gg/UsHE3d5fWF | GitHub: https://github.com/better-lyrics/better-lyrics
+- Spot Transfer — , Spotify2YoutubeMusic or spotify_to_ytmusic / 2 - Spotify Playlist Importers — https://spot-transfer.vercel.app/ | Spotify2YoutubeMusic: https://github.com/mahdi-y/Spotify2YoutubeMusic | spotify_to_ytmusic: https://github.com/linsomniac/spotify_to_ytmusic | 2: https://github.com/sigma67/spotify_to_ytmusic
+- YT Upload Clear — Script to Clear Uploaded Songs — https://rentry.co/tv4uo
+
+## Specialty Streaming
+
+- UCSB Cylinders — Cylinder Audio Archive — https://cylinders.library.ucsb.edu/index.php
+- Dream of the 90s — Obscure 90s — https://www.youtube.com/@Dreamofthe90s/playlists
+- CitizenFreak — Canadian Music — https://citizenfreak.com/
+- Irama Nusantara — Indonesian Music — https://www.iramanusantara.org/en
+- DigLib — East African Recordings — https://diglib.library.vanderbilt.edu/ama-browse.pl
+- Tasso Music — Early Modern Music — https://www.tassomusic.org/
+- i78s — , Archeophone , CLPGS or Tinfoil - Phonograph / Gramophone Recordings — https://i78s.org/ | Archeophone: https://www.archeophone.org/html/languages/en/index.en.html | CLPGS: https://www.clpgs.org.uk/ | Tinfoil: https://www.tinfoil.com/
+- FirstSounds — Oldest Music Recordings — https://www.firstsounds.org/
+- Russian Records — Russian Record Recordings — https://www.russian-records.com/
+- Measuring Polyphony — Digital Encoding of Late Medieval Music — https://measuringpolyphony.org/
+
+### Concerts / Live Shows
+- 365 Radio — List of YouTube DJ Channels — https://365.ilysm.nl/
+- bt.etree — Concert Recordings / Torrents — https://bt.etree.org/
+- Bootleg.fm — Bootleg Concert Recordings / Archive — https://bootleg.fm/ | Discord: https://discord.gg/3yz4HNteuR
+- hate5six — Concert Recordings — https://hate5six.com/
+- BBC Radio 1 Essential Mix — BBC Radio 1 Essential Mix Archive + Guide / Downloader — https://rentry.co/musicdiscovery/#bbc-radio-1-essential-mix | Downloader: https://rentry.co/bbcemdl
+- MiroPPB — A State of Trance Archive / DJ Mixes / Downloader — https://miroppb.com/ | Downloader: https://rentry.co/asotdl
+- setlist.fm — Setlist Database — https://www.setlist.fm/
+- r/MusicalBootlegs — , OperaVision or "Slime Tutorials" - Broadway Show Recordings / Opera — https://www.reddit.com/r/MusicalBootlegs | OperaVision: https://operavision.eu/ | "Slime Tutorials": https://youtube.com/playlist?list=PLsIt5G4GJ27lxWP9Qi5N70zRSkJAT0ntc
+- JamBase — Concert Recordings — https://www.jambase.com/videos
+- Relisten — Concert Recordings — https://relisten.net/ | GitHub: https://github.com/relistennet
+- DimeADozen — Concert Recordings / Torrents — http://www.dimeadozen.org/
+- Guitars101 — Concert Recordings / Bootlegs — https://www.guitars101.com/
+- TheTradersDen — Concert Recordings / Torrents — http://www.thetradersden.org/
+- Lossless Legs — Concert Recordings / Torrents — https://www.shnflac.net/
+- etreedb — Concert Recordings / Torrents — https://etreedb.org/
+- MuseBootlegs — Bootleg Concert Recordings / Torrents — https://www.musebootlegs.com/
+- LiveBootlegConcert — Bootleg Concert Recordings / Torrents — https://livebootlegconcert.blogspot.com/
+- TopDJMixes — DJ Mixes / Livesets — https://topdjmixes.com/
+- GOA PsyTrance Livesets — DJ Livesets — https://rentry.co/FMHYB64#goa-psytrance-livesets
+- ⁠BassBlog — DJ Mixes / Streaming — https://bassblog.pro/
+- ⁠TestPressing — Rare DJ Mixes / Streaming — https://www.testpressing.org/
+- Rave Recording — Rave Recordings / Archive — https://rentry.co/FMHYB64#rave-library
+- Volume — Live Cam Concerts — https://volume.com/
+- ConcertArchives — or ⁠EntertainMe - Concert Tracking / Database — https://www.concertarchives.org/ | ⁠EntertainMe: https://www.entertainme.fun/
+- SongKick — , ConcertArchives or FindYourFest - Find Concerts / Music Festivals — https://www.songkick.com/ | ConcertArchives: https://www.concertarchives.org/ | FindYourFest: https://www.findyourfest.com/
+- Cadenza — Find Classical / Contemporary Concerts — http://www.cadenza.org/
+- Konserthuset — Orchestra Recordings — https://www.konserthuset.se/en/play/
+- WorldConcertHall — Concert Hall / Opera House Live Streams — https://www.worldconcerthall.com/en/schedule-list/
+- ToolDriveProject — Tool Live Archive — https://tooldriveproject.net/
+- RATM.live — Rage Against the Machine Live Archive — https://ratm.live/
+- RHCPLiveArchive — Red Hot Chili Peppers Live Archive — https://www.rhcplivearchive.com/
+- Radio Nowhere — Bruce Springsteen Concerts / Bootlegs — https://rentry.co/FMHYB64#radio-nowhere
+- Phish.in — Phish Live Archive / Mobile — https://phish.in/ | Mobile: https://play.google.com/store/apps/details?id=never.ending.splendor | Discord: https://discord.gg/KZWFsNN
+
+### Podcast Streaming
+- Android — ️ Android / iOS - Podcast / Radio Apps — /mobile/#android-podcasts-radio | iOS: /mobile/#ios-podcasts-radio
+- Spotify Podcasts — Podcasts / SponsorBlock , / Companion / RSS / Video Download / Audio Download — https://open.spotify.com/browse/podcasts | SponsorBlock: https://spotsponsorblock.org/ | GitHub: https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension | Companion: https://sebschaef.bitbucket.io/podify/ | RSS: https://github.com/Yetangitu/Spodcast | Video Download: https://rentry.co/spotifypodcast | Audio Download: https://rentry.co/dlspotifypodcast
+- Pocket Casts — Podcasts / Desktop App — https://play.pocketcasts.com/discover | Desktop App: https://pocketcasts.com/downloads/windows/
+- ⁠PodcastToMP3 — Podcast Downloads / Search — https://podcasttomp3.com/
+- Podchaser — or ⁠Podstatus - Podcast Charts / Databases — https://www.podchaser.com/charts | ⁠Podstatus: https://podstatus.com/charts
+- Listen Notes — Podcast Search Engine — https://www.listennotes.com/
+- Rephonic — Find Similar Podcasts — https://rephonic.com/graph
+- Apple Podcasts — https://podcasts.apple.com/us/home
+- PodParadise — https://www.podparadise.com/
+- Podbean — https://www.podbean.com/
+- Podbay — https://podbay.fm/
+- BBC Podcasts — Downloader — https://www.bbc.co.uk/sounds/podcasts | Downloader: https://github.com/get-iplayer/get_iplayer
+- Podcast Index — https://podcastindex.org/
+- Player FM — https://player.fm/
+- Podcast Republic — https://www.podcastrepublic.net/
+- Relay.fm — https://www.relay.fm/
+- podcast-dl — , PodcastBulkDownloader , PodDL or PodGrab - Podcast Downloaders — https://github.com/lightpohl/podcast-dl | PodcastBulkDownloader: https://github.com/cnovel/PodcastBulkDownloader | PodDL: https://github.com/freshe/poddl | PodGrab: https://github.com/akhilrex/podgrab
+- PodScripts — Podcast Transcript Search — https://podscripts.co/
+- OpenPodcast — Podcast Analytics — https://openpodcast.dev
+- castero — TUI Terminal Podcast Client — https://github.com/xgi/castero
+- Grover — or GPodder - Podcast Client — https://www.microsoft.com/store/productId/9NBLGGH6C4BC | GPodder: https://gpodder.github.io/
+- EchoWalk — Turn Articles / Webpages into Podcasts — https://www.echowalk.com/
+- PodSync — Turn YouTube Video into Podcasts — https://github.com/mxpv/podsync
+
+### Ambient / Relaxation
+- Android — ️ Android / iOS - Ambient / Relaxation Mobile Apps — /mobile/#android-relaxation | iOS: /mobile/#ios-relaxation
+- Drone Zone — or Music For Programming - Ambient Playlists — https://somafm.com/player/#/now-playing/dronezone | Music For Programming: https://musicforprogramming.net/latest/
+- myNoise — Customizable Ambient Sound Mixer — https://mynoise.net/
+- Rainy Mood — Ambient Rain — https://www.rainymood.com/
+- Rainbow Hunt — Ambient Rain — https://rainbowhunt.com/
+- Pluvior — Ambient Rain — https://pluvior.com/
+- Rainyscope — Ambient Rain — https://rainyscope.com/ | GitHub: https://github.com/jenius-apps/ambie
+- ambiphone — or Moodist - Simple Ambient Sound Mixers — https://ambiph.one/ | Moodist: https://moodist.app/
+- Ambie — Ambient Sound Mixer / App — https://ambieapp.com/
+- Click Bath — Ambient Sound Mixer with Customizable Musical Scale / Instruments — https://hamishlang.github.io/clickbath/
+- IMissTheOffice — Ambient Office Sounds with Interactive UI — https://imisstheoffice.eu/
+- Homesick — Ambient Home Sounds — https://scoreascore.com/homesick
+- VirtOcean — Ambient Ocean Sounds — https://virtocean.com/
+- imissmycafe — Ambient Cafe Sounds — https://imissmycafe.com/
+- Relaxing Sounds — , Calmsound , Click Relax , Moszen , Zen Sounds or NoisyLoop - Ambient Soundscapes — https://unifycosmos.com/relaxing-sounds/ | Calmsound: https://www.calmsound.com/ | Click Relax: https://click-relax.com/ | Moszen: https://www.moszen.com/ | Zen Sounds: https://app.zenflowchart.com/zen-sounds | NoisyLoop: https://noisyloop.com/
+- lofi-player — , 2 - Create Room / Lofi Player — https://magenta.tensorflow.org/lofi-player | 2: https://magenta.github.io/lofi-player/
+- Wisdom Tree — TUI Concentration App — https://github.com/HACKER097/wisdom-tree/
+- Generative.fm — or Lofi Generator - Generative Ambient Music — https://generative.fm/ | Lofi Generator: https://lofigenerator.com/
+- Earth.fm — , tree.fm or Sounds of Maine - Field Recordings — https://earth.fm/ | tree.fm: https://www.tree.fm/ | Sounds of Maine: https://soundsofmaine.life/
+- HaloMe — Halo Menu Screens — https://halome.nu/
+- CanvasCycle — 8-bit Scenes with Ambient Sounds — http://www.effectgames.com/demos/canvascycle/
+- Ambient Mixer — User-Made Soundscapes — https://www.ambient-mixer.com/
+- ChillOuts — Meditation Aid — http://www.chillouts.com/
+- You are Listening To LA — Ambient City Sounds & Live LAPD Police Radio — https://youarelistening.to/
+- TheWhiteNoiseMachine — White Noise Generator — https://thewhitenoisemachine.com/
+
+## Radio Streaming
+
+- FMSTREAM — , Recommended Streams , Station Index , RadioStationWorld or Radio Browser - Radio Indexes — https://fmstream.org/ | Recommended Streams: https://github.com/deroverda/recommended-radio-streams | Station Index: https://wikipedia.org/wiki/List_of_Internet_radio_stations | RadioStationWorld: https://radiostationworld.com/ | Radio Browser: https://www.radio-browser.info/users
+- Android — ️ Android / iOS - Podcast / Radio Apps — /mobile/#android-podcasts-radio | iOS: /mobile/#ios-podcasts-radio
+- BBC Sounds — BBC Live & Catch-Up Radio / Requires UK VPN / Downloader — https://www.bbc.co.uk/sounds | Downloader: https://github.com/get-iplayer/get_iplayer
+- Drive n Listen — Radio Driving Simulators — https://drivenlisten.com/
+- iHeartRadio — , Mixcloud , myTuner or TuneIn - Podcasts / Radio — https://www.iheart.com/ | Mixcloud: https://www.mixcloud.com/ | myTuner: https://mytuner-radio.com/ | TuneIn: https://tunein.com/
+- Internet Archive — News / Classic Radio / Podcasts — https://archive.org/details/audio?&sort=-downloads&page=1
+- Relic Radio — or Old Time Radio - Classic Radio — https://www.relicradio.com/ | Old Time Radio: https://oldtime.radio/
+- Old Time Radio Downloads — Classic Radio Downloads — https://www.oldtimeradiodownloads.com/
+- Braggoscope — BBC In Our Time Archive — https://www.braggoscope.com/
+- AudioFilesDrive — Radio Drama Downloads — https://t.me/AudioFilesDrive
+- radiobot — Radio / Telegram — https://t.me/radiobot
+- raddio — Simple Radio Player / Directory — https://raddio.net/
+- Instant.audio — Minimalist Radio Player — https://instant.audio/
+- Flicker Radio — Simple / Lightweight Radio Player — https://flickermini.pages.dev/radiostations
+- QMPlay2 — Desktop Media / Radio Player — https://github.com/zaps166/QMPlay2
+- StreamURL — Radio Stream URL Finder — https://streamurl.link/
+- LiveATC — Air Traffic Radio Chatter — https://www.liveatc.net/
+- Broadcastify — Live Emergency, Aircraft and Rail Radio — https://www.broadcastify.com/
+- OpenMHz — Live Police Radio — https://openmhz.com/
+- RadioReference — Morse Code Radio / Communication — https://www.radioreference.com/
+- Worldwide Radio — Radio Extension — https://addons.mozilla.org/en-US/firefox/addon/worldwide-radio/
+
+### Internet Radio
+- SomaFM — Online Radio / User Supported / Discovery Guide — https://somafm.com/ | Discovery Guide: https://rentry.co/musicdiscovery/#somafm
+- NTS Radio — DJ Radio Shows / SoundCloud / Discovery Guide — https://www.nts.live/ | SoundCloud: https://soundcloud.com/user-643553014 | Discovery Guide: https://rentry.co/musicdiscovery/#nts-radio
+- RadioParadise — Online Radio / Listener Supported — https://radioparadise.com/
+- KWSX Radio — Online Radio / Listener Supported — https://radio.kwsx.online/
+- Radio.dubbeh — Online Radio Directory — https://radio.dubbeh.net/
+- My Radio — Online Radio Directory — https://junguler.github.io/m3u-player-web/
+- 0nRadio — Online Radio Directory — https://www.0nradio.com/
+- 1a Radio — Online Radio Directory — https://www.1aradio.com/
+- Radiolise — Online Radio Player / Directory — https://radiolise.com/
+- Radiodeck — Online Radio Player / Directory — https://www.radiodeck.com/
+- Quasar Radio — Online Radio Directory — https://kuasark.com/en/
+- ⁠Freeform Radio — Online Radio Directory — https://www.freeformradio.directory/
+- ⁠Vijay's Radio Vibes — Random Radio Stations — https://vijaysradiovibes.pages.dev/
+- AccuRadio — Online Radio Directory — https://www.accuradio.com/
+- Q-3 — Online Radio Directory — https://www.q-3.eu/
+- ⁠DubLab — Online Radio — https://www.dublab.com/
+- ⁠BoxRadio — Online Radio Directory — https://boxradio.net/
+- You Radio — Online Radio Directory — https://play.you.radio/
+- Audiophile — Online Radio Directory — https://audiophile.fm/
+- Vidbox Radio — Online Radio Directory — https://vidbox.cc/radio
+- ShoutCast — User-Stations — https://directory.shoutcast.com/
+- Zeno.fm — User-Stations — https://zeno.fm/
+- Live365 — User-Stations — https://live365.com/
+- Internet-Radio — Station-Directory — https://internet-radio.com/
+- ⁠WFMU — Independent Internet Radio — https://wfmu.org/
+- deepcut.fm — Deep-Cuts — https://deepcut.live/
+- Radiooooo — Radio / Time Machine — https://radiooooo.com/
+- Tilderadio — Community Radio — https://tilderadio.org/
+- UpBeat — Community Radio — https://upbeatradio.net/ | Discord: https://upbeat.pw/discord
+- radio.uwu — Subculture Radio — https://radio.uwu.network/
+- Nectarine — Demo Scene Music Radio — https://www.scenestream.net/demovibes/streams/
+- HollowEarthRadio — Pacific Northwest Artists — https://www.hollowearthradio.org/
+- Campus FM — College Radio — https://www.campus-fm.com/
+- RadioSide — Internet Radio Receiver — https://radioside.com/
+- streamWriter — Internet Radio Audio Downloader — https://streamwriter.org/en/
+
+### Radio Directories
+- Radio Garden — Site Unblock , 2 , WorldRadioMap , GlobeRadio or ⁠RadioCast - Worldwide Radio Globes — https://radio.garden/ | Site Unblock: https://redd.it/18e12gf | 2: https://redd.it/13b53zs | WorldRadioMap: https://worldradiomap.com/ | GlobeRadio: https://globeradio.app/ | ⁠RadioCast: https://www.radiocast.co/
+- LiveOnlineRadio — Global Radio Directory / Country & Genre — https://liveonlineradio.net/
+- OnlineRadioBox — International Radio Directory / Playlists — https://onlineradiobox.com/
+- Streema — Global AM / FM & Internet Radio Directory — https://streema.com/
+- Radio.net — International Radio Directory / Player — https://www.radio.net/
+- RadioPuppy — Radio Directory — https://www.radiopuppy.com/
+- myTuner — Global Radio & Podcasts / Multi-Platform — https://mytuner-radio.com/
+- TuneYou — Radio Directory / Discovery Focus — https://tuneyou.com/
+- vTuner — Radio Directory / Hardware Integration — https://vtuner.com/setupapp/guide/asp/BrowseStations/startpage.asp
+- radioline — Radio & Podcast Aggregator — https://www.radioline.co/
+- TheNonStop Radio — or TheOneStop Radio - Radio Directory — https://thenonstopradio.com/ | TheOneStop Radio: https://theonestopradio.com/
+- Radio Guide — Radio Directory — https://www.radioguide.fm/
+- radio-locator — AM / FM Radio Search — https://radio-locator.com/
+- Shortwave.Live — Shortwave Radio Schedules — https://shortwave.live/
+- Xiph — Icecast / Ogg Stream Directory — https://dir.xiph.org/
+- UKRadioLive — or RadioFeeds - UK Radio Station Directories — https://ukradiolive.com/ | RadioFeeds: http://www.radiofeeds.co.uk/
+- ilovemusic — German Radio Directory — https://ilovemusic.de/
+- Tvradiotuner — TV & Radio Stream Aggregator — https://tvradiotuner.com/
+- VRadio — Radio Directory / VRadio App — https://www.akouradio.com/
+
+### Genre Specific Radio
+- ⁠WQXR — or ⁠The Classical Station - Classical Music Radio — https://www.wqxr.org/streams/ | ⁠The Classical Station: https://theclassicalstation.org/
+- Pool Suite — Summer Radio — https://poolsuite.net/
+- LISTEN.moe — J-Pop / K-Pop Radio — https://listen.moe/
+- J1 Radio — J-Pop Radio — https://rec.torontocast.stream/player/
+- Openings Moe — Anime Theme Radio — https://openings.moe/
+- Ongaku — or r-a-d.io - Anime Radio — https://ongaku.js.org/ | r-a-d.io: https://r-a-d.io/
+- 420.moe — 420 Radio — https://420.moe/
+- Rekt FM — Chill / Space / Dark / Horror Synth / EBSM / EDM Radio — https://rekt.network/
+- Nightwave Plaza — Vaporwave Radio — https://plaza.one/
+- Nightride.fm — Synthwave / Darksynth Radio — https://nightride.fm/
+- Di.fm — Electronic Radio — https://www.di.fm/
+- 0x40 — Electronic Radio with Anime Pictures — https://0x40.mon.im/
+- CoreRadio — Metalcore / Hardcore / Deathcore — https://coreradio.online/listen
+- HappyHardcore — Hardcore Dance Radio — https://www.happyhardcore.com/radio/
+- Daft Punk Cafe — Daft Punk Radio — https://daftpunk.cafe/
+
+### Lofi Radio
+- Flow-Fi — Lofi Radio — https://www.flowfi.app/
+- CityHop — or Japan Walkaround - Lofi Radio / City Walks — https://www.cityhop.cafe/ | Japan Walkaround: https://thatguyedd.github.io/
+- Chillhop — Lofi Radio — https://chillhop.com/
+- Lofi and Games — Lofi Radio + Simple Games — https://lofiandgames.com/
+- FlowTunes — Lofi + Focus Radio / Ambient Sounds — https://www.flowtunes.app/
+- Lofizen — Lofi Radio / Ambient Sounds — https://www.lofizen.co/
+- Moon Phase Radio — Lofi Radio — https://www.moonphaseradio.com/
+- Ambient Sleeping Pill — Lofi Radio — https://ambientsleepingpill.com/
+- LofiCafe — Lofi Radio — https://www.loficafe.net/
+- Ambicular — Lofi Radio — https://ambicular.com/
+- FreeCodeCamp — Lofi Radio — https://coderadio.freecodecamp.org/
+- Lofi Club — Lofi Radio — https://loficlub.vercel.app/
+- Loofi — Lofi Radio — https://loofi.netlify.app/
+- Lofi Limo — Lofi Radio — https://lofi.limo/
+- DevTunes FM — Lofi Radio — https://radio.madza.dev/
+- Moss Garden — Lofi Radio — https://moss.garden/
+- Coding Cat — Lofi Radio / Nyan Cat's Cousin — https://hostrider.com/
+
+## Spotify Tools
+
+- Awesome Spotify Stats — Listening Statistics Index — https://github.com/hugo9655/awesome-spotify-stats
+- Android — ️ Android / iOS - Mobile Spotify Patchers — /mobile/#android-audio | iOS: /mobile/#ios-audio
+- SpotX — Ad-Free Spotify Patcher — https://github.com/SpotX-Official/SpotX | Telegram: https://t.me/SpotxCommunity
+- Spicetify — Spotify Themes & Plugins / Improved Lyrics — https://spicetify.app/ | Improved Lyrics: https://spicylyrics.org/ | Discord: https://discord.gg/VnevqPp2Rr | GitHub: https://github.com/spicetify/cli
+- ⁠Spot SponsorBlock — Skip Sponsored Spotify Podcast Ads — https://spotsponsorblock.org/ | GitHub: https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension
+- Lofi — Mini Spotify Player Widget — https://www.lofi.rocks/ | GitHub: https://github.com/dvx/lofi
+- Trikatuka — Migrate Spotify Data to New Accounts — https://trikatuka.aknakn.eu/
+- Kotify — or Skiley - Spotify Library Managers — https://github.com/dzirbel/kotify | Skiley: https://skiley.net/
+- Versefy — or sptlrx - Display Synced Lyrics — https://versefy.app/ | sptlrx: https://github.com/raitonoberu/sptlrx
+- ⁠Spotify Karaoke — Fetching, Romanization & Translation for Web Player Lyrics — https://github.com/haroldalan/spotify-karaoke
+- Syrics — Download Synced Lyrics — https://github.com/akashrchandran/syrics-web
+- LoaderSpot — Official Spotify Installers Archive — https://loadspot.pages.dev/
+- Random Music Generator — Find Random Songs, Albums, & Artists — https://random-song.com/
+- Opslagify — Calculate Storage Size of Spotify Library — https://opslagify.deruever.nl/
+- Kira — or Album Availability Map - Check Regional Availability of Spotify Content — https://kira.vercel.app/ | GitLab: https://gitlab.com/timrossback/kira | Album Availability Map: https://kaaes.github.io/albums-availability/
+- Chart My Music — Generate Spotify Collage — https://www.chartmymusic.com/spotify/
+- Tierify — Create Spotify Tier Lists — https://tierify.app/
+- Canvas Downloader — Extract Spotify Canvas Walls — https://www.canvasdownloader.com/
+- ListenByLabel — Search Spotify Record Labels — https://www.lbl.fm/
+- xmplaylist — Listen to SiriusXM Channels on Spotify — https://xmplaylist.com/
+
+### Playlist Tools
+- Exportify — or spotify-backup - Export Playlists — https://exportify.app/ | GitHub: https://github.com/watsonbox/exportify | spotify-backup: https://github.com/caseychu/spotify-backup
+- spotgen — , Unheard.FM or Chosic - Playlist Generators — https://epsil.github.io/spotgen | Unheard.FM: https://unheard.fm/ | Chosic: https://www.chosic.com/
+- Spoqify — Anonymous Playlist Generator — https://spoqify.com/
+- SpotTransfer — , Trikatuka or Spotify2YouTubeMusic - Playlist Transfer Tools — https://spot-transfer.vercel.app/ | GitHub: https://github.com/Pushan2005/SpotTransfer | Trikatuka: https://trikatuka.aknakn.eu/ | Spotify2YouTubeMusic: https://github.com/mahdi-y/Spotify2YoutubeMusic
+- Playlist Hospital — Restore Disabled Songs in Spotify Playlists — https://playlisthospital.com/
+- Spotlistr — Platform-to-Spotify Playlist Converter — https://www.spotlistr.com/
+- Playlistor — Convert Apple Music Playlists to Spotify — https://playlistor.io/
+- Playlist Randomizer — Better Shuffle for Playlists — https://stevenaleong.com/tools/spotifyplaylistrandomizer
+- Sort Your Music — Sort Playlists — http://sortyourmusic.playlistmachinery.com/ | GitHub: https://github.com/plamere/SortYourMusic
+- Spotify Dedup — Remove Duplicates in Playlists — https://spotify-dedup.com/ | GitHub: https://github.com/JMPerez/spotify-dedup/
+- Timelineify — Create Playlist from an Artist's Discography — https://www.timelineify.com/
+- Share Liked Songs — Create Shareable Playlist from Liked Songs — https://nonnullish.github.io/share-liked-songs/ | GitHub: https://github.com/nonnullish/share-liked-songs
+- Spotify Playlist Archive — Public Spotify Playlists Archive / , 2 — https://spotifyplaylistarchive.com/ | GitHub: https://github.com/mackorone/spotify-playlist-archive | 2: https://github.com/maciejpedzich/spotifyplaylistarchive.com
+
+## Audio Ripping
+
+> TIP Some sites and tools accept URLs from various streaming sites but only use a particular source (usually YouTube) to get the audio. We've only mentioned a platform if it can directly rip audio from there.
+### Audio Ripping Sites
+- lucida — Multi-Site / 320kb / MP3 / FLAC — https://lucida.to/ | Telegram: https://t.me/lucidahasmusic | Discord: https://discord.com/invite/dXEGRWqEbS
+- squid.wtf — Amazon Music / KHInsider / Qobuz / Soundcloud / Tidal / FLAC — https://squid.wtf/
+- Monochrome — , 2 , 3 , 4 - FLAC / MP3 / Lossless — https://monochrome.tf/ | 2: https://monochrome.samidy.com/ | 3: https://monochromemusic.pages.dev | 4: https://lossless.wtf/ | Discord: https://monochrome.samidy.com/discord | GitHub: https://github.com/monochrome-music/monochrome
+- DoubleDouble — Multi-Site / 320kb / FLAC — https://doubledouble.top/ | Telegram: https://t.me/lucidahasmusic
+- Jumo-DL — FLAC / MP3 — https://jumo-dl.pages.dev/
+- QQDL — Tidal / FLAC — https://tidal.qqdl.site/
+- Antra Web — Multi-Site / FLAC / ALAC / AAC / MP3 — https://antra.hoshi.cfd/ | Telegram: https://t.me/antraaverse
+- ⁠ARCOD — Qobuz / FLAC / MP3 — https://arcod.xyz/ | Discord: https://discord.com/invite/hgC6ZegbKD
+- Spotisaver — Multi-Site / MP3 — https://spotisaver.net/
+- EzConv — YouTube / 256kb — https://ezconv.cc/
+- YTiz — SoundCloud / Bandcamp / 128kb / AAC — https://ytiz.xyz/
+- cobalt — SoundCloud / 320kb / MP3 / Instances — https://cobalt.tools/ | Instances: https://instances.cobalt.best/ | X: https://x.com/justusecobalt | Discord: https://discord.com/invite/pQPt8HBUPu | GitHub: https://github.com/imputnet/cobalt
+
+### Audio Ripping Tools
+- YouTube Downloaders — ️ YouTube Downloaders — /social-media-tools/#youtube-downloaders
+- Nicotine+ — or Soulseek - P2P Audio Sharing Networks / Stats / Server App / Batch — https://nicotine-plus.org/ | Soulseek: https://slsknet.org/ | Stats: https://github.com/mrusse/Slsk-Upload-Stats-Tracker | Server App: https://github.com/slskd/slskd | Batch: https://github.com/fiso64/sldl
+- Exact Audio Copy — Guide or Whipper - CD / DVD Audio Ripper — https://www.exactaudiocopy.de/ | Guide: https://docs.google.com/document/d/1b1JJsuZj2TdiXs--XDvuKdhFUdKCdB_1qrmOMGkyveg | Whipper: https://github.com/whipper-team/whipper
+- Firehawk52 — Deezer / Qobuz / Tidal / Requires Sign-Up — https://rentry.co/FMHYB64#firehawk | Telegram: https://t.me/firehawk52official | Discord: https://discord.gg/uqfQbzHj6K
+- OnTheSpot — Apple Music / Bandcamp / Deezer / Qobuz / Spotify / Tidal — https://github.com/justin025/onthespot | Discord: https://discord.com/invite/hz4mAwSujH
+- ⁠Antra — Qobuz / Tidal / Amazon Music / Soulseek / Converts from Multiple Sites — https://github.com/anandprtp/Antra | Telegram: https://t.me/antraaverse
+- Votify — Spotify / 160kb Free / 320kb Premium / Requires WVD Keys — https://github.com/GladistonXD/votify-fix | Discord: https://discord.gg/aBjMEZ9tnq
+- streamrip — Deezer / Tidal / Qobuz / 128kb Free / FLAC / Use Firehawk52 / Colab — https://github.com/nathom/streamrip | Colab: https://github.com/privateersclub/rip
+- OrpheusDL — Deezer / Qobuz / 128kb Free / FLAC / Use Firehawk52 / Deezer Mod — https://github.com/OrfiTeam/OrpheusDL | Deezer Mod: https://github.com/uhwot/orpheusdl-deezer
+- SpotiFLAC — Qobuz / Tidal / Amazon Music / FLAC / Playlists / Converts from Spotify — https://github.com/afkarxyz/SpotiFLAC
+- DeemixFix — , Deemix Revival or SaturnMusic - Deezer / FLAC — https://gitlab.com/deeplydrumming/DeemixFix | Deemix Revival: https://github.com/bambanah/deemix | SaturnMusic: https://github.com/SaturnMusic/
+- Murglar — Deezer / SoundCloud / VK / 320kb MP3 — https://murglar.app/
+- Audion — Tidal / Plugins — https://audionplayer.com/ | Plugins: https://www.audionplayer.com/plugins | Discord: https://discord.gg/27XRVQsBd9 | GitHub: https://github.com/dupitydumb/Audion
+- Shira — YouTube / SoundCloud / 128kb AAC — https://github.com/KraXen72/shira
+- QobuzDownloaderX — or QobuzDownloaderX-MOD - Qobuz / 128kb Free / 256 ACC Premium / FLAC / Use Firehawk52 — https://github.com/ImAiiR/QobuzDownloaderX | QobuzDownloaderX-MOD: https://github.com/DJDoubleD/QobuzDownloaderX-MOD
+- qobuz-dl — Qobuz / 128kb Free / FLAC / Use Firehawk52 — https://github.com/vitiko98/qobuz-dl
+- you-get — SoundCloud / Bilibili / 128kb MP3 — https://you-get.org/
+- BandCamp-DL — Bandcamp / 128kb MP3 / Free Only — https://github.com/iheanyi/bandcamp-dl | Discord: https://discord.com/invite/nwdT4MP
+- AccurateRip — Verify Ripped Tracks are Error-Free — https://www.accuraterip.com/
+
+### Telegram Bots
+- Music Hunters — Spotify / Apple / Tidal / Deezer / 320kb MP3 — https://t.me/MusicsHuntersbot
+- DeezerMusicBot — Deezer / Soundcloud / VK / 320kb MP3 / FLAC / Support — https://t.me/DeezerMusicBot | Support: https://t.me/DeezerMusicNews
+- deezload2bot — Deezer / 320kb MP3 / Updates — https://t.me/deezload2bot | Updates: https://t.me/DEDSEClulz
+- BeatSpotBot — Spotify / Apple / YouTube / FLAC / 25 Daily — https://t.me/BeatSpotBot
+- scdlbot — YouTube / SoundCloud / Bandcamp / Mixcloud / 128kb MP3 — https://t.me/scdlbot
+- vkmusbot — or Meph Bot - VK / 320kb MP3 — https://t.me/vkmusbot | Meph Bot: https://t.me/mephbot
+- soundcloudaudiodownloader — YouTube / SoundCloud / 128kb MP3 — https://t.me/soundcloudaudiodownloader
+- GlomaticoPinkMusicBot — Apple Music Downloader — https://t.me/GlomaticoPinkMusicBot | Telegram: https://t.me/GlomaticoBotSupport | Discord: https://discord.gg/aBjMEZ9tnq
+- GlomaticoBlueMusicBot — Amazon Music Downloader — https://t.me/GlomaticoBlueMusicBot | Telegram: https://t.me/GlomaticoBotSupport | Discord: https://discord.gg/aBjMEZ9tnq
+
+### Download Sites
+- ⁠Music Download Guide — Downloading Guide / Site Index — https://rentry.co/wheredownloadmusic
+- ArtistGrid — Unreleased / Render — https://artistgrid.cx/ | Render: https://dev.artistgrid.cx/ | Discord: https://discord.gg/tns89b3w7R | GitHub: https://github.com/ArtistGrid/
+- Audio Download CSE — CSE 2 / CSE 3 - Multi-Site Search — https://cse.google.com/cse?cx=006516753008110874046:ibmyuhh72io | CSE 2: https://cse.google.com/cse?cx=006516753008110874046:ohobg3wvr_w | CSE 3: https://cse.google.com/cse?cx=32d85b41e2feacd3f
+- r/xTrill — Download App / Backup — https://reddit.com/r/xTrill | Backup: https://reddit.com/r/xTrillBackup
+- FLAC Attack — or Lossless-Music - FLAC — https://flacattack.net/ | Lossless-Music: https://lossless-music.org/
+- FlacMusic — FLAC — https://www.flacmusic.info/
+- Lossless-FLAC — FLAC — https://lossless-flac.com/
+- DiscogC — FLAC — https://www.discogc.com/
+- LosslessAlbums — FLAC — https://losslessalbums.club/
+- ⁠Music and Books — MP3 / FLAC — https://musicsandbooks.org/
+- IntMusic — MP3 / FLAC — https://intmusic.net/
+- Gangster — MP3 / FLAC — https://gangster.su/
+- GetRockMusic — MP3 / FLAC — https://getrockmusic.net/
+- Core Radio — MP3 / FLAC — https://coreradio.online/
+- AlterPortal — MP3 / FLAC — https://alterportal.net/
+- ⁠T2Tunes — FLAC / Opus — https://t2tunes.site/
+- ShareMania — FLAC / MP3 / M4A — https://sharemania.us/
+- Plastinka — MP3 / FLAC — https://plastinka.org/
+- Exystence — MP3 / FLAC — https://exystence.net/
+- ThemFire — MP3 / FLAC — https://themfire.pro/
+- Music Rider — MP3 / FLAC — https://musicrider.org/
+- FindFlac — FLAC / MP3 / MP4 — https://findflac.com/
+- iPlusFree — iTunes M4A — https://www7.iplusfree.org/
+- VK::MP3 — VK MP3 Search Tool — https://metacpan.org/pod/VK::MP3
+- musify — 320kb / MP3 — https://musify.club/
+- ccMixter — DL / Stream / 320kb / MP3 — https://ccmixter.org/
+- RockDownload — 320kb / MP3 — https://www.rockdownload.org/
+- punk.cat — 320kb / MP3 — https://punkcata.blogspot.com/
+- SongsLover — 256kb / MP3 — https://songslover.li/
+- Ezhevika — 192kb / MP3 — https://ezhevika.blogspot.com/
+- Internet Archive — MP3 — https://archive.org/details/audio
+- SoundClick — MP3 — https://www.soundclick.com/default.cfm
+- z3.fm — MP3 — https://z3.fm/
+- nodata — MP3 — https://nodata.tv/
+- LEAKED — MP3 — https://leaked.cx/
+- Tancpol — MP3 — https://tancpol.net/
+- New Album Releases — MP3 — https://newalbumreleases.net/
+- mp3db — MP3 — https://mp3db.pro/
+- DeadPulpit — MP3 — https://www.deadpulpit.com/
+- Saavn Web — MP3 — https://saavn-web-ui.vercel.app/ | GitHub: https://github.com/wiz64/saavn-web-ui
+- CannaPower — MP3 — https://canna-power.to
+- GloryBeats — MP3 — https://glorybeats.com/
+- Cliggo — MP3 — https://music.cliggo.com/
+- Mixupload — MP3 — https://mixupload.com/
+- FreeMP3Cloud — MP3 — https://freemp3cloud.com/
+- zvu4no — MP3 — https://zvu4no.org/
+- xprm — MP3 / DL / Stream / Requests — https://xprm.net/
+- SongStems — STEM Files — https://songstems.net/
+- Geocities Midis — , Tricotism , FreeMIDI , ArtScene or VGMusic - MIDI Files — https://www.midicities.com/GeoCities | Tricotism: https://www.tricotism.com/ | FreeMIDI: https://freemidi.org/ | ArtScene: http://artscene.textfiles.com/music/midi/ | VGMusic: https://www.vgmusic.com/
+- Music Hoarders — Music Hoarding Community / Wiki — https://discord.gg/kQUQkuwSaT | Wiki: https://musichoarders.xyz/
+
+> TIP Use redirect bypassers to skip annoying link shorteners.
+### Genre Specific Ripping
+- MiroPPB — A State of Trance Archive / DJ Mixes / Downloader — https://miroppb.com/ | Downloader: https://rentry.co/asotdl
+- Take Metal — Metal / MP3 — https://takemetal.org/
+- Metalminos — Metal / MP3 — https://metalminos.net/
+- In The Fog — Metal / MP3 — https://in-the-fog.ru/
+- TechnicalDeathMetal — Metal / MP3 — https://technicaldeathmetal.org/
+- HeavyMetalRarities — Metal / MP3 — https://heavymetalrarities.com/
+- GetMetal Club — Metal / MP3 / FLAC — https://getmetal.club/
+- Nuclear Holocaust — Metal / FLAC — https://nuclear-holocaust.blogspot.com/
+- We Need Match — Metal / FLAC / M4A — https://we-need-match.ru/
+- Sophie's Floorboard — Hardcore / MP3 — https://sophiesfloorboard.blogspot.com/
+- 1Gabba — Electronic / MP3 — https://1gabba.pw/
+- Gabber — Electronic / MP3 — https://gabber.od.ua/
+- ⁠ELEKTROBEATS — Electronic / MP3 — https://elektrobeats.org/
+- EDMWaves — Electronic / MP3 — https://edmwaves.org/
+- PSYFP — Electronic / MP3 — https://psyfp.ucoz.ru/
+- DMO — Electronic / MP3 — https://dance-music.org/
+- MyPromoSound — Electronic / MP3 — https://mypromosound.com/
+- ElectronicFresh — Electronic / MP3 — https://electronicfresh.com/
+- Ektoplazm — Electronic / MP3 / FLAC — https://ektoplazm.com/
+- KTI Music — Electronic / MP3 / FLAC — https://ktimusic.blogspot.com/
+- 1Trance — Trance / MP3 — https://1trance.org/
+- 1Techno — Techno / MP3 — https://1techno.org/
+- GlobalDJMix — DJ Mixes / MP3 — https://globaldjmix.com/
+- oVPN DJ Mixes — DJ Mixes — https://rentry.co/FMHYB64#ovpn-dj-mixes
+- ⁠TestPressing — Rare DJ Mixes — https://www.testpressing.org/
+- LOA2K — or Nu Guide - Vaporwave — https://loa2k.neocities.org/ | Nu Guide: https://nuvaporwave.neocities.org/mirrors.html
+- inconstant sol — , David W. Niven Collection or JazznBlues - Jazz / MP3 — https://inconstantsol.blogspot.com/ | David W. Niven Collection: https://archive.org/details/davidwnivenjazz | JazznBlues: https://jazznblues.club/
+- EssentialHouse — House / MP3 — https://essentialhouse.club/
+- Bluegrass Archive — Bluegrass / FLAC — https://rentry.co/FMHYB64#bluegrass-archive
+- BurningTheGround — 80s / 90s / FLAC — https://burningtheground.net/
+- aboutdisco — Disco / MP3 — https://aboutdiscowithlove.blogspot.com/
+- ProgRockVintage — Classic Rock / MP3 — https://www.progrockvintage.com/
+- Classical Music Download — Classical / FLAC — https://classical-music-download.com/
+- FoggyNotion — Classic Music / MP3 / FLAC — https://foggynotion-flac.blogspot.com/
+- chucrute com quiabo — or MeetingInMusic - Classical / MP3 — https://rabanetecomquiabo.blogspot.com/ | MeetingInMusic: https://meetinginmusic.blogspot.com/
+- FlatbackAndClassical — Classic Indian Music / FLAC — https://www.flatblackandclassical.com/
+- madrotter-treasure-hunt — Indonesian Music — https://madrotter-treasure-hunt.blogspot.com/
+- Kiddie Records — Classic Children's Records — http://www.kiddierecords.com/
+- HQ Hip Hop — or GoldHipHop - Hip Hop / MP3 / FLAC — https://94hiphop.com/ | GoldHipHop: https://goldhiphop.pro/
+- Rapload — or HipHopa - Hip Hop / MP3 — https://rapload.org/ | HipHopa: https://hiphopa.net/
+- Rap War — Hip Hop / MP3 — https://rap-war-fam.blogspot.com/
+- Dez Flight Underground — Underground Hip Hop — https://dezflight-underground.com/
+- ⁠Certified Mixtapez — Mixtapes / MP3 — https://www.certifiedmixtapez.com/
+- Mixtape Collections — Mixtape Collections — https://rentry.co/FMHYB64#mixtape-collections
+- The Noise-Arch Archive — Underground Cassette Tapes — https://archive.org/details/noise-arch
+- Bootleg Radioclash — Mashups / MP3 — https://rentry.co/FMHYB64#bootleg-radioclash
+- Tom Lehrer Songs — All Tom Lehrer Songs / Public Domain — https://tomlehrersongs.com/
+- MusicRepublic — World / MP3 / FLAC — https://music-republic-world-traditional.blogspot.com/
+- KPopFLAC — K-Pop / FLAC — https://www.kpopflac.xyz/
+- KPopMusicDownload — K-Pop / MP3 — https://kpopdownloadscmm.blogspot.com/
+- The T-SQUARE Plaza — Japanese / International Jazz Fusion / City Pop / FLAC — https://tsquareplaza.blogspot.com/
+- FondSound — Experimental / MP3 — https://www.fondsound.com/
+- Hipstrumentals — Instrumentals / MP3 — https://hipstrumentals.com/
+
+## Audio Torrenting
+
+- General Torrent Sites — ️ General Torrent Sites — /torrenting
+- Redacted — MP3 / FLAC / Interviews , 2 — https://redacted.sh/ | Interviews: https://interviewfor.red/ | 2: https://igwiki.lyci.de/wiki/Redacted.sh_Guide
+- New-Team — MP3 / FLAC — https://new-team.org/
+- Orpheus — MP3 / FLAC / Interviews — https://orpheus.network/ | Interviews: https://interview.orpheus.network/
+- Lidarr — or Headphones - Audio Torrent Autodownload — https://lidarr.audio/ | GitHub: https://github.com/Lidarr/Lidarr | Headphones: https://github.com/rembo10/headphones
+- Audio Torrent CSE — Multi-Site Search — https://cse.google.com/cse?cx=006516753008110874046:v75cyb4ci55
+- TPB Music — MP3 / FLAC / Avoid Software / Games — https://thepiratebay.org/search.php?q=top100:100
+- TheMixingBowl — Forum / Mixes / MP3 / Requires Sign-Up — https://themixingbowl.org/
+- Metal Tracker — or RockBox - Metal / MP3 320kb / FLAC — https://en.metal-tracker.com/ | RockBox: https://rawkbawx.rocks/
+- BlackTorrent — or iPlayMetal - Metal / MP3 / FLAC — https://blacktorrent.ru/ | iPlayMetal: https://metal.iplay.ro/
+- MixtapeTorrent — Mixtapes / MP3 / Various Bitrates — http://www.mixtapetorrent.com/
+- TorrentTech — Electronic / MP3 320kb / Requires Sign-Up / Zip File — https://torrents.torrentech.org/ | Zip File: https://rentry.co/FMHYB64#torrenttech-zip
+- TribalMixes — Forum / DJ Mixes / MP3 — https://www.tribalmixes.com/
+- the /kpg/ torrent — K-Pop / MP3 320kb / FLAC — https://rentry.co/FMHYB64#kpop-torrent
+- PandaCD — User-Made Music / MP3 / FLAC — https://pandacd.io/
+- NFO DB — MP3 NFO Database — https://nfodb.net.ru/
+- PreDB.eu — Music PreDB — https://predb.eu
+
+> TIP Remember to get a VPN before torrenting and bind it to your client if it allows.
+## Royalty Free Music
+
+- NCS — Copyright Free Music — https://ncs.io/
+- YouTube Audio Library — Music / Sound Effects — https://www.youtube.com/audiolibrary
+- UppBeat — Music for Creators / Freemium — https://uppbeat.io/
+- BenSound — Popular Library / Freemium — https://www.bensound.com/
+- Unminus — Professional Tracks — https://www.unminus.com/
+- Free Music Archive — Curated Library — https://freemusicarchive.org/
+- free-stock-music — Stock Music Library / CC0 License — https://www.free-stock-music.com/
+- Pixabay Music — Stock Music Library — https://pixabay.com/music/
+- Fugue — Music for Creators — https://icons8.com/music
+- Chosic — Royalty-Free Library / CC0 License — https://www.chosic.com/free-music/all/
+- ⁠DOVA-SYNDROME — Royalty-Free Library — https://dova-s.jp/en/
+- tunetank — Music for Videos — https://tunetank.com/
+- purple-planet — Duo Composers — https://www.purple-planet.com/
+- Incompetech Music — Composer Library / CC-BY License — https://incompetech.com/music/royalty-free/music.html
+- joshwoodward — Single Artist Collection — https://www.joshwoodward.com/
+
+## Media Soundtracks
+
+- EverythingMoe — , 2 - Otaku Music Sites Index — https://everythingmoe.com/section/music | 2: https://everythingmoe.org/section/music | Discord: https://discord.gg/GuueaDgKdS
+- Wotaku — Otaku Music Index — https://wotaku.wiki/music | Discord: https://discord.gg/vShRGx8ZBC
+- Squidify — , 2 - Game / Anime Soundtracks — https://www.squidify.org | 2: https://www.squidify.net/
+- Sitting on Clouds — , 2 - Anime / Game Soundtracks / Forum , 2 — https://www.sittingonclouds.net/ | 2: https://sittingonclouds.com/ | Forum: https://squid-board.org/ | 2: https://discord.gg/hfjBQXpXJq | .onion: http://cloudscbr2l7prtthmz5jk5hxpndisu4ohqytsri5vyua3ksfswl7gyd.onion/ | Discord: https://discord.com/invite/x23SFbE
+- MusicDex — Anime Soundtracks — https://musicdex.org/
+- 3ost — or joshw / Search - Soundtracks — https://3ost.ru/ | joshw: https://pc.joshw.info/ | Search: https://vgm.hcs64.com/
+- RenovationRecords — HQ Movies Soundtracks — https://renovatiorecords.blogspot.com/
+- KDramaOST — KDrama Soundtracks — https://kdramaost.com/en/
+- AniPlaylist — , SakuraOST , VGMdb , JMAX , OSAnime or Anime Sharing - Anime Soundtracks — https://aniplaylist.com/ | SakuraOST: https://www.sakuraost.com/ | VGMdb: https://vgmdb.net/ | JMAX: https://discord.gg/hCw8VqJV8J | OSAnime: https://osanime.com/ | Anime Sharing: https://koe.anime-sharing.com/
+- OtakuOst — Anime Soundtracks & Japanese Music — https://otakuost.net/
+- AMV — Anime Music Videos — https://www.animemusicvideos.org/
+- Doujin Cafe (Discord) — or DoujinStyle / - Doujin Music — https://discord.com/invite/doujincafe | DoujinStyle: https://doujinstyle.com/ | Discord: https://discord.com/invite/z2QDFdA
+- ⁠Internet Checkpoint — Archive of taia777 "Internet OST Checkpoints" / Life Stories — https://internetcheckpoint.page/ | Discord: https://discord.gg/Qwt7m8CFVn | GitHub: https://github.com/geauser/internetcheckpoint
+
+### Game Soundtracks
+- Khinsider — Game Soundtracks / MP3 / FLAC / ALAC — https://downloads.khinsider.com/
+- RetroTracks — Retro Game Soundtracks / MP3 — https://retro.sx/
+- The 16-bit Audiophile Project — Retro Game Soundtracks / FLAC — https://16bap.theclassicgamer.net/
+- VGMPF — Retro Game Soundtracks / MP3 — https://www.vgmpf.com/Wiki/index.php
+- Chip Player JS — Retro Game Soundtracks — https://chiptune.app/ | GitHub: https://github.com/mmontag/chip-player-js
+- VGMRips — Retro Game Music Rips / VGM — https://vgmrips.net/packs/
+- Zophar's — Retro Game Music Rips / VGM — https://www.zophar.net/music
+- HCS Forum — Game Soundtracks — https://rentry.co/FMHYB64#hcs-forum
+- GameOST — Game Soundtracks / MP3 — https://gameost.net/
+- exotica — Amiga Games Soundtracks — https://www.exotica.org.uk/
+- ⁠OC Remix — Game Music Remixes / Download / Torrent — https://ocremix.org/
+- ⁠8Beats — Game Music Radio — https://8beats.co/ | Discord: https://discord.gg/EB9CFRacgN
+- VIP VGM — Game Music Radio — https://www.vipvgm.net/
+- Cirrus Retro — Game Music Radio — https://cirrusretro.com/
+- JetSetRadio — , 2 - Game Music Radio — https://jetsetradio.live/ | 2: https://jetsetradiofuture.live/
+- Rainwave — Game Music Radio — https://rainwave.cc/
+- RPGGamers Radio — Game Music Radio — https://www.rpgamers.net/radio/
+- VGMRadio — Game Music Radio — https://vgmradio.com/
+- VGM — Game Music Radio — https://vgm.mmosvc.com/
+- NSF j — NES Music — https://nsf.nesbbs.com/
+- HVSC — Commodore 64 Music — https://www.hvsc.c64.org/
+- Exotica — Retro Gaming Music Wiki — https://www.exotica.org.uk/
+- VGMdb — Video Game Music Database — https://vgmdb.net/
+
+## Tracking / Databases
+
+- RateYourMusic — Ratings / Reviews / Add Features / Forum — https://rateyourmusic.com/ | Add Features: https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/ | Forum: https://rym.fm/
+- Last.fm — Tools , Libre.fm or ListenBrainz - Track Listening Habits / Songs — https://www.last.fm/home | Tools: /audio/#last-fm-tools | Libre.fm: https://libre.fm/ | ListenBrainz: https://listenbrainz.org/
+- Muspy — , ⁠Midloop / , Drop Watch , MusicButler or Brew.fm - Get Album Release Updates — https://muspy.com/ | ⁠Midloop: https://midloop.net/ | Discord: https://discord.gg/AvUxR59Yv5 | Drop Watch: https://drop-watch.ghost.io/ | MusicButler: https://www.musicbutler.io/ | Brew.fm: https://www.brew.fm/
+- Tunefind — Find Music from Movies / TV Shows — https://www.tunefind.com/
+- MixesDB — DJ Set Database — https://www.mixesdb.com/
+- Discogs — Ratings / Reviews / Scout / Timestamps — https://www.discogs.com/ | Scout: https://greasyfork.org/en/scripts/439452-discogs-scout | Timestamps: https://martinbarker.me/tagger
+- ⁠EntertainMe — Ratings / Reviews — https://www.entertainme.fun/
+- Odesli — Song / Podcast Platform Search / Telegram Bot — https://odesli.co/ | Telegram Bot: https://t.me/odesli_bot
+- Has it Leaked — Album Leak Tracker — https://hasitleaked.com/
+- MyPitchFork — Individual Song Rating / Tracking — https://mypitchfork.fun/
+- DAHR — American Historical Recordings Database — https://adp.library.ucsb.edu/index.php
+- TrackID — or 1001Tracklists - Live Set Tracklist Databases — https://trackid.net/ | 1001Tracklists: https://www.1001tracklists.com/
+- SecondHandSongs — , SampleBrainz , RemixSearch or WhoSampled - Cover, Sample and Remix Databases — https://secondhandsongs.com/ | SampleBrainz: https://github.com/AndrewBelt/SampleBrainz | RemixSearch: https://remixsearch.net/ | WhoSampled: https://www.whosampled.com/
+- SoundtrackTracklist — or FilmMusicSite - Soundtrack Databases — https://soundtracktracklist.com/ | FilmMusicSite: https://www.filmmusicsite.com/en/
+- dbkpop — , KPop Fandom or KPopping - K-Pop Databases — https://dbkpop.com/ | KPop Fandom: https://kpop.fandom.com/wiki/ | KPopping: https://kpopping.com/
+- Loudness War — Albums Dynamic Range Database — https://dr.loudness-war.info/
+- TuneMyMusic — Transfer Playlists Between Services — https://www.tunemymusic.com/
+- TheIndieRockPlaylist — Indie Rock Archive — https://www.theindierockplaylist.com/
+- Metal Archives — Metal Band Archive — https://www.metal-archives.com/
+- ⁠Six Degrees of Hip-Hop — Hip-Hop Connections Map — https://www.sixdegreesofhiphop.com/
+- IDM Discovery — IDM Artist Archive — https://www.idmdiscovery.com/
+- ClassicRockHistory — Classic Rock Band Archive — https://www.classicrockhistory.com/classic-rock-bands-list-and-directory/
+- Talpa Search — Find Albums by Describing Them — https://www.talpasearch.com/
+- rate.house — Media Tracker — https://rate.house/
+- libib — Desktop Media Catalog — https://www.libib.com/
+- Obscurify — or MusicTaste - Compare Music Taste to Others — https://obscurifymusic.com/ | MusicTaste: https://musictaste.space/
+- MediaTracker — Self-Hosted Media Tracker — https://github.com/bonukai/MediaTracker
+- Maloja — or Multi Scrobbler - Self-Hosted Audio Scrobbling — https://github.com/krateng/maloja | Multi Scrobbler: https://github.com/FoxxMD/multi-scrobbler
+- AME — Music Site Enhancement Userscripts — https://gitlab.com/SuperSaltyGamer/ame
+- Music Chart Maker — Create Album Collages — https://musicchartmaker.com/
+
+### Curated Recommendations
+- AnyDecentMusic — Album Review Aggregator — http://www.anydecentmusic.com/
+- RYM Ultimate Box Set — Artist Recommendations by Genre — https://rateyourmusic.com/list/TheScientist/rym-ultimate-box-set/
+- r/ifyoulikeblank — Artist Recommendations — https://www.reddit.com/r/ifyoulikeblank/
+- ⁠Essential Charts — Album Recommendation Charts — https://4chanmusic.miraheze.org/wiki/Essential_Charts
+- Sputnik — Ratings / Reviews — https://www.sputnikmusic.com/
+- AlbumOfTheYear — Ratings / Reviews — https://www.albumoftheyear.org/
+- AllMusic — Ratings / Reviews — https://www.allmusic.com/
+- MusicBrainz — Ratings / Reviews — https://musicbrainz.org/
+- ⁠Pitchfork — or The Fork - Reviews — https://pitchfork.com/ | The Fork: https://the-fork.vercel.app/
+- Charts and Culture — Music Recommendation Directory — https://pastebin.com/uRDJVGkL
+- Shfl — Album Recommendations — https://theshfl.com/
+- ⁠Melondy — Curated List of Albums Rated by Anthony Fantano — https://melondy.com/
+- Talk Classical List — Classical Music Recommendations / Spotify Playlist — https://talkclassical-list.github.io/ | Spotify Playlist: https://open.spotify.com/playlist/3nDqpaiwgo2I4DSzDfahCL?si=twKxh5peQnuaKZCkCU_dfw&pi
+- 45Cat — Vinyl Ratings / Reviews — https://www.45cat.com/
+- MusicTo — Musician Curated Playlists — https://www.musicto.com/
+- DigitalDreamDoor — Greatest 100 Lists — https://digitaldreamdoor.com/
+- CET — 2 - Music Comps & Edits — https://rentry.org/CET | 2: https://rentry.co/CET | Discord: https://discord.gg/DfAfVPPvq4
+
+### Music Discovery
+- /music discovery/ — Music Discovery Guide — https://rentry.co/musicdiscovery
+- RateYourMusic Charts — Customizable Music Discovery Charts / Add Features / Forum — https://rateyourmusic.com/charts/ | Add Features: https://rateyourmusic.com/list/kknq/evenbetterrym-browser-extension/ | Forum: https://rym.fm/
+- EveryNoise — Music Genre Discovery Tool / New Music — https://everynoise.com/ | New Music: https://furia.com/page.cgi?type=log&skip=20#id492
+- Musicroamer — , Music Galaxy , Unchartify / , SAGE , LivePlasma or GNOD - Artist Discovery Tools — https://www.musicroamer.com/ | Music Galaxy: https://galaxy.spotifytrack.net/ | Unchartify: https://unchartify.com/ | Telegram: https://t.me/spotifyuncharted | SAGE: https://hate5six.com/sage | LivePlasma: https://liveplasma.com/ | GNOD: https://www.gnod.com/
+- Kworb — , Spotify Charts , ChartRank or SuperFridayChart - Music Top Charts — https://kworb.net/ | Spotify Charts: https://charts.spotify.com/home | ChartRank: https://chartrank.app/ | SuperFridayChart: https://www.superfridaychart.com/
+- ⁠BestSellingAlbums — , Best Ever Albums or Acclaimed Music - Discover Albums — https://bestsellingalbums.org/ | Best Ever Albums: https://www.besteveralbums.com/index.php | Acclaimed Music: https://acclaimedmusic.net/
+- Chosic — , lazyrecords , SongsLikeX , Discover Quickly , TapeFear , Dubolt or Playlost.fm - Song Discovery Tools — https://www.chosic.com/ | lazyrecords: https://lazyrecords.app/ | SongsLikeX: https://songslikex.com/ | Discover Quickly: https://discoverquickly.com/ | TapeFear: https://www.tapefear.com/ | Dubolt: https://dubolt.com/ | Playlost.fm: https://playlost.fm/
+- Random Song — , Random Song Generator , ⁠SampleRoulette or Samplette - Play Random YouTube Songs — https://randomsong.org/ | Random Song Generator: https://randomsonggenerator.com/ | ⁠SampleRoulette: https://www.sampleroulette.io/ | Samplette: https://samplette.io/
+- Album Roulette — Random Album Recommendations — https://album-selector-chi.vercel.app/
+- 1001 Albums Generator — Daily Random Album Recommendation — https://1001albumsgenerator.com/
+- ArtistPath — Find Connections Between Music Artists — https://artistpath.cc/
+- OrbitMusic — Undiscovered Artist Recommendations / Limit Bypass , 2 — https://www.bbc.co.uk/orbitmusic | Limit Bypass: https://i.imgur.com/FDx8jKa.png | 2: https://files.catbox.moe/v7hy49.png
+- MusicGenreTree — Discover New Music by Genre — https://www.musicgenretree.org/chart.html
+- Identifying Music Genres — Compare Music Genres — https://chunisama.github.io/Identifying-Music-Genres/
+- Musicmap — Genealogy / History of Music Genres — https://musicmap.info/
+- Map of Metal — Interactive Map of Metal History — https://mapofmetal.com/
+- Music.ishkur — Electronic Music Genre Guide — https://music.ishkur.com/
+- ⁠HappyHardcore — Hardcore Dance Music Forum — https://www.happyhardcore.com/forums/
+- TranceFix — Trance Music Forum — https://www.trancefix.nl/index.php
+
+### Last.fm Tools
+- Awesome Last.fm — or Last.fm Tool List - Last.fm Tool Indexes — https://github.com/jnguyen1098/awesome-lastfm | Last.fm Tool List: https://redd.it/1h8ec76
+- ⁠bleh — Last.fm Customization Script — https://bleh.katelyn.moe/ | GitHub: https://github.com/katelyynn/bleh
+- OpenScrobbler — Manually Scrobble Anything — https://openscrobbler.com/ | Discord: https://discord.gg/SEDp6Zy | GitHub: https://github.com/elamperti/openwebscrobbler
+- Pano Scrobbler — Multi-Platform Scrobbler — https://github.com/kawaiiDango/pano-scrobbler
+- Last.fm Stats — In-Depth Last.fm Stats — https://lastfmstats.com/ | GitHub: https://github.com/felhag/lastfm-stats-web
+- Web Scrobbler — Scrobble Any Site — https://github.com/web-scrobbler/web-scrobbler
+- Edit Scrobbles — Manually Edit Scrobbles — https://greasyfork.org/en/scripts/485278
+- Last.fm Labs — Last.fm Library Visualizers — https://www.last.fm/labs
+- Chart My Music — , TapMusic , SonicPrint or MusicCoruMap - Album Collages — https://www.chartmymusic.com/lastfm/ | TapMusic: https://www.tapmusic.net/ | SonicPrint: https://sonicprint.art/ | MusicCoruMap: https://musicorumapp.com/generate
+- Last.fm Iceberg — Last.fm Artist Iceberg — https://lastfm-iceberg.dawdle.space/
+- TagCloud — Last.fm Tag Cloud — https://tagcloud.rainosullivan.com/
+- Mainstream Calc — Mainstream Calculator — https://mainstream.ghan.nl/
+- Descent — Now Playing Tool — https://descent.live/
+
+## Audio Tools
+
+- Binaural Audio — Binaural / 3D Audio Resources — https://binaural-audio.slite.page/p/i38zsD7728/Binaural-Audio
+- System Audio Tools — ️ System Audio Tools — /system-tools/#system-audio
+- Voice Change / Clone — ️ Voice Change / Clone — /ai/#voice-change-clone
+- Text to Speech — ️ Text to Speech — /ai/#text-to-speech
+- Audio Glossary — Audio Terms Glossary — https://wotaku.wiki/glossary/audio
+- FFmpeg — , fre:ac / , FlicFlac , LameXP or Sox - Audio Converters — https://ffmpeg.org/ | fre:ac: https://www.freac.org/ | GitHub: https://github.com/enzo1982/freac | FlicFlac: https://github.com/DannyBen/FlicFlac | LameXP: https://sourceforge.net/projects/lamexp/ | Sox: https://sourceforge.net/projects/sox/
+- ⁠Hydrogenaudio Knowledgebase — Audio Technology Wiki / Guides — https://wiki.hydrogenaudio.org/
+- CUETools — Manipulate .cue Files — http://cue.tools/wiki/CUETools | GitHub: https://github.com/gchudov/cuetools.net/
+- Phiola — , AudioToolSet or Safeaudiokit - Audio Multi-Tool Apps / Sites — https://github.com/stsaz/phiola | AudioToolSet: https://audiotoolset.com/ | Safeaudiokit: https://safeaudiokit.com/
+- Vocaroo — Online Voice Recorder — https://vocaroo.com/
+- Tunebat — or QO & SPECTRE - Music Key / BPM Databases — https://tunebat.com/ | QO & SPECTRE: https://docs.google.com/spreadsheets/u/0/d/1QEvWoGa10BctJ1yqDgZl3IoY8bhB3AwbHzgCHjJ5neI/htmlview
+- Librescore Downloader — Librescore Downloader — https://github.com/LibreScore/dl-librescore
+- M3Unator — Generate M3U Playlists from Open Directories — https://github.com/hasanbeder/M3Unator
+
+### Audio Players
+- Android Audio Players — ️ Android Audio Players — /mobile/#android-audio-players
+- Foobar2000 — Feature-Rich Audio Player / All Platforms — https://www.foobar2000.org/
+- Components — Foobar2000 Tools - Components , 2 / VU Meter / Lyric Sync / Wiki — https://audio-file.org/foobar2000-list-of-components/ | 2: https://www.foobar2000.org/components | VU Meter: https://audio-file.org/foobar2000-vu-meter-skins-gallery/ | Lyric Sync: https://rentry.co/FB2K-SyncedLyrics | Wiki: https://wiki.hydrogenaudio.org/index.php?title=Foobar2000:Foobar2000
+- WACUP — Winamp Update Project / Forum — https://getwacup.com/ | Forum: https://getwacup.com/community/ | Discord: https://discord.gg/5pVTdbj
+- AIMP — Feature-Rich Audio Player / Addons — https://www.aimp.ru/ | Addons: https://aimp.ru/?do=catalog
+- MusicBee — Lightweight Audio Manager & Player / Quality Badges / Addons — https://getmusicbee.com/ | Quality Badges: https://wiki.musichoarders.xyz/reference/musicbee/ | Addons: https://getmusicbee.com/addons
+- Astra — Audio Player — https://astramusic.dev/ | GitHub: https://github.com/boof2015/astra
+- Harmonoid — Audio Player — https://harmonoid.com/ | Discord: https://discord.gg/2Rc3edFWd8 | GitHub: https://github.com/harmonoid/harmonoid
+- Namida — Feature-Rich Audio & Video Player — https://github.com/namidaco/namida | Discord: https://discord.gg/WeY7DTVChT | Telegram: https://t.me/namida_official
+- Audion — Feature-Rich Audio Player / / Plugins — https://audionplayer.com/ | Plugins: https://www.audionplayer.com/plugins | Discord: https://discord.gg/27XRVQsBd9 | GitHub: https://github.com/dupitydumb/Audion
+- TimeStretch — Simple Web-Based Audio Player — https://29a.ch/timestretch/
+- MusikCube — Terminal-Based — https://musikcube.com/ | GitHub: https://github.com/clangen/musikcube
+- ncmpc++ — Terminal-Based — https://github.com/ncmpcpp/ncmpcpp
+- XMPlay — Module-Friendly / Skins / Plugins — https://www.un4seen.com/xmplay.html | Skins: https://www.un4seen.com/xmplay.html#skins | Plugins: https://www.un4seen.com/xmplay.html#plugins
+- Butterchurn Visualizer — , MusicVid , MangoWave / or Vizzy - Online Audio Visualizers — https://butterchurnviz.com/ | MusicVid: https://musicvid.org/ | MangoWave: https://mangowave.app/ | GitHub: https://github.com/Louis-Mascari/MangoWave | Vizzy: https://vizzy.io/
+- CatNip — Terminal-Based Audio Visualizer — https://github.com/noriah/catnip
+- PartyEngine — Audio Party Visualizer — https://aggrocrab.itch.io/partyengine
+- ⁠Nagi — Audio Player — https://github.com/Anthonyy232/Nagi
+- Snowify — Audio Player — https://snowify.cc/ | Discord: https://discord.gg/JHDZraE5TD | GitHub: https://github.com/nyakuoff/Snowify
+- Museeks — Simple Audio Player — https://museeks.io/ | GitHub: https://github.com/martpie/museeks
+- Audacious — Lightweight Audio Player — https://audacious-media-player.org/ | GitHub: https://github.com/audacious-media-player/audacious
+- Strawberry — Audio Player — https://www.strawberrymusicplayer.org/ | GitHub: https://github.com/strawberrymusicplayer/strawberry
+- Exaile — Audio Player — https://exaile.org/ | GitHub: https://github.com/exaile/exaile
+- quodlibet — Audio Manager & Player — https://github.com/quodlibet/quodlibet/
+- deadbeef — Audio Player / Plugins — https://deadbeef.sourceforge.io/ | Plugins: https://deadbeef.sourceforge.io/plugins.html | GitHub: https://github.com/DeaDBeeF-Player/deadbeef
+- Swing — Self-Hosted Browser Music Player — https://swingmx.com/ | Telegram: https://t.me/+9n61PFcgKhozZDE0 | GitHub: https://github.com/swingmx/swingmusic
+- Nora — Audio Player — https://noramusic.netlify.app/ | Discord: https://discord.gg/c5rGKnBs4y | GitHub: https://github.com/Sandakan/Nora
+- Dopamine — Simple Audio Player — https://github.com/digimezzo/dopamine
+- Feishin — Jellyfin / Navidrome / Subsonic Player — https://github.com/jeffvli/feishin | Discord: https://discord.gg/FVKpcMDy5f
+- Aonsoku — Navidrome / Subsonic Player — https://github.com/victoralvesf/aonsoku
+- LedFx — LED Music Sync — https://docs.ledfx.app/en/stable/ | Discord: https://discord.gg/xyyHEquZKQ | GitHub: https://github.com/ledfx/ledfx
+- RockBox — Custom Player for Audio Devices / Wiki / Themes — https://www.rockbox.org/ | Wiki: https://www.rockbox.org/wiki/ | Themes: https://themes.rockbox.org/
+- VinylEngine — Record Player / Vinyl Info — https://www.vinylengine.com/
+
+### Audio Servers
+- Navidrome — https://navidrome.org
+- Airsonic Advanced — Web UI — https://github.com/airsonic-advanced/airsonic-advanced | Web UI: https://github.com/tamland/airsonic-refix
+- koel — https://koel.dev/
+- iBroadcast — https://ibroadcast.com
+- AudioRelay — Stream Audio Between Devices / Mobile (search) — https://audiorelay.net/ | Mobile: /mobile/#modded-apks
+- Lyrion — Extensions — https://lyrion.org/ | Extensions: https://lyrion.org/extensions/applications/
+- SnapCast — or SonoBus - Sound System Sync — https://github.com/badaix/snapcast | SonoBus: https://sonobus.net/
+- mStream — https://mstream.io/
+- Mopidy — https://mopidy.com/
+- Black Candy — https://github.com/blackcandy-org/blackcandy
+- RMPC — or Music Player Daemon — https://rmpc.mierak.dev/ | GitHub: https://github.com/mierak/rmpc | Music Player Daemon: https://www.musicpd.org/
+- Polaris — https://github.com/agersant/polaris
+- Gonic — https://github.com/sentriz/gonic
+- Ampache — https://ampache.org/
+
+### Audio Metadata
+- MP3Tag — Metadata Organizer — https://www.mp3tag.de/en/
+- MusicBrainz Picard — Metadata Organizer — https://picard.musicbrainz.org/ | GitHub: https://github.com/metabrainz/picard
+- YADG — Scrape Music Release Info / API — https://yadg.cc/ | API: https://yadg.cc/api/
+- Beets — Metadata Organizer / Guides — https://beets.io/ | Guides: https://redd.it/11iaafu | GitHub: https://github.com/beetbox/beets
+- TagEditor — Metadata Organizer — https://github.com/Martchus/tageditor
+- tone — Metadata Organizer — https://github.com/sandreas/tone
+- Kid3 — Metadata Organizer — https://kid3.kde.org/
+- Imploded — Metadata Organizer — https://www.imploded.com/
+- MetaTogger — Metadata Organizer — https://luminescence-software.org/en/metatogger/about/
+- TagScanner — Metadata Organizer — https://www.xdlab.ru/en/
+
+### Album Artwork
+- Cover Search Engine — , CoverAtlas , Albumart.Digital or bigpictures - Album Art Search Engines — https://covers.musichoarders.xyz | CoverAtlas: https://www.coveratlas.com/ | Albumart.Digital: https://albumart.digital/ | bigpictures: https://bigpictures.xyz/
+- SpotifyArt — Spotify Album Art Downloader — https://spotify-art.vercel.app/ | GitHub: https://github.com/Shiawaseu/SpotifyArt
+- Apple Artwork — Apple Music Album Art Downloader — https://artwork.thekvt.eu.org/
+- MediUX Album Covers — Media Soundtrack Album Art — https://mediux.pro/albums
+- Classic Rock Covers — Rock Album Art — https://www.classic-rock-covers.com/
+- Album Art Downloader — , kunst or Fetcher - Album Art Download Apps — https://sourceforge.net/projects/album-art/ | kunst: https://github.com/sdushantha/kunst | Fetcher: https://github.com/bunnykek/Fetcher
+
+### Song Identification
+- Google Song Identification — https://support.google.com/websearch/answer/7554088
+- Shazam — Features (search) / Desktop App , 2 / Extensions — https://www.shazam.com/ | Features: /mobile/#modded-apks | Desktop App: https://github.com/BayernMuller/vibra | 2: https://github.com/zemoto/WhatAmIHearing | Extensions: https://github.com/FoxRefire/Librezam
+- WatZatSong — or r / NameThatSong - Song ID Communities — https://www.watzatsong.com/en | r/NameThatSong: https://reddit.com/r/NameThatSong
+- FlairMax — https://apps.microsoft.com/detail/9pdzvj34ztxg
+- AudioTag — https://audiotag.info/
+- ⁠SongFinder — https://songfinder.gg/
+- SoundHound — https://www.soundhound.com/soundhound
+- Audile — https://github.com/aleksey-saenko/MusicRecognizer
+- Audire — https://github.com/alexmercerind/audire
+- AmbientMusicMod — https://github.com/KieronQuinn/AmbientMusicMod
+- SampleSeek — Find Sample Origins — https://www.sampleseek.co.uk/
+- AHA Music — Chrome Extension — https://www.aha-music.com/identify-songs-music-recognition-online
+
+### Lyric Sites
+- LyricsTranslate — Lyric Translations / Requests — https://lyricstranslate.com/
+- dumb — , Intellectual or Genius - Lyric Explanations — https://github.com/rramiachraf/dumb | Intellectual: https://intellectual.insprill.net/ | Genius: https://genius.com/
+- AZLyrics — , Lyricsify , Lyrhub , FindMusicByLyrics or Lyrics.com - Lyric Search — https://www.azlyrics.com/ | Lyricsify: https://www.lyricsify.com/ | Lyrhub: https://lyrhub.com/en | FindMusicByLyrics: https://findmusicbylyrics.com/ | Lyrics.com: https://www.lyrics.com/
+- ⁠Lyrical Nonsense — Japanese Song Lyrics — https://www.lyrical-nonsense.com/global/
+- ⁠AnimeSongLyrics — Anime Song Lyrics — https://www.animesonglyrics.com/
+- Lyricify — Lyrics Desktop App — https://github.com/WXRIW/Lyricify-App
+- Versefy — or Lyrics-In-Terminal - Lyric Finder for Spotify / Tidal / VLC — https://versefy.app/ | Lyrics-In-Terminal: https://github.com/Jugran/lyrics-in-terminal
+
+### Karaoke / Synced Lyrics
+- LRCGET — Download Synced Lyrics — https://github.com/tranxuanthang/lrcget
+- LRCLIB — Synced Lyrics Search / Uploader — https://lrclib.net/ | Uploader: https://lrclibup.boidu.dev/
+- Karaoke Mugen — or Karaoke Eternal / / - Karaoke Apps / Systems — https://mugen.karaokes.moe/en/ | Karaoke Eternal: https://www.karaoke-eternal.com/ | Discord: https://discord.gg/PgqVtFq | GitHub: https://github.com/bhj/KaraokeEternal/
+- ⁠Spotify Karaoke — Karaoke, Romanization + Translation for Spotify Web Player Lyrics — https://github.com/haroldalan/spotify-karaoke
+- Versefy — or sptlrx - Spotify Synced Lyrics — https://versefy.app/ | sptlrx: https://github.com/raitonoberu/sptlrx
+- Syrics — Download Spotify Synced Lyrics — https://github.com/akashrchandran/syrics-web
+- FB2K-SyncedLyrics — Foobar2000 Synced Lyrics — https://rentry.co/FB2K-SyncedLyrics
+- ⁠LRC Maker — or Composer / - Synced Lyrics Editor — https://lrc-maker.github.io/ | GitHub: https://github.com/magic-akari/lrc-maker | Composer: https://composer.boidu.dev/ | GitHub: https://github.com/better-lyrics/composer
+- X-Minus — , ⁠Croonify or LRCMaker.com - Create / Find Karaoke Songs — https://x-minus.pro/ | ⁠Croonify: https://croonify.com/ | LRCMaker.com: https://lrcmaker.com/
+- ⁠Kara.moe — Anime Theme Song Videos / Download / Karaoke — https://kara.moe/
+
+### Sheet Music / Notation
+- Awesome Music — Music / Notation Tools Index — https://github.com/noteflakes/awesome-music
+- Awesome Sheet Music — Sheet Music Software & Resources — https://github.com/ad-si/awesome-sheet-music
+- Music Sheet Collections — ️ Music Sheet Collections — /storage/#music-sheet-collections
+- MuseScore — , MC Musiceditor or Score Perfect Professional - Music Scoring Software — https://musescore.org/ | MC Musiceditor: https://www.mcmusiceditor.com/ | Score Perfect Professional: https://archive.org/details/score-perfect-professional-lite-5.1/
+- The ABC Music Project — Editor , 2 , 3 / PNG Convert / MIDI Convert / Webpages - Notation Markup Language — https://abc.sourceforge.net/ | Editor: https://sourceforge.net/projects/toadflax/ | 2: https://runabc.sourceforge.io/ | 3: https://easyabc.sourceforge.net/ | PNG Convert: https://sourceforge.net/projects/abccairo/ | MIDI Convert: https://abcmidi.sourceforge.io/ | Webpages: https://netabc.sourceforge.io/
+- Chordly — Chord Sheet Creator — https://chordly.co.uk/ | GitHub: https://github.com/stufro/chordly
+- Piascore — iOS Music Score Viewer — https://apps.apple.com/app/piascore-hd/id406141702
+- r/sheetmusic — Reddit Community — https://reddit.com/r/sheetmusic
+- VGLeadSheets — Transcribe Video Game Music — https://www.vgleadsheets.com/
+- Omnizart — Python Music Transcription Library — https://github.com/Music-and-Culture-Technology-Lab/omnizart
+- Audiveris — OMR Engine — https://audiveris.github.io/audiveris/_pages/handbook/ | GitHub: https://github.com/Audiveris/audiveris
+- Oemer — OMR Tool / Colab / Demo — https://github.com/BreezeWhite/oemer | Colab: https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb | Demo: https://breezewhite.github.io/oemer/
+- Sheet Music Scanner — Mobile OMR App — https://sheetmusicscanner.com/
+- music-reader — Practice Reading Sheet Music — https://music-reader.com/
+- Sound Slice — or Nootka - Sheet Music Learning — https://soundslice.com/ | Nootka: https://sourceforge.net/projects/nootka/
+- Nutkus — Notation Learning Game — https://sourceforge.net/projects/nutkus/
+
+### Spectrum Analyzers
+- Audio Quality Check Guide — https://redd.it/3l0yxp
+- Fakin' The Funk? — https://fakinthefunk.net/
+- Sonic Visualizer — https://www.sonicvisualiser.org/
+- Spek — https://www.spek.cc/
+- ⁠AudioAuditor — https://audioauditor.org/ | GitHub: https://github.com/Angel2mp3/AudioAuditor
+- ⁠Acoustic Spectrum Analyzer — or ⁠WhatsMyBitrate - Web-Based — https://spec.squid.wtf/ | ⁠WhatsMyBitrate: https://whatsmybitrate.com/
+- Visual Analyser — https://www.sillanumsoft.org/
+- Friture — https://friture.org/ | GitHub: https://github.com/tlecomte/friture
+- Spectro — http://spectro.enpts.com/
+- Cambia — CD Rip Log Checker — https://logs.musichoarders.xyz/
+
+### Linux Audio Tools
+### Mac Audio Tools
+## Audio Editing
+
+- Awesome Music Production — or AFreeStudio - Music Production Indexes — https://github.com/ad-si/awesome-music-production | AFreeStudio: https://www.afreestudio.com/
+- AI Audio Generation — ️ AI Audio Generation — /ai/#audio-generation
+- Separate Voice / Instrumentals — ️ Separate Voice / Instrumentals — /ai/#voice-removal-separation
+- AudioSEX — , KVR Audio or VI-CONTROL - Audio Production Forums / News — https://audiosex.pro/ | KVR Audio: https://www.kvraudio.com/ | VI-CONTROL: https://vi-control.net/community/
+- ProducerLibrary — Audio Production Tutorials — https://producerlibrary.carrd.co/
+- ⁠Beat Battle — Browser Beat Battle Game — https://beat-battle.net/ | Discord: https://discord.com/invite/beatbattle
+- ⁠OpenUtau — Vocal Synth / Singing Platform / Guides — https://www.openutau.com/ | Guides: https://utauguides.carrd.co/ | GitHub: https://github.com/stakira/OpenUtau
+- Tonocracy — , NeuralAmpModeler , GuitarML or TONEX CS - Guitar Tones, Effects & Virtual Amps — https://tonocracy.com/ | NeuralAmpModeler: https://www.neuralampmodeler.com/ | GuitarML: https://guitarml.com/index.html | TONEX CS: https://www.ikmultimedia.com/products/tonex/#tonexcs
+- Tone3000 — Guitar Tone Profiles — https://tone3000.com/
+- PresetShare — Audio Presets / Requires Sign-Up — https://presetshare.com/
+- VSTSkins — VST Skins — https://vstskins.com/category/skins/?fwp_license=free
+
+### Audio Editors
+- Tenacity — , Audacity / or ocenaudio - Audio Editors — https://tenacityaudio.org/ | Source Code: https://codeberg.org/tenacityteam/tenacity | Audacity: https://www.audacityteam.org/ | GitHub: https://github.com/audacity/audacity | ocenaudio: https://www.ocenaudio.com/
+- FL Studio — (search), Reaper / , Zrythm / , Waveform or LMMS / / - Digital Audio Workstations — /torrenting/#torrent-sites | Reaper: https://www.reaper.fm/ | Zrythm: https://www.zrythm.org/en/index.html | GitLab: https://gitlab.zrythm.org/zrythm/zrythm | Waveform: https://www.tracktion.com/products/waveform-free | LMMS: https://lmms.io/ | Discord: https://discord.com/invite/PruNxpG | GitHub: https://github.com/LMMS
+- OpenMPT — , Schism Tracker / , Furnace / / , 16-Bits / or MilkyTracker / - Music Trackers — https://openmpt.org/ | Source Code: https://source.openmpt.org/ | GitHub: https://github.com/OpenMPT/openmpt/ | Schism Tracker: https://schismtracker.org/ | GitHub: https://github.com/schismtracker/schismtracker | Furnace: https://tildearrow.org/furnace/ | Discord: https://discord.gg/QhA26dXD23 | GitHub: https://github.com/tildearrow/furnace | 16-Bits: https://16-bits.org/ | GitHub: https://github.com/8bitbubsy?tab=repositories | MilkyTracker: https://milkytracker.org/ | GitHub: https://github.com/milkytracker/MilkyTracker
+- Team V.R releases — , G-MEH / or AudioZ / Forum - Audio Editor Indexes — https://rentry.co/FMHYB64#team-vr | G-MEH: https://g-meh.com/ | Discord: https://discord.com/invite/g-meh | AudioZ: https://audioz.download/ | Forum: https://audiosex.pro/
+- Ossia — Intermedia Sequencer — https://ossia.io/ | GitHub: https://github.com/ossia/score
+- Mixxx — , VirtualDJ or Serato - DJ Software — https://mixxx.org/ | VirtualDJ: https://www.virtualdj.com/ | Serato: https://serato.com/
+- Moises — Live Music Mixer — https://moises.ai/
+- plugdata — Visual Audio Editor — https://plugdata.org/ | Discord: https://discord.com/invite/eT2RxdF9Nq
+- Element — , Bespoke or SunVox - Modular Audio Environments — https://kushview.net/element/ | Bespoke: https://www.bespokesynth.com/ | SunVox: https://warmplace.ru/soft/sunvox/ | Discord: https://discord.com/invite/RVk3RVJ
+- Bosca Ceoil — Simple Music Editor / Composer / Web Version — https://yurisizov.itch.io/boscaceoil-blue | Web Version: https://humnom.net/apps/boscaceoil/
+- Music Experiment — , Sonic-Pi , SuperCollider , ⁠Strudel or WebChuck IDE - Code-Based Audio Creators — https://petersalomonsen.com/webassemblymusic/livecodev2/ | Sonic-Pi: https://sonic-pi.net/ | SuperCollider: https://supercollider.github.io/ | ⁠Strudel: https://strudel.cc/ | WebChuck IDE: https://ccrma.stanford.edu/~tzfeng/webchuck-ide/
+- WaveTracker — Wavetable Audio Editor — https://wavetracker.org/ | GitHub: https://github.com/squiggythings/WaveTracker
+- FamiStudio — NES Audio Editor — https://famistudio.org/ | Discord: https://discord.gg/QRCMe595Pv | GitHub: https://github.com/BleuBleu/FamiStudio
+- LittleSoundDJ — Game Boy Audio Editor — https://www.littlesounddj.com/lsd/index.php
+- Rosegarden — or Ariamaestosa - MIDI Sequencer / Notation Editors — https://rosegardenmusic.com/ | Ariamaestosa: https://ariamaestosa.github.io/ariamaestosa/docs/index.html
+- Basic Pitch — Audio-to-MIDI Converter — https://basicpitch.spotify.com/
+- BitMidi — or VGMusic - MIDI Files — https://bitmidi.com/ | VGMusic: https://www.vgmusic.com/
+- Mod Archive — Audio Modules — https://modarchive.org/
+- Fadr — or StemRoller / - STEM Creator / Editors — https://fadr.com/ | StemRoller: https://www.stemroller.com/ | GitHub: https://github.com/stemrollerapp/stemroller
+
+### Browser Editors / Synths
+- Audioalter — , WavaCity , Bosca Ceoil , AudioMass , editor.audio , TwistedWave or xAudioPro - Online Editors — https://audioalter.com/ | WavaCity: https://wavacity.com/ | Bosca Ceoil: https://humnom.net/apps/boscaceoil/ | AudioMass: https://audiomass.co/ | editor.audio: https://editor.audio/ | TwistedWave: https://twistedwave.com/online | xAudioPro: https://www.xaudiopro.com/en/
+- BandLab — Digital Audio Workstation — https://www.bandlab.com/
+- Drumhaus — , iO-808 , Sequencer64 , Drummy , DrumBit , Roland50.studio , Acid Machine 2 , orDrumbox or Hydrogen - Virtual Drum Machines — https://www.drumha.us/ | iO-808: https://io808.com/ | Sequencer64: https://www.sequencer64.com/ | Drummy: https://drummy.io/ | DrumBit: https://drumbit.app/ | Roland50.studio: https://roland50.studio/ | Acid Machine 2: https://errozero.co.uk/acid-machine/ | orDrumbox: https://www.ordrumbox.com/ | Hydrogen: http://hydrogen-music.org/
+- UltraBox — , AbyssBox , JummBox / , BeepBox or GoldBox - Online Sequencer / BeepBox Forks — https://ultraabox.github.io/ | AbyssBox: https://choptop84.github.io/abyssbox-app/ | JummBox: https://jummb.us/ | GitHub: https://github.com/jummbus/jummbox | BeepBox: https://www.beepbox.co/ | GoldBox: https://aurysystem.github.io/goldbox/
+- Efflux — Online Tracker / Sequencer — https://www.igorski.nl/application/efflux/
+- Sequencer — , Draw Audio or DrawBeats - Scale Sequencers — https://sequencer.henryfellerhoff.com/ | Draw Audio: https://draw.audio/ | DrawBeats: https://drawbeats.com/
+- Petaporon — or Pianoboi - Piano Sequencers / Instrument Editor — https://pixwlk.itch.io/petaporon | Pianoboi: https://pianoboi.site/ | Instrument Editor: https://pixwlk.itch.io/petaporon-editor
+- ⁠Signal — or OnlineSequencer - MIDI Editors — https://signalmidi.app/edit | Discord: https://discord.com/invite/XQxzNdDJse | GitHub: https://github.com/ryohey/signal/ | OnlineSequencer: https://onlinesequencer.net/
+- WebSynths — Browser Synthesizers — https://www.websynths.com/
+- NoiseCraft — Modular Synth Builder — https://noisecraft.app/
+- VirtualPiano — Browser Pianos — https://virtualpiano.net/
+- MK-1 — Online Sampling Keyboard — https://ericrosenbaum.github.io/MK-1/
+- VO Pads — Video Sample Sequencer — https://vo.odgn.net/
+- React Guitar — Virtual Guitar — https://react-guitar.com/
+- Theremin — Virtual Theremin — https://femurdesign.com/theremin/
+- Pantam Playground — Virtual Pantam — https://www.yishama.com/virtual-pantam-playground/
+- WD-1 — or YOU.DJ - Online DJ / Beat Creators — https://www.worteldrie.com/WD5/ | YOU.DJ: https://you.dj/
+- PIXELSYNTH — Image to Sound Synthesizer — https://ojack.xyz/PIXELSYNTH/
+- Slowed and Reverb — Make Slowed, Reverb and Remixed Songs — https://slowedandreverb.studio/
+- BeatMachine — or bungee - Audio Tempo Editors — https://beatmachine.branchpanic.me/ | bungee: https://bungee.parabolaresearch.com/bungee-web-demo
+- MIDI Recorder — MIDI Keyboard Recorder — https://midi-recorder.web.app/
+
+### Audio Plugins
+- AudioZ — Download / Forum — https://audioz.download/ | Forum: https://audiosex.pro/
+- Team V.R releases — Download — https://rentry.co/FMHYB64#team-vr
+- G-MEH — Download — https://g-meh.com/ | Discord: https://discord.com/invite/g-meh
+- AudioWavePro — Telegram / AudioZ Reuploads — https://t.me/AudioWavePro
+
+### Freeware Plugins
+- Free VST Plugins — , 2 - Freeware Plugin Index — https://bedroomproducersblog.com/free-vst-plugins/ | 2: https://docs.google.com/spreadsheets/d/1wr0RjPfQvD_VrIivi4U4tsnqMdL78sWOaDUI2Z95R9U/htmlview?fbclid=IwAR3jUwxfkL7aMruLKomutJZ7-H3xjM1X4JX422mSbCgECdt5ugkHtGWlsF8##gid=0
+- Open-Source Audio Plugins — Open Source Plugin Projects Index — https://openaudio.webprofusion.com/
+- Surge XT — Hybrid / Subtractive Synth — https://surge-synthesizer.github.io/
+- Vital — or Helm - Wavetable Synths — https://vital.audio/ | Helm: https://tytel.org/helm/
+- Dexed — Yamaha DX7 Emulation — https://asb2m10.github.io/dexed/
+- Decent Sampler — or sforzando - VST Samplers / Libraries , 2 , 3 — https://www.decentsamples.com/product/decent-sampler-plugin/ | sforzando: https://www.plogue.com/products/sforzando.html | Libraries: https://www.decentsamples.com/ | 2: https://sfzinstruments.github.io/ | 3: https://unreal-instruments.wixsite.com/unreal-instruments
+- Pianobook — 1500+ Sample Packs / Requires Sign-Up — https://www.pianobook.co.uk/
+- VCV Rack 2 — or Cardinal - Eurorack Simulators — https://vcvrack.com/Rack | Cardinal: https://cardinal.kx.studio/
+- IEM Plug-in Suite — , ModularSamples , Igorski / , SPARTA or Chowdhury DSP - Open-Source Plugins — https://plugins.iem.at/ | ModularSamples: https://github.com/publicsamples | Igorski: https://www.igorski.nl/download | GitHub: https://github.com/igorski?utf8=✓&tab=repositories&q=vst | SPARTA: https://leomccormack.github.io/sparta-site/ | Chowdhury DSP: https://chowdsp.com/products.html
+- Plugins4Free — , looperman , ⁠blepfx or AirWindows / Consolidated - Plugins — https://plugins4free.com/ | looperman: https://www.looperman.com/free-music-software | ⁠blepfx: https://fx.amee.ee/ | AirWindows: https://www.airwindows.com/ | Consolidated: https://www.airwindows.com/consolidated/
+- Krush — Bitcrusher Plugin — https://www.tritik.com/product/krush/
+- samplv1 — Polyphonic Sampler — https://samplv1.sourceforge.io/
+- Maim — Audio Distortion Plugin — https://github.com/ArdenButterfield/Maim
+- r/SynthRecipes — Synth Request Subreddit — https://www.reddit.com/r/synthrecipes/
+
+### SFX / Samples
+- Kits4Beats — Samples — https://kits4beats.com/ | Telegram: https://t.me/kits4beats
+- PLUGG SUPPLY — Samples / Telegram / VK — https://t.me/pluggsupply | VK: https://vk.com/pluggsupply
+- OrangeFreeSounds — Sound Effects — https://orangefreesounds.com/
+- Stash — Samples / Drumkits / Presets — https://rentry.co/FMHYB64#dkl
+- FreeSoundsLibrary — Sound Effects — https://www.freesoundslibrary.com/
+- BandLab Samples — Samples — https://www.bandlab.com/sounds/free-samples
+- SoundGator — Sound Effects — https://www.soundgator.com/
+- GDC — Sound Effects — https://sonniss.com/gameaudiogdc
+- ⁠BigSoundBank — Sound Effects — https://bigsoundbank.com/
+- Citizen DJ — Sound Effects — https://citizen-dj.labs.loc.gov/
+- Free Adobe SFX — Sound Effects — https://www.adobe.com/products/audition/offers/AdobeAuditionDLCSFX.html
+- r/LoopKits — , Freesound , Voicy , looperman or SampleSwap - User-Submitted Samples — https://www.reddit.com/r/loopkits/ | Freesound: https://freesound.org/ | Voicy: https://www.voicy.network/ | looperman: https://www.looperman.com/loops | SampleSwap: https://sampleswap.org/
+- ⁠SmoredBoard — , EXP Soundboard , Sound Show / , Soundux , Amplitude Soundboard / or Resanance - Soundboard Programs — https://www.smoredboard.com/ | Discord: https://discord.gg/bkYY39VgQ2 | EXP Soundboard: https://sourceforge.net/projects/expsoundboard/ | Sound Show: https://soundshow.app/ | Discord: https://discord.com/invite/8pGnfJyzNq | Soundux: https://soundux.rocks/ | Amplitude Soundboard: https://amplitude-soundboard.dan0v.com/ | GitHub: https://github.com/dan0v/AmplitudeSoundboard | Resanance: https://resanance.com/
+- MyInstants — , 101soundboards , SoundboardGuys or Soundboard.com - Online Soundboards — https://www.myinstants.com/index/us/ | 101soundboards: https://www.101soundboards.com/ | SoundboardGuys: https://soundboardguys.com/ | Soundboard.com: https://www.soundboard.com/
+- SampleBrain — , rFXGen , Bfxr / , ChipTone or SFXR - Sound Effect Creators — https://gitlab.com/then-try-this/samplebrain | rFXGen: https://raylibtech.itch.io/rfxgen | Bfxr: https://www.bfxr.net/ | GitHub: https://github.com/increpare/bfxr2 | ChipTone: https://sfbgames.itch.io/chiptone | SFXR: https://sfxr.me/
+- BBC Sound Effects — Downloader — https://sound-effects.bbcrewind.co.uk/ | Downloader: https://github.com/get-iplayer/get_iplayer
+- SNES Soundfonts — or Musical Artifacts - Soundfonts — https://www.williamkage.com/snes_soundfonts/ | Musical Artifacts: https://musical-artifacts.com/
+
+## System Audio
+
+## Android Audio
+
+## iOS Audio

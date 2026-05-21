@@ -1,0 +1,766 @@
+FMHY Linux / macOS Library
+Source: https://fmhy.net/linux-macos
+
+Scraped from the FMHY Linux / macOS page.
+
+> Linux / macOS Apps, Software Sites, Gaming
+## Linux Guides
+
+- ArchWiki — Linux Guides / Manuals / TUI — https://wiki.archlinux.org/ | Manuals: https://man.archlinux.org/ | TUI: https://codeberg.org/theooo/mantra.py
+- Gentoo Wiki — Gentoo Wikis / Guides — https://wiki.gentoo.org/wiki/Main_Page
+- Debian Wiki — Debian Wiki / Guides — https://wiki.debian.org/
+- Linux Journey — Interactive Linux Guides — https://labex.io/linuxjourney
+- HowToLinux — Linux Desktop Guides — https://howtolinux.vercel.app
+- Sindresorhus Guides — Linux Guides for Node.js Developers — https://github.com/sindresorhus/guides
+- Erik Dubois — Arch-centric Linux Video Tutorials — https://www.youtube.com/c/ErikDubois
+- Linuxtopia — Linux Guides — https://www.linuxtopia.org/
+- Linux Roadmap — Linux Learning Roadmap — https://roadmap.sh/linux
+- Vim Tutorials — Vim Tutorial Playlist by Mental Outlaw — https://www.youtube.com/playlist?list=PL3cu45aM3C2DJVGfCjSBB1yD9YkC7q27-
+- Boot-Repair — Grub Repair Guide for Linux Systems — https://help.ubuntu.com/community/Boot-Repair
+
+> TIP Keep in mind that install guides can usually be found on each distros doc page. You can find doc pages on each distros site, or through their DistroWatch pages.
+### CLI Cheat Sheets
+- Linux Command Library — Searchable Linux Command Index — https://linuxcommandlibrary.com/ | GitHub: https://github.com/SimonSchubert/LinuxCommandLibrary
+- Awesome for One Liner — Curated One-Liner CLI Tools — https://github.com/sheepla/awesome-for-oneliner
+- You Don't Need GUI — CLI Alts for GUI Tasks — https://github.com/you-dont-need/You-Dont-Need-GUI
+- CommandlineFU — Community-Driven Command Snippets — https://www.commandlinefu.com/
+- cheat.sh — or Commands.dev - Terminal Commands — https://github.com/chubin/cheat.sh | Commands.dev: https://www.commands.dev/
+- Bash Academy — Bash Scripting Guide — https://guide.bash.academy/
+- ss64 Bash — Alphabetical Command Reference — https://ss64.com/bash/
+- Bash Oneliner — Bash One-Liner Collection — https://onceupon.github.io/Bash-Oneliner/
+- navi — Interactive Cheatsheet Tool — https://github.com/denisidoro/navi
+
+## Linux Communities
+
+- LinuxQuestions — Linux Q&A Forum — https://www.linuxquestions.org/questions/
+- Linux.Chat — Linux Discord Server — https://discord.gg/linuxchat
+- Linux x Technology — Linux Discord Server — https://linuxdiscord.com/
+- Arch Linux Community — Linux Discord Server — https://discord.gg/3m6dbPR
+- Discord-Linux — Linux Discord Server — https://discord.gg/discord-linux
+- Linux.org — Linux Forum / Invite Required for Account — https://linux.org/
+- Arch Forums — Linux Forum — https://bbs.archlinux.org/
+- Gentoo Forums — Linux Forum — https://forums.gentoo.org/
+- ⁠phoronix — Linux Forum — https://www.phoronix.com/forums/
+
+> TIP Keep in mind it's usually best to seek specific forums for your Distro if you need help with them.
+## Linux Distros
+
+- DistroWatch — Distro Index w / News + Rankings / Advanced Search — https://distrowatch.com/dwres.php?resource=popularity | Advanced Search: https://distrowatch.com/search.php#advanced
+- DistroChooser — Beta - Quiz-Based Distro Selector — https://distrochooser.de/ | Beta: https://beta.distrochooser.de/ | Discord: https://discord.com/invite/aDkCutfqak | GitHub: https://github.com/distrochooser/distrochooser
+- distro.moe — Random Distro Finder — https://distro.moe/
+- Linux Live Kit — Create Live Distros from Installed Systems — https://www.linux-live.org/
+- OpenSourceFeed — Open-Source Distros — https://www.opensourcefeed.org/
+- OS.click — Fast Distro Downloads — https://os.click/en
+- LinuxTracker — BitTorrent Distro Repo — https://linuxtracker.org/
+- Linux Comparisons — Detailed Distro Comparison Charts — https://eylenburg.github.io/linux_comparison.htm
+- ArchiveOS — Inactive / Open-Source OS Projects — https://archiveos.org/
+
+> TIP We don't curate individual distros ourselves as we feel the indexes listed are good enough to stand on their own. Keep in mind that install guides can usually be found on each distros doc page. You can find doc pages on each distros site, or through their DistroWatch pages.
+## Linux Apps
+
+- GNOME Shell Extensions — https://extensions.gnome.org/
+- Multi-Platform Readers — ️ Multi-Platform Readers - Ebook Reader Index — /reading/#ebook-readers
+- Office Suites — ️ Office Suites — /text-tools/#office-suites
+- Bottles — Manage Wine containers — https://usebottles.com/ | Discord: https://discord.com/invite/wF4JAdYrTR | GitHub: https://github.com/bottlesdevs
+- WineHQ — Wine Compatibility Database — https://appdb.winehq.org/
+- Q4Wine — Wine GUI — https://sourceforge.net/projects/q4wine/
+- AppImageLauncher — or GearLever - Integrate AppImages to App Launchers — https://github.com/TheAssassin/AppImageLauncher | GearLever: https://github.com/mijorus/gearlever
+- winetricks — Wine Fixes — https://github.com/Winetricks/winetricks
+- rofi — Emoji Selector , vicinae , Fuzzel , Ulauncher or wofi - App Launchers / Keystroke Launchers — https://davatorium.github.io/rofi/ | Emoji Selector: https://github.com/Mange/rofi-emoji | vicinae: https://github.com/vicinaehq/vicinae | Fuzzel: https://codeberg.org/dnkl/fuzzel | Ulauncher: https://ulauncher.io/ | wofi: https://hg.sr.ht/~scoopta/wofi
+- FreeRDP — , ⁠Remmina or ⁠Apache Guacamole - Remote Desktop Clients — https://www.freerdp.com/ | GitHub: https://github.com/FreeRDP/FreeRDP | ⁠Remmina: https://remmina.org/ | ⁠Apache Guacamole: https://guacamole.apache.org/
+- shell_gpt — or shellgpt - AI Terminal Chatbot / GPT — https://github.com/TheR1D/shell_gpt | shellgpt: https://github.com/jiacai2050/my-works/tree/main/shellgpt
+- Darling — Run macOS Apps on Linux — https://www.darlinghq.org/ | Discord: https://discord.com/invite/XRD3mQA | GitHub: https://github.com/darlinghq/darling
+- innoextract — Windows Installer Unpacker — https://constexpr.org/innoextract/ | GitHub: https://github.com/dscharrer/innoextract
+- web2app — Turn Webpages into Desktop Apps — https://github.com/hamza72x/web2app
+- Autokey — Linux Automation Utility — https://autokey.github.io/index.html | GitHub: https://github.com/autokey/autokey
+- ProtonTricks — Run Winetricks Commands for Steam Play / Proton Games — https://github.com/Matoking/protontricks
+- Touchégg — Multi-Touch Gesture Recognizer — https://github.com/JoseExposito/touchegg
+- Ghostwriter — or Remarkable - Markdown Editor — https://ghostwriter.kde.org/ | Remarkable: https://remarkableapp.github.io/
+- taskbook — or nb / - Note Apps — https://github.com/klaudiosinani/taskbook | nb: https://xwmx.github.io/nb | GitHub: https://github.com/xwmx/nb
+- Featherpad — or gedit - Text Editors — https://github.com/tsujan/FeatherPad | gedit: https://gedit-text-editor.org/
+- Kate Editor — Source Code Editor — https://kate-editor.org/
+- TextPieces — Quick Text Transformations — https://gitlab.com/liferooter/textpieces
+- Durdraw — ASCII Editor — https://durdraw.org/
+- ly — Display Manager with Console UI — https://github.com/fairyglade/ly
+- GammaStep — Adjust Screen Temperature — https://gitlab.com/chinstrap/gammastep
+- Weylus — Use Mobile Device as Trackpad — https://github.com/H-M-H/Weylus
+- AudioSource — Use Mobile Device as Microphone — https://github.com/gdzx/audiosource
+- Alpaca — Run LLMs on Linux — https://jeffser.com/alpaca/
+- nyrna — Suspend Apps / Games — https://nyrna.merritt.codes
+- Solaar — Logitech Device Manager — https://github.com/pwr-Solaar/Solaar
+- bluetuith — Bluetooth Manager — https://github.com/darkhz/bluetuith
+- libimobiledevice — Communicate with iOS Devices — https://libimobiledevice.org
+- Linux-PowerToys — PowerToys for Linux — https://github.com/domferr/Linux-PowerToys
+- Railway — Travel Info Manager — https://flathub.org/apps/de.schmidhuberj.DieBahn
+- Wike — Wikipedia App — https://github.com/hugolabe/Wike
+- Komikku — , Suwayomi-VaadinUI or Manga Reader - Manga Readers — https://flathub.org/en/apps/info.febvre.Komikku | Suwayomi-VaadinUI: https://github.com/Suwayomi/Suwayomi-VaadinUI | Manga Reader: https://flathub.org/apps/com.georgefb.mangareader
+- Mako — or dunst / - Customizable Notification Daemon — https://github.com/emersion/mako | dunst: https://dunst-project.org/ | GitHub: https://github.com/dunst-project/dunst
+- Eloquent — or DidYouMean - Grammar Check Apps — https://github.com/sonnyp/Eloquent | DidYouMean: https://github.com/hisbaan/didyoumean
+- KTouch — or typer - Typing Practice — https://apps.kde.org/ktouch/ | typer: https://github.com/maaslalani/typer
+
+### Software Sites
+- ArchWiki App Sites — or Ultimate Cheatsheet - Linux Software / Site Index — https://wiki.archlinux.org/title/List_of_applications | Ultimate Cheatsheet: https://gist.github.com/bgoonz/be5c5be77169ef333b431bc37d331176
+- Awesome Linux Software — FOSS Linux Software — https://luong-komorebi.github.io/Awesome-Linux-Software/
+- Awesome KDE — FOSS KDE Software — https://github.com/francoism90/awesome-kde
+- Awesome GNOME — FOSS GNOME Software — https://github.com/Kazhnuz/awesome-gnome
+- FOSS Software Packages — FOSS Software Packages Index — https://wikipedia.org/wiki/List_of_free_and_open-source_software_packages
+- Kapital Sin — Linux Software / Use Translator — https://www.kapitalsin.com/forum/index.php?board=5.0 | Translator: /text-tools/#translators
+- The Book of Secret Knowledge — https://github.com/trimstray/the-book-of-secret-knowledge
+- Linux Software CSE — Multi-Site Software Search — https://cse.google.com/cse?cx=81bd91729fe2a412b
+- ⁠TuxMate — Bulk App Installer — https://tuxmate.com/ | GitHub: https://github.com/abusoww/tuxmate
+- Awesome Linux Minimalism — FOSS Software — https://github.com/MindPatch/awesome-linux-minimalism
+- FOSS Torrents — FOSS Software Torrents — https://fosstorrents.com/
+- Open Source Linux Programs — FOSS Software Chart — https://files.catbox.moe/o99qyz.jpg
+- RUTracker Linux — Linux Software — https://rutracker.org/forum/viewforum.php?f=1376
+- Rim's Linux Wiki — , 2 - Linux Software / Tool Index — https://rlw.pages.dev/ | 2: https://rimswiki.xyz/ | Discord: https://discord.gg/pQVYgjzM3w
+- KDE Applications — or KDE Store - KDE Apps & Themes — https://apps.kde.org/ | KDE Store: https://store.kde.org/browse/
+- Flatpak — Sandboxed Package Manager / App Repository / Manage Permissions — https://flatpak.org/ | App Repository: https://flathub.org | Manage Permissions: https://github.com/tchx84/flatseal
+- SnapCraft — Snap Repository — https://snapcraft.io/store
+- Nix — Resources , pkgx / or Homebrew - Package Managers — https://nixos.org/ | Resources: https://github.com/nix-community/awesome-nix | pkgx: https://pkgx.sh/ | GitHub: https://github.com/pkgxdev/pkgx | Homebrew: https://brew.sh/
+- Nala — , apt-fast or APTUI - TUI Frontends for APT Package Manager — https://gitlab.com/volian/nala | apt-fast: https://github.com/ilikenwf/apt-fast | APTUI: https://github.com/mexirica/aptui
+- Zap — or AM - App Image Managers — https://zap.srev.in | GitHub: https://github.com/srevinsaju/zap | AM: https://github.com/ivan-hc/AM
+- Pkgs — or Repology - Searchable Linux Package Database — https://pkgs.org/ | Repology: https://repology.org/
+- AppImageHub — GUI , AppImages or Get AppImage - Download AppImages — https://www.appimagehub.com/ | GUI: https://github.com/prateekmedia/appimagepool | AppImages: https://appimage.github.io/ | Get AppImage: https://g.srev.in/get-appimage/
+- Apps for GNOME — GNOME Apps — https://apps.gnome.org/
+- emplace — System Package Sync — https://codeberg.org/fosk/emplace
+- Pacstall — AUR-Inspired Package Manager for Ubuntu — https://pacstall.dev/
+
+### Linux System
+- Hardware for Linux — Linux Hardware Compatibility Database — https://linux-hardware.org/ | GitHub: https://github.com/linuxhw/
+- Btop — or s-tui - System Resource Monitors — https://github.com/aristocratos/btop | s-tui: https://github.com/amanusk/s-tui
+- MangoHud — System Resource Monitor Overlay / GUI — https://github.com/flightlessmango/MangoHud | GUI: https://github.com/radiolamp/mangojuice
+- fastfetch — , Archey4 , Hyfetch , Macchina or CPU-X - System Info Displays — https://github.com/fastfetch-cli/fastfetch | Archey4: https://github.com/HorlogeSkynet/archey4 | Hyfetch: https://github.com/hykilpikonna/hyfetch | Macchina: https://github.com/Macchina-CLI/macchina | CPU-X: https://github.com/TheTumultuousUnicornOfDarkness/CPU-X
+- TimeShift — System Restore / Backup — https://github.com/linuxmint/timeshift
+- Impression — or Caligula - Create Bootable USB Linux Drives — https://gitlab.com/adhami3310/Impression | Caligula: https://github.com/ifd3f/caligula
+- anuraOS — Instance - Linux Browser Emulator — https://github.com/MercuryWorkshop/anuraOS | Instance: https://anura.pro/
+- SysmonForLinux — Monitor / Log System Activity — https://github.com/microsoft/SysmonForLinux
+- htop — or Zenith - Interactive Process Viewers — https://htop.dev/ | Zenith: https://github.com/bvaisvil/zenith
+- ⁠TuxManager — Task Manager — https://github.com/benapetr/TuxManager
+- screenFetch — Bash Screenshot Information Tool — https://github.com/KittyKatt/screenFetch
+- Nanobench — CPU Microbenchmark / Documentation — https://github.com/andreas-abel/nanoBench | Documentation: https://nanobench.ankerl.com/
+- ScanMem — Memory Scanner / Debugger — https://github.com/scanmem/scanmem
+- pacwall — Live Wallpaper Dependency Graph / Package Status — https://github.com/Kharacternyk/pacwall
+- keyd — or xremap - Keyboard Remapping — https://github.com/rvaiya/keyd | xremap: https://github.com/xremap/xremap
+- LAN Mouse — Mouse & Keyboard Sharing — https://github.com/feschber/lan-mouse
+- Input Leap — Multi-Computer Control — https://github.com/input-leap/input-leap
+- auto-cpufreq — CPU Speed & Power Optimization Automation — https://github.com/AdnanHodzic/auto-cpufreq
+- Fan Control — Fan Controller — https://github.com/wiiznokes/fan-control
+- ⁠WinApps — Run Windows Apps on Linux — https://github.com/winapps-org/winapps
+- Teleport — Windows App Compatibility Analyzer — https://teleportsite.pages.dev/
+- NetBoot — iPXE Network Boot — https://netboot.xyz/
+- CloverBootloader — Windows, Mac & Linux Bootloader / Config — https://github.com/CloverHackyColor/CloverBootloader/ | Config: https://mackie100projects.altervista.org/
+- zfsBootMenu — ZFS Bootloader — https://docs.zfsbootmenu.org/
+- Waycheck — Lists Protocols Implemented by a Wayland Compositor — https://gitlab.freedesktop.org/serebit/waycheck
+- Linux Heads — Minimal CoreBoot — https://osresearch.net/ | GitHub: https://github.com/linuxboot/heads
+- coreboot — , Heads / , ⁠Canoeboot or Libreboot - Replace Proprietary BIOS / UEFI Firmware — https://coreboot.org/ | Heads: https://osresearch.net/ | GitHub: https://github.com/linuxboot/heads | ⁠Canoeboot: https://canoeboot.org/ | Libreboot: https://libreboot.org/
+- GParted — Partition Manager — https://gparted.org/
+- CoreELEC — or LibreELEC / - Kodi-Based Operating System — https://coreelec.org | GitHub: https://github.com/CoreELEC/CoreELEC | LibreELEC: https://libreelec.tv/ | GitHub: https://github.com/LibreELEC/LibreELEC.tv
+- DistroSea — Cloud Virtual Machine / Allows Browsers — https://distrosea.com/
+- Linux-KVM — Virtualization Kernel module — https://www.linux-kvm.org/page/Downloads
+- WebVM — Browser Virtual Machine — https://webvm.io/ | Discord: https://discord.gg/yTNZgySKGa | GitHub: https://github.com/leaningtech/webvm
+- OSX-KVM — , OneClick-macOS-Simple-KVM or macOS-Simple-KVM - macOS Virtual Machines — https://github.com/kholia/OSX-KVM | OneClick-macOS-Simple-KVM: https://oneclick-macos-simple-kvm.notaperson535.is-a.dev/ | macOS-Simple-KVM: https://github.com/foxlet/macOS-Simple-KVM
+- kmon — Kernel Manager and Activity Monitor — https://kmon.cli.rs/
+- Kernel Map — Interactive Linux Kernel Map — https://makelinux.github.io/kernel/map/
+- KernelNewbies — Kernel Developer Guides — https://kernelnewbies.org/
+- SystemRescue — or Super Grub2 Disk - Bootable System Rescue Toolkits — https://www.system-rescue.org/ | Super Grub2 Disk: https://www.supergrubdisk.org/super-grub2-disk/
+- bt-dualboot — Dual-Boot Bluetooth Sync Tool — https://github.com/x2es/bt-dualboot
+- ⁠LACT — GPU Config + Monitor — https://github.com/ilya-zlobintsev/LACT/
+- open-gpu-kernel-modules — NVIDIA Linux Open GPU Kernel Module — https://github.com/NVIDIA/open-gpu-kernel-modules
+- systemctl-tui — TUI for systemd — https://github.com/rgwood/systemctl-tui
+- nosystemd — or ⁠Init Freedom - Alternatives to systemd — https://nosystemd.org/ | ⁠Init Freedom: https://www.devuan.org/os/init-freedom
+- greetd — Login Manager Daemon — https://sr.ht/~kennylevinsen/greetd/
+
+### Linux Video
+- Media Servers / Tools — ️ Media Servers / Tools — /video-tools/#media-servers
+- mpv — or VLC - Video Players — https://mpv.io/ | VLC: https://www.videolan.org/
+- Haruna — or Celluloid - MPV Frontends — https://apps.kde.org/haruna/ | GitHub: https://github.com/KDE/haruna | Celluloid: https://github.com/celluloid-player/celluloid
+- Kdenlive — , Pitivi , ⁠davincibox or Flowblade / - Video Editors — https://apps.kde.org/kdenlive/ | GitHub: https://github.com/KDE/kdenlive | Pitivi: https://www.pitivi.org/ | ⁠davincibox: https://github.com/zelikos/davincibox | Flowblade: https://jliljebl.github.io/flowblade/ | GitHub: https://github.com/jliljebl/flowblade
+- MultiPlex — Torrent Watch Party / Use VPN — https://github.com/pojntfx/multiplex | VPN: /privacy/#vpn
+- MPV Shim — Cast Plex to MPV — https://github.com/iwalton3/plex-mpv-shim
+- Gromit MPX — Screen Annotation — https://github.com/bk138/gromit-mpx
+- AV Linux — Video / Audio Editor — https://www.bandshed.net/avlinux/
+- REAL Video Enhancer — Video Upscaling — https://github.com/TNTwise/REAL-Video-Enhancer
+- 4KTUBE — or Video Downloader - Video Downloaders — https://github.com/rishabh3354/4KTUBE | Video Downloader: https://github.com/Unrud/video-downloader
+- Linux-Fake-Background-Webcam — Fake Webcam Background — https://github.com/fangfufu/Linux-Fake-Background-Webcam/
+- AnymeX — Anime Streaming App / Extension Guide — https://anymex.vercel.app/ | Extension Guide: https://wotaku.wiki/guides/ext/mangayomi | Discord: https://discord.gg/hDwQ3heJ8V | GitHub: https://github.com/RyanYuuki/AnymeX
+- Hayase — Anime Torrent Streaming App / Extensions — https://hayase.watch/ | Extensions: https://rentry.co/FMHYB64#hayase
+- ani-cli — Anime Streaming Terminal — https://github.com/pystardust/ani-cli
+- Trackma — Anime Tracking App — https://github.com/z411/trackma/
+- LiveCaptions — Real-Time Captions — https://github.com/abb128/LiveCaptions
+
+### Linux Audio
+- Awesome Linux Audio — Live Audio Resources — https://gitlab.com/nodiscc/awesome-linuxaudio
+- SpotX-Bash — or spotify-adblock - Spotify Adblockers — https://github.com/SpotX-Official/SpotX-Bash | spotify-adblock: https://github.com/abba23/spotify-adblock
+- Spicetify — Spotify Themes & Plugins / Improved Lyrics — https://spicetify.app/ | Improved Lyrics: https://spicylyrics.org/ | Discord: https://discord.gg/VnevqPp2Rr | GitHub: https://github.com/spicetify/cli
+- Shortwave — or QMPlay2 - Radio Players — https://flathub.org/en/apps/de.haeckerfelix.Shortwave | GitLab: https://gitlab.gnome.org/World/Shortwave | QMPlay2: https://github.com/zaps166/QMPlay2
+- SongRec — or Mousai - Song Identifiers — https://github.com/marin-m/SongRec | Mousai: https://github.com/SeaDve/Mousai
+- puddletag — Metadata Organizer — https://docs.puddletag.net/ | GitHub: https://github.com/puddletag/puddletag
+- Tidal Hi-Fi — Hi-Fi Tidal Player — https://github.com/Mastermindzh/tidal-hifi
+- ⁠tuifi — Terminal Audio Player for Hi-Fi Tidal — https://git.sr.ht/~matf/tuifi
+- BeatBoss — Plugin-Based Streaming — https://beatboss.thevolecitor.qzz.io/ | GitHub: https://github.com/TheVolecitor/BeatBoss
+- cmus — Audio Player — https://cmus.github.io/
+- Tauon Music Box — Audio Player — https://tauonmusicbox.rocks/ | Discord: https://discord.com/invite/v4EmhES | GitHub: https://github.com/Taiko2k/Tauon
+- Lollypop — Audio Player — https://gitlab.gnome.org/World/lollypop
+- Audacious — Audio Player — https://audacious-media-player.org/ | GitHub: https://github.com/audacious-media-player
+- Amberol — Audio Player — https://gitlab.gnome.org/World/amberol
+- Fooyin — Audio Player — https://www.fooyin.org/ | GitHub: https://github.com/fooyin/fooyin
+- Gapless — Audio Player — https://gitlab.gnome.org/neithern/g4music
+- dopamine — Audio Player — https://github.com/digimezzo/dopamine
+- AudioTube — , ytermusic or Monophony - YouTube Music Clients — https://invent.kde.org/multimedia/audiotube | ytermusic: https://github.com/ccgauche/ytermusic/ | Monophony: https://gitlab.com/zehkira/monophony
+- cliamp — , MOC or Kew - TUI Audio Players — https://www.cliamp.stream/ | GitHub: https://github.com/bjarneo/cliamp | MOC: https://moc.daper.net/ | Kew: https://github.com/ravachol/kew
+- ⁠Sonosano — Self-Hosted P2P Lossless Music Player — https://sonosano.krshh.com/ | GitHub: https://github.com/KRSHH/Sonosano
+- Deezer Linux — or DZR - Deezer Clients — https://github.com/aunetx/deezer-linux | DZR: https://github.com/yne/dzr
+- MusicPod — Podcast / Radio Player — https://github.com/ubuntu-flutter-community/musicpod
+- HeadsetControl — Headset Settings Manager — https://github.com/Sapd/HeadsetControl
+- Pipewire — Improved Video / Audio Handling / Multimedia API / Effects / TUI Audio Mixer — https://pipewire.org/ | Effects: https://github.com/wwmm/easyeffects | TUI Audio Mixer: https://github.com/tsowell/wiremix
+- ⁠LibrePods — Use AirPod Features on Linux — https://github.com/kavishdevar/librepods
+- Werman — or NoiseTorch - Noise Suppression Software — https://github.com/werman/noise-suppression-for-voice | NoiseTorch: https://github.com/noisetorch/NoiseTorch
+- Qtractor — Audio Editor — https://qtractor.org/
+- Calf Studio Gear — Audio Production Plugins — https://calf-studio-gear.org/
+- Ensembles — Musical Performance Arranger — https://github.com/ensemblesaw/ensembles-app
+- JDSP4Linux — Audio Processors — https://github.com/Audio4Linux/JDSP4Linux
+- cava — Console Audio Visualizer — https://github.com/karlstav/cava
+- Blanket — Ambient Sound Mixer for Linux — https://github.com/rafaelmardojai/blanket
+
+### Linux Image
+- Linux Image Editors — ️ Linux Image Editors — /image-tools/#editing-software
+- Flameshot — , Gradia / or Scrot - Screenshot Tools — https://flameshot.org/ | Gradia: https://gradia.alexandervanhee.be/ | GitHub: https://github.com/AlexanderVanhee/Gradia | Scrot: https://github.com/resurrecting-open-source-projects/scrot
+- v4l2loopback — Create Virtual Cameras — https://github.com/v4l2loopback/v4l2loopback
+- Drawing — Drawing App — https://maoschanz.github.io/drawing/
+- Android Virtual Pen — Use Device as Linux Virtual Pen — https://github.com/androidvirtualpen/virtualpen
+- Feh — or NSXIV - Image Viewer — https://feh.finalrewind.org/ | NSXIV: https://github.com/nsxiv/nsxiv
+- lsix — View Images in Terminal — https://github.com/hackerb9/lsix
+- Upscaler — Image Upscaler — https://gitlab.gnome.org/World/Upscaler
+- Trimage — or Curtail - Image Compressor — https://trimage.org/ | Curtail: https://github.com/Huluti/Curtail
+- MkPosters — Turn Markdown Files into Posters — https://github.com/patrick-kidger/mkposters
+- Rapid — Quick Linux Photo Importer — https://damonlynch.net/rapid/
+
+### Productivity / Calendars
+- todo — or Planify - To-Do Apps — https://github.com/sioodmy/todo/ | Planify: https://github.com/alainm23/planify
+- Timestrap — or Mindfulness at the Computer - Productivity Managers — https://timestrap.bythewood.me/ | Mindfulness at the Computer: https://fswb.codeberg.page/mindfulness-at-the-computer/
+- Client Evolution — or dLine - Calendars — https://help.gnome.org/users/evolution/stable/ | dLine: https://github.com/jazz-it/dline
+- dijo — Activity Tracker — https://github.com/oppiliappan/dijo
+
+### Linux Gaming
+- Linux Gaming Wiki — or r / LinuxCrackSupport Wiki - Linux Gaming Guides — https://linux-gaming.kwindu.eu/index.php?title=Main_Page | r/LinuxCrackSupport Wiki: https://www.reddit.com/r/LinuxCrackSupport/wiki/index
+- protondb — Steam Extension / or Are We Anti-Cheat Yet? - Game Compatibility Databases — https://www.protondb.com/ | Steam Extension: https://github.com/Trsnaqe/protondb-community-extension | Discord: https://discord.com/invite/uuwK9EV | Are We Anti-Cheat Yet?: https://areweanticheatyet.com/
+- Heroic Games Launcher — , Lutris / / , or ⁠Faugus Launcher - Game Launchers — https://heroicgameslauncher.com/ | Discord: https://discord.com/invite/rHJ2uqdquK | GitHub: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher | Lutris: https://lutris.net/ | Discord: https://discord.com/invite/Pnt5CuY | GitHub: https://github.com/lutris | ⁠Faugus Launcher: https://github.com/Faugus/faugus-launcher
+- Bottles — Manage Wine Containers — https://usebottles.com/ | Discord: https://discord.com/invite/wF4JAdYrTR | GitHub: https://github.com/bottlesdevs
+- ProtonPlus — or ProtonUp-QT / - Linux Compatibility Tool Managers — https://github.com/Vysp3r/ProtonPlus | ProtonUp-QT: https://davidotek.github.io/protonup-qt/ | GitHub: https://github.com/DavidoTek/ProtonUp-Qt/
+- GE-Proton — Custom Proton Version — https://github.com/GloriousEggroll/proton-ge-custom | Discord: https://discord.com/invite/6y3BdzC
+- Kapital Sin — Linux Games / Use Translator — https://www.kapitalsin.com/forum/index.php?board=4.0 | Translator: /text-tools/#translators
+- Torrminatorr — Linux Games / Requires Sign-Up — https://forum.torrminatorr.com/
+- johncena141 — Linux Games / Support / Launcher — https://rentry.co/FMHYB64#johncena141 | Support: https://gitlab.com/jc141x/portal | Launcher: https://github.com/AbdelrhmanNile/UnderTaker141
+- CS.RIN.RU — , 2 - Linux Games / Signup / PW: cs.rin.ru / csrin.org — https://cs.rin.ru/forum | 2: https://csrin.org/ | .onion: http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum
+- RuTracker — Linux Games / Use Translator / Tools — https://rutracker.org/forum/viewforum.php?f=899 | Translator: /text-tools/#translators | Tools: /torrenting/#torrent-sites
+- Native Linux Games — Linux Games — https://rentry.co/FMHYB64#native-linux-games
+- winesapOS — Play Games on Storage Devices — https://github.com/winesapOS/winesapOS
+- wine-wayland — Play DX9 / DX11 / Vulkan Games — https://github.com/varmd/wine-wayland
+- ⁠UMU — Run Windows Games on Linux — https://github.com/Open-Wine-Components/umu-launcher
+- Luxtorpeda — or Boxtron - Run Steam Games on Linux — https://github.com/luxtorpeda-dev/luxtorpeda | Boxtron: https://github.com/dreamer/boxtron
+- CreamLinux — Steam DLC Unlocker / Installer — https://github.com/anticitizn/creamlinux | Installer: https://github.com/Novattz/creamlinux-installer
+- SLSsteam — Steamclient Mod w / DLC Unlocker and Emulated Achievements / Generate Achievements — https://cs.rin.ru/forum/search.php?st=0&sk=t&sd=d&sr=topics&keywords=SLSsteam | Generate Achievements: https://github.com/xamionex/SLScheevo
+- ⁠SteamTinkerLaunch — Steam Wrapper w / Custom Launcher Options — https://github.com/sonic2kk/steamtinkerlaunch
+- AdwSteamGtk — Steam Frontend — https://github.com/Foldex/AdwSteamGtk
+- steam-tui — Rust TUI for Steam — https://github.com/dmadisetti/steam-tui
+- RetroDECK — Emulator for Steam Deck — https://retrodeck.net/
+- CryoUtilities — Steam Deck Utilities — https://github.com/CryoByte33/steam-deck-utilities
+- SamRewritten — Steam Achievement Manager — https://github.com/PaulCombal/SamRewritten
+- Steam for Linux — Steam Linux Beta Issue Tracker — https://github.com/ValveSoftware/steam-for-linux
+- Minigalaxy — GOG Client — https://sharkwouter.github.io/minigalaxy/
+- ⁠Online-Fix Linux — Launch Games w / ⁠Online-Fix Patches — https://github.com/ZzEdovec/onlinefix-linux
+- Vice — Game Clipping App — https://viceclipper.framer.website/ | GitHub: https://github.com/eklonofficial/Vice
+- Sober — Roblox Linux Port / Vinegar (Studio Only) — https://sober.vinegarhq.org/ | Vinegar (Studio Only): https://vinegarhq.org/
+- Limo — Nexus Mods Manager for Linux — https://github.com/limo-app/limo
+- ssprea-nvidia-control — or CoreCtrl - GPU Overclocking Tools — https://github.com/ssprea/ssprea-nvidia-control | CoreCtrl: https://gitlab.com/corectrl/corectrl
+- ⁠LeShade — ReShade Manager — https://github.com/Ishidawg/LeShade
+- DXVK — Vulkan-Based Direct3D for Linux / Wine — https://github.com/doitsujin/dxvk
+- ⁠D7VK — Vulkan-Based D3D7 / 6 / 5 for Linux / Wine — https://github.com/WinterSnowfall/d7vk
+- ⁠dxvk-gplasync — DXVK Fork w / Async / Vulkan-Based Direct3D / Stutter Reduction — https://gitlab.com/Ph42oN/dxvk-gplasync/
+- ⁠lsfg-vk — Lossless Scaling for Linux — https://github.com/PancakeTAS/lsfg-vk
+- VKBasAlt — Game Post Processing Layer — https://github.com/DadSchoorse/vkBasalt
+- Liquorix — , Xanmod or Frogging - Linux Gaming Kernels — https://liquorix.net/ | Xanmod: https://xanmod.org/ | Frogging: https://github.com/Frogging-Family/linux-tkg
+- Gamemode — Linux System Optimizer — https://github.com/FeralInteractive/gamemode
+- LibreGaming — Linux Game Package Downloader — https://github.com/Ahmed-Al-Balochi/LibreGaming
+- PortMaster — Port Games to Linux Handheld Devices — https://portmaster.games/ | Discord: https://discord.gg/JxYBp9HTAY
+- Gameboy.live — Terminal Game Boy Emulator — https://github.com/HFO4/gameboy.live
+- QuickPassthrough — Simplified GPU Passthrough — https://github.com/HikariKnight/quickpassthrough
+- ⁠WiVRn — Wirelessly Stream PC VR Games from Linux to Standalone VR Headset — https://wivrn.github.io/
+
+## Linux Tools
+
+### Adblock / Privacy
+- Linux 2FA — ️ Linux 2FA — /privacy/#password-privacy-2fa
+- DNS Adblocking — ️ DNS Adblocking — /privacy/#dns-adblocking
+- Arch Security Wiki — , Linux Hardening / 2 or How to Secure a Linux Server - Linux Security Guides — https://wiki.archlinux.org/title/Security | Linux Hardening: https://vez.mrsk.me/linux-hardening.html | 2: https://madaidans-insecurities.github.io/guides/linux-hardening.html | How to Secure a Linux Server: https://github.com/imthenachoman/How-To-Secure-A-Linux-Server
+- CryptSetup — , gocryptfs / or Tomb - File Encryption — https://gitlab.com/cryptsetup/cryptsetup | gocryptfs: https://nuetzlich.net/gocryptfs | GitHub: https://github.com/rfjakob/gocryptfs | Tomb: https://dyne.org/software/tomb/
+- Securely Wipe Disk — or SSD Memory Cell Clearing - Linux Disk Wipe Guides — https://wiki.archlinux.org/title/Securely_wipe_disk | SSD Memory Cell Clearing: https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing
+- JShielder — Hardening Script for Linux Servers — https://github.com/Jsitech/JShielder
+- Lynis — Linux Security Auditing Tool — https://github.com/CISOfy/lynis
+- Lockigest — Screen Locker — https://elma.dev/works/lockigest/ | GitHub: https://github.com/elmsec/lockigest
+- Mistborn — Manage Cloud Security Apps — https://gitlab.com/cyber5k/mistborn
+- OpenSnitch — or gufw - Linux Firewalls — https://github.com/evilsocket/opensnitch | gufw: https://github.com/costales/gufw
+- Tracee — Runtime Security and Forensics — https://aquasecurity.github.io/tracee/latest
+- vnStat — Network Monitors — https://github.com/vergoh/vnstat
+- Howdy — Linux Facial Authentication — https://github.com/boltgolt/howdy
+- USBGuard — Implement USB Device Authorization Policies — https://github.com/USBGuard/usbguard
+- ShuffleStacks — Create Hidden Volumes — https://shufflecake.net/
+- Collision — Check File Hashes — https://flathub.org/apps/dev.geopjr.Collision
+- WhoAmI Project — Privacy / Anonymity Tool — https://owerdogan.github.io/whoami-project | GitHub: https://github.com/owerdogan/whoami-project
+- Yubikey Full Disk Encryption — Use YubiKey to unlock a LUKS Partition — https://github.com/agherzan/yubikey-full-disk-encryption
+- Firejail — or Bubblewrap - Sandboxing Tools — https://firejail.wordpress.com/ | Bubblewrap: https://github.com/containers/bubblewrap
+- GoogleTeller — Google Tracking Notifications — https://github.com/berthubert/googerteller
+
+### Linux Internet
+- Linux Torrent Clients — ️ Linux Torrent Clients — /torrenting/#torrent-clients
+- Nicotine+ — or Soulseek - File Sharing App — https://nicotine-plus.org/ | Soulseek: https://www.slsknet.org
+- Linux WiFi Hotspot — Create WiFi Hotspots — https://github.com/lakinduakash/linux-wifi-hotspot
+- BTFS — Bittorrent Filesystem — https://github.com/johang/btfs
+- ElectronMail — , Claws Mail or dodo - Email Clients — https://github.com/vladimiry/ElectronMail | Claws Mail: https://www.claws-mail.org/ | dodo: https://github.com/akissinger/dodo
+- Akregator — , NewsBoat , NewsFlash , Photon or gorss - RSS Readers — https://apps.kde.org/akregator/ | NewsBoat: https://newsboat.org/ | NewsFlash: https://gitlab.com/news-flash/news_flash_gtk | Photon: https://git.sr.ht/~ghost08/photon | gorss: https://github.com/Lallassu/gorss
+- Seahorse — GNOME Password Manager — https://gitlab.gnome.org/GNOME/seahorse
+- gopass — CLI Password Manager — https://www.gopass.pw/
+- KGet — , ⁠Surge or GabutDM - Download Managers — https://apps.kde.org/kget/ | ⁠Surge: https://github.com/SurgeDM/Surge | GabutDM: https://github.com/gabutakut/gabutdm
+- GDown — Google Drive Downloader — https://github.com/wkentaro/gdown
+- google-drive-ocamlfuse — Mount Google Drive — https://github.com/astrada/google-drive-ocamlfuse
+- maestral — Dropbox Client — https://maestral.app/
+- aMule — eMule-like P2P Client — https://www.amule.org/
+- ⁠OpenWRT — , DD-WRT or FreshTomato - Linux Router Firmware — https://openwrt.org/ | DD-WRT: https://wiki.dd-wrt.com/ | FreshTomato: https://www.freshtomato.org/
+- ⁠dae — Linux Router Performance Proxy App / WebUI — https://github.com/daeuniverse/dae | WebUI: https://github.com/daeuniverse/daed
+- Linux Router — Set Linux as Router — https://github.com/garywill/linux-router
+- Netcat — Networking Tool — https://rentry.co/Netcat
+- Bandwhich — Terminal Bandwidth Utilization Tool — https://github.com/imsnif/bandwhich
+- iperf — Network Bandwidth Test — https://github.com/esnet/iperf
+- Rang3r — IP / Port Scanner — https://github.com/floriankunushevci/rang3r
+- sttr — Base64 Encryption / Decryption TUI — https://github.com/abhimanyu003/sttr
+- Netflix Proxy — Streaming Service Proxy — https://github.com/ab77/netflix-proxy/
+- Teams for Linux — Collaboration Platform — https://github.com/IsmaelMartinez/teams-for-linux
+- Luakit — Lightweight Linux Browser — https://luakit.github.io/
+- browsh — Text-Based Browser — https://www.brow.sh/
+- mx moment — Encrypted Chat Client — https://mx-moment.xyz/
+- Adium — , Polari / , Irssi or Weechat - IRC Clients — https://adium.im/ | Polari: https://apps.gnome.org/Polari/ | GitLab: https://gitlab.gnome.org/GNOME/polari | Irssi: https://github.com/irssi/irssi | Weechat: https://weechat.org/
+- Dino — XMPP Client — https://dino.im/
+- gurk-rs — Signal Client — https://github.com/boxdot/gurk-rs
+- ZapZap — WhatsApp Client — https://rtosta.com/zapzap/ | GitHub: https://github.com/rafatosta/zapzap
+- YouTube-Viewer — , Pipe Viewer or Pipeline - YouTube Clients — https://github.com/trizen/youtube-viewer | Pipe Viewer: https://github.com/trizen/pipe-viewer | Pipeline: https://gitlab.com/schmiddi-on-mobile/pipeline
+- GrayJay — YouTube, Twitch, Rumble, etc. / Avoid Playstore / Guide / Plugins / Add Platforms , 2 , 3 — https://grayjay.app/ | Guide: https://youtu.be/EnZrv37u66c | Plugins: https://plugins.grayjay.app/ | Add Platforms: https://grayjay-sources.github.io/ | 2: https://github.com/grayjay-sources/grayjay-sources.github.io | 3: https://gitlab.futo.org/videostreaming/plugins | GitLab: https://gitlab.futo.org/videostreaming/grayjay
+- Discover — Discord Overlay — https://github.com/trigg/Discover
+- dvm — Discord Version Manager — https://github.com/diced/dvm
+
+### Server / Selfhosting
+- Awesome Selfhosted — 2 or Awesome Selfhosted UI - Self-Hosted Software Index — https://awesome-selfhosted.net/ | 2: https://gist.github.com/kvnxiao/27c14760cbec35b4e312e34c856b51a8 | Awesome Selfhosted UI: https://awesomeselfhosted.netlify.app/ | GitHub: https://github.com/awesome-selfhosted/awesome-selfhosted
+- ⁠Awesome Homelab — Homelab App Index — https://github.com/miantiao-me/awesome-homelab/
+- Selfh.st — Self-Hosted Software Index — https://selfh.st/apps/
+- Self-Hosting-Guide — Self-Hosted Software Index — https://github.com/mikeroyal/Self-Hosting-Guide
+- ⁠RackRat — eBay Rackmount Server Prices / Comparisons — https://rackrat.net/
+- Media Servers / Tools — ️ Media Servers / Tools — /video-tools/#media-servers
+- Selfhosted Image Galleries — ️ Selfhosted Image Galleries — /image-tools/#offline-galleries
+- Homepage — , Dashy / , Flame , Homer , Lab Dash , mafl , Homarr / or Organizr - Home Server Startpages — https://gethomepage.dev/ | GitHub: https://github.com/gethomepage/homepage | Dashy: https://dashy.to/ | GitHub: https://github.com/Lissy93/dashy | Flame: https://github.com/pawelmalak/flame | Homer: https://github.com/bastienwirtz/homer | Lab Dash: https://github.com/AnthonyGress/lab-dash | mafl: https://mafl.hywax.space/ | Homarr: https://homarr.dev/ | GitHub: https://github.com/homarr-labs/homarr | Organizr: https://github.com/causefx/Organizr
+- Glance — Feed Dashboard — https://github.com/glanceapp/glance
+- ⁠ThingsBoard — IoT Device Manager / Visualizer / Data Collection — https://github.com/thingsboard/thingsboard
+- Self Managed Life — FOSS / Self-Hosting Guide / Video , 2 — https://wiki.futo.org/ | Video: https://youtu.be/Et5PPMYuOc8 | 2: https://youtu.be/3fW9TV1WQi8
+- r/SelfHosted Wiki — Self-Hosting Guides / Resources / Community — https://wiki.r-selfhosted.com/ | Reddit: https://www.reddit.com/r/selfhosted/ | GitHub: https://github.com/r-selfhosted/wiki
+- Server World — Network Server Guides — https://www.server-world.info/en/
+- HowtoForge — or Comfy.Guide - Linux Server Software Guides — https://www.howtoforge.com/ | GitHub: https://github.com/lollipopkit/flutter_server_box | Comfy.Guide: https://comfy.guide/
+- serverbox — , ⁠Termix / , EasyPanel , Webmin / , Cockpit Project , CasaOS / or 1Panel / - Linux Server Managers / Status — https://cdn.lpkt.cn/serverbox/ | ⁠Termix: https://github.com/Termix-SSH/Termix | Discord: https://discord.gg/jVQGdvHDrf | EasyPanel: https://easypanel.io/ | Webmin: https://webmin.com/ | GitHub: https://github.com/webmin/webmin | Cockpit Project: https://cockpit-project.org/ | CasaOS: https://casaos.zimaspace.com/ | GitHub: https://github.com/IceWhaleTech/CasaOS | 1Panel: https://1panel.pro/ | GitHub: https://github.com/1Panel-dev/1Panel
+- ⁠LXD UI — Linux Container + Virtual Machine Manager — https://github.com/canonical/lxd-ui
+- Proxmox — Self-Hosted Server Tools / Virtual Environment — https://www.proxmox.com/
+- yet another bench script — Server Performance Script — https://github.com/masonr/yet-another-bench-script
+- Docket-Jacket — Docker Jacket Container — https://github.com/linuxserver/docker-jackett
+- arch-delugevpn — Docker with Torrent client and VPN on Arch Linux base — https://github.com/binhex/arch-delugevpn
+- swizzin — Seedbox for Ubuntu / Debian — https://swizzin.ltd/
+- rtinst — Seedbox Installation Script for Ubuntu / Debian — https://github.com/arakasi72/rtinst
+- SeedSync — Sync your Seedbox — https://github.com/ipsingh06/seedsync
+- openmediavault — , SeaFile or Linux Server - Self-Hosted Cloud Storage — https://www.openmediavault.org/ | GitHub: https://github.com/openmediavault/openmediavault/ | SeaFile: https://www.seafile.com/en/home/ | Linux Server: https://github.com/ZizzyDizzyMC/linx-server/
+- Tube Archivist — Self-Hosted YouTube Media Server — https://www.tubearchivist.com/ | GitHub: https://github.com/tubearchivist/tubearchivist
+- ⁠ConvertX — or Transmute / - Self-Hosted File Converters — https://github.com/C4illin/ConvertX | Transmute: https://transmute.sh/ | GitHub: https://github.com/transmute-app/transmute
+- Whoogle Search — , omnisearch , SearXNG , 4get or ZincSearch / - Self-Hosted Search Engines — https://github.com/benbusby/whoogle-search | omnisearch: https://git.bwaaa.monster/omnisearch/about/ | SearXNG: https://docs.searxng.org/ | 4get: https://git.lolcat.ca/lolcat/4get | ZincSearch: https://zincsearch-docs.zinc.dev/ | GitHub: https://github.com/zincsearch/zincsearch
+- iRedMail — , Docker Mailserver , Stalwart / , UnInbox or Mail-in a Box - Self-Hosted Email Servers — https://www.iredmail.org/ | Docker Mailserver: https://docker-mailserver.github.io/docker-mailserver/edge/ | Stalwart: https://stalw.art/ | GitHub: https://github.com/stalwartlabs/stalwart | UnInbox: https://github.com/un/inbox | Mail-in a Box: https://mailinabox.email/
+
+### File Tools
+- Linux File Backup — File Backup App List — https://github.com/restic/others
+- Warpinator — , rQuickshare , Magic Wormhole , syncthing / Tray Support , portal , Zrok , Celeste / 2 / , Cattail or Sharing - File Sync / Transfer — https://github.com/linuxmint/warpinator | rQuickshare: https://github.com/Martichou/rquickshare | Magic Wormhole: https://github.com/magic-wormhole/magic-wormhole | syncthing: https://syncthing.net/ | Tray Support: https://martchus.github.io/syncthingtray/ | portal: https://github.com/SpatiumPortae/portal | Zrok: https://zrok.io/ | Celeste: https://flathub.org/apps/com.hunterwittenborn.Celeste | 2: https://snapcraft.io/celeste | GitHub: https://github.com/hwittenborn/celeste | Cattail: https://github.com/nerdyslacker/cattail | Sharing: https://github.com/parvardegr/sharing
+- lf — , ranger / Codeberg , ⁠broot / , nnn , clifm , fm , superfile , Joshuto - Terminal File Managers — https://github.com/gokcehan/lf | ranger: https://ranger.fm/ | Codeberg: https://codeberg.org/ranger/pages | ⁠broot: htttps://dystroy.org/broot | GitHub: https://github.com/Canop/broot | nnn: https://github.com/jarun/nnn | clifm: https://github.com/leo-arch/clifm | fm: https://github.com/mistakenelf/fm | superfile: https://github.com/yorukot/superfile | Joshuto: https://github.com/kamiyaa/joshuto
+- Baobab — , Filelight - Disk Usage Analyzers / GUI — https://gitlab.gnome.org/GNOME/baobab | Filelight: https://apps.kde.org/en-gb/filelight/
+- dut — , gdu , NCDU - Disk Usage Analyzers / CLI — https://codeberg.org/201984/dut | gdu: https://github.com/dundee/gdu | NCDU: https://dev.yorhel.nl/ncdu
+- ANGRYsearch — , gocatcli , xplr / / , logo-ls , ugrep / or Achoz - File Explorers / Search — https://github.com/DoTheEvo/ANGRYsearch | gocatcli: https://github.com/deadc0de6/gocatcli/ | xplr: https://xplr.dev/ | Discord: https://discord.com/invite/JmasSPCcz3 | GitHub: https://github.com/sayanarijit/xplr | logo-ls: https://github.com/Yash-Handa/logo-ls | ugrep: https://ugrep.com | GitHub: https://github.com/Genivia/ugrep | Achoz: https://github.com/kcubeterm/achoz
+- The Filesystem Hierarchy Standard — , 2 - Linux Filesystem Chart — https://i.imgur.com/0vfM4dm.png | 2: https://files.catbox.moe/2390ha.png
+- Dolphin — or SpaceFM - File Managers — https://userbase.kde.org/Dolphin | Source Code: https://invent.kde.org/system/dolphin | SpaceFM: https://ignorantguru.github.io/spacefm/
+- PeaZip — , pigz / , p7zip or GNU Gzip - File Archivers / Unzippers / Compression — https://peazip.github.io/ | GitHub: https://github.com/peazip/PeaZip/ | pigz: https://zlib.net/pigz/ | GitHub: https://github.com/madler/pigz | p7zip: https://p7zip.sourceforge.net/ | GNU Gzip: https://www.gnu.org/software/gzip/
+- Collector — File Drag & Drop — https://mijorus.it/projects/collector/
+- Zoxide — Improved CD Command — https://github.com/ajeetdsouza/zoxide
+- lnav — Log File Viewer / Analyzer — https://lnav.org/ | Discord: https://discord.gg/erBPnKwz7R | GitHub: https://github.com/tstack/lnav
+- Pika Backup — or RecoverPy - File Backup / Reocovery Tools — https://gitlab.gnome.org/World/pika-backup/ | RecoverPy: https://github.com/PabloLec/RecoverPy
+- fcp — Improved Linux File Copy — https://github.com/Svetlitski/fcp
+- Boxxy — Contain Files / Directories — https://github.com/queer/boxxy
+- Junction — Change File Associations — https://github.com/sonnyp/Junction
+- Krename — Bulk File / Folder Renaming — https://apps.kde.org/en-gb/krename/
+- FSLint — , kdiff3 or fclones - Duplicate File Finder — https://www.pixelbeat.org/fslint/ | kdiff3: https://apps.kde.org/en-gb/kdiff3/ | fclones: https://github.com/pkolaczk/fclones
+- xdg-ninja — Unwanted File Finder — https://github.com/b3nj5m1n/xdg-ninja
+- rcm — Manage Dotfiles — https://github.com/thoughtbot/rcm
+- PDF Mix — PDF Editor — https://scarpetta.eu/pdfmixtool/
+- gscan2pdf — Turn Documents into PDFs — https://gscan2pdf.sourceforge.net/
+
+### Android on Linux
+- Waydroid — Containerized Android on Linux / Scripts / Magisk Installer — https://waydro.id/ | Scripts: https://github.com/casualsnek/waydroid_script | Magisk Installer: https://github.com/mistrmochov/WaydroidSU | GitHub: https://github.com/waydroid
+- Redroid — or Docker-Android - Containerized Android on Linux — https://github.com/remote-android/redroid-doc | Docker-Android: https://github.com/budtmo/docker-android
+- Genymotion — Android Emulator — https://www.genymotion.com/
+- Android Studio — IDE with Built-in Android Emulator — https://developer.android.com/studio
+- Android-x86 — Android-Based OS for PC — https://www.android-x86.org/
+- adbfs-rootless — Mount Android on Linux via ADB — https://github.com/spion/adbfs-rootless
+
+### Terminal / Shell
+- Awesome Shell — , tldr / or AltBox - Linux Shell Resources — https://github.com/alebcay/awesome-shell | tldr: https://tldr.inbrowser.app/ | GitHub: https://github.com/tldr-pages/tldr | AltBox: https://altbox.dev/
+- Awesome TUIs — or TerminalTrove - TUI Indexes — https://github.com/rothgar/awesome-tuis | TerminalTrove: https://terminaltrove.com/
+- ⁠Awesome Terminal Recorder — Terminal Recorder Index — https://github.com/orangekame3/awesome-terminal-recorder
+- zsh — , bash , fish , Elvish , Es , PowerShell , Ion , Xonsh , Nushell or oils / - Command Line Shells — https://www.zsh.org/ | bash: https://www.gnu.org/software/bash/ | fish: https://fishshell.com/ | Elvish: https://elv.sh/ | Es: https://wryun.github.io/es-shell/ | PowerShell: https://github.com/powershell/powershell | Ion: https://gitlab.redox-os.org/redox-os/ion | Xonsh: https://xon.sh/ | Nushell: https://www.nushell.sh/ | oils: https://oils.pub/ | GitHub: https://github.com/oils-for-unix/oils
+- Plugins — zsh Tools - Plugins / Customization / Theme / Auto Setup / Rich Framework — https://github.com/unixorn/awesome-zsh-plugins | Customization: https://ohmyz.sh/ | Theme: https://github.com/romkatv/powerlevel10k | Auto Setup: https://github.com/gustavohellwig/gh-zsh | Rich Framework: https://github.com/sorin-ionescu/prezto
+- Alacritty — , Kitty , Wezterm / , tabby , foot , Simple Terminal , Wave , Ghostty , yakuake or emacs-eat - Linux Terminal Emulators — https://alacritty.org | Kitty: https://sw.kovidgoyal.net/kitty/overview/ | Wezterm: https://wezterm.org | GitHub: https://github.com/wezterm/wezterm | tabby: https://tabby.sh/ | foot: https://codeberg.org/dnkl/foot | Simple Terminal: https://st.suckless.org/ | Wave: https://www.waveterm.dev/ | Ghostty: https://ghostty.org/ | yakuake: https://apps.kde.org/yakuake/ | emacs-eat: https://codeberg.org/akib/emacs-eat
+- LinuxCommand — , Command Line Guide or ManKier - Command-Line Lessons — https://www.linuxcommand.org/tlcl.php | Command Line Guide: https://github.com/jlevy/the-art-of-command-line | ManKier: https://www.mankier.com/
+- Starship — or Liquidprompt - Bash / Zsh Prompt — https://starship.rs/ | Liquidprompt: https://github.com/liquidprompt/liquidprompt
+- utils — or UsefulLinuxShellScripts - Linux Shell Tool Scripts — https://github.com/Loupeznik/utils | UsefulLinuxShellScripts: https://github.com/jackrabbit335/UsefulLinuxShellScripts
+- Gum — Shell Script Creator — https://github.com/charmbracelet/gum
+- ShellCheck — Shell Script Bug Check — https://www.shellcheck.net/
+- ⁠ShellScript — or shell-scripting-tutorial - Shell Scripting Tutorials — https://www.shellscript.sh/ | shell-scripting-tutorial: https://github.com/techarkit/shell-scripting-tutorial
+- Bash Crawl — Linux Command Learning Game — https://gitlab.com/slackermedia/bashcrawl
+- bash_loading_animations — Bash Loading Animations — https://github.com/Silejonu/bash_loading_animations
+- bash-it — or Bashly - Bash Frameworks — https://github.com/Bash-it/bash-it | Bashly: https://bashly.dev/
+- zx — or dax - Write Complex Scripts — https://google.github.io/zx/ | dax: https://github.com/dsherret/dax
+- Basher — or bpkg - Bash Package Manager — https://www.basher.it/ | bpkg: https://bpkg.sh/
+- Distrobox — Use Distros via Terminal — https://distrobox.it/
+- explainshell.com — Match Command-Line Arguments to Help Text — https://explainshell.com/
+- Tmux — Terminal Multiplexer / Cheatsheet — https://github.com/tmux/tmux | Cheatsheet: https://tmuxcheatsheet.com/
+- Zellij — Terminal Workspace — https://zellij.dev/
+- atuin — Shell History Management — https://atuin.sh/ | GitHub: https://github.com/atuinsh/atuin
+- cbonsai — Generate Bonsai Trees in Terminal — https://gitlab.com/jallbrit/cbonsai
+- pipes.sh — or pipes-rs - Animated Pipes in Terminal — https://pipeseroni.github.io/ | pipes-rs: https://github.com/lhvy/pipes-rs
+
+### Raspberry Pi
+- Awesome Raspberry Pi — Raspberry Pi Tools / Resources — https://github.com/thibmaek/awesome-raspberry-pi
+- Pi-Apps — Raspberry Pi App Store — https://pi-apps.io/ | GitHub: https://github.com/Botspot/pi-apps
+- Pinn — Raspberry Pi OS Installer — https://github.com/procount/pinn
+- PiVPN — Raspberry Pi VPN — https://pivpn.io/ | GitHub: https://github.com/pivpn/pivpn
+- raspberrypiwireguard — Install WireGuard on Raspberry Pi — https://github.com/adrianmihalko/raspberrypiwireguard
+- Raspberry Pi Connect — Raspberry Pi Remote Access — https://www.raspberrypi.com/software/connect/
+- CaribouLite — Raspberry Pi Tx / Rx 6GHz SDR — https://github.com/cariboulabs/cariboulite
+- Piper — Raspberry Pi Text-To-Speech — https://github.com/OHF-Voice/piper1-gpl
+- Pinout — Raspberry Pi GPIO Pins Guide — https://pinout.xyz/
+
+## Customization
+
+- Awesome Ricing — , ⁠Awesome Linux Ricing or Pling - Linux Customization Resources — https://github.com/fosslife/awesome-ricing | ⁠Awesome Linux Ricing: https://github.com/avtzis/awesome-linux-ricing | Pling: https://www.pling.com/s/All-Linux/browse/
+- Elkowar's Wacky Widgets — , Aylur's GTK Shell or ⁠Quickshell - Widgeting Systems — https://elkowar.github.io/eww | Aylur's GTK Shell: https://github.com/Aylur/ags | ⁠Quickshell: https://quickshell.org/
+- unixporn — Customization Community — https://unixporn.github.io/ | Reddit: https://reddit.com/r/unixporn | Discord: https://discord.gg/unixporn
+- dotfiles — GitHub Dotfiles — https://dotfiles.github.io/
+- ⁠Chezmoi — Dotfile Managers — https://www.chezmoi.io/
+
+### Desktop Environment
+- Desktop Environment Comparison — https://eylenburg.github.io/de_comparison.htm
+- Extension Manager — GNOME Shell Extension Manager — https://mattjakeman.com/apps/extension-manager
+- Material Shell — or Forge - GNOME Tiling Extension — https://material-shell.com/ | Forge: https://github.com/forge-ext/forge
+- Pop!_OS Shell — Pop-Shell for GNOME — https://github.com/pop-os/shell
+- Guillotine — Execute Commands from a Customizable Menu / GNOME Extension — https://gitlab.com/ente76/guillotine/
+- Hardcode Tray — Hardcoded Tray Icon Fix — https://github.com/bilelmoussaoui/Hardcode-Tray
+
+### Window Managers
+- ⁠Awesome Wayland — Wayland Resources — https://github.com/rcalixte/awesome-wayland
+- ⁠Wayland.fyi — Lightweight Wayland Resources — https://wayland.fyi/
+- Window Manager Index — List of Window Managers — https://wiki.archlinux.org/title/Window_manager
+- Wayland Compositor Index — List of Wayland Compositors — https://wiki.archlinux.org/title/Wayland#Compositors
+- We Are Wayland Now — Wayland Ecosystem Components — https://wearewaylandnow.com/ | GitHub: https://github.com/gianklug/wearewaylandnow
+- i3wm — Manual Tiling Window Manager / Reference Card — https://i3wm.org | Reference Card: https://i3wm.org/docs/refcard.html
+- awesomewm — , xmonad , Qtile or dwm - Dynamic Tiling Window Managers — https://awesomewm.org | GitHub: https://github.com/awesomeWM/awesome | xmonad: https://xmonad.org | Qtile: https://qtile.org/ | dwm: https://dwm.suckless.org
+- Hyprland — Dynamic Tiling Wayland Compositor / Resources / Arch Wiki / Simple Config , 2 — https://hypr.land/ | Resources: https://github.com/hyprland-community/awesome-hyprland | Arch Wiki: https://wiki.archlinux.org/title/Hyprland | Simple Config: https://github.com/mylinuxforwork/dotfiles | 2: https://ii.clsty.link/en/
+- niri — Scrollable-Tiling Wayland Compositor — https://github.com/YaLTeR/niri
+- Sway — Arch Wiki or SwayFx - i3-compatible Wayland Compositors — https://github.com/swaywm/sway | Arch Wiki: https://wiki.archlinux.org/title/Sway | SwayFx: https://github.com/WillPower3309/swayfx
+- mangowm — Dynamic Tiling Wayland Compositor — https://mangowm.github.io/ | Discord: https://discord.gg/CPjbDxesh5 | GitHub: https://github.com/mangowm/mango
+- BSPWM — Hybrid Tiling Window Manager — https://github.com/baskerville/bspwm
+- herbstluftwm — Manual Tiling Window Manager — https://herbstluftwm.org
+- river — Wayland Compositor — https://github.com/riverwm/river/
+- LabWC — Wayland Compositor — https://github.com/labwc/labwc
+- wayfire — Wayland Compositor — https://github.com/WayfireWM/wayfire/
+- picom — Compositor for Standalone X11 Window Managers / Docs — https://github.com/yshui/picom | Docs: https://picom.app/
+- Polybar (X11) — Themes , Iron Bar (Wayland) or Waybar (Wayland) - Customizable Status Bars — https://github.com/polybar/polybar | Themes: https://github.com/adi1090x/polybar-themes | Iron Bar: https://github.com/JakeStanger/ironbar | Waybar: https://github.com/Alexays/Waybar
+
+### Linux Themes
+- xfce-look — XFCE Linux Themes — https://www.xfce-look.org/
+- Gnome-Look — GNOME Themes — https://www.gnome-look.org/
+- Hellwal — Color Palette Generator for Customization — https://github.com/danihek/hellwal
+- Themix — Linux Themes / GUI — https://github.com/themix-project/themix-gui
+- Kvantum — Linux QT / KDE Theme Engine — https://github.com/tsujan/Kvantum
+- ⁠nwg-look — GTK3 Settings Editor — https://github.com/nwg-piotr/nwg-look
+- Arc — Transparent Linux Theme — https://github.com/jnsh/arc-theme
+- Ant — Light Linux Theme — https://github.com/EliverLara/Ant
+- AeroThemePlasma — 2 or VistaThemePlasma - Windows 7 / Vista Themes for KDE Plasma — https://github.com/WackyIdeas/aerothemeplasma | 2: https://gitgud.io/wackyideas/aerothemeplasma | VistaThemePlasma: https://gitgud.io/catpswin56/vistathemeplasma/
+- XScreenSaver — Linux Screensavers — https://www.jwz.org/xscreensaver/
+- varietywalls — or HydraPaper - Wallpaper Managers — https://github.com/varietywalls/variety | HydraPaper: https://hydrapaper.gabmus.org/
+- Video Wallpaper — or Hidamari - Use Videos as Animated Wallpapers — https://github.com/ghostlexly/gpu-video-wallpaper | Hidamari: https://github.com/jeffshee/hidamari
+- ⁠tint — Recolor Wallpapers for System Scheme / GUI — https://github.com/ashish0kumar/tint | GUI: https://github.com/lighttigerXIV/catppuccinifier
+- Polychromatic — or OpenRazer - Linux System Light Control — https://polychromatic.app/ | OpenRazer: https://openrazer.github.io/
+- Burn My Windows — Window Closing Effects — https://github.com/Schneegans/Burn-My-Windows
+- theme.sh — , NotCurses / Wiki or Shell Color Scripts / 2 - Custom Terminal Themes — https://github.com/lemnos/theme.sh | NotCurses: https://github.com/dankamongmen/notcurses | Wiki: https://nick-black.com/dankwiki/index.php/Notcurses | Shell Color Scripts: https://gitlab.com/dwt1/shell-color-scripts | 2: https://github.com/stark/Color-Scripts
+
+## Mac Apps
+
+- Multi-Platform Readers — ️ Multi-Platform Readers - Ebook Reader Index — /reading/#ebook-readers
+- Office Suites — ️ Office Suites — /text-tools/#office-suites
+- gibMacOS — or Mist - Download macOS — https://github.com/corpnewt/gibMacOS | Mist: https://github.com/ninxsoft/Mist
+- NearDrop — or maestral - File Sharing Apps — https://github.com/grishka/NearDrop | maestral: https://maestral.app/
+- shottr — or ⁠Better Shot / - Screenshot Tools — https://shottr.cc/ | ⁠Better Shot: https://www.bettershot.site/ | GitHub: https://github.com/KartikLabhshetwar/better-shot
+- Aptonic — Drag-and-Drop Shelf / Quick File Access — https://aptonic.com/
+- Ghostty — GPU-Accelerated Terminal Emulator — https://ghostty.org/ | GitHub: https://github.com/ghostty-org/ghostty
+- Ice Cubes — Mastodon Client — https://apps.apple.com/us/app/ice-cubes-for-mastodon/id6444915884 | GitHub: https://github.com/Dimillian/IceCubesApp
+- Sky.app — Bluesky Client — https://github.com/jcsalterego/Sky.app
+- Beta Profiles — Download Pre-Release Versions macOS — https://betaprofiles.com/
+- CloverBootloader — Config , Boot Camp / DL Script or OpenCore / Config / Guide - Bootloaders — https://github.com/CloverHackyColor/CloverBootloader/ | Config: https://mackie100projects.altervista.org/ | Boot Camp: https://support.apple.com/boot-camp | DL Script: https://github.com/timsutton/brigadier | OpenCore: https://github.com/acidanthera/OpenCorePkg | Config: https://mackie100projects.altervista.org/opencore-configurator/ | Guide: https://dortania.github.io/OpenCore-Install-Guide/
+- rEFind — Boot Manager — https://www.rodsbooks.com/refind/
+- Tart — Virtual Machine Manager — https://tart.run/ | GitHub: https://github.com/cirruslabs/tart
+- UTM — , LimaVM or VMware - Virtual Machines / Run Linux or Windows on macOS — https://mac.getutm.app/ | LimaVM: https://lima-vm.io/ | VMware: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+- VirtualBuddy — Virtualize macOS 12 and later on Apple Silicon — https://github.com/insidegui/VirtualBuddy
+- Docker OSX — Mac VM in Docker — https://github.com/sickcodes/Docker-OSX
+- Linux for T2 — Install Linux on Apple T2 Devices — https://t2linux.org/ | GitHub: https://github.com/t2linux
+- CrossOver — (search) - Run Windows on Mac — /linux-macos/#software-sites-1
+- PortingKit — or PlayOnMac - Run Windows Games / Programs on Mac — https://www.portingkit.com/ | PlayOnMac: https://www.playonmac.com/en/
+- PlayCover — Run iOS Apps on Apple Silicon Macs — https://playcover.io/ | GitHub: https://github.com/PlayCover/PlayCover
+- SwiftUI Win11 — Windows 11 Desktop Client for macOS — https://jinxiansen.github.io/Windows11/
+- OrbStack — Docker Client — https://orbstack.dev/
+- Bookshelf — Book Tracker — https://apps.apple.com/us/app/bookshelf-reading-tracker/id1469372414
+- Kexts — UEFI Kexts — https://www.tonymacx86.com/resources/categories/kexts.11/
+- Adobe Downloader — Adobe Product Downloader — https://github.com/X1a0He/Adobe-Downloader/blob/main/readme-en.md
+- ss64 macOS — macOS Bash Commands — https://ss64.com/mac/
+- Left on Read — iMessage Client — https://leftonread.me/
+- MacBing — , LlamaChat , ⁠Atomic Chat or Mollama - AI Chatbots — https://goodsnooze.gumroad.com/l/macbing | LlamaChat: https://www.llamachat.app/ | ⁠Atomic Chat: https://atomic.chat/ | Mollama: https://apps.apple.com/app/mollama/id6736948278
+- CodexBar — Menu Bar AI Limit Tracker — https://codexbar.app/ | GitHub: https://github.com/steipete/CodexBar
+- ViennaRSS — RSS Feed Reader — https://www.vienna-rss.com/
+- Tachidesk-Sorayomi — Manga Reader / Extensions , 2 , 3 — https://github.com/Suwayomi/Tachidesk-Sorayomi | Extensions: https://keiyoushi.github.io/extensions/ | 2: https://discord.gg/3FbCpdKbdY | 3: https://yuzono.github.io/
+- Dialect — Translator — https://github.com/dialect-app/dialect
+- Drafts — , CotEditor , TextMate , Nebo , Strflow , ⁠NotesPlus , Kyun , Notenik or Voodoopad - Text Editors / Notes — https://getdrafts.com/ | CotEditor: https://coteditor.com/ | TextMate: https://macromates.com/ | Nebo: https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770 | Strflow: https://strflow.app/ | ⁠NotesPlus: https://www.notesplus.com/ | Kyun: https://github.com/lennart-finke/kyun | Notenik: https://notenik.app/ | Voodoopad: https://www.voodoopad.com/
+- Clearly — Markdown Editor — https://clearly.md/ | GitHub: https://github.com/Shpigford/clearly
+- ⁠TypeWhisper — Text to Speech — https://www.typewhisper.com/en/ | Discord: https://discord.gg/pUFR4a65SD | GitHub: https://github.com/TypeWhisper
+- Agenda — Date-Focused Note Organizer / Forum — https://agenda.com/ | Forum: https://agenda.community/
+- Taskpaper — Plain Text To-Do Lists — https://www.taskpaper.com/
+- BibDesk — Bibliography Manager — https://bibdesk.sourceforge.io/
+- Hammerspoon — or Bunch - Desktop Automation via Lua Scripts — https://www.hammerspoon.org/ | Bunch: https://bunchapp.co/
+- MacScripter — Automation Forum — https://www.macscripter.net/
+- pongoOS — Mac Pre-Boot Executor — https://github.com/checkra1n/pongoOS
+- Later — Restore App Sessions — https://getlater.app/ | GitHub: https://github.com/alyssaxuu/later
+- MacVim — , CodeEdit , AuroraEditor or OpenCode - Code Editors — https://macvim.org/ | CodeEdit: https://www.codeedit.app/ | AuroraEditor: https://auroraeditor.com/ | OpenCode: https://opencode.ai/
+- SD Buddy — , CHARL-E or Swift Core ML Diffusers - Stable Diffusion Apps — https://github.com/breadthe/sd-buddy | CHARL-E: https://www.charl-e.com/ | Swift Core ML Diffusers: https://github.com/huggingface/swift-coreml-diffusers
+- ColorSlurp — or Material-Colors-native - Color Picker — https://colorslurp.com/ | Material-Colors-native: https://github.com/BafS/Material-Colors-native
+- Use Contrast — Check Color Contrast Ratios — https://usecontrast.com/
+- Sim Daltoinism — Color Blindness Simulator — https://michelf.ca/projects/sim-daltonism/
+- AnimeBox — Booru Client — https://www.animebox.es/
+- Hachidori — Automatically Update MAL / Anilist / Kitsu Lists — https://malupdaterosx.moe/hachidori/
+- Magit! — Git Text-Based UI — https://magit.vc/
+- ProperTree — GUI Plist Editor — https://github.com/corpnewt/ProperTree
+- NHCalc — Compute Image NeuralHash — https://github.com/KhaosT/nhcalc
+- Does It Arm? — Apple Silicon App Compatibility Chart — https://doesitarm.com/
+- SelfControlApp — Website Blocker — https://selfcontrolapp.com/
+- Typist — Typing Practice — https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12
+- Comet — Reddit Client — https://apps.apple.com/us/app/comet-for-reddit/id1146204813
+- Sink It — Improved Reddit Comment Navigation — https://apps.apple.com/us/app/sink-it-for-reddit/id6449873635
+- Grayscale Mode — Grayscale Control — https://github.com/rkbhochalya/grayscale-mode
+- macOSicons — macOS App Icons — https://macosicons.com/
+- equinux — OS X Certificate Fix — https://equinux.github.io/
+- Lilu — Kext / Process Patcher — https://github.com/acidanthera/Lilu
+- TopNotch — Hide the Notch on MacBooks — https://topnotch.app/
+
+### Software Sites
+- Awesome macOS — , OpenSourceApple , Awesome Mac or Awesome OS Apps - FOSS App Indexes — https://github.com/iCHAIT/awesome-macOS | OpenSourceApple: https://opensource.apple.com/ | Awesome Mac: https://github.com/jaywcjlove/awesome-mac | Awesome OS Apps: https://github.com/serhii-londar/open-source-mac-os-apps
+- Mac Menu Bar — Menu Bar App Index — https://macmenubar.com/
+- Homebrew — , Munki , MacApps or Applite - Package Managers / Homebrew GUI — https://brew.sh/ | Munki: https://www.munki.org/munki/ | MacApps: https://macapps.link/en/ | Applite: https://aerolite.dev/applite | Homebrew GUI: https://github.com/buresdv/Cork/
+- AppsTorrent — Downloads (not torrents) — https://appstorrent.ru/
+- nMac — https://nmac.to/
+- MacBB — https://macbb.org/
+- Antibiotic's — https://t.me/AntibioticsChannel
+- MacKed — https://macked.app/
+- TorrentMac — Use Adblock — https://www.torrentmac.net/
+- Macintosh Garden — Oldschool Software — https://macintoshgarden.org/
+- MacintoshRepository — Oldschool Software — https://www.macintoshrepository.org/
+- ⁠OldAppleStuff — Oldschool Software + Apple II Software — https://oldapplestuff.com/
+- ThriftMac — Freeware — https://thriftmac.com/
+- Sindre Sorhus — Freeware — https://sindresorhus.com/apps/free
+- Latest — Software Updater — https://github.com/mangerlahn/latest
+
+### Mac Video
+- Editing Software — ️ Editing Software — https://rentry.co/FMHYB64#quick-guide
+- IINA — Video Player — https://iina.io/
+- Fusion — Streaming App w / Stremio Addon Support — https://fusionapp.dev/ | Discord: https://discord.gg/frkaK2B2Y9
+- Hayase — Anime Torrent Streaming App / Extensions / Wiki — https://hayase.watch/ | Extensions: https://rentry.co/FMHYB64#hayase | Wiki: https://wiki.hayase.watch/
+- AnymeX — Anime Streaming App / Extension Guide — https://anymex.vercel.app/ | Extension Guide: https://wotaku.wiki/guides/ext/mangayomi | Discord: https://discord.gg/hDwQ3heJ8V | GitHub: https://github.com/RyanYuuki/AnymeX
+- ⁠Unwatched — or Yattee - YouTube Players — https://apps.apple.com/app/unwatched-para-youtube/id6477287463 | Yattee: https://github.com/yattee/yattee
+- REAL Video Enhancer — Video Upscaling — https://github.com/TNTwise/REAL-Video-Enhancer
+- Cap — , Kap or ScreenTimeLapse - Screen Recorders / Cap GitHub — https://cap.so/ | Kap: https://getkap.co | ScreenTimeLapse: https://github.com/wkaisertexas/ScreenTimeLapse | Cap GitHub: https://github.com/CapSoftware/Cap
+- ⁠LonelyScreen — AirPlay Receiver for PC / macOS — https://www.lonelyscreen.com/
+
+### Mac Audio
+- SpotX-Bash — Spotify Adblockers — https://github.com/SpotX-Official/SpotX-Bash
+- Spicetify — Spotify Themes & Plugins / Improved Lyrics — https://spicetify.app/ | Improved Lyrics: https://spicylyrics.org/ | Discord: https://discord.gg/VnevqPp2Rr | GitHub: https://github.com/spicetify/cli
+- foobar2000 — or VOX Mac Music Player - Audio Players — https://www.foobar2000.org/mac | VOX Mac Music Player: https://vox.rocks/mac-music-player
+- cliamp — TUI Audio Player — https://www.cliamp.stream/ | GitHub: https://github.com/bjarneo/cliamp
+- Silicio — Audio Mini Player — https://apps.apple.com/us/app/silicio-mini-player/id933627574
+- Alfred Spotify Mini Player — Spotify Mini Player — https://alfred-spotify-mini-player.com/
+- Sonosano — Self-Hosted P2P Lossless Music Player — https://github.com/KRSHH/Sonosano
+- SoundSeer — Spotify in Menu Bar — https://github.com/jonathangarelick/SoundSeer
+- TheBoringNotch — Turn Notch into Audio Controller / Calendar — https://theboring.name/ | Discord: https://discord.gg/GvYcYpAKTu | GitHub: https://github.com/TheBoredTeam/boring.notch/
+- ⁠Kaset — YouTube Music Client — https://github.com/sozercan/kaset/
+- Nuage — Soundcloud Client — https://github.com/lbrndnr/nuage-macos
+- Garageband — Audio Editor — https://apps.apple.com/us/app/garageband/id682658836?mt=12
+- EQMac — Audio Equalizer — https://eqmac.app/
+- The Levelator — Automatic Audio Level Adjustments — https://archive.org/details/conversationsnetwork_org-levelator
+- Guitarix — Virtual Guitar Amplifier / Plugins — https://guitarix.org/ | Plugins: https://github.com/brummer10/GxPlugins.lv2
+- XLD — Lossless Audio Transcoder — https://sourceforge.net/projects/xld/
+- BlackHole — Pass Audio to Apps — https://github.com/ExistentialAudio/BlackHole
+- Cuterdio — Radio — https://cuterdio.com/en
+- Playlisty — Transfer Apple Music Playlists to Spotify — https://apps.apple.com/us/app/playlisty-the-playlist-tool/id1459275972
+
+### Mac Image
+- Editing Software — ️ Editing Software — https://rentry.co/FMHYB64#quick-guide
+- Gifski — Image to GIF Converter — https://sindresorhus.com/gifski | GitHub: https://github.com/sindresorhus/Gifski
+- Darkroom — Image / Video Editor — https://apps.apple.com/us/app/darkroom-photo-video-editor/id953286746
+- SeaShore — Image Editor — https://sourceforge.net/projects/seashore/
+- ImageOptim — Image Optimization — https://imageoptim.com/mac
+- Perspec — Correct Perspective of Images — https://github.com/ad-si/Perspec
+- Draw Things — AI Image Drawing Tool — https://apps.apple.com/us/app/draw-things-ai-generation/id6444050820
+
+### Mac Gaming
+- Torrminatorr — Mac Games / Requires Sign-Up — https://forum.torrminatorr.com/
+- AppsTorrent — Mac Games / Downloads (not torrents) — https://appstorrent.ru/games/
+- AppleGamingWiki — or Mac Gaming DB - Mac Game Fixes / Compatibility — https://applegamingwiki.com/ | Mac Gaming DB: https://macgamingdb.app/ | Discord: https://discord.gg/28CAAr6SpB
+- CS.RIN.RU — , 2 - Mac Games / Signup / PW: cs.rin.ru / csrin.org — https://cs.rin.ru/forum | 2: https://csrin.org/ | .onion: http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum
+- SCNLOG — Mac Games — https://scnlog.me/games/mac/
+- RuTracker — Mac Games / Tools — https://rutracker.org/forum/viewforum.php?f=960 | Tools: /torrenting/#torrent-sites
+- MacintoshRepository — Oldschool Mac Games — https://www.macintoshrepository.org/games/
+- Mac Source Ports — Run Old Mac Games — https://www.macsourceports.com/
+- Heroic Games Launcher — Epic / GOG / Prime Games Launcher — https://heroicgameslauncher.com/ | Discord: https://discord.com/invite/rHJ2uqdquK | GitHub: https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher
+- Mythic — Epic Games Launcher — https://getmythic.app/ | Discord: https://discord.gg/58NZ7fFqPy
+- NASOS — Gamecube iso.dec to ISO Converter — https://archive.org/download/nNASOS1.8/nNASOS1.8.zip
+- r/MacGaming — Mac Gaming Community — https://www.reddit.com/r/macgaming/ | Discord: https://discord.gg/MgJsb5m
+- cemu.emiyl — CEMU Compatibility List — https://cemu.emiyl.com/
+
+## Mac Tools
+
+### Mac Adblock / Privacy
+- Awesome OSX Security — Mac Security Resources — https://github.com/ashishb/osx-and-ios-security-awesome
+- Mac 2FA — ️ Mac 2FA — /privacy/#password-privacy-2fa
+- DNS Adblocking — ️ DNS Adblocking — /privacy/#dns-adblocking
+- Malwarebytes — , ESET , BlockBlock or KnockKnock - Antivirus — https://www.malwarebytes.com/mac-download | ESET: https://rentry.co/FMHYB64#eset | BlockBlock: https://objective-see.org/products/blockblock.html | KnockKnock: https://objective-see.org/products/knockknock.html
+- ⁠uBO Lite Safari — , AdGuard Mini / Guide , wBlock / or Stay - Safari Adblockers — https://apps.apple.com/app/ublock-origin-lite/id6745342698 | AdGuard Mini: https://adguard.com/en/adguard-safari/overview.html | Guide: https://avieshek.wordpress.com/2024/07/07/how-to-filter-ads-and-block-popups-on-iphone-and-macos/ | wBlock: https://apps.apple.com/app/wblock/id6746388723 | GitHub: https://github.com/0xCUB3/wBlock | Stay: https://apps.apple.com/app/stay-for-safari/id1591620171
+- 1Blocker — DNS Adblocker — https://1blocker.com/
+- Lockdown Privacy — Block Trackers / Ads — https://lockdownprivacy.com/
+- Gas Mask — Block Ads via Host Files — https://github.com/2ndalpha/gasmask
+- macOS Privacy Guide — Mac Privacy & Security Guides — https://github.com/drduh/macOS-Security-and-Privacy-Guide
+- ⁠ClashMac — Proxy Client — https://github.com/666OS/ClashMac
+- DNS Party — Encrypted DNS Profiles — https://encrypted-dns.party/
+- MuMuPlayer — Android Emulator — https://www.mumuplayer.com/
+- LuLu — Mac Firewall — https://objective-see.org/products/lulu.html
+- RansomWhere? — Ransomware Blocker — https://objective-see.org/products/ransomwhere.html
+- OverSight — Webcam / Mic Monitor — https://objective-see.org/products/oversight.html
+- SuspiciousPackage — Analyze PKG Files — https://www.mothersruin.com/software/SuspiciousPackage/get.html
+- Santa — Binary Authorization System — https://github.com/northpolesec/santa
+- DHS — Dylib Hijack Scanner — https://objective-see.org/products/dhs.html
+- GPG Suite — Encrypt & Sign Data / Communications — https://gpgtools.org/
+- What's Your Sign? — View File Cryptographic Signatures — https://objective-see.org/products/whatsyoursign.html
+- Tracker Zapper — Remove URL Tracking Elements — https://rknight.me/apps/tracker-zapper/
+- LinkLiar — Spoof MAC Address — https://halo.github.io/LinkLiar/
+- Kextviewr — View All Kernel Modules — https://objective-see.org/products/kextviewr.html
+- mac_apt — Artifact Parsing Tool — https://github.com/ydkhatri/mac_apt
+- OpenVPN — or Passepartout - VPN Tunnel — https://tunnelblick.net/ | Passepartout: https://passepartoutvpn.app/
+- MailTrackerBlocker — Privacy-Based Email Client — https://apparition47.github.io/MailTrackerBlocker/
+- Status — Encrypted Messaging Client — https://status.app/
+
+### Mac Internet
+- Mac Torrent Clients — ️ Mac Torrent Clients — /torrenting/#torrent-clients
+- KeePassXC — (local) / Guide / Resources or Strongbox - Password Managers — https://keepassxc.org/download/#macos | Guide: https://keepassxc.org/docs/KeePassXC_GettingStarted | Resources: https://github.com/lgg/awesome-keepass | Strongbox: https://strongboxsafe.com/
+- What Route — Network Diagnostic Tool — https://whatroute.net/
+- ElectronMail — Email Client — https://github.com/vladimiry/ElectronMail
+- Browserino — Browser Prompter — https://github.com/AlexStrNik/Browserino
+- Orion — Browser with Chrome + Firefox Extension Support — https://kagi.com/orion/ | Discord: https://discord.gg/Yk8Aj8AxGw
+
+### System Tools
+- AppleDB — Apple Device / Software Info Database — https://appledb.dev/
+- Mac Menu Bar — Menu Bar App Directory — https://macmenubar.com/
+- Alfred — , Raycast , Albert , Quicksilver , KeyboardCowboy or SOL - Keystroke Launchers / Spotlight Replacements / Alfred Workflows / Themes / Albert GitHub — https://www.alfredapp.com/ | Raycast: https://www.raycast.com/ | Albert: https://albertlauncher.github.io/ | Quicksilver: https://qsapp.com/ | KeyboardCowboy: https://github.com/zenangst/KeyboardCowboy | SOL: https://sol.ospfranco.com/ | Alfred Workflows / Themes: https://www.packal.org/ | Albert GitHub: https://github.com/albertlauncher/albert
+- CustomShortcuts — , Karabiner-Elements or ShortcutKeeper - Custom Keyboard Shortcuts — https://www.houdah.com/customShortcuts/ | Karabiner-Elements: https://karabiner-elements.pqrs.org/ | ShortcutKeeper: https://shortcutkeeper.com/
+- alt-tab-macos — Windows-Style Alt-Tab for Mac — https://alt-tab-macos.netlify.app/
+- NoxPlayer — or Genymotion - Android on macOS — https://www.bignox.com/ | Genymotion: https://www.genymotion.com/download/
+- Advanced macOS Commands — Advanced Command-Line Tools — https://saurabhs.org/advanced-macos-commands
+- Conky — , eul , Stats / , Mission Center or MacFetch - Hardware / System Monitors / Conky Colors — https://conky.cc | eul: https://github.com/gao-sun/eul | Stats: https://mac-stats.com/ | GitHub: https://github.com/exelban/stats | Mission Center: https://gitlab.com/mission-center-devs/mission-center | MacFetch: https://github.com/gantoreno/macfetch | Conky Colors: https://github.com/helmuthdu/conky_colors
+- Hot — CPU Monitor — https://github.com/macmade/hot
+- TaskExplorer — Task Manager / Viewer — https://objective-see.org/products/taskexplorer.html
+- Mole — System Cleanup / Optimization Multi-Tool — https://github.com/tw93/Mole
+- Pearcleaner — System Cleanup / Uninstaller — https://itsalin.com/appInfo/?id=pearcleaner | GitHub: https://github.com/alienator88/Pearcleaner
+- BetterDisplay — Display Controller / Custom Resolutions / HDR Control — https://github.com/waydabber/BetterDisplay
+- DisplayPlacer — Dual Monitor Manager — https://github.com/jakehilborn/displayplacer
+- KeyPad — Connect Mac Keyboard to Mobile Devices — https://apps.apple.com/in/app/keypad-bluetooth-keyboard/id1491684442
+- LinearMouse — or MacMouseFix - Mouse Remapping — https://linearmouse.app/ | MacMouseFix: https://macmousefix.com/
+- Pinch — Trackpad Pinch to Zoom Gesture — https://github.com/danqing/Pinch
+- MiddleClick — Middle / Scroll Click via 3 Finger Tap — https://github.com/artginzburg/MiddleClick
+- Scroll Reverser — Per-Device Scroll Settings — https://pilotmoon.com/scrollreverser/
+- KeyClu — Shortcut CheatSheet for Current Application — https://sergii.tatarenkov.name/keyclu/support/
+- KeyCastr — Keystroke Visualizer — https://github.com/keycastr/keycastr
+- ⁠FineTune — Volume Mixer / Per App Volume Control / Routing / EQ / Booster — https://github.com/ronitsingh10/FineTune
+- MonitorControl — External Monitor Brightness / Volume Control — https://monitorcontrol.app/
+- BackgroundMusic — Volume Mixer / Auto-Pause — https://github.com/kyleneideck/BackgroundMusic
+- MacThrottle — Menu Bar Thermal Throttling Tracker — https://github.com/angristan/MacThrottle
+- AlDente — Charging Manager — https://apphousekitchen.com/
+- BatteryBuddy — Cute Battery Indicator — https://batterybuddy.app/
+- AirBattery — or CoconutBattery - Device Battery Trackers — https://github.com/lihaoyun6/AirBattery | CoconutBattery: https://www.coconut-flavour.com/coconutbattery/
+- Macs Fan Control — Fan Controller — https://github.com/crystalidea/macs-fan-control
+- WhatCable — Cable Capability Identifier — https://whatcable.uk/ | GitHub: https://github.com/darrylmorley/whatcable
+- Touché — Touch Bar Simulator — https://redsweater.com/touche/
+- Sentinel — SwiftUI Gatekeeper Config GUI — https://github.com/alienator88/Sentinel
+- ⁠Nigate — NTFS Drive Read-Write Access + Mounting Tool — https://github.com/hoochanlon/Free-NTFS-for-Mac
+- USBMap — Map macOS USB Ports — https://github.com/corpnewt/USBMap
+- Actions — Additional Shortcuts App Actions — https://sindresorhus.com/actions
+- pock — Touch Bar Widget Manager — https://pock.app/ | GitHub: https://github.com/pock/pock
+- Übersicht — System Command Widgets — https://tracesof.net/uebersicht/
+- Itsycal — Menu Bar Calendar — https://www.mowglii.com/itsycal/
+- Clocker — or MeetingBar - Menu Bar Meetings Calendars — https://abhishekbanthia.com/clocker/ | MeetingBar: https://meetingbar.app/
+- xbar — Manage Menu Bar Items — https://xbarapp.com/ | GitHub: https://github.com/matryer/xbar
+- MacLaunch — Manage Startup Items — https://github.com/hazcod/maclaunch
+- ⁠Thaw — Menu Bar Manager — https://github.com/stonerl/Thaw
+- OnlySwitch — Menu Bar Toggle Switches — https://github.com/jacklandrin/OnlySwitch
+- Sloth — Process Manager — https://github.com/sveinbjornt/Sloth
+- Amphetamine — Prevent Sleep Mode / Highly Configurable — https://apps.apple.com/app/amphetamine/id937984704
+- KeepingYouAwake — Prevent Sleep Mode / Lightweight — https://github.com/newmarcel/KeepingYouAwake
+- Yabai — , Amethyst / , AeroSpace , 1Piece , Loop , Phoenix or Rectangle - Window Managers — https://github.com/koekeishiya/yabai | Amethyst: https://ianyh.com/amethyst/ | GitHub: https://github.com/ianyh/Amethyst | AeroSpace: https://github.com/nikitabobko/AeroSpace | 1Piece: https://app1piece.com/ | Loop: https://github.com/MrKai77/Loop | Phoenix: https://kasper.github.io/phoenix/ | Rectangle: https://rectangleapp.com/
+- Maccy — , ClipBook , ClipPocket or clipboard-history - Clipboard Managers — https://maccy.app/ | ClipBook: https://clipbook.app/ | ClipPocket: https://github.com/dhahd/ClipPocket | clipboard-history: https://github.com/SUPERCILEX/clipboard-history
+- Pictogram — , IconSet , macOSicons / or IconChamp - Custom App Icons — https://pictogramapp.com/ | IconSet: https://github.com/tale/iconset | macOSicons: https://macosicons.com/ | Discord: https://discord.gg/f4mTRyyTkT | IconChamp: https://www.macenhance.com/iconchamp.html
+- Tintd — or Manila - Change Folder Colors — https://www.tintd.app/ | Manila: https://github.com/neilsardesai/Manila
+- MacPaper — Mac Wallpaper Manager — https://github.com/naomisphere/macpaper/
+- Dynamic Wallpaper Club — Dynamic Wallpaper App — https://dynamicwallpaper.club/
+- wallpapper — or Equinox - Dynamic Wallpaper Creators — https://github.com/mczachurski/wallpapper | Equinox: https://equinoxmac.com/
+- Plash — Use Website as Wallpaper — https://sindresorhus.com/plash
+- 100 macOS Screensavers — Minimalist Screensavers — https://github.com/bjdehang/100-macos-screensavers
+- DarkModeBuddy — or ThemeKit - System Dark Mode Apps — https://github.com/insidegui/DarkModeBuddy | ThemeKit: https://github.com/luckymarmot/ThemeKit
+- Magic Trace — Performance Analysis with Intel PT — https://github.com/janestreet/magic-trace
+
+### File Tools
+- PeaZip — , The Unarchiver , unxip or Keka - File Archivers — https://peazip.github.io/peazip-macos.html | GitHub: https://github.com/peazip/PeaZip/ | The Unarchiver: https://theunarchiver.com/ | unxip: https://github.com/saagarjha/unxip | Keka: https://www.keka.io/
+- Readdle — Multipurpose File Tool — https://readdle.com/documents
+- OpenMTP — Mac / Android File Transfer — https://openmtp.ganeshrvel.com/ | GitHub: https://github.com/ganeshrvel/openmtp
+- Progress — Show Copied Data Progress — https://github.com/Xfennec/progress
+- Bruji — Media Cataloging Software Suite — https://www.bruji.com/
+- superfile — Terminal File Manager — https://superfile.netlify.app/ | GitHub: https://github.com/yorukot/superfile
+- macFUSE — Mac File Integration — https://macfuse.github.io/ | GitHub: https://github.com/macfuse/macfuse
+- JDownloader — File Download Manager / Debloat / Dark Theme , 2 / Dracula Theme — https://jdownloader.org/jdownloader2 | Debloat: https://claraiscute.neocities.org/Guides/jdownloader2/ | Dark Theme: https://redd.it/q3xrgj | 2: https://github.com/moktavizen/material-darker-jdownloader/ | Dracula Theme: https://draculatheme.com/jdownloader2
+- Go Speed — File Download Manager / Extension / Plugins — https://gopeed.com/ | Extension: https://github.com/GopeedLab/browser-extension | Plugins: https://github.com/search?q=topic%3Agopeed-extension&type=repositories | GitHub: https://github.com/GopeedLab/gopeed
+- Progressive Downloader — File Download Manager — https://macpsd.net/
+- Transnomino — or Riffo - Bulk File / Folder Renaming — https://www.transnomino.com/ | Riffo: https://riffo.ai/rename
+- fzf — , ⁠Television or skim - Fuzzy Finders — https://github.com/junegunn/fzf | ⁠Television: https://github.com/alexpasmantier/television | skim: https://github.com/skim-rs/skim
+- FlyingCarpet — Cross-Platform AirDrop / Guide — https://github.com/spieglt/FlyingCarpet | Guide: https://redd.it/vthltc
+
+## Unix-Like
+
+- Awesome-ttygames — Unix ASCII Games — https://github.com/ligurio/awesome-ttygames
+- Awesome BSD — BSD Resources — https://github.com/DiscoverBSD/awesome-bsd
+- Hardware for BSD — BSD Hardware Compatibility Database — https://bsd-hardware.info/ | GitHub: https://github.com/bsdhw/
+- UnitedBSD — BSD Forum / Community — https://www.unitedbsd.com/
+- FreeBSD Wiki — FreeBSD Wiki / Guides / Docs — https://wiki.freebsd.org/ | Docs: https://docs.freebsd.org/en/books/handbook/
+- Pkgs — or Repology - Searchable Unix-Like Package Database — https://pkgs.org/ | Repology: https://repology.org/
+- GameShell — Unix Shell Learning Game — https://github.com/phyver/GameShell
+- Modern Unix — Unix Shells — https://github.com/ibraheemdev/modern-unix
+- wpgtk — Fully Customizable Unix Color Schemer — https://deviantfero.github.io/wpgtk
+- Plan9Port — Unix Port for Plan9 Libraries + Programs — https://9fans.github.io/plan9port/ | GitHub: https://github.com/9fans/plan9port
+- ⁠Is OpenBSD Secure? — Learn About OpenBSD Security Flaws — https://isopenbsdsecu.re/

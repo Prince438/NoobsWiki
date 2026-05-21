@@ -1,0 +1,390 @@
+FMHY Privacy Library
+Source: https://fmhy.net/privacy
+
+Scraped from the FMHY privacy page and expanded with additional high-value resources.
+
+## Adblocking
+### General
+- uBlock Origin — browser blocker and filter engine — https://github.com/gorhill/uBlock
+- AdGuard — browser ad/tracker blocker — https://github.com/AdguardTeam/AdguardBrowserExtension
+- uBO Lite — lighter uBlock variant — https://github.com/uBlockOrigin/uBOL-home
+- Redundant Extensions — guidance on unnecessary add-ons — https://github.com/arkenfox/user.js/wiki/4.1-Extensions/#-dont-bother
+- uAssets — uBlock rule issues and filter discussions — https://github.com/uBlockOrigin/uAssets/issues
+- Hosts — host-list discussion and resources — https://github.com/uBlockOrigin/uAssets/discussions/27472
+- AdNauseam — ad blocker that clicks ads to poison tracking profiles — https://adnauseam.io/
+- Privacy Badger — EFF tracker blocker — https://privacybadger.org/
+- uBlacklist — blocks unwanted search-result domains — https://github.com/iorate/ublacklist
+- Ghostery — privacy extension and tracker blocker — https://www.ghostery.com/
+
+### Adblock Filters
+- FilterLists — directory of filter and host lists — https://filterlists.com/
+- LegitimateURLShortener — query-parameter cleaning rules — https://raw.githubusercontent.com/DandelionSprout/adfilt/refs/heads/master/LegitimateURLShortener.txt
+- Hagezi Blocklists — blocklist collection — https://github.com/hagezi/dns-blocklists
+- FMHY Filterlist — unsafe sites filter — https://github.com/fmhy/FMHYFilterlist
+- AI uBlock Blacklist — blocks AI-generated sites — https://github.com/alvi-se/ai-ublock-blacklist
+- Huge AI Blocklist — removes AI imagery from search results — https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
+- EasyList — core adblock filter list — https://easylist.to/
+- EasyPrivacy — tracker filter list — https://easylist.to/easylist/easyprivacy.txt
+- OISD — multi-source blocklist — https://oisd.nl/
+- StevenBlack's Hosts — merged hosts-file collection — https://github.com/StevenBlack/hosts
+- Peter Lowe's Ad Server List — classic ad-server blocklist — https://pgl.yoyo.org/adservers/
+
+### DNS Adblocking
+- DNS Providers — DNS provider index — https://adguard-dns.io/kb/general/dns-providers/
+- Pi-Hole — self-hosted DNS adblocking — https://pi-hole.net/
+- Filters — blocklist collection — https://firebog.net/
+- Tray App — Pi-hole tray utility — https://github.com/PinchToDebug/Pihole-Tray/
+- Android Server — Pi-hole for Android — https://github.com/DesktopECHO/Pi-hole-for-Android
+- AdGuard Home — self-hosted DNS filtering — https://adguard.com/en/adguard-home/overview.html
+- Balena-AdGuard — deployment helper — https://github.com/klutchell/balena-adguard
+- Mullvad DNS — privacy DNS service — https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/
+- Technitium DNS Server — local DNS filtering platform — https://technitium.com/dns/
+- DNSCrypt-Proxy — encrypted DNS proxy — https://github.com/DNSCrypt/dnscrypt-proxy
+- Unbound — recursive DNS resolver used for private setups — https://nlnetlabs.nl/projects/unbound/about/
+- Stubby — DNS-over-TLS stub resolver — https://dnsprivacy.org/dns_privacy_daemon_-_stubby/
+- DNS0.eu — privacy-focused DNS service — https://dns0.eu/
+- Control D — configurable DNS filtering service — https://controld.com/
+- NextDNS — configurable DNS filtering and telemetry control — https://nextdns.io/
+- AdGuard DNS — DNS-level ad and tracker blocking — https://adguard-dns.io/
+
+### DNS Filters
+- OISD — multi-source domain blocklist — https://oisd.nl/
+- hBlock — hosts-file blocklist — https://github.com/hectorm/hblock
+- Hosts File Aggregator — merged hosts-file source — https://github.com/StevenBlack/hosts
+- Spamhaus — major blocklist and threat-intel source — https://www.spamhaus.org/blocklists/
+- black-mirror — scam and malware blocklist — https://github.com/T145/black-mirror
+- Scam Blocklist — scam site blocklist — https://github.com/durablenapkin/scamblocklist
+- neodevhost — hosts-file blocklist — https://github.com/neodevpro/neodevhost
+- 1Hosts — community blocklist — https://o0.pages.dev/
+
+### Linux Adblocking
+- OpenSnitch — application firewall for Linux — https://github.com/evilsocket/opensnitch
+- Privoxy — filtering web proxy — https://www.privoxy.org/
+- uBlock Origin — browser-level blocker — https://github.com/gorhill/uBlock
+- Brave — browser with built-in blocking — https://brave.com/
+
+### Mac Adblocking
+- LuLu — free macOS outbound firewall — https://objective-see.org/products/lulu.html
+- Little Snitch — macOS network monitor and firewall — https://www.obdev.at/products/littlesnitch/index.html
+- AdGuard — browser blocker with privacy features — https://github.com/AdguardTeam/AdguardBrowserExtension
+- AdGuard Home — DNS-level blocker usable on macOS networks — https://adguard.com/en/adguard-home/overview.html
+
+### Android Adblocking
+- AdGuard DNS — DNS-level ad blocking — https://adguard-dns.io/
+- RethinkDNS — DNS firewall and blocker — https://rethinkdns.com/
+- Blokada — mobile ad blocker — https://blokada.org/
+- Brave — browser with built-in blocker — https://brave.com/
+
+### iOS Adblocking
+- AdGuard for iOS — Safari content blocker — https://adguard.com/en/adguard-ios/overview.html
+- Lockdown Privacy — on-device firewall and blocker — https://lockdownprivacy.com/
+- 1Blocker — Safari content blocker — https://1blocker.com/
+- Brave — browser with built-in privacy controls — https://brave.com/
+
+## Antivirus / Anti-Malware
+### General
+- Malwarebytes — antivirus — https://www.malwarebytes.com/
+- ESET — antivirus — https://rentry.co/FMHYB64#eset
+- AdwCleaner — anti-adware — https://www.malwarebytes.com/adwcleaner/
+- Triage — online sandbox — https://tria.ge/
+- ANY.RUN — online sandbox — https://any.run/
+- Cuckoo — sandbox — https://cuckoo.cert.ee/
+- CrowdStrike Falcon? — not included here; keep the focus on public free tools.
+
+### File Scanners
+- The Second Opinion — portable malware scanners and removal tools — https://jijirae.github.io/thesecondopinion/index.html
+- VirusTotal — online file scanner — https://www.virustotal.com/
+- Scan Results Guide — results interpretation guide — https://claraiscute.neocities.org/Guides/vtguide/
+- Hybrid Analysis — online sandbox and file scanner — https://hybrid-analysis.com/
+- CLI — VirusTotal CLI — https://github.com/VirusTotal/vt-cli
+- Uploader — VirusTotal uploader — https://github.com/SamuelTulach/VirusTotalUploader
+- Lite Version — VirusTotal lite interface — https://www.virustotal.com/old-browsers/
+- Threat Insights Portal — online scanner — https://www.threat.rip/
+- MetaDefender — multi-engine scanning — https://metadefender.opswat.com/
+- ANY.RUN — interactive malware sandbox — https://any.run/
+
+### Site Legitimacy Check
+- URL Void — blocklist-based site reputation scan — https://www.urlvoid.com/
+- URLScan — detailed URL report and analysis — https://urlscan.io/
+- Trend Micro — safety rating and content tags — https://global.sitesafety.trendmicro.com/
+- ScamAdviser — trust score checker — https://www.scamadviser.com/
+- IsLegitSite — reputation checker — https://www.islegitsite.com/
+- ZScaler — website reputation tool — https://zulu.zscaler.com/
+- Talos — reputation and threat intel — https://talosintelligence.com/
+- Norton Safe Web — reputation checker — https://safeweb.norton.com/
+
+## Privacy / Security
+### General
+- Whonix — privacy-focused operating system — https://www.whonix.org/
+- Qubes — compartmentalized security OS — https://www.qubes-os.org/
+- Tails — amnesic live OS — https://tails.net/
+- W10Privacy — Windows privacy tool — https://www.w10privacy.de/english-home/
+- Telemetry.md — Windows telemetry guide — https://gist.github.com/ave9858/a2153957afb053f7d0e7ffdd6c3dcb89
+- Agent DVR — security camera system — https://www.ispyconnect.com/
+- Frigate — security camera NVR — https://frigate.video/
+- Smart Sec Cam — smart security camera project — https://github.com/scottbarnesg/smart-sec-cam
+- Kicksecure — hardened Debian-based OS — https://www.kicksecure.com/
+
+### Network Security
+- Safing Portmaster — network monitor, DNS resolver, firewall — https://safing.io/
+- I2P — encrypted private network layer — https://geti2p.net/en/
+- Freenet — decentralized P2P web — https://freenet.org/
+- Hyphanet — decentralized P2P web — https://www.hyphanet.org/
+- RustNet — terminal network monitor — https://github.com/domcyrus/rustnet
+- Simplewall — Windows firewall UI — https://github.com/henrypp/simplewall
+- Fort — firewall utility — https://github.com/tnodir/fort
+- WFC — Windows Firewall Control — https://www.binisoft.org/wfc.php
+- Wireshark — packet analyzer — https://www.wireshark.org/
+- Nmap — network discovery and security auditing — https://nmap.org/
+- CrowdSec — collaborative intrusion prevention — https://www.crowdsec.net/
+- fail2ban — brute-force protection from logs — https://github.com/fail2ban/fail2ban
+
+### Linux Privacy
+- Tails — privacy-focused live OS — https://tails.net/
+- Qubes OS — compartmentalized security OS — https://www.qubes-os.org/
+- Whonix — Tor-isolated privacy OS — https://www.whonix.org/
+- Kicksecure — hardened Debian-based privacy OS — https://www.kicksecure.com/
+- Fedora Silverblue — immutable desktop base for hardening — https://fedoraproject.org/silverblue/
+
+### Mac Privacy
+- Objective-See — macOS security and privacy tools — https://objective-see.org/
+- LuLu — free outbound firewall — https://objective-see.org/products/lulu.html
+- Little Snitch — outbound firewall and monitor — https://www.obdev.at/products/littlesnitch/index.html
+- KnockKnock — persistence checker — https://objective-see.org/products/knockknock.html
+- BlockBlock — persistence alert tool — https://objective-see.org/products/blockblock.html
+
+### Android Privacy
+- GrapheneOS — security-hardened Android — https://grapheneos.org/
+- CalyxOS — privacy-focused Android — https://calyxos.org/
+- /e/OS — de-Googled Android ecosystem — https://e.foundation/e-os/
+- LineageOS — open-source Android ROM base — https://lineageos.org/
+- Shelter — work-profile app for isolation — https://github.com/PeterCxy/Shelter
+
+### iOS Privacy
+- AdGuard for iOS — Safari content blocker — https://adguard.com/en/adguard-ios/overview.html
+- Lockdown Privacy — device firewall and blocker — https://lockdownprivacy.com/
+- 1Blocker — Safari content blocker — https://1blocker.com/
+- Brave — browser with built-in privacy controls — https://brave.com/
+
+### Privacy Indexes
+- The Hitchhiker’s Guide — online anonymity guide — https://anonymousplanet.org/
+- The OPSEC Bible — onion mirror guide — http://opbible7nans45sg33cbyeiwqmlp5fu7lklu6jd6f3mivrjeqadco5yd.onion/
+- SimpleX Chat — onion mirror resource — http://nowherejezfoltodf4jiyl6r56jnzintap5vyjlia7fkirfsnfizflqd.onion/simplex.html
+- Surveillance Self-Defense — EFF guide — https://ssd.eff.org/
+- The New Oil — privacy education — https://thenewoil.org/
+- No Trace — privacy education — https://www.notrace.how/
+- Awesome Privacy — curated privacy apps and services — https://awesome-privacy.xyz/
+- Awesome Security Hardening — hardening resources — https://github.com/decalage2/awesome-security-hardening
+- Privacy Guides — privacy and security recommendations — https://www.privacyguides.org/
+- RestorePrivacy — privacy guides and articles — https://restoreprivacy.com/
+
+## Web Privacy
+### General
+- Google Alt List — Google app alternatives — https://www.techspot.com/article/2752-all-google-alternatives/
+- r/degoogle — de-Googling community — https://www.reddit.com/r/degoogle
+- No More Google — Google replacement resources — https://nomoregoogle.com/
+- PrivacySpy — privacy policy summaries — https://privacyspy.org/
+- ToS;DR — terms-of-service summaries — https://tosdr.org/
+- JustDeleteMe — account deletion directory — https://justdeleteme.xyz/
+- Phish Report — phishing reporting — https://phish.report/
+- OpenPhish — phishing feed and intelligence — https://openphish.com/
+
+### Browser Privacy
+- Browser Privacy Guides — browser setup guides — https://www.privacyguides.org/en/desktop-browsers
+- Tor Browser — onion-routed browser — https://www.torproject.org/
+- Mullvad Browser — Tor-style anti-fingerprinting browser — https://mullvad.net/en/browser
+- arkenfox — Firefox privacy hardening guide — https://github.com/arkenfox/user.js
+- GUI — arkenfox graphical helper — https://arkenfox.github.io/gui/
+- LibreWolf — privacy-hardened Firefox fork — https://librewolf.net/
+- Firefox — customizable browser with privacy hardening options — https://www.mozilla.org/firefox/
+- Brave — browser with built-in tracker blocking — https://brave.com/
+- PrivacyTests — browser privacy comparison tests — https://privacytests.org/
+- Cover Your Tracks — EFF fingerprinting test — https://coveryourtracks.eff.org/
+
+### Password Privacy / 2FA
+- 2FA Directory — list of sites supporting 2FA — https://2fa.directory/
+- Ente Auth — cross-platform authenticator — https://ente.com/auth/
+- Aegis — open-source 2FA app — https://getaegis.app/
+- Stratum — 2FA app — https://stratumauth.com/
+- Password Strength Chart — password guidance — https://i.ibb.co/B2Vz3hSj/89x5g3t4xrxe1.png
+- 2FAS — 2FA app — https://2fas.com/
+- Proton Authenticator — 2FA app — https://proton.me/authenticator
+- Mauth — 2FA app — https://github.com/X1nto/Mauth
+- Bitwarden — password manager — https://bitwarden.com/
+- KeePassXC — local password vault — https://keepassxc.org/
+- Proton Pass — password manager — https://proton.me/pass
+
+### Encrypted Messengers
+- Eylenburg Comparisons — chat app comparison — https://eylenburg.github.io/im_comparison.htm
+- SecuChart — secure messenger comparison — https://bkil.gitlab.io/secuchart/
+- Messenger-Matrix — messenger comparison matrix — https://www.messenger-matrix.de/messenger-matrix-en.html
+- Secure Messaging Apps — app comparison site — https://www.securemessagingapps.com/
+- Matrix Clients — Matrix ecosystem clients — https://matrix.org/ecosystem/clients/
+- Mod Bot — Matrix moderation bot — https://github.com/matrix-org/mjolnir
+- Resources — Matrix ecosystem resources — https://matrix.org/ecosystem/
+- Servers — Matrix server list — https://tatsumoto-ren.github.io/blog/list-of-matrix-servers.html
+- Signal — end-to-end encrypted messenger — https://signal.org/
+- SimpleX Chat — privacy-first messenger — https://simplex.chat/
+- Session — private messenger with onion-style routing — https://getsession.org/
+- Briar — censorship-resistant messenger — https://briarproject.org/
+- Delta Chat — email-backed messenger — https://delta.chat/
+- Element — Matrix-based secure chat platform — https://element.io/
+- Threema — Swiss privacy-focused messenger — https://threema.ch/
+- Molly — hardened Signal client for Android — https://molly.im/
+
+### Email Privacy
+- OpenPGP Email Encryption — OpenPGP email software index — https://www.openpgp.org/software/
+- Proton Mail — encrypted email — https://proton.me/mail
+- More Storage — Proton storage page — https://proton.me/support/more-free-storage-existing-users
+- Tuta — encrypted email — https://tuta.com/
+- Disroot — free encrypted email — https://disroot.org/en/services/email
+- DNMX — onion-based email — https://dnmx.cc/
+- Mailvelope — PGP for email — https://mailvelope.com/
+- Email Privacy Tester — email privacy test — https://www.emailprivacytester.com/
+- SimpleLogin — email aliasing — https://simplelogin.io/
+- Addy.io — email aliasing — https://addy.io/
+- Posteo — privacy-minded email provider — https://posteo.de/en
+- mailbox.org — secure email and productivity provider — https://mailbox.org/en/
+
+### Data Breach Monitoring
+- Have I Been Pwned? — breach monitoring — https://haveibeenpwned.com/
+- F-Secure — identity theft checker — https://www.f-secure.com/en/identity-theft-checker
+- Have I Been Pwned Passwords — password breach lookup — https://haveibeenpwned.com/Passwords
+- Mozilla Monitor — breach monitoring — https://monitor.mozilla.org/
+- BreachDirectory — breach search engine — https://breachdirectory.org/
+- Snusbase — breach search engine — https://snusbase.com/
+- Leak Lookup — breach search engine — https://leak-lookup.com/
+- TruffleHog — secret and leak hunting — https://trufflesecurity.com/
+- DeHashed — breach search and lookup — https://www.dehashed.com/
+- IntelX — data search and intelligence platform — https://intelx.io/
+
+### Fingerprinting / Tracking
+- CreepJS — browser fingerprinting test — https://abrahamjuliot.github.io/creepjs
+- webkay — tracking and fingerprinting test — https://webkay.robinlinus.com/
+- browserrecon — browser recon test — https://www.computec.ch/projekte/browserrecon/?s=scan
+- TZP — test your browser privacy — https://arkenfox.github.io/TZP/tzp.html
+- Cover Your Tracks — EFF tracker/fingerprint test — https://coveryourtracks.eff.org/
+- BrowserScan — browser fingerprint check — https://www.browserscan.net/
+- PersonalData — browser and data exposure test — https://personaldata.info/
+- ClearURLs — removes tracking elements from URLs — https://docs.clearurls.xyz/
+- AmIUnique — browser fingerprint uniqueness test — https://amiunique.org/
+- BrowserLeaks — privacy and fingerprinting test suite — https://browserleaks.com/
+- Pixelscan — fingerprinting and profile test — https://pixelscan.net/
+- privacytests — browser privacy comparison — https://privacytests.org/
+
+### Search Engines
+- Search Engine Party — privacy search comparison — https://searchengine.party/
+- Docs / Hosting — SearXNG docs and hosting — https://docs.searxng.org/
+- Matrix — SearXNG matrix room — https://matrix.to/#/#searxng:matrix.org
+- Brave Search — independent search engine — https://search.brave.com/
+- 4get — metasearch engine — https://4get.canine.tools/
+- Instances — 4get instance list — https://4get.ca/instances
+- DuckDuckGo — private metasearch engine — https://start.duckduckgo.com/
+- AI Free — DuckDuckGo AI-free search — https://noai.duckduckgo.com/
+- Kagi — paid private search engine — https://kagi.com/
+- Mojeek — independent private search engine — https://www.mojeek.com/
+- Startpage — privacy search proxy — https://www.startpage.com/
+- SearXNG — open-source metasearch engine — https://searxng.org/
+- Marginalia Search — small-web search engine — https://search.marginalia.nu/
+- Qwant — privacy search engine — https://www.qwant.com/
+- YaCy — peer-to-peer search engine — https://yacy.net/
+
+## VPN
+### General
+- Techlore Chart — VPN comparison chart — https://vpn.techlore.tech/
+- VPN Relationships — VPN relationship map — https://kumu.io/Windscribe/vpn-relationships
+- Cloudflare One — free WireGuard-based service — https://one.one.one.one/
+- Wireguard — config guide — https://rentry.co/foss-warp
+- Config Generator — WireGuard config generator — https://colab.research.google.com/drive/1fomBbh0mRxpVoGAY5gYT5zPBnFKsLV9o?usp=sharing
+- Proton VPN — VPN service — https://protonvpn.com/
+- Windscribe — VPN service — https://windscribe.com/
+- Mullvad VPN — privacy-focused VPN — https://mullvad.net/
+- IVPN — privacy-focused VPN — https://www.ivpn.net/
+- AirVPN — privacy-focused VPN — https://airvpn.org/
+
+### VPN Server
+- WireGuard — VPN tunnel — https://www.wireguard.com/
+- Guide — WireGuard quickstart — https://www.wireguard.com/quickstart/
+- Web UI — wg-easy web UI — https://github.com/wg-easy/wg-easy
+- Tailscale — WireGuard mesh — https://tailscale.com/
+- NetBird — WireGuard mesh — https://netbird.io/
+- Amnezia — VPN server stack — https://amnezia.org/
+- OpenVPN — VPN server — https://openvpn.net/
+- WGDashboard — WireGuard panel — https://wgdashboard.dev/
+- Headscale — self-hosted Tailscale control server — https://headscale.net/
+- ZeroTier — virtual networking platform — https://www.zerotier.com/
+- Outline — simple VPN server project — https://getoutline.org/
+- Nebula — overlay network / mesh VPN — https://github.com/slackhq/nebula
+- Hysteria — fast proxy/VPN protocol — https://github.com/apernet/hysteria
+
+### VPN Tools
+- VPN Binding Guide — torrent/VPN binding guide — https://wispydocs.pages.dev/torrenting/
+- WireSock — WireGuard split-tunneling client — https://wiresock.net/
+- Tunnl — WireGuard split-tunneling client — https://tunnl.to/
+- WG Tunnel — WireGuard client — https://wgtunnel.com/
+- Windows — WG Tunnel desktop guide — https://wgtunnel.com/blog/desktop-launch/
+- VPN Hotspot — share VPN over hotspot — https://github.com/Mygod/VPNHotspot
+- Gluetun — VPN container helper — https://github.com/qdm12/gluetun
+- sing-box — configurable proxy and tunneling stack — https://sing-box.sagernet.org/
+- Shadowsocks — encrypted proxy protocol and clients — https://shadowsocks.org/
+
+## Proxy
+### General
+- Psiphon — hybrid proxy/VPN app — https://psiphon.ca/
+- Lantern — proxy app — https://lantern.io/
+- FreeSocks — Shadowsocks app — https://freesocks.org/
+- Snowflake — Tor proxy browser extension — https://snowflake.torproject.org/
+- Censor Tracker — proxy extension — https://censortracker.org/
+- SmartProxy — proxy extension — https://github.com/salarcode/SmartProxy
+- FoxyProxy — proxy extension — https://getfoxyproxy.org/
+- ZeroOmega — proxy extension — https://github.com/zero-peak/ZeroOmega
+
+### Proxy Servers
+- 3X-UI — proxy panel — https://github.com/MHSanaei/3x-ui
+- Guide — network censorship circumvention guide — https://wispydocs.pages.dev/network-censorship-circumvention/
+- Project X — Xray proxy core — https://github.com/XTLS/Xray-core
+- NaïveProxy — Chromium-based proxy — https://github.com/klzgrad/naiveproxy
+- Hysteria — speed-focused proxy protocol — https://v2.hysteria.network/
+- Shadowsocks — simple proxy protocol — https://shadowsocks.org/
+- sing-box — multi-protocol proxy core — https://sing-box.sagernet.org/
+- Amnezia — self-hosted proxy/VPN tooling — https://amnezia.org/self-hosted
+- Trojan — HTTPS-like proxy protocol — https://trojan-gfw.github.io/trojan/
+
+### Proxy Clients
+- v2rayN — Windows proxy client — https://github.com/2dust/v2rayN
+- NekoBox — proxy client — https://matsuridayo.github.io/
+- v2rayNG — Android proxy client — https://github.com/2dust/v2rayNG
+- MahsaNG — proxy client — https://github.com/GFW-knocker/MahsaNG
+- Hiddify — proxy client ecosystem — https://hiddify.com/
+- Amnezia — proxy client ecosystem — https://amnezia.org/
+- Shadowsocks — GUI clients index — https://shadowsocks.org/doc/getting-started.html#gui-clients
+- sing-box — client list — https://sing-box.sagernet.org/clients/
+- Clash Verge Rev — Clash GUI client — https://github.com/clash-verge-rev/clash-verge-rev
+- Stash — iOS/macOS proxy client — https://stash.ws/
+
+### Anti Censorship
+- Censorship Bypass Guide — bypass guide — https://cbg.fmhy.bid/
+- Net4people — censorship discussion forum — https://github.com/net4people/bbs/issues
+- ByeDPIAndroid — packet-shaping bypass tool — https://github.com/dovecoteescapee/ByeDPIAndroid
+- zapret — network packet alteration tool — https://github.com/bol-van/zapret
+- SpoofDPI — DPI bypass tool — https://github.com/xvzc/SpoofDPI
+- GoodbyeDPI — DPI bypass tool — https://github.com/ValdikSS/GoodbyeDPI/
+- DNSveil — DNS client — https://msasanmh.github.io/DNSveil/
+- Geph — anti-censorship proxy — https://geph.io/
+- Tor Project — anonymity and anti-censorship network — https://www.torproject.org/
+- Snowflake — Tor pluggable transport — https://snowflake.torproject.org/
+- Ceno Browser — censorship-resistant browser — https://censorship.no/
+
+### Proxy Sites
+- Titanium Network — multi-proxy service hub — https://titaniumnetwork.org/services/
+- Instances — proxy instances list — https://discord.gg/unblock
+- US5 — multi-site proxy/adblocker — https://voucan.securly.com.surf.surfnet.ca/
+- SSLSecureProxy — web proxy — https://www.sslsecureproxy.com/
+- ProxyOf2 — web proxy — https://proxyof2.com/
+- Phantom — web proxy — https://phantom.lol/
+- Reflect4 — web proxy — https://reflect4.me/
+- CroxyProxy — web proxy — https://www.croxyproxy.com/
+- KProxy — simple web proxy — https://www.kproxy.com/
+- 4everproxy — web proxy — https://www.4everproxy.com/
+- hide.me Proxy — web proxy — https://hide.me/en/proxy
+- Whoer Web Proxy — web proxy and IP/privacy checks — https://whoer.net/webproxy
