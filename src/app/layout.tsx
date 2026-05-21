@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { Outfit, JetBrains_Mono } from "next/font/google";
+import { Outfit, JetBrains_Mono, Cormorant_Garamond } from "next/font/google";
+import Sidebar from "@/components/Sidebar";
 import "./globals.css";
 
 const outfit = Outfit({
@@ -11,6 +12,13 @@ const outfit = Outfit({
 const jetbrainsMono = JetBrains_Mono({
   variable: "--font-mono-jetbrains",
   subsets: ["latin"],
+  display: "swap",
+});
+
+const cormorant = Cormorant_Garamond({
+  variable: "--font-cormorant",
+  subsets: ["latin"],
+  weight: ["400", "600", "700"],
   display: "swap",
 });
 
@@ -38,12 +46,14 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${outfit.variable} ${jetbrainsMono.variable} h-full antialiased`}
+      className={`${outfit.variable} ${jetbrainsMono.variable} ${cormorant.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col font-sans selection:bg-gold/30 selection:text-forest">
-        {children}
+      <body className="min-h-full font-sans selection:bg-gold/30 selection:text-forest">
+        <Sidebar />
+        <div className="md:ml-[200px] relative z-10">
+          {children}
+        </div>
       </body>
     </html>
   );
 }
-

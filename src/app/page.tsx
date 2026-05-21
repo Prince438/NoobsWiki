@@ -1,10 +1,9 @@
 import Link from "next/link";
 import { Users, Cpu, ShieldAlert, ArrowRight } from "lucide-react";
-import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
-    <div className="relative flex min-h-screen flex-col bg-cream bg-dot-pattern">
+    <div className="relative flex min-h-screen flex-col">
 
       <main className="mx-auto flex flex-1 w-full max-w-5xl flex-col items-center justify-center px-6 py-20 text-center md:px-8">
 
@@ -29,7 +28,6 @@ export default function Home() {
             <span className="absolute bottom-[6px] left-[6px] h-[8px] w-[8px] border-b border-l border-gold/20 pointer-events-none"></span>
             <span className="absolute bottom-[6px] right-[6px] h-[8px] w-[8px] border-b border-r border-gold/20 pointer-events-none"></span>
             <svg className="h-9 w-9" viewBox="0 0 36 36" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round">
-              {/* Knowledge hierarchy / layered wiki structure */}
               <line x1="7" y1="13" x2="29" y2="13" strokeWidth="1.5"/>
               <line x1="10" y1="18" x2="26" y2="18" strokeWidth="1.5"/>
               <line x1="14" y1="23" x2="22" y2="23" strokeWidth="1.5"/>
@@ -39,9 +37,9 @@ export default function Home() {
           </div>
 
           {/* Wordmark */}
-          <h1 className="font-mono text-[28px] font-extrabold tracking-[0.16em] text-charcoal uppercase leading-none md:text-[32px]">
-            KD TECH WIKI
-            <span className="text-gold font-light ml-0.5 animate-terminal-blink">_</span>
+          <h1 className="font-display text-[42px] font-bold tracking-[0.1em] text-charcoal uppercase leading-none md:text-[52px]">
+            KD Tech Wiki
+            <span className="font-mono font-light text-gold text-[36px] animate-terminal-blink">_</span>
           </h1>
 
           {/* Descriptor line */}
@@ -74,7 +72,7 @@ export default function Home() {
                 <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">01</span>
               </div>
 
-              <h2 className="mb-2 font-sans text-[15px] font-bold tracking-tight text-charcoal transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Community Groups
               </h2>
 
@@ -105,7 +103,7 @@ export default function Home() {
                 <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">02</span>
               </div>
 
-              <h2 className="mb-2 font-sans text-[15px] font-bold tracking-tight text-charcoal transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Community Builders
               </h2>
 
@@ -136,7 +134,7 @@ export default function Home() {
                 <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">03</span>
               </div>
 
-              <h2 className="mb-2 font-sans text-[15px] font-bold tracking-tight text-charcoal transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Government Agencies
               </h2>
 
@@ -155,7 +153,6 @@ export default function Home() {
 
       </main>
 
-      <Footer />
     </div>
   );
 }

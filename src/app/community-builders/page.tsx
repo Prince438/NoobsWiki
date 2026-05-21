@@ -1,8 +1,6 @@
 import { Metadata } from "next";
 import fs from "fs";
 import path from "path";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 import CommunityBuildersList from "./CommunityBuildersList";
 import type { BuilderEntry, BuilderLink } from "@/components/BuilderCard";
 
@@ -13,9 +11,6 @@ export const metadata: Metadata = {
 };
 
 // ─── Link filter ─────────────────────────────────────────────────────────────
-// The raw JSON often contains scraped site-nav links alongside personal links.
-// We keep only absolute URLs that don't match known navigation / community-event
-// patterns, and whose labels aren't generic nav labels.
 
 const SKIP_URL_FRAGMENTS = [
   "facebook.com/wordcampmalaysia",
@@ -58,21 +53,14 @@ function filterLinks(raw: { label: string; url: string }[]): BuilderLink[] {
   const kept: BuilderLink[] = [];
 
   for (const link of raw) {
-    // Must be an absolute URL
     if (!link.url.startsWith("http")) continue;
-    // Skip known nav labels
     if (SKIP_LABELS.has(link.label)) continue;
-    // Skip labels that are sentence fragments or session titles (too long)
     if (link.label.length > 42) continue;
-    // Skip ← arrows or generic back links
     if (link.label.startsWith("←") || link.label.startsWith("→")) continue;
-    // Skip URLs matching event-navigation patterns
     if (SKIP_URL_FRAGMENTS.some((frag) => link.url.includes(frag))) continue;
-    // Deduplicate by URL
     if (seen.has(link.url)) continue;
     seen.add(link.url);
     kept.push({ label: link.label, url: link.url });
-    // Cap at 5 personal links per person
     if (kept.length >= 5) break;
   }
 
@@ -85,15 +73,12 @@ export default function CommunityBuildersPage() {
   let builders: BuilderEntry[] = [];
 
   try {
-    // Primary source: kd-tech-wiki-community-builders-expanded.json at project root
-    // Fallback: src/data/community-builders.json
     const expandedPath = path.join(process.cwd(), "kd-tech-wiki-community-builders-expanded.json");
     const fallbackPath = path.join(process.cwd(), "src", "data", "community-builders.json");
     const filePath = fs.existsSync(expandedPath) ? expandedPath : fallbackPath;
 
     if (fs.existsSync(filePath)) {
       const raw = JSON.parse(fs.readFileSync(filePath, "utf-8"));
-      // Support { entries: [...] } wrapper or a flat array
       const entries: {
         name: string;
         description?: string;
@@ -105,7 +90,6 @@ export default function CommunityBuildersPage() {
       }[] = Array.isArray(raw) ? raw : (raw.entries ?? []);
 
       builders = entries.map((entry) => {
-        // Normalise to the { links: [...] } format
         const rawLinks: { label: string; url: string }[] =
           entry.links ??
           (entry.url ? [{ label: entry.source ?? entry.role ?? "Profile", url: entry.url }] : []);
@@ -123,19 +107,17 @@ export default function CommunityBuildersPage() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col bg-cream bg-dot-pattern">
-      <Navbar />
+    <div className="min-h-screen">
+      <div className="mx-auto w-full max-w-6xl px-6 py-12 md:px-8">
 
-      <div className="mx-auto w-full max-w-6xl flex-1 px-6 py-12 md:px-8">
-
-        <div className="mb-12 max-w-3xl space-y-4">
-          <div className="font-mono text-xs font-semibold text-gold tracking-widest uppercase">
+        <div className="mb-12 max-w-3xl space-y-3">
+          <div className="font-mono text-[9px] font-semibold text-gold tracking-[0.25em] uppercase">
             [ DIRECTORY // SEC_02 ]
           </div>
-          <h1 className="font-sans text-3xl font-extrabold tracking-tight text-charcoal md:text-4xl">
+          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[60px]">
             Community Builders
           </h1>
-          <p className="font-sans text-base leading-relaxed text-charcoal/70">
+          <p className="font-sans text-[13px] leading-relaxed text-charcoal/60 max-w-xl">
             The individuals organising meetups, events, and programs that support learning, collaboration, and innovation within the Malaysia tech ecosystem.
           </p>
         </div>
@@ -143,8 +125,6 @@ export default function CommunityBuildersPage() {
         <CommunityBuildersList builders={builders} />
 
       </div>
-
-      <Footer />
     </div>
   );
 }

@@ -1,8 +1,6 @@
 import { Metadata } from "next";
 import fs from "fs";
 import path from "path";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 import CommunityGroupList from "./CommunityGroupList";
 import type { GroupEntry } from "@/components/GroupCard";
 
@@ -16,7 +14,6 @@ export default function CommunityGroupsPage() {
   let groups: GroupEntry[] = [];
 
   try {
-    // Primary source: kd-tech-wiki-community-groups-expanded.json at project root
     const expandedPath = path.join(process.cwd(), "kd-tech-wiki-community-groups-expanded.json");
 
     if (fs.existsSync(expandedPath)) {
@@ -42,19 +39,17 @@ export default function CommunityGroupsPage() {
   }
 
   return (
-    <div className="flex min-h-screen flex-col bg-cream bg-dot-pattern">
-      <Navbar />
+    <div className="min-h-screen">
+      <div className="mx-auto w-full max-w-6xl px-6 py-12 md:px-8">
 
-      <div className="mx-auto w-full max-w-6xl flex-1 px-6 py-12 md:px-8">
-
-        <div className="mb-12 max-w-3xl space-y-4">
-          <div className="font-mono text-xs font-semibold text-gold tracking-widest uppercase">
+        <div className="mb-12 max-w-3xl space-y-3">
+          <div className="font-mono text-[9px] font-semibold text-gold tracking-[0.25em] uppercase">
             [ DIRECTORY // SEC_01 ]
           </div>
-          <h1 className="font-sans text-3xl font-extrabold tracking-tight text-charcoal md:text-4xl">
+          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[60px]">
             Community Groups
           </h1>
-          <p className="font-sans text-base leading-relaxed text-charcoal/70">
+          <p className="font-sans text-[13px] leading-relaxed text-charcoal/60 max-w-xl">
             A curated list of local tech community groups across Malaysia — developer circles, startup networks, open source clubs, and industry-focused communities shaping the ecosystem.
           </p>
         </div>
@@ -62,8 +57,6 @@ export default function CommunityGroupsPage() {
         <CommunityGroupList groups={groups} />
 
       </div>
-
-      <Footer />
     </div>
   );
 }
