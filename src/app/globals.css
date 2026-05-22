@@ -106,6 +106,17 @@ body::before {
   background-image: radial-gradient(rgba(191, 158, 118, 0.04) 1px, transparent 1px);
 }
 
+[data-jump-target] {
+  scroll-margin-top: 1rem;
+}
+
+[data-jump-target].jump-active {
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-color: rgba(191, 158, 118, 0.4);
+  text-underline-offset: 4px;
+}
+
 .tech-border {
   position: relative;
 }

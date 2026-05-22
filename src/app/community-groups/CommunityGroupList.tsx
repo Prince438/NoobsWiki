@@ -136,8 +136,12 @@ export default function CommunityGroupList({ groups }: Props) {
 
               {/* Category section header */}
               <div className="flex items-center gap-4">
-                <h3 className="font-mono text-[10.5px] font-bold uppercase tracking-widest text-forest/65 whitespace-nowrap">
-                  // {CATEGORY_LABELS[cat] ?? cat}
+                <h3
+                  id={cat.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
+                  data-jump-target=""
+                  className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none whitespace-nowrap"
+                >
+                  {CATEGORY_LABELS[cat] ?? cat}
                 </h3>
                 <div className="h-px flex-1 bg-panel-border/20" />
                 <span className="font-mono text-[9px] text-charcoal/28">

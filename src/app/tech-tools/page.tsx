@@ -1,5 +1,7 @@
 import { Metadata } from "next";
 import TechToolsView from "./TechToolsView";
+import BackToTopButton from "@/components/BackToTopButton";
+import JumpNav from "@/components/JumpNav";
 import { getCategories } from "@/lib/techToolsParser";
 
 export const metadata: Metadata = {
@@ -33,6 +35,8 @@ export default function TechToolsPage() {
         <TechToolsView categories={categories} initialCategoryId={initialId} />
 
       </div>
+      <BackToTopButton />
+      <JumpNav />
     </div>
   );
 }

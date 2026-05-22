@@ -9,6 +9,7 @@ export interface ToolLink {
 export interface Tool {
   name: string;
   description: string;
+  summary?: string;
   links: ToolLink[];
   subcategory: string;
 }
@@ -44,8 +45,22 @@ const CATEGORY_DEFS: { id: string; name: string }[] = [
   { id: "developer-tools",  name: "Developer Tools" },
 ];
 
-// Module-level cache – parse the file once per process lifetime
+// Module-level caches
 let _sections: string[] | null = null;
+let _descriptions: Record<string, string> | null = null;
+
+function loadDescriptions(): Record<string, string> {
+  if (_descriptions) return _descriptions;
+  try {
+    const p = path.join(process.cwd(), "src/data/tool-descriptions.json");
+    _descriptions = fs.existsSync(p)
+      ? (JSON.parse(fs.readFileSync(p, "utf-8")) as Record<string, string>)
+      : {};
+  } catch {
+    _descriptions = {};
+  }
+  return _descriptions;
+}
 
 function loadSections(): string[] {
   if (_sections) return _sections;
@@ -110,9 +125,11 @@ function parseTool(raw: string, subcategory: string): Tool | null {
     }
   }
 
+  const descs = loadDescriptions();
   return {
     name,
     description: description.slice(0, 220),
+    summary: descs[name] ?? undefined,
     links: links.filter((l) => l.url.startsWith("http")),
     subcategory,
   };

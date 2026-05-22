@@ -1,5 +1,7 @@
 import { Metadata } from "next";
 import GovernmentAgenciesList from "./GovernmentAgenciesList";
+import BackToTopButton from "@/components/BackToTopButton";
+import JumpNav from "@/components/JumpNav";
 import { parseGovernmentAgencies } from "@/lib/parser";
 
 export const metadata: Metadata = {
@@ -13,7 +15,7 @@ export default function GovernmentAgenciesPage() {
 
   return (
     <div className="min-h-screen">
-      <div className="mx-auto w-full max-w-6xl px-6 py-12 md:px-8">
+      <div className="mx-auto w-full max-w-6xl px-6 py-12 md:px-8 md:pr-12">
 
         <div className="mb-12 max-w-3xl space-y-3">
           <div className="font-mono text-[9px] font-semibold text-gold tracking-[0.25em] uppercase">
@@ -30,6 +32,8 @@ export default function GovernmentAgenciesPage() {
         <GovernmentAgenciesList initialCategories={categories} />
 
       </div>
+      <BackToTopButton />
+      <JumpNav />
     </div>
   );
 }

@@ -102,7 +102,7 @@ export default function TechToolsView({ categories, initialCategoryId }: Props) 
       </aside>
 
       {/* ── Main content ── */}
-      <div className="flex-1 min-w-0 px-5 py-8 md:px-8">
+      <div className="flex-1 min-w-0 px-5 py-8 md:px-8 md:pr-12">
 
         {/* Mobile category chips */}
         <div
@@ -196,8 +196,12 @@ export default function TechToolsView({ categories, initialCategoryId }: Props) 
 
                     {/* Subcategory header */}
                     <div className="flex items-center gap-3">
-                      <h3 className="font-mono text-[9.5px] font-bold uppercase tracking-widest text-forest/65 whitespace-nowrap">
-                        // {subcategory}
+                      <h3
+                        id={subcategory.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
+                        data-jump-target=""
+                        className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none whitespace-nowrap"
+                      >
+                        {subcategory}
                       </h3>
                       <div className="h-px flex-1 bg-panel-border/20" />
                       <span className="font-mono text-[8.5px] text-charcoal/28">
@@ -212,6 +216,7 @@ export default function TechToolsView({ categories, initialCategoryId }: Props) 
                           key={`${tool.name}-${idx}`}
                           name={tool.name}
                           description={tool.description}
+                          summary={tool.summary}
                           links={tool.links}
                           subcategory={tool.subcategory}
                           index={idx + 1}
