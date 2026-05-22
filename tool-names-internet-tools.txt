@@ -1,0 +1,709 @@
+﻿- Web Privacy Tools
+- Pake
+- deploy-your-own-saas
+- Namechk
+- UsernameGenerator
+- byp4xx
+- fast
+- Safing Portmaster
+- Pinging
+- NetBlocks
+- WiFi Analyzer
+- WireShark
+- Trippy
+- MxToolbox
+- NETworkManager
+- mRemoteNG
+- Netbalancer
+- Meshtastic
+- Arcai
+- SwitchHosts
+- MAC Address
+- masscan
+- PortChecker
+- Waveform Test
+- PacketSender
+- Password Privacy / 2FA
+- KeePassXC
+- Bitwarden
+- Proton Pass
+- Pashword
+- LessPass
+- KeeWeb
+- Spectre
+- VaultWarden
+- Bypass Paywalls Clean
+- PressReleased
+- Freedium
+- wallabag
+- ByeByePaywall
+- RemovePaywalls
+- smry.ai
+- Scientific Doc Paywall Bypass
+- Unpaywall
+- Linktree
+- Linkstack
+- Carrd
+- WonderLink
+- OneURL
+- BioSites
+- AlsoAt
+- Buster
+- NopeCHA
+- Privacy Pass
+- Democaptcha
+- ReCAPTCHA Demo
+- Discord Tools
+- Telegram Tools
+- Privacy-Focused Messengers
+- IRC Clients / Resources
+- XMPP Clients / Resources
+- Stoat
+- Mumble
+- Hack.chat
+- Gajim
+- Pidgin
+- MatterBridge
+- Fluxer
+- Miranda NG
+- Twist
+- Altus
+- WhatsApp-Chat-Exporter
+- WAIncognito
+- Guildbit
+- MiroTalk
+- Videolink2me
+- Jitsi
+- Briefing
+- Talky
+- GoTeam
+- Linkello
+- Chat Analytics
+- Mini QR
+- QArt Coder
+- QRcodly
+- QRCode Monkey
+- FreeQRApp
+- 2QR
+- barcodrod.io
+- Barcode Scanner
+- Binary Eye
+- QR Code Scanner
+- All about RSS
+- FeedButler
+- siftrss
+- Want My RSS
+- RSS.app
+- Kill the Newsletter
+- Android RSS Readers
+- Feedly
+- RSS Guard
+- Inoreader
+- Feedbro
+- Fluent Reader
+- Feed Flow
+- yarr
+- Prodottoinrete
+- NewsBlur
+- WebFeed
+- JungleReader
+- Tiny Tiny RSS
+- NewsPipe
+- RSS Bridge
+- MoRSS
+- RSSHub
+- RSS Finder
+- FetchRSS
+- RSS Diffbot
+- RSS Lookup
+- RuSShdown
+- PolitePol
+- Janicek
+- FiveFilters
+- Reddit Search Tools
+- Shodan
+- SimilarSiteSearch
+- sitedorks
+- Maigret
+- Soovle
+- DuckDuckBang
+- KeywordSheeter
+- BoardReader
+- Raw Web
+- VHSearch
+- 4chanSearch
+- tumbex
+- AlsoAsked
+- Wiby
+- Search My Site
+- Intelligence X
+- Sources.com
+- GrayHatWarfare
+- Yandex Search Operators
+- FindAGrave
+- rfc.fyi
+- OCCRP Aleph
+- OpenOwnership
+- CorporationWiki
+- OffshoreLeaks
+- judyrecords
+- Is it big?
+- ImportYeti
+- Social-Analyzer
+- TMHunt
+- BrownBook
+- txtai
+- HGSearch
+- useful-forks
+- MyCroftProject
+- Fagan Finder
+- AI Search Engines
+- Privacy Search Engines
+- Image Search Engines
+- Search All
+- 100 Search Engines
+- Mwmbl
+- Jumps
+- Trovu.net
+- Marginalia Search
+- TheOldNet
+- OceanHero
+- Ecosia
+- Presearch
+- Bing
+- Google
+- Lycos
+- WebCrawler
+- Million Short
+- Andi
+- Yandex
+- Vuhuv
+- Carrot2
+- Yahoo
+- AOL
+- All the Internet
+- eTools.ch
+- WorldWideScience
+- CSE Utopia
+- Virgil Game Search
+- TV Streaming CSE
+- Streaming CSE
+- Download CSE
+- Virgil Software Search
+- Rave Search
+- Torrent CSE
+- Audiobooks CSE
+- Comics CSE
+- Manga CSE
+- Virgil APK Search
+- Extensions CSE
+- Fonts CSE
+- Video Streaming CSE
+- Video Download CSE
+- Video Torrent CSE
+- Anime Streaming CSE
+- Anime Download CSE
+- Anime Torrent CSE
+- Audio Download CSE
+- Audio Torrent CSE
+- Game Torrent CSE
+- PastebinSearch
+- File Host Search
+- Linux Software CSE
+- ROM CSE
+- TikTok CSE
+- Telegago
+- SearchTweaks
+- Mastering Google Search Operators
+- Custom Sidebar
+- ISearchFrom
+- goosh
+- Google Trends
+- Google Images Tools Enhanced
+- View Image
+- Show Image Dimensions
+- Google DWIMages
+- Endless Google
+- Google Bangs
+- DisableAMP
+- Encode / Decode URLs
+- Flagfox
+- HTTPStatus
+- lychee
+- ChangeDetection.io
+- Linkify Plus Plus
+- Open Bulk URL
+- Link Lock
+- scrt.link
+- W.A.R. Links Checker Premium
+- XML-Sitemaps
+- IndexKings
+- Bypass All Shortlinks Debloated
+- Evade
+- Bypass.vip
+- RIP Linkvertise
+- TimerHooker
+- bypass.city
+- Adsbypasser
+- Bypass-Links
+- Yuumari
+- UploadHEaven
+- Bypass FREEdlink
+- WhereGoes
+- Shortshare
+- URL Expander
+- CheckShortURL
+- ExpandURL
+- TrueURL
+- Unshorten.me
+- Unshorten.It!
+- spoo.me
+- T.LY
+- is.gd
+- SmartLnks
+- TinyURL
+- refer.is
+- X.gd
+- Bom.so
+- By.com.vn
+- Bly.to
+- 1sh
+- s.id
+- Linkify
+- AnonShort
+- tny.lv
+- Jii.Li
+- f1.tf
+- h1.nu
+- u.to
+- Walee
+- momou
+- n9.cl
+- ej.uz
+- Goo.su
+- AI6
+- Kutt
+- Anon.to
+- Thinfi
+- Wikimedia Shortener
+- Suri
+- Down for Everyone or Just Me
+- Downdetector
+- Is The Service Down?
+- Is It Down Right Now
+- Dead Link Checker
+- Online Broken Link Checker
+- Dr. Link Check
+- HTTPStatus
+- UpDownToday
+- Email Providers
+- Email Privacy Services / Tools
+- InboxReads
+- Outlook
+- Delta Chat
+- Boomerang
+- Useplaintext
+- Meru
+- Got Your Back
+- ExtractMailAddress
+- scr.im
+- Betterbird
+- Mailspring
+- Outlook
+- ElectronMail
+- eM Client
+- RainLoop
+- Roundcube
+- Spike
+- Canary
+- Twobird
+- SmailPro
+- Zemail
+- Gmailnator
+- Tempr.email
+- Inboxes
+- Mail.tm
+- temp-mail.org
+- temp-mail.io
+- EduMail
+- Guerrilla Mail
+- Bloody Vikings!
+- Tmail.io
+- TempTom
+- CF Temp Mail
+- DuckSpam
+- TemporaryMail.com
+- TempEmail
+- Reusable.email
+- AltAddress
+- 22.Do
+- MailTicking
+- YOPmail
+- Temporary-Mail
+- 48hr.email
+- NiceMail
+- Mailnesia
+- Driftz Mail
+- Spambox
+- Maildrop
+- cs.email
+- UrTempMail
+- TempBoxPro
+- Email Generator
+- DisposableMail
+- AdGuard Temp Mail
+- Tempmailo
+- Xeramail
+- Vmail.DEV
+- TempMail
+- tempmail.altmails
+- Mail.cx
+- Mails.org
+- Moakt
+- MintEmail.com
+- Mohmal
+- MinuteInbox
+- mail-temp.com
+- AnonymMail.net
+- EmailOnDeck
+- TMail
+- More Sites
+- Email Aliasing Comparison
+- DuckDuckGo Email Protection
+- SimpleLogin
+- AdGuard Mail
+- Firefox Relay
+- addy.io
+- erine.email
+- 33mail
+- Aionda Mail
+- Mailgw
+- Floccus
+- linkhut
+- SuperMemory
+- Auto-Sort Bookmarks
+- Bookmarklets Guide
+- Get Bookmarklets
+- export-edge-collections
+- Sidebery
+- Raindrop.io
+- Start.me
+- Bookmark Manager Zero
+- Bort
+- wallabag
+- Dropmark
+- KeepThisSite
+- yabs.io
+- Centroly
+- Stacks
+- Zulu
+- GGather
+- Shiori
+- Instapaper
+- booky
+- linksort
+- Bookmarkme
+- Mission Control
+- buku
+- Linkwarden
+- Awesome Startpage
+- Startpage Emporium
+- WebOasis
+- MONKNOW
+- r/startpages
+- 8bitdash
+- 8 Bit Dashboard
+- Clippingmini
+- Draggo
+- Pearltrees
+- Nextcloud
+- Cling
+- FMHY Startpage
+- Re-Start
+- Symbaloo
+- Tixio
+- Bento
+- nightly
+- Protopage
+- tilde
+- Fluidity
+- AllMyFaves
+- start.me
+- Combobox
+- Anori
+- Mue
+- Bonjourr
+- Renewed Tab
+- mtab
+- nightTab
+- TablissNG
+- MaterialYouNewTab
+- hexagonTab
+- Perfect Home
+- Yet Another Speed Dial
+- Infinity New Tab
+- Momentum
+- Browser Comparisons
+- Desktop Browser List
+- Recommended Browsers
+- Android Browsers
+- BrowserBench
+- Browser Tamer
+- Just the Browser
+- VsyncTester
+- Gemini Portal
+- Rambox
+- ThemeBeta
+- Chrome Theme Studio
+- Chromium Flags
+- Hidden Settings
+- Hurl
+- Clean Flash Builds
+- Chrome Keyboard Shortcuts
+- Firefox Extensions
+- Firefox
+- Firefox Trains
+- arkenfox
+- Firefox Keyboard Shortcuts
+- Sine
+- Hidden Settings
+- Bookmark Search Plus 2
+- Default Bookmark Folder
+- FirefoxCSS Store
+- r/FirefoxCSS
+- Want My RSS
+- Doqment
+- WebExtension.org
+- Adblocking Extensions
+- Translation Extensions
+- Download Managers
+- Video Downloaders
+- Image Downloaders
+- Productivity / Site Blocking
+- Bookmark Managers
+- Tab Managers
+- Stylus
+- User Styles
+- Dark Reader
+- Firefox
+- Auto Tab Discard
+- Firefox
+- CRX Viewer
+- Omni
+- Extensions CSE
+- Chrome Stats
+- Vimium
+- Custom Scrollbars
+- Quick Tabs
+- Custom Page Zoom
+- User Agent Switcher
+- CRXInstaller
+- Snooze Tabs
+- AutoRefresh
+- Dictionaries
+- CustomRightClickMenu
+- BigSearch
+- Selecton
+- LinkHints
+- Magnifying Glass
+- Firefox
+- PageZipper
+- Turn Off the Lights
+- GlobalSpeed
+- Indie Wiki Buddy
+- Fake Data
+- External App Button
+- Stylebot
+- SocialFocus
+- Always Visible
+- Circadian
+- ColorZilla
+- Clippings
+- Emoji Addon
+- Copycat
+- Allow Right Click
+- Copy Selection as Markdown
+- CopyFish
+- Max Focus
+- Consent-O-matic
+- Cookie-Editor
+- Link Gopher
+- CopyTabTitleUrl
+- Distil
+- Offline Mode
+- Page Edit
+- SingleFile
+- Listly
+- Favicon Detector
+- Betterviewer
+- behind!
+- Smart Upscale
+- UI.Vision RPA
+- Streak
+- Native HLS
+- Session Alive
+- Broken Link Checker
+- GoFullPage
+- Bulk URL Opener
+- PronounDB
+- Tab Session Manager
+- Peek
+- Firefox Addons
+- FoxyTab
+- Firefox Containers
+- ContextSearch web-ext
+- FoxyLink
+- Snap Links Plus
+- Multithreaded Download Manager
+- cliget
+- FX Cast
+- CRXInstaller
+- Dark Background and Light Text
+- Bookmarks Organizer
+- Bookmark Batch-Updater
+- New Tab Override
+- Multi Tabs
+- Search Site WE
+- Firefox Color
+- Adaptive Tab Bar Colour
+- Gesturefy
+- User-Agent String Switcher
+- Chrome Mask
+- SoundFixer
+- Read Aloud
+- PWAsForFirefox
+- Chrome Web Store
+- chromium-web-store
+- Clipper
+- Extensity
+- CRX Downloader
+- WebCRX
+- Source Downloader
+- Transpose
+- Smart Mute
+- Volume Master
+- Text Blaze
+- TabCopy
+- Linkclump Plus
+- Bookmarks Cleanup
+- CrxMouse
+- Night Shift Redux
+- SmoothKeyScroll
+- Page Pad
+- Text to Image
+- Bookmark Dupes
+- Tabler
+- Lazy Tabs
+- Rearrange Tabs
+- Popup Tab Switcher
+- Caffeine
+- uAutoPagerize
+- Amino
+- Check My Links
+- Disable All Extensions
+- Userscripts
+- Turn Off the Lights
+- CSE
+- PiPifier
+- Greasy Fork
+- Awesome Userscripts
+- Google Search Userscripts
+- ScriptCat
+- Enhancements
+- Picviewer CE+
+- Userscript-Plus
+- Select All Checkboxes
+- Always Remember Me
+- Google Hit Hider
+- Remove Bing CK
+- DownloadAllContent
+- Microsoft Store Direct Download
+- Pinterest Power Menu
+- Fandom Focus
+- Maximize Video
+- Pagetual
+- Mouseover Popup Image Viewer
+- 4chan Archives
+- Internet Archive
+- Wayback Machine
+- Downloader
+- Web Archives
+- CachedView
+- Ghost Archive
+- WebArchive.io
+- ArchiveTeam
+- Perma.cc
+- Awesome Web Archiving
+- Data Hoarding
+- Webrecorder
+- Twitter Archiving
+- YouTube Archiving
+- ArchiveBox
+- MarkDownload
+- HTTrack
+- datahoarder-website-to-markdown
+- Tubeup
+- Irchiver
+- Monolith
+- WAIL
+- ReplayWeb
+- ArchiveWeb.page
+- WikiTeam
+- Wayback
+- DownloadNet (dn)
+- Wget2
+- Archivematica
+- wallabag
+- CopySite
+- Scoop
+- Awesome Web Scraping
+- Instant Data Scraper
+- SpiderSuite
+- Heritrix
+- 80legs
+- Crawly
+- Scrapling
+- web.scraper.workers.dev
+- Waymore
+- grab-site
+- brozzler
+- Crawl4AI
+- Awesome OSINT
+- Domain / DNS Info
+- Search Engine OSINT
+- IntelTechniques
+- Analyst Research Tools
+- Osintracker
+- Cyber Detective
+- MetaOSINT
+- Mitaka
+- Harpoon
+- OSINT Dojo
+- non-typical-OSINT-guide
+- What is OSINT?
+- The Key to Unlocking the Web's Secrets
+- Malfrat's OSINT Map
+- OH SHINT!
+- OSINT Combine
+- Bellingcat
+- Reuser
+- The Pika's OSINT ToolBox
+- Cyber Detective's OSINT Collection
+- Nixintel's OSINT Resource List
+- Technisette's OSINT Tools
+- OSINT
+- UK-OSINT
+- Awesome OSINT For Everything
+- OSINTFramework
+- AsINT\_Collection
+- OSINT4ALL
+- OSINT All
+- OSINT Tool Explorer
+- OSINT Resources
+- OSINT Essentials
+- OSINTgeek
+- Awesome Search Engines
+- Social-Media-OSINT
+- OSINT for Countries
+- DiscordOSINT
+- Awesome Telegram OSINT

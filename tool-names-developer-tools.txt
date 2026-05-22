@@ -1,0 +1,938 @@
+﻿- StackOverflow
+- XDA
+- Spiceworks Community
+- DEV Community
+- Blind
+- IndieHackers
+- CyberArsenal
+- Tech-Blogs
+- The Devs Network
+- KrebsOnSecurity
+- Lobsters
+- DevURLs
+- daily.dev
+- This Week in Rust
+- hackertab.dev
+- Data Visualization Tools
+- Machine / Deep Learning
+- Markup Tools
+- Awesome Minimalist
+- DevToys
+- DevDocs
+- ImHex
+- Free for Developers
+- Useful Tools
+- Tiny Helpers
+- Tiny Tools
+- Free For Life
+- WebdevHome
+- Free Developer Stuff
+- Addy
+- Prototypr
+- StackShare
+- Awesome Sys Admin
+- Awesome Design Patterns
+- Devhints
+- Student Developer Pack
+- choose-a-license
+- Eternal Terminal
+- Beszel
+- PuTTY
+- Webhook.site
+- XMLComparator
+- Nept
+- Libraries.io
+- Deps.dev
+- bin
+- N8N
+- lastversion
+- Sentry
+- Mockaroo
+- Big List of Naughty Strings
+- overmind
+- Wakatime
+- AppDevTools
+- Sharevb IT Tools
+- Web Toolbox
+- devina
+- Coders Tool
+- Awesome Software Quality
+- Awesome DOS
+- Awesome Smart TV
+- Every-programmer-should-know
+- App Store
+- Budibase
+- New Software
+- Open Source Guides
+- Dokploy
+- PublicWWW
+- Gaultier Blog
+- PM2
+- namae
+- up-for-grabs
+- Crontab Guru
+- Slint
+- Inno Setup
+- Etebase
+- minisign
+- Awesome iOS
+- UXArchive
+- App Mockups
+- Android Developer Roadmap
+- App ideas
+- IconKitchen
+- ChromeXt
+- XDGuru
+- APKEditor
+- CS Android
+- useAnimations
+- Official Android Courses
+- Android Libhunt
+- AndroidAssetStudio
+- React Native Apps
+- iOS Icon Gallery
+- PrivacyFlash-Pro
+- DB Engines
+- Awesome Opensource Data Engineering
+- Awesome Big Data
+- Awesome MySQL
+- DB Browser
+- DuckDB
+- Qdrant
+- Gel
+- AirTable
+- Baserow
+- NocoDB
+- Sqlable
+- Grafana
+- DBeaver
+- ChartDB
+- Ingestr
+- franchise
+- Console
+- Forge Comparison
+- Git Project Indexes
+- Fork
+- Codeberg
+- Gitea
+- Git
+- git-sim
+- GitKraken
+- lazygit
+- Gut
+- multi-gitter
+- Difftastic
+- pre-commit
+- commitlint
+- GIT Quick Stats
+- OSS Insight
+- Awesome First PR Opportunities
+- Awesome Actions
+- Awesome Browser Extensions
+- Awesome README
+- Awesome Badges
+- refined-github
+- GitHub Desktop
+- Gothub
+- GitHub Cheat Sheet
+- Languish
+- GitHub Dorks
+- Imgbot
+- Octobox
+- Download Directory
+- useful-forks
+- Graphite
+- SemanticDiff
+- OctoLinker
+- Octotree
+- Nightly.link
+- GhGrab
+- act
+- Star History
+- Gitstar Ranking
+- GithubReleasesBot
+- GitHub Readme Stats
+- Skill Icons
+- For the Badge
+- Profile Readme Generator
+- GitHub Spray
+- GitHub Snake
+- GitHub Profile Readme Generator
+- GitStalk
+- Beautify GitHub Profile
+- github-material-icons-extension
+- gist.io
+- Awesome Docker
+- Selfhosted-Apps-Docker
+- Docker
+- Podman
+- Portainer
+- Composerize
+- Hub Docker
+- LazyDocker
+- Dockle
+- Dive
+- WatchTower
+- Dozzle
+- Docker AutoHeal
+- Diun
+- Termible
+- CLI Cheat Sheets
+- Awesome CLI
+- VHS
+- Charm
+- OhMyPosh
+- Lip Gloss
+- sshx
+- ripgrep
+- Edbrowse
+- Command Not Found
+- Atuin
+- pueue
+- Zoxide
+- yoctocolors
+- open
+- VisiData
+- Public APIs
+- Awesome API Security
+- Streaming Site APIs
+- Manga APIs
+- Dev Scraping APIs
+- awesome-transit
+- NASA API
+- Free LLM API Resources
+- AI Price Compare
+- hoppscotch
+- Shizuku
+- CoorenLabs
+- Wyzie Subs
+- HTTPie
+- Rest Test Test
+- Beeceptor
+- Pipedream
+- FastAPI
+- Posting
+- Bruno
+- ReDoc
+- Mockable
+- Mockae
+- InstantAPIs
+- Stein
+- Userdoccers
+- discord-api-libs
+- Lanyard
+- Telegram Bot API
+- cf-workers-telegram-bot
+- Plaid
+- PDF Bot
+- PCGamingWiki Engine List
+- EnginesDatabase
+- Awesome Game Dev
+- Awesome Game Production
+- Learn Game Development
+- Sound Effect Sites
+- GameDev Torch
+- HiddenPalace
+- Tommti Systems
+- Tracy Profiler
+- Doshaven Programming List
+- Fantasy Consoles / Computers
+- Xelu's Controller Prompts
+- Basic Computer Games
+- Decompedia
+- Forgix
+- PyGames
+- Itch.io Assets
+- Kenney
+- Dev Assets
+- Quaternius
+- Game UI Database
+- Game-icons
+- r/GameAssets
+- AssetRipper
+- CraftPix
+- xonotic
+- GameDev Market
+- OpenGameArt.org
+- UnityFreaks
+- SteamGridDB
+- S2V
+- Fortnite Porting
+- 3D Models / Modeling Tools
+- Design Tools / Resources
+- Art Resources
+- Animation Resources
+- Writing Tools
+- Nuklear
+- HUDSxGUIS
+- SPARTAN Procedural
+- Game Sounds
+- Bleeper
+- Engine Simulator
+- The Sounds Resource
+- EZ Conversion
+- RPG / Fantasy Building Tools
+- Sprite Fusion
+- LDtk
+- CharPad
+- Laigter
+- Awesome Web Editor
+- Text Editors / Notes
+- VSCodium
+- JetBrains
+- Neovim
+- zed
+- Lite XL
+- Emacs
+- WebDen
+- Heynote
+- Edna
+- Trinket
+- Helix
+- HaystackEditor
+- Geany
+- Fresh
+- Brackets
+- Bluefish
+- CudaText
+- Lapce
+- ecode
+- Competitive Editor
+- JSON Hero
+- Blazepack
+- Apache NetBeans
+- TidalCycles
+- cloud
+- Heroku-Alt
+- Code Collaboration Platforms
+- Google Colaboratory
+- CodeSandbox
+- judge0
+- Atheos
+- Datalore
+- JSFiddle
+- html-css-js
+- Collabedit
+- CoderPad
+- Ideone
+- PlayCode
+- pad.ws
+- Openshift
+- Shell Cloud
+- bloop
+- glot.io
+- Notebooks.azure
+- Jupyter Server
+- Anywidget
+- CoCalc
+- CodePen
+- Platform.uno
+- InstantDB
+- Codeface
+- Android Studio
+- Acode
+- Squircle-CE
+- Sora
+- Visual Code Space
+- Spck Editor
+- VHEditor
+- diohub
+- GitSync
+- FlutterMarkdownEditor
+- Awesome Creative Coding
+- Prettier
+- editorcornfig
+- ThemesElection
+- Freeze
+- Tokei
+- myCompiler
+- DogBolt
+- Code2Flow
+- tuc
+- massCode
+- Ray
+- Meld
+- 0xacab
+- RTutor
+- BrickHub
+- Sourcegraph
+- Sourcecodester
+- ShortCode
+- AnimateCode
+- DelphiTools
+- Zathura
+- Adrenaline
+- JBin
+- Winddown
+- Decompiler
+- Awesome Neovim
+- Vim Bootstrap
+- NeoVim Kickstart
+- DotFyle
+- Lazy.nvim
+- FireNVim
+- neovide
+- instant.nvim
+- chatgpt.nvim
+- Vim Plug
+- VimAwesome
+- nerdtree
+- VimColorSchemes
+- The Ultimate vimrc
+- Vim Markdown
+- Awesome VSC Extensions
+- VSCode Web
+- github-vscode-icons
+- chatgpt-vscode
+- Open VSX
+- snippet-generator
+- Dendron
+- Discord Tools
+- vscode-smart-clicks
+- code-server
+- vscode-settings
+- insiders.vscode
+- VSCodeThemes
+- oslo
+- OpenCode
+- Aider
+- Gemini CLI
+- Windsurf
+- Cline
+- OpenHands
+- Continue
+- Cursor
+- GitWit
+- Google Antigravity
+- AI SDK
+- Open Interpreter
+- Code Web Chat
+- Supermaven
+- Qodo
+- Ampcode
+- getdesign.md
+- Arena
+- Design Arena
+- Z.ai
+- Kimi
+- AI Studio
+- Qwen
+- MiniMax AI
+- Perchance
+- v0
+- Bolt.new
+- Devv
+- Free LLM API Resources
+- CodeRabbit
+- Skills
+- Code2prompt
+- Gitingest
+- Pieces
+- Awesome Explorer
+- Awesome Cheatsheets
+- Codigo
+- Awesome Go
+- TheAlgorithms
+- Learn Programming
+- Benchmarks Game
+- Language Benchmarks
+- 30 Seconds of Code
+- generatedata.com
+- Try It Online
+- nunu
+- Learn X in Y minutes
+- OneLang
+- Crystalline
+- icr
+- explaine.rs
+- Verus
+- Automate The Boring Stuff
+- Python Cheatsheet
+- Python Patterns
+- Clean Code Python
+- RustPython
+- uv
+- Thonny
+- pylyzer
+- Online Python Compiler
+- ClipRun
+- Awesome C++
+- RoslynPad
+- RoslynQuoter
+- The Algorithms - C++
+- C++ Insights
+- CP-Algorithms
+- cppreference
+- Awesome Java
+- Awesome Kotlin
+- Obfuscator List
+- Adoptium
+- Recaf
+- bytecode-viewer
+- JEnv For Windows
+- WhichJDK
+- jadx
+- GraalVM
+- Awesome HTML5
+- HTML Reference
+- HTML-Minifier
+- HTMLRev
+- Markdown to HTML
+- APlayer
+- Awesome CSS
+- CSS Framework Tools
+- You Don't Need JavaScript
+- CSS Cheat Sheet
+- WhatUnit
+- Easings
+- CSS Layout Generator
+- CSSPeeper
+- Project Wallace
+- CSS Protips
+- Water.css
+- Style Stage
+- Glass UI
+- Hover.CSS
+- PixelArtCSS
+- Buttons.cool
+- CSS Doodle
+- CSS3 Transform
+- css3patterns
+- FilterBlend
+- Animista
+- Awesome JavaScript
+- Awesome UIKit
+- TypeScript Tools
+- Modern JS Cheatsheet
+- Vanilla List
+- Component Party
+- jsdfe
+- Minify JS
+- Underdash
+- Node.js Best Practices
+- Airbnb JavaScript Style Guide
+- Discord.js Guide
+- OpenChakra
+- React Suite
+- Mantine
+- Bulletproof React
+- Refine
+- Alright
+- Puck
+- Remotion
+- React SVG
+- Zorm
+- Million
+- novu
+- React Use
+- React Query
+- MMKV
+- Vision Camera
+- React PDF
+- react-spring
+- Awesome PHP
+- XAMPP
+- Clean Code PHP
+- Valinor
+- Spatie
+- Website Creation Resources
+- Awesome Tunneling
+- Awesome list of secrets in environment variables
+- Frontend Developers
+- Site Mockups
+- Archive / Scrape / Crawl Web Pages
+- Selfhosted Image Galleries
+- GoAccess
+- Formulaer
+- PlayWright
+- Automa
+- Flounder
+- Website Planet Tools
+- Tech Playground
+- Wappalyzer
+- shadcn-ui
+- Web Developer
+- GoatCounter
+- ElasticSearch
+- Tabler
+- Octopus
+- Wordpress
+- WireFlow
+- Web Dev Checklist
+- Dagu
+- cURL
+- http-server
+- Plow
+- Apache
+- Transform
+- LibreCaptcha
+- Media Chrome
+- OneLinePlayer
+- Motion
+- Medusa
+- Can I Use?
+- PocketBase
+- CS Chromium
+- Caddy
+- Directory Lister
+- BawkBox
+- The SSO Wall of Shame
+- Remarkbox
+- Can I Email?
+- Typebot
+- uMap
+- Google Map Themes
+- Microlink SDK
+- frp
+- wsrv.nl
+- WhatPWACanDo
+- PWABuilder
+- Chaos Frontend Toolkit
+- LocalHost
+- bat
+- Cloudflared
+- Bore
+- NConfig
+- Nginx-Admins-Handbook
+- Null PHP Script
+- Awesome Static Generators
+- Eleventy
+- Hugo
+- Webstudio
+- VitePress
+- Docusaurus
+- Carrd
+- Retype
+- Zola
+- Publii
+- Jekyll
+- docsify
+- GitBook
+- Pelican
+- Astro
+- site123
+- tilda
+- bravenet
+- cargo
+- Framer
+- Mobirise
+- Temper
+- Silex
+- mmm
+- Straw.Page
+- Own Free Website
+- Feather Wiki
+- SouPalt
+- Barely
+- Vvveb
+- Tails
+- 8b
+- Potion
+- Odie
+- ProjectVisBug
+- Anvil
+- Colorful
+- Color Palette Generators
+- Color Pickers
+- ColorHexa
+- Realtime Colors
+- Color \& Contrast
+- Colors \& Fonts
+- Khroma
+- Palettte
+- Colouris
+- PaletteGenerator
+- Colorable
+- Color Oracle
+- Simpler Color
+- Stylify Me
+- ColorZilla
+- MakeTintAndShade
+- Alphredo
+- Contrast Checker
+- Awesome Design Systems
+- Awesome Web Animation
+- Design Resources
+- Design Checklist
+- ThemeWagon
+- awwwards
+- CollectUI
+- Templatemo
+- Repth Themes
+- OpenUI
+- Contentdrips
+- SuperNova
+- StoryBook
+- UI Design Daily
+- Open UI
+- Same.new
+- CodeMyUI
+- Icon Shelf
+- Favicon Maker
+- Icon Horse
+- Meta-Mapper
+- SREWorks
+- the component gallery
+- Scrollbar.app
+- Emanote
+- Plunker
+- WebDesignMuseum
+- Bootstrap
+- PsdRepo
+- Daft Page
+- LandingPage
+- SaaS Pages
+- Zeplin
+- vite
+- Frontend Development
+- BoxCoding
+- Hydrogen
+- CSS Bed
+- Beer CSS
+- RoughAnnotations
+- Lorem.space
+- Visiwig
+- WebDesigner
+- NakerApp
+- HTTP Cats
+- GPLDL
+- WPLocker
+- Babiato
+- Visual CSS Editor
+- LocalWP
+- faustjs
+- Timber
+- KokoAnalytics
+- Awesome Regex
+- Regex Vis
+- regex101
+- RegexLearn
+- Regex Syntax Cheatsheet
+- iHateRegex
+- Melody
+- Globster
+- Awesome Accessibility
+- LightTest
+- Geekflare Tools
+- LambDatest
+- Pa11y
+- Accessibility Insights
+- ADG
+- Web Vitals Leaderboard
+- Prometheus
+- Carbon Calculator
+- UX Check
+- Rankchart
+- Testmail
+- Responsive Viewer
+- Responsively
+- LightHouse
+- SVG / Vector Icons
+- Vector Editors
+- Method
+- 3DSVG
+- SVGFilters
+- Crayon
+- FrameSVG
+- SVGO
+- SVG Tutorial
+- SVGX
+- Vector Express
+- svgco
+- SVG2JSX
+- Pattern Monster
+- Blobs
+- Broider
+- ShapeDivider
+- SVG Path
+- svg-path-editor
+- Get Waves
+- Blobmaker
+- AutoTracer
+- JSLogo
+- Dynamic DNS Services / Subdomains
+- Self-Hosted Wiki Alts
+- Awesome-Web-Hosting
+- Awesome Cloudflare
+- VPS Comparison Chart
+- TLD-List
+- censys
+- Check-Host
+- Oracle Cloud
+- InstantDomain
+- Pyfunceble
+- DNForum
+- DNSTwist
+- WhoisRequest
+- OONI
+- Server Hunter
+- GetDeploying
+- srvrlss
+- Instances (Vantage)
+- Val Town
+- GoodBadISPs
+- Sandstorm
+- vichan
+- ProBoards
+- MyBB
+- HumHub
+- UNIT3D
+- OpenPanel
+- 24x7
+- Uptime Kuma
+- Kener
+- redirect.name
+- iana
+- SubDomainizer
+- AtSameIP
+- IPIP.NET
+- Check for Cloudflare
+- Cloudflare Radar
+- CloudFlare DDNS Updater
+- Meta Tag Gen
+- Cloudflare Workers
+- vercel
+- netlify
+- alwaysdata.com
+- ALCHosting.net
+- AwardSpace.com
+- GoogieHost.com
+- Freehostia.com
+- FreeHostingEU.com
+- Batcave.net
+- CGIWebHost.com
+- FreeHostingNoAds.net
+- 100WebSpace.com
+- 50Webs.com
+- Somee.com
+- FreeWebPageHost.Net
+- WebFreeHosting.net
+- Biz.ly
+- biz.ht
+- Freehostspace.com
+- RUNHOSTING.com
+- FreeSiteHosting.com
+- Freehostpro.com
+- Redwebhost.com
+- Tekcities.com
+- Agilityhoster.com
+- 125mb.com
+- TinkerHost.net
+- biz.nf
+- ATSPACE
+- UHostFull.com
+- Leprd
+- x10hosting
+- Profreehost
+- Render
+- pythonanywhere
+- IBM Cloud
+- Fleek
+- Stormkit
+- Cloudflare Pages
+- surge
+- GitHub Pages
+- Codeberg Pages
+- Sourcehut Pages
+- Neocities
+- nekoweb
+- Web 1.0 Hosting
+- pages.gay
+- AppWrite
+- BitBucket
+- Sevalla
+- Reocities
+- Awesome Formal Verification
+- pyWhat
+- Open Source Security Software
+- osquery
+- Canarytokens
+- Nuclei
+- Zeek
+- Crowdsec
+- BBRadar
+- X-Force Exchange
+- OpenSCA-CLI
+- Unblob
+- Security Onion Solutions
+- spur.us
+- Greenbone
+- Evervault
+- Observatory
+- UUID Tools
+- DarkVisitors
+- Al-Khaser
+- CVE Details
+- AllSafe
+- Iocaine
+- Awesome Cyber Security
+- Awesome CI/CD Security
+- Awesome GPT Agents
+- Cybersecurity Learning
+- Advisory Database
+- Bazaar
+- ThreatMap
+- Rawsec's CyberSecurity Inventory
+- CybersecResources
+- Awesome List
+- Cybersecurity-Resources
+- Infosec Resources
+- CyberSecTools
+- My Infosec Awesome
+- Awesome Pen Testing
+- Awesome Hacking
+- Metasploit
+- MobileApp-Pentest-Cheatsheet
+- Pentest Contracts
+- OSCP-Exam-Report-Template-Markdown
+- Kali NetHunter
+- Free DNS Resolvers
+- mess with dns
+- DNS over HTTPS
+- DNSPerf
+- DNS Propagation
+- MXToolBox
+- DNSDumpster
+- Web Check
+- WebAuthn
+- Hydra
+- SuperTokens
+- SupaBase
+- GNUnet
+- ZAP
+- IP Intelligence
+- Fail2Ban
+- Tempesta FW
+- IPv6 Leak Test
+- How To Turn off IPv6
+- Awesome Cryptography
+- mitmproxy
+- HTTPToolkit
+- Mozilla SSL
+- SSLLabs
+- Hitch
+- Let's Encrypt
+- SSL for Free
+- CertAlert
+- acme.sh
+- mkcert
+- SSLMate CAA
+- Reverse Engineering Resources
+- Awesome Malware Analysis
+- IDA Pro
+- GHIDRA
+- Frida
+- x64dbg
+- Reverse Engineering
+- LemmeDebug
+- Radare
+- Rizin
+- Flare VM
+- REMnux
+- dnSpyEx
+- ROP Emporium
+- APK Editor Studio
+- MSTG
+- Malimite
+- challenges.re
+- horsicq

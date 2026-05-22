@@ -1,0 +1,470 @@
+﻿- Image to Text
+- Text to Speech
+- Study / Research
+- Data Visualization
+- SortMyList
+- Goblin.tools
+- OpenPaper
+- SmartDoc
+- Diffr
+- Count Duplicates
+- WindowTextExtractor
+- Unredact
+- Textify
+- BeefText
+- Asciify
+- Scanner
+- Calligrapher.ai
+- telescopictext
+- DocuSeal
+- TemplateLab
+- GitHub Gists
+- pastes.dev
+- PrivateBin
+- Rentry
+- Markbox
+- Katbin
+- Text.is
+- Yasosu
+- bpa.st
+- snowbin
+- Ghostbin
+- cryptgeon
+- pst.moe
+- Pastee
+- Paste.to
+- TxtBin
+- dpaste.com
+- Paste
+- Codepasta
+- lesma
+- NoPaste
+- Pastebin.com
+- pastemyst
+- CentOS Pastebin
+- snippet.host
+- ProtectedText
+- Memochō
+- txt.fyi
+- MarkdownPastebin
+- Sparked Paste
+- Riseup Pad
+- itty.bitty
+- Opengist
+- DeepL
+- Google Translate
+- Kagi Translate
+- Translate Web Pages
+- r/Translator
+- Mozhi
+- LibreTranslate
+- Translate Shell
+- Bing Translator
+- Yandex Translator
+- Reverso
+- Nice Translator
+- Translator++
+- Translumo
+- Poedit
+- Morsecode World
+- Sign Translate
+- Text to Sign
+- Braille Tanslator
+- LingoJam
+- ASR Leaderboard
+- Whisper
+- SpeechTexter
+- Revoldiv
+- Vibe
+- Buzz
+- Handy
+- TransPocket
+- WhisperX
+- Parakeet
+- SpeechNotes
+- LilySpeech
+- VoiceNotebook
+- CyberChef
+- Base64 Decode
+- Auto Decoder
+- Online Tools
+- Ciphey
+- Universal Encoding Tool
+- cryptii
+- Coder
+- URLDecode
+- SearchDecode
+- quipqiup
+- StegCloak
+- Base64 Repair
+- Chrome
+- LanguageTool
+- QuillBot
+- Grammarly
+- Writing Tools
+- Harper
+- DeepL Write
+- Kagi Proofread
+- Scribens
+- EditGPT
+- ProWritingAid
+- Outwrite
+- Emojipedia
+- Emoji Engine
+- winMoji
+- EmojiRequests
+- Cult of the Party Parrot
+- Pepe Server Archive
+- Emojify
+- Amp What
+- Unicode Explorer
+- CopyChar
+- Unicode Table
+- Symbol.so
+- Graphemica
+- SymbolSelect
+- Character Map
+- Unifoundry
+- Cool Symbol
+- emotes.io
+- Monkeytype
+- keybr
+- Layouts Wiki
+- Typing Guide
+- Typ.ing
+- Typing.com
+- Typing Club
+- typing.academy
+- TypeRacer
+- NGram Type
+- Typersguild
+- TypingStudy
+- 10fastfingers
+- List of Text Editors
+- TextEditors
+- Android Text Editor
+- Code Editors / IDEs
+- Notepad++
+- NotepadNext
+- EncryptPad
+- Notepads
+- FastNotes
+- Kompad
+- Sublime Text
+- Zim Wiki
+- tomboy-ng
+- SciTE
+- Android Note-Taking
+- Obsidian
+- Publish Notes
+- AnyType
+- AppFlowy
+- Logseq
+- Notesnook
+- Simplenote
+- AFFiNE
+- Notion
+- Resources
+- Lokus
+- Trilium
+- Mochi Cards
+- Silicon
+- Flotes
+- QOwnNotes
+- vNote
+- Tiddly
+- Org-roam
+- Desklamp
+- Memos
+- Papers.IM
+- Joplin
+- MicroPad
+- WriteDown
+- DocMost
+- KeyNote NF
+- SilentNotes
+- Google Keep
+- Crypt.ee
+- Standard Notes
+- Saber
+- Butterfly
+- Xournal++
+- BookStack
+- Office Activation
+- LibreOffice
+- OnlyOffice
+- Microsoft Office
+- Calligra
+- Ziziyi
+- Office365Version
+- Proton Docs
+- Zen
+- Leaflet
+- Browserpad
+- Online Notepad
+- Notepad
+- onlinenotepad
+- notepad-online.net
+- ssavr
+- notepad-online.com
+- JustNotePad
+- NotesOnline
+- PasteePad
+- Notes
+- Shrib
+- MemOnNotepad
+- Write Box
+- dDocs
+- NimbleText
+- ZippyJot
+- KiloDoc
+- TinyList
+- TextSlave
+- GhostText
+- AnyTextEditor
+- Obsidian Canvas
+- FreeMind
+- Kinopio
+- Freeplane
+- Mindomo
+- Yuque
+- MindMapp
+- are.na
+- Domino
+- GitMind
+- xTiles
+- Capacities
+- bubbl
+- Heimer
+- Cubox
+- vym
+- Tangent
+- markmap
+- Coggle
+- CardSmith
+- MindMeister
+- Slatebox
+- Google Docs
+- CryptPad
+- Mattermost
+- Codeshare
+- HackMD
+- Taskade
+- Socket
+- Whimsical
+- Ellipsus
+- Etherpad
+- SharePad
+- Pixso
+- FidusWriter
+- Overleaf
+- Typst
+- Rustpad
+- OnlineInterview.io
+- MTEB Leaderboard
+- QSV
+- Proton Sheets
+- tad
+- Framacalc
+- Jamovi
+- Excel Easy
+- Excel Macro Mastery
+- ExcelJet
+- Vertex42
+- Plain Text Table
+- SubjectiveSort
+- Structifi
+- TadViewer
+- AI Writing Tools
+- RPG / Fantasy Writing Tools
+- Writer
+- Manuskript
+- NovelWriter
+- Linked
+- Heavyweight
+- Tuesday JS
+- RenPy
+- Fortelling
+- Infinite Story
+- Gateway Forge
+- LanguageIsAVirus
+- Twinery
+- TextUSM
+- Idyll
+- STARC
+- Rarebit
+- PolyGlot
+- How to annotate literally everything
+- Label Buddy
+- rNote
+- MonsterWriter
+- Android To-Do Apps
+- Calendars / Events
+- Goblin.tools
+- TickTick
+- Super Productivity
+- Columns
+- YearCompass
+- daily.place
+- SuperList
+- dooit
+- ToDo List
+- Diry AI
+- Fokus
+- OpenToDoList
+- Microsoft To Do
+- NullBoard
+- LunaTask
+- ToDoZero
+- LifeAt
+- Tasks
+- Taskwarrior
+- Vikunja
+- TAAG
+- REXPaint
+- ASCII Paint
+- shabzefilters
+- Love ASCII
+- Image to Braille
+- AnsiLove
+- lvllvl
+- HTML Tools
+- Markdown Guide
+- generatedata.com
+- markup.rocks
+- Markup Validation Service
+- YAMLine
+- yq
+- readme.so
+- Tableconvert
+- Linkspector
+- Table Magic
+- Clipboard2Markdown
+- gd2md-html
+- MarkItDown
+- Quartz
+- Markdown Tutorial
+- emoji-cheat-sheet
+- MarkD
+- HedgeDoc
+- Markdown Monster
+- Zettlr
+- Dillinger
+- MarkdownTools
+- MarkLiveEdit
+- Glow
+- MarkdownLivePreview
+- Vrite
+- MindForger
+- Markpad
+- Typst
+- Overleaf
+- MathCheap
+- SimpleTex
+- Learn LaTeX
+- Tables Generator
+- LaTeX-OCR
+- Detexify
+- Nerd Fonts
+- OpenDyslexic
+- Typewolf
+- Cava's Pixel Resources
+- Oldschool PC Fonts
+- FiraCode
+- FontSource
+- Font Squirrel
+- DaFont
+- 1001 Fonts
+- Modern Fonts Stacks
+- Velvetyne
+- uncut.wtf
+- Beautiful Web Type
+- FontRepo
+- Bunny Fonts
+- Google Fonts
+- FontShare
+- OnlineWebFonts
+- Fontlot
+- Fontsly
+- FOSSFonts
+- Fonts4Free
+- FontSpace
+- Online Fonts
+- CDNFonts
+- Fontesk
+- FontStruct
+- iFonts
+- DownloadFonts
+- AbstractFonts
+- FontGet
+- FreeFontsDownload
+- Fonts2u
+- Awwwards
+- GlukFonts
+- Iconian
+- Fonts CSE
+- Font Piracy 101
+- wFonts
+- BeFonts
+- Free Fonts Family
+- Cufon Fonts
+- FontsFree
+- DFonts
+- Font.Download
+- dafont.style
+- Font Spring
+- FontBolt
+- FFonts
+- DaFontFree
+- FontsHub
+- Font Meme
+- FONToMASS
+- Mr.E-Fonts
+- psd\_fonts
+- 1001 Free Fonts
+- Font Interceptor
+- FontDrop
+- Font Analyzer
+- Transfonter
+- FontBase
+- Fonts Ninja
+- Colors \& Fonts
+- DS-Fusion
+- Formito
+- Type Terms
+- The Good Line-Height
+- Font List
+- Type Design Resources
+- FontoGen
+- Make WordArt
+- Polona Typo
+- Text Color Fader
+- Fast3DText
+- Textanim
+- Batname
+- NFG's Arcade Font Maker
+- The Ransomizer
+- Glitch
+- TypeTrials
+- V-Fonts
+- enFont
+- Fontjoy
+- FontSprite
+- BitFontMaker2
+- FontEdit
+- YayText
+- Messletters
+- FSymbols
+- Fancy Text
+- Cool Fonts Online
+- Discord Fonts
+- Aesthetic Font Generator
+- Text-Generator
+- BoldTextGenerator
+- TextEditor
+- FontGenerator.design
+- Font Generator Online
+- FontGenerator.cc
+- FontGen
+- FontGenerator.cool
+- Fancy Text Decorator

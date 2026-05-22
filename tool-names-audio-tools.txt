@@ -1,0 +1,795 @@
+﻿- /music streaming/
+- Spotify Clients
+- YouTube Music Tools
+- YouTube Music Mobile
+- Pear Desktop
+- Moosync
+- Audion
+- BeatBoss
+- PlayTorrio
+- yewtube
+- pulse
+- BetterSoundcloud
+- Nuclear
+- FunkWhale
+- Muffon
+- Sonosano
+- YouTube Music
+- Monochrome
+- SoundCloud
+- ArtistGrid
+- Spotify
+- Deezer
+- Audiomack
+- Pandora
+- Jango
+- SoundClick
+- BeatBoss
+- Mixupload
+- zvu4no
+- jiosaavn
+- MTV REWIND
+- The 120 Minutes Archive
+- Ballsack TV
+- VersusMedia
+- Hype Machine
+- Bandcamp
+- Mirlo
+- Newgrounds Audio
+- Audius
+- AudionautiX
+- LostMyspace
+- Openwhyd
+- The Urban Emporium
+- DatPiff
+- MixtapeMonkey
+- DMO
+- Vapor Archive
+- Jamendo
+- Keygen Music
+- OperaOnVideo
+- Classical Music Only
+- New Age Music
+- Themesong
+- YT Music Deleter
+- YouLy+
+- Spot Transfer
+- YT Upload Clear
+- UCSB Cylinders
+- Dream of the 90s
+- CitizenFreak
+- Irama Nusantara
+- DigLib
+- Tasso Music
+- i78s
+- FirstSounds
+- Russian Records
+- Measuring Polyphony
+- 365 Radio
+- bt.etree
+- Bootleg.fm
+- hate5six
+- BBC Radio 1 Essential Mix
+- MiroPPB
+- setlist.fm
+- r/MusicalBootlegs
+- JamBase
+- Relisten
+- DimeADozen
+- Guitars101
+- TheTradersDen
+- Lossless Legs
+- etreedb
+- MuseBootlegs
+- LiveBootlegConcert
+- TopDJMixes
+- GOA PsyTrance Livesets
+- BassBlog
+- TestPressing
+- Rave Recording
+- Volume
+- ConcertArchives
+- SongKick
+- Cadenza
+- Konserthuset
+- WorldConcertHall
+- ToolDriveProject
+- RATM.live
+- RHCPLiveArchive
+- Radio Nowhere
+- Phish.in
+- Android
+- Spotify Podcasts
+- Pocket Casts
+- PodcastToMP3
+- Podchaser
+- Listen Notes
+- Rephonic
+- Apple Podcasts
+- PodParadise
+- Podbean
+- Podbay
+- BBC Podcasts
+- Podcast Index
+- Player FM
+- Podcast Republic
+- Relay.fm
+- podcast-dl
+- PodScripts
+- OpenPodcast
+- castero
+- Grover
+- EchoWalk
+- PodSync
+- Android
+- Drone Zone
+- myNoise
+- Rainy Mood
+- Rainbow Hunt
+- Pluvior
+- Rainyscope
+- ambiphone
+- Ambie
+- Click Bath
+- IMissTheOffice
+- Homesick
+- VirtOcean
+- imissmycafe
+- Relaxing Sounds
+- lofi-player
+- Wisdom Tree
+- Generative.fm
+- Earth.fm
+- HaloMe
+- CanvasCycle
+- Ambient Mixer
+- ChillOuts
+- You are Listening To LA
+- TheWhiteNoiseMachine
+- FMSTREAM
+- Android
+- BBC Sounds
+- Drive n Listen
+- iHeartRadio
+- Internet Archive
+- Relic Radio
+- Old Time Radio Downloads
+- Braggoscope
+- AudioFilesDrive
+- radiobot
+- raddio
+- Instant.audio
+- Flicker Radio
+- QMPlay2
+- StreamURL
+- LiveATC
+- Broadcastify
+- OpenMHz
+- RadioReference
+- Worldwide Radio
+- SomaFM
+- NTS Radio
+- RadioParadise
+- KWSX Radio
+- Radio.dubbeh
+- My Radio
+- 0nRadio
+- 1a Radio
+- Radiolise
+- Radiodeck
+- Quasar Radio
+- Freeform Radio
+- Vijay's Radio Vibes
+- AccuRadio
+- Q-3
+- DubLab
+- BoxRadio
+- You Radio
+- Audiophile
+- Vidbox Radio
+- ShoutCast
+- Zeno.fm
+- Live365
+- Internet-Radio
+- WFMU
+- deepcut.fm
+- Radiooooo
+- Tilderadio
+- UpBeat
+- radio.uwu
+- Nectarine
+- HollowEarthRadio
+- Campus FM
+- RadioSide
+- streamWriter
+- Radio Garden
+- LiveOnlineRadio
+- OnlineRadioBox
+- Streema
+- Radio.net
+- RadioPuppy
+- myTuner
+- TuneYou
+- vTuner
+- radioline
+- TheNonStop Radio
+- Radio Guide
+- radio-locator
+- Shortwave.Live
+- Xiph
+- UKRadioLive
+- ilovemusic
+- Tvradiotuner
+- VRadio
+- WQXR
+- Pool Suite
+- LISTEN.moe
+- J1 Radio
+- Openings Moe
+- Ongaku
+- 420.moe
+- Rekt FM
+- Nightwave Plaza
+- Nightride.fm
+- Di.fm
+- 0x40
+- CoreRadio
+- HappyHardcore
+- Daft Punk Cafe
+- Flow-Fi
+- CityHop
+- Chillhop
+- Lofi and Games
+- FlowTunes
+- Lofizen
+- Moon Phase Radio
+- Ambient Sleeping Pill
+- LofiCafe
+- Ambicular
+- FreeCodeCamp
+- Lofi Club
+- Loofi
+- Lofi Limo
+- DevTunes FM
+- Moss Garden
+- Coding Cat
+- Awesome Spotify Stats
+- Android
+- SpotX
+- Spicetify
+- Spot SponsorBlock
+- Lofi
+- Trikatuka
+- Kotify
+- Versefy
+- Spotify Karaoke
+- Syrics
+- LoaderSpot
+- Random Music Generator
+- Opslagify
+- Kira
+- Chart My Music
+- Tierify
+- Canvas Downloader
+- ListenByLabel
+- xmplaylist
+- Exportify
+- spotgen
+- Spoqify
+- SpotTransfer
+- Playlist Hospital
+- Spotlistr
+- Playlistor
+- Playlist Randomizer
+- Sort Your Music
+- Spotify Dedup
+- Timelineify
+- Share Liked Songs
+- Spotify Playlist Archive
+- lucida
+- squid.wtf
+- Monochrome
+- DoubleDouble
+- Jumo-DL
+- QQDL
+- Antra Web
+- ARCOD
+- Spotisaver
+- EzConv
+- YTiz
+- cobalt
+- YouTube Downloaders
+- Nicotine+
+- Exact Audio Copy
+- Firehawk52
+- OnTheSpot
+- Antra
+- Votify
+- streamrip
+- OrpheusDL
+- SpotiFLAC
+- DeemixFix
+- Murglar
+- Audion
+- Shira
+- QobuzDownloaderX
+- qobuz-dl
+- you-get
+- BandCamp-DL
+- AccurateRip
+- Music Hunters
+- DeezerMusicBot
+- deezload2bot
+- BeatSpotBot
+- scdlbot
+- vkmusbot
+- soundcloudaudiodownloader
+- GlomaticoPinkMusicBot
+- GlomaticoBlueMusicBot
+- Music Download Guide
+- ArtistGrid
+- Audio Download CSE
+- r/xTrill
+- FLAC Attack
+- FlacMusic
+- Lossless-FLAC
+- DiscogC
+- LosslessAlbums
+- Music and Books
+- IntMusic
+- Gangster
+- GetRockMusic
+- Core Radio
+- AlterPortal
+- T2Tunes
+- ShareMania
+- Plastinka
+- Exystence
+- ThemFire
+- Music Rider
+- FindFlac
+- iPlusFree
+- VK::MP3
+- musify
+- ccMixter
+- RockDownload
+- punk.cat
+- SongsLover
+- Ezhevika
+- Internet Archive
+- SoundClick
+- z3.fm
+- nodata
+- LEAKED
+- Tancpol
+- New Album Releases
+- mp3db
+- DeadPulpit
+- Saavn Web
+- CannaPower
+- GloryBeats
+- Cliggo
+- Mixupload
+- FreeMP3Cloud
+- zvu4no
+- xprm
+- SongStems
+- Geocities Midis
+- Music Hoarders
+- MiroPPB
+- Take Metal
+- Metalminos
+- In The Fog
+- TechnicalDeathMetal
+- HeavyMetalRarities
+- GetMetal Club
+- Nuclear Holocaust
+- We Need Match
+- Sophie's Floorboard
+- 1Gabba
+- Gabber
+- ELEKTROBEATS
+- EDMWaves
+- PSYFP
+- DMO
+- MyPromoSound
+- ElectronicFresh
+- Ektoplazm
+- KTI Music
+- 1Trance
+- 1Techno
+- GlobalDJMix
+- oVPN DJ Mixes
+- TestPressing
+- LOA2K
+- inconstant sol
+- EssentialHouse
+- Bluegrass Archive
+- BurningTheGround
+- aboutdisco
+- ProgRockVintage
+- Classical Music Download
+- FoggyNotion
+- chucrute com quiabo
+- FlatbackAndClassical
+- madrotter-treasure-hunt
+- Kiddie Records
+- HQ Hip Hop
+- Rapload
+- Rap War
+- Dez Flight Underground
+- Certified Mixtapez
+- Mixtape Collections
+- The Noise-Arch Archive
+- Bootleg Radioclash
+- Tom Lehrer Songs
+- MusicRepublic
+- KPopFLAC
+- KPopMusicDownload
+- The T-SQUARE Plaza
+- FondSound
+- Hipstrumentals
+- General Torrent Sites
+- Redacted
+- New-Team
+- Orpheus
+- Lidarr
+- Audio Torrent CSE
+- TPB Music
+- TheMixingBowl
+- Metal Tracker
+- BlackTorrent
+- MixtapeTorrent
+- TorrentTech
+- TribalMixes
+- the /kpg/ torrent
+- PandaCD
+- NFO DB
+- PreDB.eu
+- NCS
+- YouTube Audio Library
+- UppBeat
+- BenSound
+- Unminus
+- Free Music Archive
+- free-stock-music
+- Pixabay Music
+- Fugue
+- Chosic
+- DOVA-SYNDROME
+- tunetank
+- purple-planet
+- Incompetech Music
+- joshwoodward
+- EverythingMoe
+- Wotaku
+- Squidify
+- Sitting on Clouds
+- MusicDex
+- 3ost
+- RenovationRecords
+- KDramaOST
+- AniPlaylist
+- OtakuOst
+- AMV
+- Doujin Cafe (Discord)
+- Internet Checkpoint
+- Khinsider
+- RetroTracks
+- The 16-bit Audiophile Project
+- VGMPF
+- Chip Player JS
+- VGMRips
+- Zophar's
+- HCS Forum
+- GameOST
+- exotica
+- OC Remix
+- 8Beats
+- VIP VGM
+- Cirrus Retro
+- JetSetRadio
+- Rainwave
+- RPGGamers Radio
+- VGMRadio
+- VGM
+- NSF j
+- HVSC
+- Exotica
+- VGMdb
+- RateYourMusic
+- Last.fm
+- Muspy
+- Tunefind
+- MixesDB
+- Discogs
+- EntertainMe
+- Odesli
+- Has it Leaked
+- MyPitchFork
+- DAHR
+- TrackID
+- SecondHandSongs
+- SoundtrackTracklist
+- dbkpop
+- Loudness War
+- TuneMyMusic
+- TheIndieRockPlaylist
+- Metal Archives
+- Six Degrees of Hip-Hop
+- IDM Discovery
+- ClassicRockHistory
+- Talpa Search
+- rate.house
+- libib
+- Obscurify
+- MediaTracker
+- Maloja
+- AME
+- Music Chart Maker
+- AnyDecentMusic
+- RYM Ultimate Box Set
+- r/ifyoulikeblank
+- Essential Charts
+- Sputnik
+- AlbumOfTheYear
+- AllMusic
+- MusicBrainz
+- Pitchfork
+- Charts and Culture
+- Shfl
+- Melondy
+- Talk Classical List
+- 45Cat
+- MusicTo
+- DigitalDreamDoor
+- CET
+- /music discovery/
+- RateYourMusic Charts
+- EveryNoise
+- Musicroamer
+- Kworb
+- BestSellingAlbums
+- Chosic
+- Random Song
+- Album Roulette
+- 1001 Albums Generator
+- ArtistPath
+- OrbitMusic
+- MusicGenreTree
+- Identifying Music Genres
+- Musicmap
+- Map of Metal
+- Music.ishkur
+- HappyHardcore
+- TranceFix
+- Awesome Last.fm
+- bleh
+- OpenScrobbler
+- Pano Scrobbler
+- Last.fm Stats
+- Web Scrobbler
+- Edit Scrobbles
+- Last.fm Labs
+- Chart My Music
+- Last.fm Iceberg
+- TagCloud
+- Mainstream Calc
+- Descent
+- Binaural Audio
+- System Audio Tools
+- Voice Change / Clone
+- Text to Speech
+- Audio Glossary
+- FFmpeg
+- Hydrogenaudio Knowledgebase
+- CUETools
+- Phiola
+- Vocaroo
+- Tunebat
+- Librescore Downloader
+- M3Unator
+- Android Audio Players
+- Foobar2000
+- Components
+- WACUP
+- AIMP
+- MusicBee
+- Astra
+- Harmonoid
+- Namida
+- Audion
+- TimeStretch
+- MusikCube
+- ncmpc++
+- XMPlay
+- Butterchurn Visualizer
+- CatNip
+- PartyEngine
+- Nagi
+- Snowify
+- Museeks
+- Audacious
+- Strawberry
+- Exaile
+- quodlibet
+- deadbeef
+- Swing
+- Nora
+- Dopamine
+- Feishin
+- Aonsoku
+- LedFx
+- RockBox
+- VinylEngine
+- Navidrome
+- Airsonic Advanced
+- koel
+- iBroadcast
+- AudioRelay
+- Lyrion
+- SnapCast
+- mStream
+- Mopidy
+- Black Candy
+- RMPC
+- Polaris
+- Gonic
+- Ampache
+- MP3Tag
+- MusicBrainz Picard
+- YADG
+- Beets
+- TagEditor
+- tone
+- Kid3
+- Imploded
+- MetaTogger
+- TagScanner
+- Cover Search Engine
+- SpotifyArt
+- Apple Artwork
+- MediUX Album Covers
+- Classic Rock Covers
+- Album Art Downloader
+- Google Song Identification
+- Shazam
+- WatZatSong
+- FlairMax
+- AudioTag
+- SongFinder
+- SoundHound
+- Audile
+- Audire
+- AmbientMusicMod
+- SampleSeek
+- AHA Music
+- LyricsTranslate
+- dumb
+- AZLyrics
+- Lyrical Nonsense
+- AnimeSongLyrics
+- Lyricify
+- Versefy
+- LRCGET
+- LRCLIB
+- Karaoke Mugen
+- Spotify Karaoke
+- Versefy
+- Syrics
+- FB2K-SyncedLyrics
+- LRC Maker
+- X-Minus
+- Kara.moe
+- Awesome Music
+- Awesome Sheet Music
+- Music Sheet Collections
+- MuseScore
+- The ABC Music Project
+- Chordly
+- Piascore
+- r/sheetmusic
+- VGLeadSheets
+- Omnizart
+- Audiveris
+- Oemer
+- Sheet Music Scanner
+- music-reader
+- Sound Slice
+- Nutkus
+- Audio Quality Check Guide
+- Fakin' The Funk?
+- Sonic Visualizer
+- Spek
+- AudioAuditor
+- Acoustic Spectrum Analyzer
+- Visual Analyser
+- Friture
+- Spectro
+- Cambia
+- Awesome Music Production
+- AI Audio Generation
+- Separate Voice / Instrumentals
+- AudioSEX
+- ProducerLibrary
+- Beat Battle
+- OpenUtau
+- Tonocracy
+- Tone3000
+- PresetShare
+- VSTSkins
+- Tenacity
+- FL Studio
+- OpenMPT
+- Team V.R releases
+- Ossia
+- Mixxx
+- Moises
+- plugdata
+- Element
+- Bosca Ceoil
+- Music Experiment
+- WaveTracker
+- FamiStudio
+- LittleSoundDJ
+- Rosegarden
+- Basic Pitch
+- BitMidi
+- Mod Archive
+- Fadr
+- Audioalter
+- BandLab
+- Drumhaus
+- UltraBox
+- Efflux
+- Sequencer
+- Petaporon
+- Signal
+- WebSynths
+- NoiseCraft
+- VirtualPiano
+- MK-1
+- VO Pads
+- React Guitar
+- Theremin
+- Pantam Playground
+- WD-1
+- PIXELSYNTH
+- Slowed and Reverb
+- BeatMachine
+- MIDI Recorder
+- AudioZ
+- Team V.R releases
+- G-MEH
+- AudioWavePro
+- Free VST Plugins
+- Open-Source Audio Plugins
+- Surge XT
+- Vital
+- Dexed
+- Decent Sampler
+- Pianobook
+- VCV Rack 2
+- IEM Plug-in Suite
+- Plugins4Free
+- Krush
+- samplv1
+- Maim
+- r/SynthRecipes
+- Kits4Beats
+- PLUGG SUPPLY
+- OrangeFreeSounds
+- Stash
+- FreeSoundsLibrary
+- BandLab Samples
+- SoundGator
+- GDC
+- BigSoundBank
+- Citizen DJ
+- Free Adobe SFX
+- r/LoopKits
+- SmoredBoard
+- MyInstants
+- SampleBrain
+- BBC Sound Effects
+- SNES Soundfonts

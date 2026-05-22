@@ -1,0 +1,138 @@
+﻿- r/opendirectories
+- EyeDex
+- Nicotine+
+- eMule
+- mega.archive (Discord)
+- Napalm FTP
+- Sala De Espera
+- Open Directory Downloader
+- DemoZoo
+- CD.TextFiles
+- Defacto2
+- Internet Archive
+- r/DataHoarder
+- MaxRelease
+- SCNLOG
+- SceneSource
+- WorldSRC
+- DirtyWarez
+- WarezForums
+- AditHD
+- wJungle
+- Novanon
+- ReleaseBB
+- Psycho downloads
+- Merlin Warez
+- 1DDL
+- WarezLoad
+- Katz DDL
+- TehParadox
+- downTURK
+- SoftArchive
+- Download CSE
+- 4Shared
+- File Host Search
+- Linktury
+- MediafireTrend
+- WarezOmen
+- SunXDCC
+- Adobe Alternatives
+- Editing Software
+- Virgil Software Search
+- CracksURL
+- LRepacks
+- Mobilism
+- Nsane Forums
+- AlternativeTo
+- AIOWares
+- Moum
+- RetroSystemRevival
+- Libreware
+- Rarewares
+- Software Heritage
+- ZXPInstaller
+- Awesome Open Source
+- Git Project Indexes
+- new(releases)
+- Is It Really FOSS
+- SourceForge
+- OSSSoftware
+- Fossies
+- Gadgeteer
+- FossHub
+- OSS Gallery
+- Opensource Builders
+- OpenAlternative
+- opensourcealternative.to
+- Awesome CLI Apps
+- Free Software Directory
+- FOSS Wiki
+- Awesome Free Software
+- Awesome Python Applications
+- Software Package Managers
+- FluentStore
+- DanStore
+- MajorGeeks
+- Softpedia
+- Realityripple
+- OlderGeeks
+- FilePuma
+- FileEagle
+- LO4D
+- SoftwareOK
+- GRC
+- Uwe Sieber
+- Software Informer
+- PortableApps.com
+- Nirsoft
+- Suckless
+- VETUSWARE
+- OldVersion
+- Vintage Software Collection
+- Commodore Software
+- Awesome IRC
+- IRC Client Comparisons
+- IRC Guide
+- AdiIRC
+- Konversation
+- Convos
+- Libera
+- Usenet-Uploaders
+- Usenet Guide / Automation Setup
+- r/usenet
+- Indexer List
+- r/UsenetInvites
+- NZBHydra2
+- SceneNZBs
+- NzbPlanet
+- Orion
+- binsearch
+- NZB King
+- NZB Index
+- Newznab
+- NZBStars
+- usenet-crawler
+- GingaDaddy
+- NZBFinder
+- OldUSe
+- altHUB
+- Spotweb
+- r/usenet Providers
+- r/usenet Deals
+- Usenet Provider Deals
+- Usenet Providers Map
+- Free Trials
+- sabnzbd
+- NZBUnity
+- NZBGet
+- magicNZB
+- Usenet File Hashes
+- Debrid Services Comparison
+- Debrid Compatible Apps
+- TorBox
+- Real-Debrid
+- Cocoleech
+- PixelDrain Bypass
+- iTeraPlay
+- Multi-OCH Helper
+- Debrid Media Manager

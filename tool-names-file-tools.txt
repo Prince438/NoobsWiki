@@ -1,0 +1,342 @@
+﻿- File Scanners
+- czkawka
+- UnLock IT
+- Icaros
+- copyparty
+- HTTPDirfs
+- WinBtrfs
+- mergerfs
+- ExampleFile
+- AB Download Manager
+- JDownloader
+- Debloat Guide
+- IDM
+- Go Speed
+- Brisk
+- imFile
+- FDM
+- aria2
+- Persepolis
+- pyLoad
+- ArrowDL
+- Varia
+- Surge
+- DownThemAll
+- HTTP Downloader
+- SuperCompression
+- NanaZip
+- PeaZip
+- CompactGUI
+- Fileforums
+- TurboBench
+- Efficient Compression Tool
+- ezyZip
+- unzip-online
+- Unrar online
+- WinRAR
+- ouch
+- UPX
+- File Converter
+- VERT
+- Convert to it!
+- Aconvert
+- Docling
+- ConvertCSV
+- Encoding Converter
+- Deark
+- text2img
+- Shutter Encoder
+- videoutils
+- Xconvert
+- FreeConvert
+- ConvertFiles
+- Convertio
+- AnyConvert
+- MiConv
+- Docpose
+- ConvertX
+- Directory Opus
+- DoubleCMD
+- Sigma
+- ChromaFiler
+- Yazi
+- One Commander
+- Free Commander
+- Q-Dir
+- Files
+- Explorer++
+- Far Manager
+- Total Commander
+- TablacusExplorer
+- Vifm
+- eza
+- superfile
+- FileBrowser Quantum
+- Everything
+- Recoll
+- AnyTXT
+- AstroGrep
+- fselect
+- fd
+- sist2
+- Cryptomator
+- VeraCrypt
+- age
+- REM
+- Picocrypt-NG
+- gocryptfs
+- Kryptor
+- SyncThing
+- FreeFileSync
+- MyPhoneExplorer
+- allwaysync
+- Resilio
+- TangoShare
+- SpectrShare
+- SmartFTP
+- rsync
+- Unison
+- restic
+- Kopia
+- Rescuezilla
+- FolderClone
+- BackupPC
+- TeraCopy
+- UrBackup
+- duplicity
+- Duplicati
+- AOMEI Backupper
+- Borg
+- USBImager
+- Data Recovery
+- TestDisk
+- DMDE
+- PhotoRec
+- Windows File Recovery
+- MultiPar
+- ShadowExplorer
+- Image Metadata Tools
+- Audio Metadata Tools
+- Fileinfo
+- Phockup
+- MediaInfo
+- MediaPeek
+- ExtractMetadata
+- PrivMeta
+- Attribute Changer
+- WhatsLink
+- Magika
+- TagSpaces
+- SKTimeStamp
+- SDelete
+- Eraser
+- Parted Magic
+- SSuite File Shredder and Burner
+- Low Level Format
+- RED
+- Advanced Renamer
+- FoliCon
+- MediaMonkey
+- tinyMediaManager
+- FileBot
+- TVRename
+- Shoko
+- PDFGrep
+- PDFEncrypt
+- GraphPaper
+- PDF Bookmark Editor
+- PDF Fixer
+- OpenSign
+- Google Drive PDF Downloader
+- PDFCoffee
+- PrintFriendly
+- BentoPDF
+- ihatepdf
+- PDFCraft
+- BreezePDF
+- itinypdf
+- PDFClear
+- DigiPDF
+- Sejda
+- ILovePDF
+- PDRResizer
+- PDF2Go
+- DPDF
+- Digiparser
+- Stirling-PDF
+- PDF24
+- PDF4QT
+- Foxit
+- xPDFReader
+- PDF Arranger
+- Rare2PDF
+- Tideflow
+- PDFconvert
+- Marker
+- PDFCrowd
+- Issuu
+- WebToPDF
+- Dangerzone
+- LocalSend
+- Blip
+- Photon
+- KDE Connect
+- Wormhole
+- Warpinator
+- Phone Link
+- Sefirah
+- QRServ
+- Magic Wormhole
+- croc
+- LANDrop
+- NahrajSoubor
+- FilePizza
+- IPFS
+- Resources
+- aQRoss
+- OnionShare
+- FileZilla
+- Sendme
+- WinSCP
+- robocopy
+- PairDrop
+- JustBeamIt
+- Surge
+- ToffeeShare
+- Station307
+- new.space
+- WebWormhole
+- Clip Fish
+- Awesome File Hosts
+- Video File Hosts
+- Image File Hosts
+- Gofile
+- Pixeldrain
+- VikingFile
+- Buzzheavier
+- ZeroFS
+- Rootz
+- Catbox
+- Pillowcase
+- FileQ
+- FileMirage
+- Send.now
+- Patrins
+- storage.to
+- Litterbox
+- Transfer.it
+- MediaFire
+- Filester
+- DesiUpload
+- FileDitch
+- hostb
+- MixDrop
+- Ranoz
+- Fast File
+- 1fichier.com
+- Filebin
+- file.kiwi
+- UpZur
+- UploadHive
+- FireLoad
+- FEX.NET
+- DropMeFiles
+- MixLoads
+- CryptFiles
+- GigaFile
+- UploadNow
+- eDisk
+- Drop Download
+- SwissTransfer
+- Dfiles
+- BowFile
+- TheUserCloud
+- Hexupload
+- Tempcloud
+- GrosFichiers
+- FileFast
+- Akira Box
+- Imagenetz
+- FilePort
+- MegaUp
+- uDrop
+- DataVaults
+- Filegoat
+- Bestfile
+- ufile.io
+- Internxt Send
+- JuiceBox
+- UserDrive
+- pCloud Transfer
+- Temp.sh
+- Mega4Upload
+- Workupload
+- Send
+- JUMBOmail
+- TransferSize
+- KrakenFiles
+- DropMB
+- Lufi
+- FileGo
+- Lufi
+- FilesPayouts
+- DooDrive
+- Clicknupload
+- Smash
+- MultiUp.io
+- PolyUploader
+- DataNodes
+- Limited Upload Hosts
+- Pearcrypt
+- Eylenburg Comparisons
+- Self-Hosted Cloud Storage
+- Google Drive
+- MEGA
+- disk.yandex
+- Filen
+- Dropbox
+- MediaFire
+- icedrive
+- pCloud
+- FEB
+- Keybase
+- Proton Drive
+- InfiniCLOUD
+- CryptFiles
+- JumpShare
+- FileLu
+- CyberFile
+- MrOwl
+- Blomp
+- Backblaze B2
+- Cloudflare R2
+- Tresorit
+- 1Cloud File
+- Fix-OneDrive-Zip
+- Rclone
+- gclone
+- Air Explorer
+- RaiDrive
+- Cyberduck
+- SpaceDrive
+- OpenList
+- MultCloud
+- xpipe
+- FileStash
+- OneClickRun
+- DriveUploader
+- ZIP Extractor
+- Google Drive CLI
+- goodls
+- gdrivedl
+- ISAAC
+- goindex-extended
+- gdurl
+- Google Drive Clone Bot
+- GD-EFC Link Encryptor
+- DriveRename
+- Sharer
+- Megabasterd
+- MEGA Account Generators
+- MEGA Desktop
+- MEGA CMD

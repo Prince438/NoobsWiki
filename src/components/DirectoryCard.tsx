@@ -1,6 +1,8 @@
 "use client";
 
 import { ExternalLink } from "lucide-react";
+import BookmarkButton, { type BookmarkItem } from "@/components/BookmarkButton";
+import ShareButton from "@/components/ShareButton";
 
 interface DirectoryCardProps {
   name: string;
@@ -21,6 +23,15 @@ export default function DirectoryCard({ name, url, description, index, label }: 
   } catch {
     // keep as-is
   }
+
+  const bookmarkItem: BookmarkItem = {
+    id: `agency-${name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`,
+    name,
+    type: "agency",
+    description,
+    externalUrl: url,
+    pageUrl: "/government-agencies",
+  };
 
   return (
     <div className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel transition-all duration-300 hover:border-forest/45 hover:shadow-[0_4px_24px_rgba(0,0,0,0.35)] overflow-hidden">
@@ -55,7 +66,7 @@ export default function DirectoryCard({ name, url, description, index, label }: 
       </div>
 
       {/* Footer link */}
-      <div className="mx-5 mb-4 pt-3 border-t border-panel-border/30">
+      <div className="mx-5 mb-4 pt-3 border-t border-panel-border/30 flex items-center justify-between gap-2">
         <a
           href={url}
           target="_blank"
@@ -64,8 +75,12 @@ export default function DirectoryCard({ name, url, description, index, label }: 
           onClick={(e) => e.stopPropagation()}
         >
           <ExternalLink className="h-2.5 w-2.5 flex-shrink-0 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
-          <span className="truncate max-w-[200px]">{displayUrl}</span>
+          <span className="truncate max-w-[160px]">{displayUrl}</span>
         </a>
+        <div className="flex items-center gap-2 flex-shrink-0">
+          <ShareButton url={url} />
+          <BookmarkButton item={bookmarkItem} />
+        </div>
       </div>
 
     </div>

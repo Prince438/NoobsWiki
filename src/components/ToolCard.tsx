@@ -1,6 +1,8 @@
 "use client";
 
 import { ExternalLink } from "lucide-react";
+import BookmarkButton, { type BookmarkItem } from "@/components/BookmarkButton";
+import ShareButton from "@/components/ShareButton";
 
 export interface ToolEntry {
   name: string;
@@ -19,6 +21,15 @@ export default function ToolCard({ name, description, summary, links, index }: T
   const primaryLink = links.find((l) => l.label === "Website") ?? links[0];
   const extraLinks = links.filter((l) => l !== primaryLink);
 
+  const bookmarkItem: BookmarkItem = {
+    id: `tool-${name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`,
+    name,
+    type: "tool",
+    description: summary ?? description,
+    externalUrl: primaryLink?.url,
+    pageUrl: "/tech-tools",
+  };
+
   return (
     <div className="group relative flex flex-col rounded border border-panel-border bg-panel transition-all duration-300 hover:border-forest/45 hover:shadow-[0_4px_24px_rgba(0,0,0,0.35)] overflow-hidden">
 
@@ -28,7 +39,7 @@ export default function ToolCard({ name, description, summary, links, index }: T
       {/* Corner marks */}
       <div className="absolute inset-0 pointer-events-none tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
 
-      {/* Name row — always pinned to top */}
+      {/* Name row */}
       <div className="flex items-start justify-between gap-2 p-4 pb-2">
         {primaryLink ? (
           <a
@@ -50,19 +61,19 @@ export default function ToolCard({ name, description, summary, links, index }: T
         </span>
       </div>
 
-      {/* Summary — always directly below name */}
+      {/* Summary */}
       {summary && (
         <p className="px-4 pb-2 font-sans text-[11px] leading-relaxed text-charcoal/58 line-clamp-2">
           {summary}
         </p>
       )}
 
-      {/* Flex spacer — pushes footer to bottom of card */}
+      {/* Flex spacer */}
       <div className="flex-1" />
 
-      {/* Footer: feature tags + links — always at bottom */}
+      {/* Footer: description + extra links */}
       {(description || extraLinks.length > 0) && (
-        <div className="flex flex-col gap-2 px-4 pb-3">
+        <div className="flex flex-col gap-2 px-4 pb-2">
           {description && (
             <p className="font-sans text-[11px] leading-relaxed text-charcoal/45 line-clamp-2">
               {description}
@@ -87,6 +98,13 @@ export default function ToolCard({ name, description, summary, links, index }: T
           )}
         </div>
       )}
+
+      {/* Action row */}
+      <div className="flex items-center justify-end gap-2.5 px-4 pb-3 pt-2 border-t border-panel-border/15">
+        <ShareButton url={primaryLink?.url} />
+        <BookmarkButton item={bookmarkItem} />
+      </div>
+
     </div>
   );
 }

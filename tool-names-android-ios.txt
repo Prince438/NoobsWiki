@@ -1,0 +1,1055 @@
+﻿- Mobilism
+- 4PDA
+- RockMods
+- PlatinMods
+- PDALife
+- AN1
+- Virgil APK Search
+- APKVision
+- LiteAPKs
+- Modyolo
+- LeeAPK
+- Nsane Forums
+- Sbenny
+- APKSum
+- Android Zone
+- AndroidRepublic
+- Android Oyun Club
+- Androeed
+- AndroPalace
+- 9Mod
+- A2Z APK
+- APK4Free
+- Release APK
+- ReXDL
+- Youarefinished Mods
+- Satriyaid
+- ANiK555\_Mods
+- alexstranniklite
+- AMRTSOFFICIAL
+- Sam Mods
+- MustHave
+- Tech Day
+- Modules Repository
+- EasyAPK
+- AyraProject
+- Android FOSS
+- Awesome F-Droid
+- Awesome Shizuku
+- FossifyOrg
+- Droid-ify
+- F-Droid
+- Repositories
+- Neo Store
+- IzzyOnDroid
+- You Apps
+- GrapheneOS Apps
+- Free App Giveaways
+- APKMirror
+- UpToDown
+- APKCombo
+- Aurora Store
+- APKPure
+- Android Ultimate Collection
+- APKToy
+- Material-You-app-list
+- NikGapps
+- Shelf
+- Launcher Comparison Table
+- Lawnchair
+- Niagara Launcher
+- SmartLauncher
+- Kvaesitso
+- Smart Dock
+- KISS
+- Discreet Launcher
+- Lunar Launcher
+- mLauncher
+- Escape launcher
+- NeoLauncher
+- Unlauncher
+- Notcha
+- PixelLauncherMods
+- QuickSwitch
+- Activity Launcher
+- App Manager
+- Lucky Patcher
+- Guide
+- Obtainium
+- AntiSplit-M
+- InstallerX-Revived
+- Direct Download From Google Play
+- GBox
+- InstallWithOptions
+- Raccoon
+- APKeep
+- CorePatch
+- Zygisk Detach
+- Beta Maniac
+- Let Me Downgrade
+- APKAdmin
+- Morphe Patch Index
+- ReVanced-Patch-Bundles
+- Morphe / ReVanced Obtainium Guide
+- Morphe
+- ReVanced Manager
+- ReVanced Non-Root
+- ReVanced Magisk Module
+- ReVanced CLI
+- Enhancify
+- /reddit clients/
+- Social Media Tools
+- YouTube Apps
+- Twitch Adblockers
+- Revenge
+- Kettu
+- Continuum
+- Xtra
+- piko
+- Nobook
+- Voyager
+- Tusky
+- Watomatic
+- Beeper
+- Fedilab
+- Graysky
+- Mumla
+- Aliucord
+- Dumpus
+- DankChat
+- OldLander
+- Kuroba
+- piko (Instagram)
+- TikTokModCloud
+- Telegram-Themer
+- Launch Chat
+- WaEnhancer
+- Whatsapp Backup Reader
+- WhatsAppCleaner
+- SE Extended
+- AyuGram
+- Nagram
+- Forkgram
+- Octogram
+- Nullgram
+- Cherrygram
+- Manufacturer Specific
+- Device Comparisons
+- XDA
+- ADB AppControl
+- Shizuku
+- Plexus
+- GSMHosting
+- AVNC
+- EtchDroid
+- Techbone
+- ADB101
+- Device Info
+- TaskManager
+- Swappa
+- Fix My Speakers
+- FlashDim
+- Fire Toolbox
+- Canta
+- Universal Android Debloater v2
+- Hail
+- De-Bloater
+- Uninstall Bloatware
+- Blocker
+- Tweaker
+- GearJail
+- r/AndroidThemes
+- Mobile Abyss
+- WallWidgy
+- RBoard
+- PixelXpert
+- DualWallpaper
+- Wallpaper Engine
+- Muzei
+- r/iWallpaper
+- wallhaven.cc
+- Wallpapers Clan
+- wallman
+- WallYou
+- Paperize
+- r/Amoledbackgrounds
+- Diffuse
+- Candybar
+- Phonetones
+- SaverTuner
+- Charge Meter
+- BatteryGuru
+- Batt
+- aBattery
+- AccuBattery
+- Ampere
+- Battarang
+- ClassicPowerMenu
+- FUTO Keyboard
+- Florisboard
+- HeliBoard
+- Gboard
+- SwiftKey
+- Unexpected Keyboard
+- AnySoftKeyboard
+- KGPT
+- CleverKeys
+- Thumb-Key
+- Flickboard
+- KeyboardGPT
+- Sayboard
+- KeyMapper
+- Quick Cursor
+- Caffeine
+- FakeStandby
+- Twilight
+- KineStop
+- Screen Recorder
+- Quik
+- Yet Another Call Blocker
+- Messages
+- ConnectYou
+- OpenContacts
+- BCR
+- Logger
+- Scammer.Info
+- Prepaid SIM Cards
+- Walkie-Talkie
+- SMS-IE
+- Awesome Android Root
+- Bootloader Unlock: Wall of Shame
+- Android Docker
+- ADB-and-FastbootPlusPlus
+- aShell
+- LogFox
+- Amazing Temp Root
+- Orangefox
+- Smali Patcher
+- Rezygisk
+- Vector
+- PixelFlasher
+- KernelSU
+- Module Manager
+- KernelSU-Next
+- Magisk
+- SukiSU-Ultra
+- APatch
+- Magisk Alpha
+- ReSukiSU
+- MagiskOnWSALocal
+- MTKClient
+- Mtk Easy Su
+- FolkPatch
+- Android Privacy ROM Comparisons
+- GSI List
+- GrapheneOS
+- Custom ROM Hardware
+- LineageOS
+- AsteroidOS
+- Google Lens
+- Reincubate Camo
+- Libre Camera
+- GrapheneOS Camera
+- Blackmagic Camera
+- ProofMode
+- Open Camera
+- FadCam
+- googlecameraport
+- Gcam-Services-Provider
+- BarcodeScanner
+- TimeLapseCam
+- Image Toolbox
+- PicsArt
+- Hypic
+- Snapseed
+- Lightroom
+- PhotoLayers
+- Photo Editor
+- Pixomatic
+- Material Photo Widget
+- PhotoScan
+- Color Camera
+- Imagepipe
+- FFShare
+- RealSR
+- AndroidOCR
+- SauceNAO
+- AppMockUp
+- Scrambled Exif
+- VES-Image-Compare
+- Fossify Gallery
+- Aves
+- Photoo
+- Google Photos Revanced
+- PhotosGo
+- Ente
+- Photok
+- UhuruPhotos
+- Gallery 2.0
+- PhotoSwooper
+- Android Calculators
+- MacroDroid
+- Unified Remote
+- Gadgetbridge
+- Tooly
+- LightCut
+- Inverse AI
+- Compressor
+- auto-auto-rotate
+- Shelter
+- Geto
+- Catima
+- Shortcut Maker
+- Touch The Notch
+- UbikiTouch
+- TapTap
+- Circle to Search
+- notesGPT
+- AudioNote
+- AndroidMic
+- Chatbox
+- Arc
+- Safe Headphones
+- Voiceliner
+- Mopria Scan
+- TouchDroid
+- TMPAD
+- Google Slides
+- Listy
+- Gameye
+- VoiceGPT
+- Tunity
+- Trail Sense
+- SensorServer
+- OpenBubbles
+- uTag
+- GitNex
+- LSPatch
+- Black Screen
+- Flip DND
+- AutoDND
+- Audify
+- Volumee
+- VolumeLockr
+- DNS Adblocking
+- Rethink DNS
+- AdGuard Premium
+- uBlock Origin
+- Re-Malwack
+- AdAway
+- PrivateDNSAndroid
+- Awesome Android Security
+- Privacy-Focused Operating Systems
+- Encrypted Messengers
+- Android 2FA
+- Android Proxy Clients
+- Triage
+- Rethink DNS
+- URLCheck
+- Exodus
+- Amarok
+- InviZible
+- Intra
+- PermissionManagerX
+- AppLock
+- Orbot
+- Privacy Guides
+- DroidFS
+- Network Survey
+- TrackerControl
+- LibChecker
+- Sapio
+- NetGuard
+- Open SSTP Client
+- SimpleLogin
+- Keyoxide
+- HMA-OSS
+- JustUseApp
+- QR Code Tools
+- Hacker News Apps
+- KeePassDX
+- Thunderbird
+- Network Survey
+- PairVPN Hotspot
+- Wolfram Alpha
+- NewsBang
+- Glasswire
+- PINCredible
+- Bookmark Manager Zero
+- NativeAlpha
+- EasyOpenLink
+- PassAndroid
+- Conversations
+- IRCCloud
+- NFC Tools
+- Ruffle Android
+- SubX
+- WiFiman
+- Fing
+- Firefox Extensions
+- Brave
+- Cromite
+- IronFox
+- Firefox
+- Iceraven Browser
+- Fennec
+- FFUpdater
+- Eruda
+- Hermit
+- Feeder
+- ReadYou
+- Twine
+- Pluma RSS
+- FeedMe
+- Vesti
+- Aggregator News
+- nunti
+- CapyReader
+- Mobile / Desktop Transfer
+- 1DM
+- SD Maid SE
+- MiXplorer
+- Material Files
+- Fossify File Manager
+- ZArchiver
+- Pairdrop
+- Cx File Explorer
+- Aria2App
+- Round Sync
+- AdbFileManager
+- Dropbox
+- RSAF
+- iyox-Wormhole
+- CrocGUI
+- ZipXtract
+- ConnectBot
+- Disky
+- Adebar
+- Folder in Folder
+- Marc Files
+- PDF Toolkit
+- HexViewer
+- Android Code Editors
+- Obsidian
+- Easy Notes
+- Xed-Editor
+- FUTO Voice
+- Look Up
+- Markor
+- neutriNote
+- Quillpad
+- AppFlowy
+- Safe Notes
+- NotePad
+- Walling
+- Moe Memos
+- Writer Plus
+- Saber
+- Novelist
+- Logseq
+- OSS Document Scanner
+- Google Sheets
+- Episteme Reader
+- Paperless
+- DiaryVault
+- Read Aloud AI
+- DeepLAndroid
+- UnicodePad
+- Clipboard CopyPaste
+- Tasks
+- SnapTick
+- Any.do
+- Alkaa
+- EverydayTasks
+- ntfy
+- DoNotNotify
+- Quick-Tile-Settings
+- KWGT Widgets
+- Smartspacer
+- Notification Listener
+- ClassicPowerMenu
+- Sleep as Android
+- JTX
+- QRAlarm
+- Calendar Notifications
+- Birday
+- Sectograph
+- Daily You
+- FamilyWall
+- Clock
+- Chrono
+- Text Editors
+- Loop Habit Tracker
+- Table Habit
+- StayFree
+- Folksable
+- HabitBuilder
+- Grit
+- moreDays
+- TheFor
+- Unlock Master
+- Mindful
+- one sec
+- ScreenZen
+- MyBrain
+- SimpleTimeTracker
+- Success
+- Goodtime
+- timeto.me
+- Navigation / Transport Apps
+- Find My Device (FMD)
+- OwnTracks
+- Android-Mock-Location
+- MetaRadar
+- WTMP
+- LockWatch
+- Alpi Maps
+- LavSeeker
+- Transportr
+- EV-Map
+- Fuel.io
+- Aftership
+- Breezy Weather
+- WeatherMaster
+- OpenWeather
+- OSS Weather
+- AccuWeather
+- Rain
+- Weawow
+- KWeather
+- Meteored
+- Overmorrow
+- Bura
+- omWeather
+- Flowx
+- Suntimes
+- Emulators on Android
+- EmuReady
+- Termux
+- JoiPlay
+- Limbo
+- Ubuntu on Android
+- r/EmulationOnAndroid
+- GameHub Lite
+- GameNative
+- Source Engine 4 Android
+- AdrenoToolsDrivers
+- Android Emulators
+- Android on Linux
+- Android on macOS
+- WSABuilds
+- Google Play Games
+- MuMuPlayer
+- MSI App Player
+- Docker Android
+- Genymotion
+- NoxPlayer
+- GameLoop
+- MEmu
+- postmarketOS
+- Ubuntu Touch
+- Mobian
+- Linux Deploy
+- Multi-Platform Torrent Clients
+- Flud
+- LibreTorrent
+- Tixati
+- BiglyBT
+- tTorrent
+- FDM
+- TorrServe
+- 1DM
+- Trireme
+- Transdroid
+- nzb360
+- Multi-Platform Readers
+- Librera
+- Moon+ Reader
+- Legado
+- Readera
+- Voice
+- Smart Audiobook Player
+- ElevenReader
+- Sirin
+- PlayBook
+- Prestigio
+- Episteme Reader
+- JellyBook
+- Chaka
+- Anx Reader
+- eBoox
+- Sav PDF Viewer Pro
+- MJ PDF
+- Fable
+- Myne
+- Openreads
+- Wikipedia
+- WikWok
+- ComicScreen
+- LNReader
+- SoftGoods
+- Bionic Reading
+- Mihon
+- Dantotsu
+- Futon
+- Mangayomi
+- Perfect Viewer
+- Manga Tag
+- Kinoko
+- Kitsune
+- Song Identification Apps
+- Seal
+- ytdlnis
+- SpotiFLAC-Mobile
+- Seeker
+- Poweramp Equalizer
+- AutomaTag
+- AudioRelay
+- Pano Scrobbler
+- CApod
+- Modded Spotify
+- Friend Activity
+- LibrePods
+- SongSync
+- FastLyrics
+- ListenBrainz
+- Murglar
+- QobuzDownloaderX-Mobile
+- NewPipe
+- Redomi
+- BeatBoss
+- Eclipse
+- SoundCloud
+- Soundbound App
+- Saturn
+- Trebel
+- Deezer
+- Music Time Travel
+- Airbuds
+- Music Speed Changer
+- Super Sound
+- audio-analyzer
+- Musekit
+- Ad Silence
+- Poweramp
+- Musicolet Music Player
+- Namida
+- VLC for Android
+- Foobar2000
+- tempus
+- AIMP
+- Gramophone
+- Eclipse
+- Oto Music
+- Rhythm
+- Symphony
+- Auxio
+- Retro Music Player
+- Nyx Music Player
+- Phonograph Plus
+- Lotus
+- Salt Player
+- Harmonoid
+- Finamp
+- Metrolist
+- Morphe
+- ReVanced YouTube
+- Musify
+- BloomeeTunes
+- Meld
+- SimpMusic
+- Namida
+- Gyawun
+- RadioDroid
+- AntennaPod
+- Pocket Casts
+- IHeartRadio
+- MixCloud
+- TuneIn
+- PodAura
+- Snipd
+- Escapepod
+- Podbean
+- Podcini
+- Transistor
+- Radio Garden
+- Nightwave Plaza
+- LISTEN.moe
+- Calm
+- Medito
+- Waking Up
+- Rain Sounds
+- A Soft Murmur
+- HealthyMinds
+- Serenity
+- Noice
+- Tide.fm
+- myNoise
+- ZenTimer
+- Lo-fi Clouds Radio
+- Chroma Doze
+- Android TV / Firestick
+- Free w/ Ads Streaming
+- Stremio
+- Nuvio
+- PlayTorrio
+- CloudStream
+- Docs
+- Kodi
+- HDO Box
+- Syncler
+- BubblesUPNP
+- CineHD
+- FlixQuest
+- Movie HD
+- VivaTV
+- OnStream
+- FilmPlus
+- Flixclusive
+- Vega App
+- Nxsha
+- Uriel
+- Flixoid
+- BeeTV
+- TeaTV
+- Flixeon
+- LokLok
+- DigilogTV
+- aDrama
+- Amnis
+- PiliPlus
+- GrayJay
+- ShowCase
+- Great Courses Plus Premium
+- Showly
+- mpvEx
+- mpv-android
+- VLC
+- Synkplay
+- Just Player
+- Night Video Player
+- MX Player
+- Nova Video Player
+- Next Player
+- Arc Video Player
+- Audiofy
+- ScreenStream
+- M3UAndroid
+- Wotaku
+- EverythingMoe
+- DailyAL
+- Aniyomi
+- AnymeX
+- Dantotsu
+- Animiru
+- AnimeTV
+- Hayase
+- Perfect IPTV Player
+- OTTRun
+- OTT Navigator
+- Tiwee
+- iMPlayer
+- IPTV Smarters Pro
+- PlayTorrio
+- M3U8 Downloader
+- Live Sports HD
+- RBTV77
+- FreeTV
+- Morphe
+- GrayJay
+- LibreTube
+- PipePipe
+- ytdlnis
+- ReVanced Manager
+- NewPipe
+- FluxTube
+- Litube
+- Tubular
+- SkyTube
+- BravePipe
+- FreeTube Android
+- iOS Emulators
+- Safari Extensions
+- Hacker News Apps
+- Bitwarden
+- PairVPN Hotspot
+- Reincubate Camo
+- iTorrent
+- iDescriptor
+- iOS Settings URLs
+- Mobile Walls
+- CAPlayground
+- ChatGPT
+- Santander
+- ZArchiver
+- Blip
+- fGet
+- The National Do Not Call Registry
+- touchHLE
+- PancakeStore
+- Drafts
+- Google Sheets
+- Noteful
+- iSH Shell
+- Local Time Generator
+- UTM
+- Circadian
+- Lock Launcher
+- SwiftKey
+- CoconutBattery
+- Scriptable
+- PureKFD
+- iSkin
+- iCustom
+- RoutineHub
+- Color Widgets
+- Wikipedia
+- YT-DLP
+- Keynote
+- WiFi Map
+- Particle
+- Fiery Feeds
+- Read Aloud AI
+- Voiceliner
+- Untold
+- TrollRecorder
+- PicsArt
+- AnimeGen
+- Picsew
+- BlackMagic Camera
+- Lightme
+- NetClicker
+- Buz
+- iMessage Exporter
+- NFC Tools
+- Plinky
+- Clean Links
+- Kagi Translate
+- Sim Daltoinism
+- Microsoft To Do
+- Journal it
+- Success
+- ScreenZen
+- Apple Config Guide
+- Body Clock
+- Parcel
+- KeyPad
+- IPA Apps
+- Types of Jailbreak
+- AppleDB
+- ReJail
+- iOS Jailbreaking Guide
+- r/jailbreak Discord
+- r/LegacyJailbreak
+- Legacy-iOS-Kit
+- Dopamine
+- palera1n
+- nathanlr
+- checkra1n
+- Taurine
+- Odyssey
+- Chimera
+- unc0ver
+- Electra
+- Socket
+- Totally Not Spyware
+- Meridian
+- sockH3lix
+- doubleH3lix
+- Phoenix
+- p0laris
+- Pangu933
+- HomeDepot
+- Pangu9
+- wtfis
+- HomeDepot OLD
+- Carbon
+- Lyncis
+- Pangu7
+- Evasi0n7
+- p0sixspwn
+- Evasi0n6
+- g1lbertJB
+- greenpois0n
+- Gala
+- limera1n
+- ipwndfu
+- SuccessionRestore
+- odysseyn1x
+- BlobSaver
+- TSSChecker
+- IPSW
+- FutureRestore
+- Sileo
+- iOS Repo Updates
+- Nugget
+- Roothide Bootstrap
+- wInd3x
+- OneJailbreak
+- TrollStore
+- SideStore
+- Sideloadly
+- Impactor
+- Avieshek's Sideloading Guide
+- ios.cfw.guide
+- AltStore Classic
+- LiveContainer
+- iloader
+- r/Sideloaded
+- Feather
+- Ksign
+- SignTools
+- Cyan
+- DNS Adblocking
+- AdGuard
+- Brave
+- Orion
+- uBO Lite Safari
+- 1Blocker
+- Stay
+- wBlock
+- iSponsorBlock
+- SponsorBlock for YT Music
+- Encrypted Messengers
+- iOS 2FA
+- Brave
+- Onion Browser
+- DNSecure
+- Proton Mail
+- Orbot
+- CyPwn
+- Open-Source iOS Apps
+- Awesome TestFlight
+- App Store Tracker
+- iOS Console Emulators
+- Games
+- IPALibrary
+- 4PDA
+- AppDB
+- iOSVizor
+- DriftyWinds
+- fnd
+- TrollStore-IPAs
+- Moe's App Hub
+- PlatinMods
+- AppTesters
+- IPA Archive
+- iOSObscura
+- AppleCensorship
+- IPATool
+- Decrypted App Store
+- AppSnake
+- Blatant's IPA Library
+- Eevee IPA Decrypter
+- binnichtaktivsipas
+- IPA Dark
+- Scholars Lounge
+- iOSAppsFree
+- MelonsIPAs
+- Cie's IPAs
+- Sa1y0miii
+- GLESign
+- TDMBest
+- iOSDecrypted
+- /reddit clients/
+- Kettu
+- Acorn
+- Voyager
+- Ice Cubes
+- BHTwitter
+- Swiftgram
+- OpenInYT
+- Openvibe
+- OldLander
+- Sink It
+- SNMessenger
+- Frosty
+- Chatsen
+- Graysky
+- Bluesky Tracker
+- Chan
+- SCInsta
+- Monal
+- Watusi
+- Whatsapp Backup Reader
+- FakeWhats
+- SpotC++
+- YTMusicUltimate
+- SpotiFLAC-Mobile
+- EeveeSpotifyRevivedPublic
+- Cosmos Music Player
+- 8SPINE
+- Eclipse
+- Soundcloud
+- Lyra
+- Audiomack
+- Deezer
+- Demus
+- Spotify
+- GarageBand
+- Music Speed Changer
+- ByeTunes
+- stats.fm
+- SpotC++
+- PocketCasts
+- Triode
+- Cuterdio
+- EeveeSpotifyRevivedPublic
+- Spotify
+- Podbean
+- Apple Podcasts
+- Overcast
+- IHeartRadio
+- Radio Garden
+- Medito
+- HealthyMinds
+- Waking Up
+- Tide.fm
+- Insight Timer
+- Free w/ Ads Streaming
+- Nuvio
+- Luna
+- Kodi
+- Synkplay
+- PlayTorrio
+- OutPlayer
+- StrexoPlayer
+- Streamyfin
+- Tubi
+- Pluto
+- Uriel
+- Mometu
+- NebuloIPTV
+- Channels Pro
+- Found TV
+- Viki
+- TVBAnywhere
+- Tunity
+- Ketsu
+- AnymeX
+- MyAnimeList Client
+- Otraku
+- Yattee
+- uYouEnhanced
+- ProTube
+- OpenYouTubeSafariExtension
+- Multi-Platform Readers
+- Paperback
+- Aidoku
+- Tachimanga
+- Readera
+- Suwatte
+- Prologue
+- JellyBook
+- Anx Reader
+- eBoox
+- Readwise
+- Cantook
+- FBReader
+- SideBooks
+- BookPlayer
+- Panels
+- Mangayomi
+- ZETSU
+- Hanami
+- Libby

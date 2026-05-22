@@ -1,0 +1,352 @@
+﻿- DeepSeek
+- Google AI Studio
+- Z.ai
+- Qwen
+- Gemini
+- Kimi
+- Meta AI
+- Ernie
+- ChatGPT
+- MiMo Studio
+- Grok
+- Microsoft Copilot
+- Claude
+- MiniMax AI
+- ArceeAI
+- Mistral
+- Ai2 Playground
+- LongCat
+- Solar
+- Sarvam
+- Apertus
+- Hy3-preview
+- Reka
+- K2Think
+- Inception Chat
+- ISH
+- Woozlit
+- Arena
+- Pollinations Chat
+- NVIDIA NIM
+- Together.ai
+- Element Flash
+- Indic LLM Arena
+- AI Assistant
+- Cerebras Chat
+- Groq
+- Dolphin Chat
+- Awesome AI Web Search
+- NotebookLM
+- Google AI Mode
+- Ask Brave
+- Perplexity
+- Arena
+- iAsk AI
+- AI Roundtable
+- Exa
+- Alphaxiv
+- Vane
+- Learn About
+- Sci-Bot
+- SciSpace
+- Scinito
+- Elicit
+- PrivateGPT
+- Onyx
+- DocsGPT
+- Anara
+- Paper2Gal
+- Hyperspace
+- SillyTavern
+- Open WebUI
+- Jan
+- LM Studio
+- oobabooga
+- GPT4Free
+- Msty
+- Cherry Studio
+- Chatbox
+- LobeHub
+- Noi
+- LibreChat
+- LoLLMs
+- AnythingLLM
+- GPT4All
+- tgpt
+- ch.at
+- Awesome Local LLM
+- llama.cpp
+- KoboldCpp
+- Aphrodite Engine
+- Petals
+- Leon
+- Ollama
+- llamafile
+- LLM-API-Key-Proxy
+- Can I Run AI Locally
+- LocalAI
+- Sukino-Findings
+- Perchance
+- SillyTavern
+- PygmalionAI
+- Agnai
+- FlowGPT
+- Chub
+- HammerAI
+- Miku
+- 4thWall AI
+- AI Dungeon
+- KoboldAI Web
+- TavernAI
+- KoboldAI
+- Crossing the Uncanny Valley
+- your ai slop bores me
+- Toolbaz
+- TextFX
+- Quarkle
+- VBench
+- GeminiGen AI
+- Google Flow
+- Bing Create
+- Arena
+- Design Arena
+- Wan AI
+- HunyuanVideo
+- Pollinations Chat
+- Meta AI
+- Klipy
+- Qwen
+- AIFreeVideo
+- ModelScope Video
+- Dreamina
+- PixVerse
+- Genmo
+- FramePack
+- Eggnog
+- Pinokio
+- Arena Text to Image
+- Google Flow
+- Google AI Mode
+- GeminiGen AI
+- Arena
+- Hunyuan Image Generation
+- Bing Create
+- Design Arena
+- Google AI Studio
+- Pollinations Chat
+- Perchance
+- Dreamina
+- Qwen
+- Wan AI Image
+- OpenSourceGen
+- Recraft
+- Reve Image
+- TheresAnAIForThat
+- ZonerAI
+- Meta AI
+- ModelScope Images
+- Z-GEN TURBO
+- Ernie
+- LongCat AI
+- MAI Playground
+- ChatGPT Image
+- Mage
+- Coze
+- imgsys
+- Diffusers Image Outpaint
+- Genie
+- Interactive Scenes
+- Illusion Diffusion
+- Stability Matrix
+- Invoke
+- ComfyUI
+- Fooocus
+- Mochi Diffusion
+- DiffusionBee
+- SDNext
+- StableStudio
+- Easy Diffusion
+- Makeayo
+- biniou
+- Dione
+- Sygil WebUI
+- Radiata
+- SD WebUI Forge
+- ComfyUI-Zluda
+- Pinokio
+- Diffuse
+- Paper2GUI
+- Civitai
+- Prompy
+- A Traveler's Guide to the Latent Space
+- ImagePromptGuru
+- SD Dynamic Prompts
+- AI Horde
+- IOPaint
+- Generative AI for Beginners
+- Suno
+- Sonauto
+- Pollinations Chat
+- MusicFX
+- WolframTones
+- Stable Audio
+- MusicGen
+- Waveformer
+- SOUNDRAW
+- Google Flow Music
+- Mubert
+- ACE-Step 1.5
+- AIVA
+- Boomy
+- MusicGPT
+- AI Jukebox
+- Eapy
+- Pack Generator
+- MMAudio
+- Arena TTS
+- TTS Online
+- Audiblez
+- Google Illuminate
+- ElevenLabs
+- Pollinations Chat
+- Google Speech Gen
+- TTS-WebUI
+- FakeYou
+- Tortoise TTS
+- Bark
+- TTSOpenAI
+- GPT-SoVITS
+- Kyutai TTS
+- KittenTTS
+- AudioArena
+- LazyPy
+- Kokoro TTS
+- Ondoku
+- Speechma
+- Kokoro-82M
+- Chatterbox
+- Audio.Z.AI
+- AnyVoiceLab
+- VoiceCraft
+- EmotiVoice
+- Cartesia
+- Fish Audio
+- Audio-WebUI
+- VanillaVoice
+- LOVO
+- SoundofText
+- FreeTTS
+- Hume
+- NaturalReaders
+- AIVocal
+- Moe TTS
+- Applio
+- RVC V2
+- Voice Changer
+- Voice Models
+- AnyVoiceLab
+- AllVoiceLab
+- Zyphra
+- MultiSong Leaderboard
+- MVSEP
+- Splitter
+- MDX23
+- Music-Source-Separation
+- VocalRemover
+- Audacity Effects
+- Ultimate Vocal Remover
+- Remove Vocals
+- Vocali.se
+- Mazmazika
+- Ezstems
+- AI Price Compare
+- sindresorhus's Awesome ChatGPT
+- Every ChatGPT GUI
+- AI API Tools
+- tldraw computer
+- Page Assist
+- LLM
+- LightSession
+- Privatiser
+- ChatGPT DeMod
+- Agent Reach
+- MassiveMark
+- screenpipe
+- ChatGPT Exporter
+- GPThemes
+- LLM Model VRAM Calculator
+- L1B3RT4S
+- BlackFriday GPTs Prompts
+- Leaked Prompts
+- Prompt Engineering Guide
+- ChatGPT System Prompt
+- The Big Prompt Library
+- Jailbreak Listings
+- InjectPrompt Companion
+- Heretic
+- promptfoo
+- Tensor Trust
+- Gobble Bot
+- LLM Explorer
+- FutureTools
+- Google Labs
+- Models.dev
+- YP for AI
+- LLM Resources Hub
+- It's Better With AI
+- GPT Demo
+- ArtificialStudio
+- LM Council
+- Artificial Analysis
+- Kaggle Benchmarks
+- Arena
+- OpenRouter
+- SEAL LLM Leaderboards
+- Context Arena
+- RankedAGI
+- LLM Stats
+- OpenLM Arena
+- Wolfram LLM Benchmarking Project
+- Epoch AI
+- Open VLM Leaderboard
+- AI Roundtable
+- DesignArena
+- EQ-Bench
+- IUMB
+- MathArena
+- Vals AI
+- Simple Bench
+- VPCT
+- SpeechMap.AI
+- LLMs Bullshit Benchmark
+- AI Elo
+- ChessArena
+- VoxelBench
+- SWEBench
+- AIBenchmarks
+- WebDev Arena
+- Aider LLM Leaderboards
+- Vals AI
+- Awesome Machine Learning
+- Awesome ML
+- Hugging Face
+- Deep playground
+- Awesome Generative AI Guide
+- aman.ai
+- LLM Visualization
+- Transformer Explainer
+- Approaching (Almost) Any Machine Learning Problem
+- Deep ML
+- AI-For-Beginners
+- ML Course Notes
+- 100-Days-Of-ML-Code
+- minitorch
+- ML YouTube Courses
+- Unsloth
+- ModelScope Finetuning
+- Markdown Web Browser
+- DeepSpeed
+- Netron
+- MMDeploy
+- ChatGPT-Next-Web
+- Nixified

@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { Search, Filter, RotateCcw } from "lucide-react";
+import { Search, Filter, RotateCcw, Shuffle } from "lucide-react";
 import GroupCard, { type GroupEntry } from "@/components/GroupCard";
 
 const CATEGORY_LABELS: Record<string, string> = {
@@ -25,7 +25,6 @@ export default function CommunityGroupList({ groups }: Props) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
-  // Ordered unique categories in the order they first appear
   const categories = useMemo(
     () => Array.from(new Set(groups.map((g) => g.category))),
     [groups]
@@ -44,7 +43,6 @@ export default function CommunityGroupList({ groups }: Props) {
     });
   }, [groups, searchQuery, selectedCategory]);
 
-  // Group filtered entries by category for section display
   const groupedCategories = useMemo(() => {
     const map = new Map<string, GroupEntry[]>();
     for (const entry of filtered) {
@@ -57,6 +55,18 @@ export default function CommunityGroupList({ groups }: Props) {
   const reset = () => {
     setSearchQuery("");
     setSelectedCategory(null);
+  };
+
+  const surpriseMe = () => {
+    if (groupedCategories.length === 0) return;
+    const idx = Math.floor(Math.random() * groupedCategories.length);
+    const [cat] = groupedCategories[idx];
+    const id = cat.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+    el.classList.add("jump-active");
+    setTimeout(() => el.classList.remove("jump-active"), 2000);
   };
 
   return (
@@ -74,15 +84,26 @@ export default function CommunityGroupList({ groups }: Props) {
             className="w-full rounded border border-panel-border/50 bg-cream py-2.5 pr-4 pl-10 font-mono text-[11.5px] text-charcoal placeholder:text-charcoal/28 outline-none transition-colors focus:border-gold/40"
           />
         </div>
-        {(searchQuery || selectedCategory) && (
+        <div className="flex items-center gap-2 flex-shrink-0">
+          {(searchQuery || selectedCategory) && (
+            <button
+              onClick={reset}
+              className="inline-flex items-center justify-center gap-1.5 rounded border border-panel-border bg-cream px-3 py-2.5 font-mono text-[9.5px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors"
+            >
+              <RotateCcw className="h-3 w-3" />
+              <span>Reset</span>
+            </button>
+          )}
           <button
-            onClick={reset}
-            className="inline-flex items-center justify-center gap-2 rounded border border-panel-border bg-cream px-4 py-2.5 font-mono text-[9.5px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors"
+            onClick={surpriseMe}
+            disabled={filtered.length === 0}
+            title="Jump to a random community category"
+            className="inline-flex items-center justify-center gap-1.5 rounded border border-panel-border bg-cream px-3 py-2.5 font-mono text-[9.5px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
           >
-            <RotateCcw className="h-3 w-3" />
-            <span>Reset</span>
+            <Shuffle className="h-3 w-3" />
+            <span className="hidden sm:inline">Surprise</span>
           </button>
-        )}
+        </div>
       </div>
 
       {/* Category filter chips */}
@@ -139,7 +160,7 @@ export default function CommunityGroupList({ groups }: Props) {
                 <h3
                   id={cat.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
                   data-jump-target=""
-                  className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none whitespace-nowrap"
+                  className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none min-w-0 break-words"
                 >
                   {CATEGORY_LABELS[cat] ?? cat}
                 </h3>
@@ -150,7 +171,7 @@ export default function CommunityGroupList({ groups }: Props) {
               </div>
 
               {/* Card grid */}
-              <div className="grid gap-5 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+              <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
                 {entries.map((entry, idx) => (
                   <GroupCard
                     key={entry.name}

@@ -1,0 +1,58 @@
+[
+  {
+    "type": "tool",
+    "name": "Excalidraw",
+    "category": "Developer Tools",
+    "description": "Open-source virtual whiteboard for sketching hand-drawn diagrams. Collaborative, privacy-first, and works offline.",
+    "link": "https://excalidraw.com"
+  },
+  {
+    "type": "tool",
+    "name": "Raycast",
+    "category": "System Tools",
+    "description": "Blazingly fast productivity launcher for macOS — search files, run scripts, manage clipboard, and extend with plugins.",
+    "link": "https://raycast.com"
+  },
+  {
+    "type": "tool",
+    "name": "Warp",
+    "category": "Developer Tools",
+    "description": "A modern, Rust-based terminal with built-in AI assistance, command history search, and collaborative features.",
+    "link": "https://warp.dev"
+  },
+  {
+    "type": "tool",
+    "name": "Obsidian",
+    "category": "Text Tools",
+    "description": "A powerful knowledge base app that stores notes as plain Markdown. Local-first with a rich plugin ecosystem.",
+    "link": "https://obsidian.md"
+  },
+  {
+    "type": "tool",
+    "name": "Bruno",
+    "category": "Developer Tools",
+    "description": "An open-source API client designed for offline use — stores collections in plain text files in your repo.",
+    "link": "https://usebruno.com"
+  },
+  {
+    "type": "tool",
+    "name": "Penpot",
+    "category": "Developer Tools",
+    "description": "The open-source design and prototyping platform. Self-hostable alternative to Figma built for cross-team collaboration.",
+    "link": "https://penpot.app"
+  },
+  {
+    "type": "tool",
+    "name": "Hoppscotch",
+    "category": "Developer Tools",
+    "description": "Open-source API development ecosystem — a lightweight, web-based alternative to Postman with real-time collaboration.",
+    "link": "https://hoppscotch.io"
+  },
+  {
+    "type": "tool",
+    "name": "Zed",
+    "category": "Developer Tools",
+    "description": "A high-performance code editor built in Rust — designed for speed and real-time collaboration with AI pair programming.",
+    "link": "https://zed.dev"
+  }
+]

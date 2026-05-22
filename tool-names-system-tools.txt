@@ -1,0 +1,362 @@
+﻿- Awesome Windows 11
+- PC-Optimization-Hub
+- Gaming Optimization
+- PowerToys
+- Sysinternals
+- SuperF4
+- CPU-Z
+- Bulk Crap Uninstaller
+- NanaRun
+- BleachBit
+- PolicyPlus
+- GhostBuster
+- Should I Remove It?
+- CoreTemp
+- Why Is This Running?
+- ThrottleStop
+- RegExp
+- WinbIndex
+- OfflineInsiderEnroll
+- Rhasspy
+- OpenRecall
+- Time.is
+- LenovoLegionToolkit
+- G-Helper
+- Windhawk
+- StartAllBack
+- EverythingToolbar
+- Open Shell
+- EarTrumpet
+- AltSnap
+- Edge-Uninstall
+- BatUtil
+- Wintoys
+- Wox
+- Kando
+- Cerebro App
+- SmartSystemMenu
+- Shell
+- Explorer Tab Utility
+- Quick Access Popup
+- Spencer
+- yasb
+- Taskbar Tweaker
+- AppGroup
+- RBTray
+- Taskbar Hide
+- QuickLook
+- MSEdgeRedirect
+- TopNotify
+- WinGet
+- UniGetUI
+- Scoop
+- sfsu
+- Chocolatey
+- RuckZuck
+- RepoHub
+- Topgrade
+- Silent Install
+- 0Install
+- portableapps
+- Baulk
+- NirLauncher
+- bin
+- AutoHotkey
+- Scheduler
+- AutoIt
+- Tinytask
+- sikulix
+- ChoEazyCopy
+- MacroRecorder
+- Organize
+- Awesome Terminals
+- terminals-are-sexy
+- Awesome CLI Apps
+- ss64
+- Windows Terminal
+- PowerShell
+- BusyBox
+- Clink
+- Nushell
+- Tiny Care Terminal
+- Command Challenge
+- Mintty
+- GetDNote
+- LeanandMean
+- PowerShell Scripts
+- Parsec
+- RustDesk
+- Aspia
+- Sunshine
+- Moonlight
+- Kasm
+- Arcane
+- HopToDesk
+- CoScreen
+- DWS
+- Remote Desktop Connection
+- Remotly
+- Bananas
+- ChromeRemoteDesktop
+- InputDirector
+- Mouse Without Borders
+- p2p
+- Screensy
+- Screego
+- Screen-Sharing
+- TigerVNC
+- TightVNC
+- noVNC
+- Ditto
+- PasteBar
+- CrossPaste
+- ArsClip
+- ClipAngel
+- CopyQ
+- MultiClipBoardSlots
+- GlazeWM
+- Komorebi
+- WorkSpacer
+- Seelen UI
+- Whim
+- DWM
+- Awesome Web Desktops
+- Emulators on Android
+- VMware Workstation
+- QEMU
+- VirtualBox
+- Virt-Manager
+- Looking Glass
+- Hyper-V
+- Denodo Test
+- OSBoxes
+- JSLinux
+- QuickEmu
+- WSL
+- Dockur
+- Virtual x86
+- PCjs Machines
+- InfiniteMac
+- winevdm
+- Blink
+- Dockerholics
+- Hackintosh
+- Dortania
+- OpenCore-Legacy-Patcher
+- OneClick-macOS
+- Emaculation
+- Hackintosh Tools
+- PC Building / Shopping
+- PSU Calculator
+- DeviceTests
+- NotCPUCores
+- Ozone3D
+- Testmem5
+- MemTest
+- SDIO
+- VOGONS Drivers
+- PCI Lookup
+- HWiNFO
+- Traffic Monitor
+- CoolerControl
+- HWMonitor
+- BatteryMode
+- fastfetch
+- btop4win
+- NeoHtop
+- Task Manager DeLuxe
+- Libre Hardware Monitor
+- FanControl
+- bottom
+- NVTOP
+- NVCleanstall
+- Display Driver Uninstaller
+- TinyNvidiaUpdateChecker
+- nvidiaProfileInspector
+- RadeonSoftwareSlimmer
+- R.ID
+- PresentMon
+- Universal x86 Tuning Utility
+- RyzenAdj
+- Awesome Storage
+- Awesome DataHoarding
+- WizTree
+- CrystalDiskMark
+- GParted
+- Validrive
+- TrueNAS
+- QDirStat
+- CrystalDiskInfo
+- Macrorit Partition Expert
+- Diskovery
+- Gdu
+- Erdtree
+- PC Manager
+- Air Live Drive
+- SFTPDrive
+- DisplayFusion
+- f.lux
+- Monitorian
+- EIZO
+- TestUFO
+- LittleBigMouse
+- Scalizer
+- Display Calc
+- Multi-Monitor Calculator
+- Wide Gamut
+- novideo\_srgb
+- Dead.Pixel
+- JScreenFix
+- CenterOfMyScreen
+- ShowDesktopOneMonitor
+- Virtual Display Driver
+- Deskreen
+- ShaderGlass
+- DaltonLens
+- NVDA
+- r/MechanicalKeyboards Wiki
+- Keebfolio
+- Hotkey Cheatsheet
+- VIA
+- geekhack
+- Ergogen
+- Keyboard Tester
+- HotkeyP
+- Mouse Tester
+- X-Mouse Button Control
+- MoveMouse
+- Raw Accel
+- StrokeIt
+- Espanso
+- win-vind
+- Vial
+- KeyViz
+- WhatPulse
+- Kmonad
+- Deskhop
+- Is this good?
+- DreyMaR's
+- KDB
+- Cosmos
+- Keyboard Simulator
+- Equalizer APO
+- AutoEQ
+- IEM EQ Guide
+- VoiceMeeter
+- SteelSeries Sonar
+- SoundSwitch
+- Audiocheck
+- SonyHeadphonesClient
+- VB-Audio
+- LowAudioLatency
+- DigitalFeed
+- Online Mic Test
+- Sound Meter
+- AirPods Dirty Secret
+- Genuine Installation Media
+- Windows Install / Debloat Guide
+- files.rg-adguard
+- OS.click
+- MyDigitalLife
+- Microsoft SD
+- Old School OS
+- Fido
+- NetBoot
+- MrChromebox
+- Rufus
+- MediaCreationTool
+- USBTreeView
+- CloverBootloader
+- EtchDroid
+- Grub2Win
+- MAS
+- OfficeRTool
+- Windows 10 After EOL
+- ChangeWindows
+- VCRedist
+- LegacyUpdate
+- WURefresh
+- UUP Dump
+- PC Health Check
+- FlashMyBoard
+- MagNumDB
+- Troubleshooting Flowcharts
+- Medicat
+- r/TechSupport
+- Hardforum
+- Windows-Ricing
+- Rainmeter
+- OpenRGB
+- VSThemes
+- Anime
+- VirtualCustoms
+- Desktops
+- ExplorerPatcher
+- SecureUxTheme
+- MechvibesDX
+- ElectricSheep
+- Wallpapers Clan
+- Recycle Bin Themes
+- msstyleEditor
+- Taskbar Tweaker
+- Sweezy Cursors
+- AccentColorizer
+- BeautySearch
+- ElevenClock
+- HackBGRT
+- ExplorerBlurMica
+- QTTabBar
+- WinSetView
+- MicaForEveryone
+- FluentFlyout
+- Alternative Windows Shells Wiki
+- Aerial
+- ExcelDarkThemeFix
+- MacType
+- Catppuccin
+- Dracula
+- Rosé Pine
+- Aura Theme
+- theme.park
+- Solarized
+- gruvbox
+- Flexoki
+- Totally Awesome List
+- Pokemon Terminal
+- Traffic Monitor
+- terminal.sexy
+- WallSync
+- wallhaven.cc
+- Wallpaper Abyss
+- WallWidgy
+- Studio Ghibli Wallpapers
+- LWP
+- WallpaperCave
+- WallsCloud
+- WallpapersCraft
+- WallBrowser
+- VSThemes
+- Wallpapers Clan
+- r/Wallpaper
+- r/WallpaperRequests
+- Frutiger Aero Archive
+- Basic Apple Guy
+- Kawaii Hoshi
+- DualMonitorBackgrounds
+- CoolBackgrounds
+- Aesthetic Wallpapers
+- Xbox Wallpapers
+- Anime Pictures
+- WallsPic
+- G\_Walls
+- Engine Workshop File
+- Wallpaper Engine
+- PKG to Zip
+- Lively
+- backiee
+- wallhaven-desktop
+- SuperPaper
+- Background Switcher
+- AutoWall
+- Awesome Wallpaper
+- GoWall

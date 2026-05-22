@@ -1,9 +1,10 @@
 "use client";
 
 import { useState, useEffect, useMemo, useCallback } from "react";
-import { Search, RotateCcw, Loader2 } from "lucide-react";
+import { Search, RotateCcw, Loader2, Shuffle } from "lucide-react";
 import type { ToolCategorySummary, ToolCategoryData } from "@/lib/techToolsParser";
 import ToolCard, { type ToolEntry } from "@/components/ToolCard";
+import FeaturedSpotlight from "@/components/FeaturedSpotlight";
 
 interface Props {
   categories: ToolCategorySummary[];
@@ -61,6 +62,18 @@ export default function TechToolsView({ categories, initialCategoryId }: Props) 
 
   const selectedCat = categories.find((c) => c.id === selectedId);
 
+  const surpriseMe = () => {
+    if (groupedTools.length === 0) return;
+    const idx = Math.floor(Math.random() * groupedTools.length);
+    const [subcategory] = groupedTools[idx];
+    const id = subcategory.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.scrollIntoView({ behavior: "smooth", block: "center" });
+    el.classList.add("jump-active");
+    setTimeout(() => el.classList.remove("jump-active"), 2000);
+  };
+
   return (
     <div className="flex min-h-screen animate-fade-in">
 
@@ -102,7 +115,10 @@ export default function TechToolsView({ categories, initialCategoryId }: Props) 
       </aside>
 
       {/* ── Main content ── */}
-      <div className="flex-1 min-w-0 px-5 py-8 md:px-8 md:pr-12">
+      <div className="flex-1 min-w-0 px-5 pr-12 py-8 md:px-8 md:pr-14">
+
+        {/* Tool of the Hour */}
+        <FeaturedSpotlight />
 
         {/* Mobile category chips */}
         <div
@@ -156,16 +172,27 @@ export default function TechToolsView({ categories, initialCategoryId }: Props) 
               aria-label="Search tools"
             />
           </div>
-          {searchQuery && (
+          <div className="flex items-center gap-2 flex-shrink-0">
+            {searchQuery && (
+              <button
+                onClick={() => setSearchQuery("")}
+                className="inline-flex items-center justify-center gap-1.5 rounded border border-panel-border bg-cream px-3 py-2 font-mono text-[9px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors"
+                aria-label="Clear search"
+              >
+                <RotateCcw className="h-3 w-3" />
+                <span>Reset</span>
+              </button>
+            )}
             <button
-              onClick={() => setSearchQuery("")}
-              className="inline-flex items-center justify-center gap-2 rounded border border-panel-border bg-cream px-3.5 py-2 font-mono text-[9px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors"
-              aria-label="Clear search"
+              onClick={surpriseMe}
+              disabled={loading || filteredTools.length === 0}
+              title="Jump to a random tool category"
+              className="inline-flex items-center justify-center gap-1.5 rounded border border-panel-border bg-cream px-3 py-2 font-mono text-[9px] uppercase font-bold tracking-wider text-charcoal/50 hover:text-gold transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
             >
-              <RotateCcw className="h-3 w-3" />
-              <span>Reset</span>
+              <Shuffle className="h-3 w-3" />
+              <span className="hidden sm:inline">Surprise</span>
             </button>
-          )}
+          </div>
         </div>
 
         {/* Loading skeleton */}
@@ -199,7 +226,7 @@ export default function TechToolsView({ categories, initialCategoryId }: Props) 
                       <h3
                         id={subcategory.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
                         data-jump-target=""
-                        className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none whitespace-nowrap"
+                        className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none min-w-0 break-words transition-colors"
                       >
                         {subcategory}
                       </h3>

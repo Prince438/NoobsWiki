@@ -1,0 +1,679 @@
+﻿- ArchWiki
+- Gentoo Wiki
+- Debian Wiki
+- Linux Journey
+- HowToLinux
+- Sindresorhus Guides
+- Erik Dubois
+- Linuxtopia
+- Linux Roadmap
+- Vim Tutorials
+- Boot-Repair
+- Linux Command Library
+- Awesome for One Liner
+- You Don't Need GUI
+- CommandlineFU
+- cheat.sh
+- Bash Academy
+- ss64 Bash
+- Bash Oneliner
+- navi
+- LinuxQuestions
+- Linux.Chat
+- Linux x Technology
+- Arch Linux Community
+- Discord-Linux
+- Linux.org
+- Arch Forums
+- Gentoo Forums
+- phoronix
+- DistroWatch
+- DistroChooser
+- distro.moe
+- Linux Live Kit
+- OpenSourceFeed
+- OS.click
+- LinuxTracker
+- Linux Comparisons
+- ArchiveOS
+- GNOME Shell Extensions
+- Multi-Platform Readers
+- Office Suites
+- Bottles
+- WineHQ
+- Q4Wine
+- AppImageLauncher
+- winetricks
+- rofi
+- FreeRDP
+- shell\_gpt
+- Darling
+- innoextract
+- web2app
+- Autokey
+- ProtonTricks
+- Touchégg
+- Ghostwriter
+- taskbook
+- Featherpad
+- Kate Editor
+- TextPieces
+- Durdraw
+- ly
+- GammaStep
+- Weylus
+- AudioSource
+- Alpaca
+- nyrna
+- Solaar
+- bluetuith
+- libimobiledevice
+- Linux-PowerToys
+- Railway
+- Wike
+- Komikku
+- Mako
+- Eloquent
+- KTouch
+- ArchWiki App Sites
+- Awesome Linux Software
+- Awesome KDE
+- Awesome GNOME
+- FOSS Software Packages
+- Kapital Sin
+- The Book of Secret Knowledge
+- Linux Software CSE
+- TuxMate
+- Awesome Linux Minimalism
+- FOSS Torrents
+- Open Source Linux Programs
+- RUTracker Linux
+- Rim's Linux Wiki
+- KDE Applications
+- Flatpak
+- SnapCraft
+- Nix
+- Nala
+- Zap
+- Pkgs
+- AppImageHub
+- Apps for GNOME
+- emplace
+- Pacstall
+- Hardware for Linux
+- Btop
+- MangoHud
+- fastfetch
+- TimeShift
+- Impression
+- anuraOS
+- SysmonForLinux
+- htop
+- TuxManager
+- screenFetch
+- Nanobench
+- ScanMem
+- pacwall
+- keyd
+- LAN Mouse
+- Input Leap
+- auto-cpufreq
+- Fan Control
+- WinApps
+- Teleport
+- NetBoot
+- CloverBootloader
+- zfsBootMenu
+- Waycheck
+- Linux Heads
+- coreboot
+- GParted
+- CoreELEC
+- DistroSea
+- Linux-KVM
+- WebVM
+- OSX-KVM
+- kmon
+- Kernel Map
+- KernelNewbies
+- SystemRescue
+- bt-dualboot
+- LACT
+- open-gpu-kernel-modules
+- systemctl-tui
+- nosystemd
+- greetd
+- Media Servers / Tools
+- mpv
+- Haruna
+- Kdenlive
+- MultiPlex
+- MPV Shim
+- Gromit MPX
+- AV Linux
+- REAL Video Enhancer
+- 4KTUBE
+- Linux-Fake-Background-Webcam
+- AnymeX
+- Hayase
+- ani-cli
+- Trackma
+- LiveCaptions
+- Awesome Linux Audio
+- SpotX-Bash
+- Spicetify
+- Shortwave
+- SongRec
+- puddletag
+- Tidal Hi-Fi
+- tuifi
+- BeatBoss
+- cmus
+- Tauon Music Box
+- Lollypop
+- Audacious
+- Amberol
+- Fooyin
+- Gapless
+- dopamine
+- AudioTube
+- cliamp
+- Sonosano
+- Deezer Linux
+- MusicPod
+- HeadsetControl
+- Pipewire
+- LibrePods
+- Werman
+- Qtractor
+- Calf Studio Gear
+- Ensembles
+- JDSP4Linux
+- cava
+- Blanket
+- Linux Image Editors
+- Flameshot
+- v4l2loopback
+- Drawing
+- Android Virtual Pen
+- Feh
+- lsix
+- Upscaler
+- Trimage
+- MkPosters
+- Rapid
+- todo
+- Timestrap
+- Client Evolution
+- dijo
+- Linux Gaming Wiki
+- protondb
+- Heroic Games Launcher
+- Bottles
+- ProtonPlus
+- GE-Proton
+- Kapital Sin
+- Torrminatorr
+- johncena141
+- CS.RIN.RU
+- RuTracker
+- Native Linux Games
+- winesapOS
+- wine-wayland
+- UMU
+- Luxtorpeda
+- CreamLinux
+- SLSsteam
+- SteamTinkerLaunch
+- AdwSteamGtk
+- steam-tui
+- RetroDECK
+- CryoUtilities
+- SamRewritten
+- Steam for Linux
+- Minigalaxy
+- Online-Fix Linux
+- Vice
+- Sober
+- Limo
+- ssprea-nvidia-control
+- LeShade
+- DXVK
+- D7VK
+- dxvk-gplasync
+- lsfg-vk
+- VKBasAlt
+- Liquorix
+- Gamemode
+- LibreGaming
+- PortMaster
+- Gameboy.live
+- QuickPassthrough
+- WiVRn
+- Linux 2FA
+- DNS Adblocking
+- Arch Security Wiki
+- CryptSetup
+- Securely Wipe Disk
+- JShielder
+- Lynis
+- Lockigest
+- Mistborn
+- OpenSnitch
+- Tracee
+- vnStat
+- Howdy
+- USBGuard
+- ShuffleStacks
+- Collision
+- WhoAmI Project
+- Yubikey Full Disk Encryption
+- Firejail
+- GoogleTeller
+- Linux Torrent Clients
+- Nicotine+
+- Linux WiFi Hotspot
+- BTFS
+- ElectronMail
+- Akregator
+- Seahorse
+- gopass
+- KGet
+- GDown
+- google-drive-ocamlfuse
+- maestral
+- aMule
+- OpenWRT
+- dae
+- Linux Router
+- Netcat
+- Bandwhich
+- iperf
+- Rang3r
+- sttr
+- Netflix Proxy
+- Teams for Linux
+- Luakit
+- browsh
+- mx moment
+- Adium
+- Dino
+- gurk-rs
+- ZapZap
+- YouTube-Viewer
+- GrayJay
+- Discover
+- dvm
+- Awesome Selfhosted
+- Awesome Homelab
+- Selfh.st
+- Self-Hosting-Guide
+- RackRat
+- Media Servers / Tools
+- Selfhosted Image Galleries
+- Homepage
+- Glance
+- ThingsBoard
+- Self Managed Life
+- r/SelfHosted Wiki
+- Server World
+- HowtoForge
+- serverbox
+- LXD UI
+- Proxmox
+- yet another bench script
+- Docket-Jacket
+- arch-delugevpn
+- swizzin
+- rtinst
+- SeedSync
+- openmediavault
+- Tube Archivist
+- ConvertX
+- Whoogle Search
+- iRedMail
+- Linux File Backup
+- Warpinator
+- lf
+- Baobab
+- dut
+- ANGRYsearch
+- The Filesystem Hierarchy Standard
+- Dolphin
+- PeaZip
+- Collector
+- Zoxide
+- lnav
+- Pika Backup
+- fcp
+- Boxxy
+- Junction
+- Krename
+- FSLint
+- xdg-ninja
+- rcm
+- PDF Mix
+- gscan2pdf
+- Waydroid
+- Redroid
+- Genymotion
+- Android Studio
+- Android-x86
+- adbfs-rootless
+- Awesome Shell
+- Awesome TUIs
+- Awesome Terminal Recorder
+- zsh
+- Plugins
+- Alacritty
+- LinuxCommand
+- Starship
+- utils
+- Gum
+- ShellCheck
+- ShellScript
+- Bash Crawl
+- bash\_loading\_animations
+- bash-it
+- zx
+- Basher
+- Distrobox
+- explainshell.com
+- Tmux
+- Zellij
+- atuin
+- cbonsai
+- pipes.sh
+- Awesome Raspberry Pi
+- Pi-Apps
+- Pinn
+- PiVPN
+- raspberrypiwireguard
+- Raspberry Pi Connect
+- CaribouLite
+- Piper
+- Pinout
+- Awesome Ricing
+- Elkowar's Wacky Widgets
+- unixporn
+- dotfiles
+- Chezmoi
+- Desktop Environment Comparison
+- Extension Manager
+- Material Shell
+- Pop!\_OS Shell
+- Guillotine
+- Hardcode Tray
+- Awesome Wayland
+- Wayland.fyi
+- Window Manager Index
+- Wayland Compositor Index
+- We Are Wayland Now
+- i3wm
+- awesomewm
+- Hyprland
+- niri
+- Sway
+- mangowm
+- BSPWM
+- herbstluftwm
+- river
+- LabWC
+- wayfire
+- picom
+- Polybar (X11)
+- xfce-look
+- Gnome-Look
+- Hellwal
+- Themix
+- Kvantum
+- nwg-look
+- Arc
+- Ant
+- AeroThemePlasma
+- XScreenSaver
+- varietywalls
+- Video Wallpaper
+- tint
+- Polychromatic
+- Burn My Windows
+- theme.sh
+- Multi-Platform Readers
+- Office Suites
+- gibMacOS
+- NearDrop
+- shottr
+- Aptonic
+- Ghostty
+- Ice Cubes
+- Sky.app
+- Beta Profiles
+- CloverBootloader
+- rEFind
+- Tart
+- UTM
+- VirtualBuddy
+- Docker OSX
+- Linux for T2
+- CrossOver
+- PortingKit
+- PlayCover
+- SwiftUI Win11
+- OrbStack
+- Bookshelf
+- Kexts
+- Adobe Downloader
+- ss64 macOS
+- Left on Read
+- MacBing
+- CodexBar
+- ViennaRSS
+- Tachidesk-Sorayomi
+- Dialect
+- Drafts
+- Clearly
+- TypeWhisper
+- Agenda
+- Taskpaper
+- BibDesk
+- Hammerspoon
+- MacScripter
+- pongoOS
+- Later
+- MacVim
+- SD Buddy
+- ColorSlurp
+- Use Contrast
+- Sim Daltoinism
+- AnimeBox
+- Hachidori
+- Magit!
+- ProperTree
+- NHCalc
+- Does It Arm?
+- SelfControlApp
+- Typist
+- Comet
+- Sink It
+- Grayscale Mode
+- macOSicons
+- equinux
+- Lilu
+- TopNotch
+- Awesome macOS
+- Mac Menu Bar
+- Homebrew
+- AppsTorrent
+- nMac
+- MacBB
+- Antibiotic's
+- MacKed
+- TorrentMac
+- Macintosh Garden
+- MacintoshRepository
+- OldAppleStuff
+- ThriftMac
+- Sindre Sorhus
+- Latest
+- Editing Software
+- IINA
+- Fusion
+- Hayase
+- AnymeX
+- Unwatched
+- REAL Video Enhancer
+- Cap
+- LonelyScreen
+- SpotX-Bash
+- Spicetify
+- foobar2000
+- cliamp
+- Silicio
+- Alfred Spotify Mini Player
+- Sonosano
+- SoundSeer
+- TheBoringNotch
+- Kaset
+- Nuage
+- Garageband
+- EQMac
+- The Levelator
+- Guitarix
+- XLD
+- BlackHole
+- Cuterdio
+- Playlisty
+- Editing Software
+- Gifski
+- Darkroom
+- SeaShore
+- ImageOptim
+- Perspec
+- Draw Things
+- Torrminatorr
+- AppsTorrent
+- AppleGamingWiki
+- CS.RIN.RU
+- SCNLOG
+- RuTracker
+- MacintoshRepository
+- Mac Source Ports
+- Heroic Games Launcher
+- Mythic
+- NASOS
+- r/MacGaming
+- cemu.emiyl
+- Awesome OSX Security
+- Mac 2FA
+- DNS Adblocking
+- Malwarebytes
+- uBO Lite Safari
+- 1Blocker
+- Lockdown Privacy
+- Gas Mask
+- macOS Privacy Guide
+- ClashMac
+- DNS Party
+- MuMuPlayer
+- LuLu
+- RansomWhere?
+- OverSight
+- SuspiciousPackage
+- Santa
+- DHS
+- GPG Suite
+- What's Your Sign?
+- Tracker Zapper
+- LinkLiar
+- Kextviewr
+- mac\_apt
+- OpenVPN
+- MailTrackerBlocker
+- Status
+- Mac Torrent Clients
+- KeePassXC
+- What Route
+- ElectronMail
+- Browserino
+- Orion
+- AppleDB
+- Mac Menu Bar
+- Alfred
+- CustomShortcuts
+- alt-tab-macos
+- NoxPlayer
+- Advanced macOS Commands
+- Conky
+- Hot
+- TaskExplorer
+- Mole
+- Pearcleaner
+- BetterDisplay
+- DisplayPlacer
+- KeyPad
+- LinearMouse
+- Pinch
+- MiddleClick
+- Scroll Reverser
+- KeyClu
+- KeyCastr
+- FineTune
+- MonitorControl
+- BackgroundMusic
+- MacThrottle
+- AlDente
+- BatteryBuddy
+- AirBattery
+- Macs Fan Control
+- WhatCable
+- Touché
+- Sentinel
+- Nigate
+- USBMap
+- Actions
+- pock
+- Übersicht
+- Itsycal
+- Clocker
+- xbar
+- MacLaunch
+- Thaw
+- OnlySwitch
+- Sloth
+- Amphetamine
+- KeepingYouAwake
+- Yabai
+- Maccy
+- Pictogram
+- Tintd
+- MacPaper
+- Dynamic Wallpaper Club
+- wallpapper
+- Plash
+- 100 macOS Screensavers
+- DarkModeBuddy
+- Magic Trace
+- PeaZip
+- Readdle
+- OpenMTP
+- Progress
+- Bruji
+- superfile
+- macFUSE
+- JDownloader
+- Go Speed
+- Progressive Downloader
+- Transnomino
+- fzf
+- FlyingCarpet
+- Awesome-ttygames
+- Awesome BSD
+- Hardware for BSD
+- UnitedBSD
+- FreeBSD Wiki
+- Pkgs
+- GameShell
+- Modern Unix
+- wpgtk
+- Plan9Port
+- Is OpenBSD Secure?

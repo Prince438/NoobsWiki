@@ -114,7 +114,7 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
                 <h3
                   id={category.categoryName.toLowerCase().replace(/[^a-z0-9]+/g, "-")}
                   data-jump-target=""
-                  className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none whitespace-nowrap"
+                  className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-charcoal leading-none min-w-0 break-words"
                 >
                   {category.categoryName}
                 </h3>
@@ -123,7 +123,7 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
                   {category.items.length} {category.items.length === 1 ? "agency" : "agencies"}
                 </span>
               </div>
-              <div className="grid gap-5 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+              <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
                 {category.items.map((item, idx) => (
                   <DirectoryCard
                     key={item.name}

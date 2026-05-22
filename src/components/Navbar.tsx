@@ -2,15 +2,33 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
+import { useState, useEffect } from "react";
+
+const links = [
+  { href: "/community-groups", label: "Community Groups" },
+  { href: "/community-builders", label: "Community Builders" },
+  { href: "/government-agencies", label: "Government Agencies" },
+  { href: "/tech-tools", label: "Tech Tools" },
+  { href: "/saved", label: "Saved" },
+];
 
 export default function Navbar() {
   const pathname = usePathname();
+  const [bookmarkCount, setBookmarkCount] = useState(0);
 
-  const links = [
-    { href: "/community-groups", label: "Community Groups" },
-    { href: "/community-builders", label: "Community Builders" },
-    { href: "/government-agencies", label: "Government Agencies" },
-  ];
+  useEffect(() => {
+    const update = () => {
+      try {
+        const saved = JSON.parse(localStorage.getItem("kd-bookmarks") ?? "[]");
+        setBookmarkCount(Array.isArray(saved) ? saved.length : 0);
+      } catch {
+        setBookmarkCount(0);
+      }
+    };
+    update();
+    window.addEventListener("kd-bookmarks-changed", update);
+    return () => window.removeEventListener("kd-bookmarks-changed", update);
+  }, []);
 
   return (
     <header className="sticky top-0 z-50 w-full border-b border-panel-border/50 bg-cream/80 backdrop-blur-md">
@@ -36,27 +54,32 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop nav links */}
-        <nav className="hidden items-center gap-7 md:flex">
+        <nav className="hidden items-center gap-6 md:flex">
           {links.map((link) => {
             const isActive = pathname === link.href;
+            const isSaved = link.href === "/saved";
             return (
               <Link
                 key={link.href}
                 href={link.href}
-                className={`font-mono text-[10px] font-bold uppercase tracking-widest transition-colors duration-200 ${
-                  isActive
-                    ? "text-gold"
-                    : "text-charcoal/42 hover:text-charcoal/75"
+                className={`relative inline-flex items-center gap-1 font-mono text-[10px] font-bold uppercase tracking-widest transition-colors duration-200 ${
+                  isActive ? "text-gold" : "text-charcoal/42 hover:text-charcoal/75"
                 }`}
               >
                 {link.label}
+                {isSaved && bookmarkCount > 0 && (
+                  <span className="inline-flex h-3.5 min-w-[14px] items-center justify-center rounded-full bg-gold px-0.5 font-mono text-[7px] font-bold text-panel leading-none">
+                    {bookmarkCount > 9 ? "9+" : bookmarkCount}
+                  </span>
+                )}
               </Link>
             );
           })}
         </nav>
 
         {/* Right side */}
-        <div className="flex items-center gap-3">
+        <div className="flex items-center gap-2.5">
+
           {/* Live status pill */}
           <div className="hidden items-center gap-1.5 rounded border border-panel-border bg-panel px-2.5 py-1 font-mono text-[9px] tracking-wider text-charcoal/38 sm:flex">
             <span className="relative flex h-1.5 w-1.5 flex-shrink-0">
@@ -67,20 +90,27 @@ export default function Navbar() {
           </div>
 
           {/* Mobile nav */}
-          <div className="flex gap-1.5 md:hidden">
+          <div className="flex gap-1 md:hidden">
             {links.map((link) => {
               const isActive = pathname === link.href;
+              const shortLabel = link.label.split(" ").slice(-1)[0];
+              const isSaved = link.href === "/saved";
               return (
                 <Link
                   key={link.href}
                   href={link.href}
-                  className={`rounded border px-2 py-1 font-mono text-[9px] font-bold uppercase tracking-tight transition-colors ${
+                  className={`relative rounded border px-1.5 py-1 font-mono text-[8.5px] font-bold uppercase tracking-tight transition-colors ${
                     isActive
                       ? "border-forest/40 bg-forest/10 text-gold"
                       : "border-panel-border bg-panel text-charcoal/45"
                   }`}
                 >
-                  {link.label.split(" ")[1] || link.label}
+                  {shortLabel}
+                  {isSaved && bookmarkCount > 0 && (
+                    <span className="absolute -top-1.5 -right-1.5 flex h-3.5 w-3.5 items-center justify-center rounded-full bg-gold font-mono text-[7px] font-bold text-panel leading-none">
+                      {bookmarkCount > 9 ? "9+" : bookmarkCount}
+                    </span>
+                  )}
                 </Link>
               );
             })}

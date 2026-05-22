@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import fs from "fs";
 import path from "path";
 import CommunityBuildersList from "./CommunityBuildersList";
+import BackToTopButton from "@/components/BackToTopButton";
 import type { BuilderEntry, BuilderLink } from "@/components/BuilderCard";
 
 export const metadata: Metadata = {
@@ -125,6 +126,7 @@ export default function CommunityBuildersPage() {
         <CommunityBuildersList builders={builders} />
 
       </div>
+      <BackToTopButton />
     </div>
   );
 }

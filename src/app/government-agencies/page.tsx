@@ -15,7 +15,7 @@ export default function GovernmentAgenciesPage() {
 
   return (
     <div className="min-h-screen">
-      <div className="mx-auto w-full max-w-6xl px-6 py-12 md:px-8 md:pr-12">
+      <div className="mx-auto w-full max-w-6xl px-6 pr-12 py-12 md:px-8 md:pr-14">
 
         <div className="mb-12 max-w-3xl space-y-3">
           <div className="font-mono text-[9px] font-semibold text-gold tracking-[0.25em] uppercase">

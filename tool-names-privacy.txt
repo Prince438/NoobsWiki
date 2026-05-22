@@ -1,0 +1,312 @@
+﻿- uBlock Origin
+- AdGuard
+- uBO Lite
+- Redundant Extensions
+- uAssets
+- Hosts
+- AdNauseam
+- Privacy Badger
+- uBlacklist
+- Ghostery
+- FilterLists
+- LegitimateURLShortener
+- Hagezi Blocklists
+- FMHY Filterlist
+- AI uBlock Blacklist
+- Huge AI Blocklist
+- EasyList
+- EasyPrivacy
+- OISD
+- StevenBlack's Hosts
+- Peter Lowe's Ad Server List
+- DNS Providers
+- Pi-Hole
+- Filters
+- Tray App
+- Android Server
+- AdGuard Home
+- Balena-AdGuard
+- Mullvad DNS
+- Technitium DNS Server
+- DNSCrypt-Proxy
+- Unbound
+- Stubby
+- DNS0.eu
+- Control D
+- NextDNS
+- AdGuard DNS
+- OISD
+- hBlock
+- Hosts File Aggregator
+- Spamhaus
+- black-mirror
+- Scam Blocklist
+- neodevhost
+- 1Hosts
+- OpenSnitch
+- Privoxy
+- uBlock Origin
+- Brave
+- LuLu
+- Little Snitch
+- AdGuard
+- AdGuard Home
+- AdGuard DNS
+- RethinkDNS
+- Blokada
+- Brave
+- AdGuard for iOS
+- Lockdown Privacy
+- 1Blocker
+- Brave
+- Malwarebytes
+- ESET
+- AdwCleaner
+- Triage
+- ANY.RUN
+- Cuckoo
+- CrowdStrike Falcon?
+- The Second Opinion
+- VirusTotal
+- Scan Results Guide
+- Hybrid Analysis
+- CLI
+- Uploader
+- Lite Version
+- Threat Insights Portal
+- MetaDefender
+- ANY.RUN
+- URL Void
+- URLScan
+- Trend Micro
+- ScamAdviser
+- IsLegitSite
+- ZScaler
+- Talos
+- Norton Safe Web
+- Whonix
+- Qubes
+- Tails
+- W10Privacy
+- Telemetry.md
+- Agent DVR
+- Frigate
+- Smart Sec Cam
+- Kicksecure
+- Safing Portmaster
+- I2P
+- Freenet
+- Hyphanet
+- RustNet
+- Simplewall
+- Fort
+- WFC
+- Wireshark
+- Nmap
+- CrowdSec
+- fail2ban
+- Tails
+- Qubes OS
+- Whonix
+- Kicksecure
+- Fedora Silverblue
+- Objective-See
+- LuLu
+- Little Snitch
+- KnockKnock
+- BlockBlock
+- GrapheneOS
+- CalyxOS
+- /e/OS
+- LineageOS
+- Shelter
+- AdGuard for iOS
+- Lockdown Privacy
+- 1Blocker
+- Brave
+- The Hitchhiker’s Guide
+- The OPSEC Bible
+- SimpleX Chat
+- Surveillance Self-Defense
+- The New Oil
+- No Trace
+- Awesome Privacy
+- Awesome Security Hardening
+- Privacy Guides
+- RestorePrivacy
+- Google Alt List
+- r/degoogle
+- No More Google
+- PrivacySpy
+- ToS;DR
+- JustDeleteMe
+- Phish Report
+- OpenPhish
+- Browser Privacy Guides
+- Tor Browser
+- Mullvad Browser
+- arkenfox
+- GUI
+- LibreWolf
+- Firefox
+- Brave
+- PrivacyTests
+- Cover Your Tracks
+- 2FA Directory
+- Ente Auth
+- Aegis
+- Stratum
+- Password Strength Chart
+- 2FAS
+- Proton Authenticator
+- Mauth
+- Bitwarden
+- KeePassXC
+- Proton Pass
+- Eylenburg Comparisons
+- SecuChart
+- Messenger-Matrix
+- Secure Messaging Apps
+- Matrix Clients
+- Mod Bot
+- Resources
+- Servers
+- Signal
+- SimpleX Chat
+- Session
+- Briar
+- Delta Chat
+- Element
+- Threema
+- Molly
+- OpenPGP Email Encryption
+- Proton Mail
+- More Storage
+- Tuta
+- Disroot
+- DNMX
+- Mailvelope
+- Email Privacy Tester
+- SimpleLogin
+- Addy.io
+- Posteo
+- mailbox.org
+- Have I Been Pwned?
+- F-Secure
+- Have I Been Pwned Passwords
+- Mozilla Monitor
+- BreachDirectory
+- Snusbase
+- Leak Lookup
+- TruffleHog
+- DeHashed
+- IntelX
+- CreepJS
+- webkay
+- browserrecon
+- TZP
+- Cover Your Tracks
+- BrowserScan
+- PersonalData
+- ClearURLs
+- AmIUnique
+- BrowserLeaks
+- Pixelscan
+- privacytests
+- Search Engine Party
+- Docs / Hosting
+- Matrix
+- Brave Search
+- 4get
+- Instances
+- DuckDuckGo
+- AI Free
+- Kagi
+- Mojeek
+- Startpage
+- SearXNG
+- Marginalia Search
+- Qwant
+- YaCy
+- Techlore Chart
+- VPN Relationships
+- Cloudflare One
+- Wireguard
+- Config Generator
+- Proton VPN
+- Windscribe
+- Mullvad VPN
+- IVPN
+- AirVPN
+- WireGuard
+- Guide
+- Web UI
+- Tailscale
+- NetBird
+- Amnezia
+- OpenVPN
+- WGDashboard
+- Headscale
+- ZeroTier
+- Outline
+- Nebula
+- Hysteria
+- VPN Binding Guide
+- WireSock
+- Tunnl
+- WG Tunnel
+- Windows
+- VPN Hotspot
+- Gluetun
+- sing-box
+- Shadowsocks
+- Psiphon
+- Lantern
+- FreeSocks
+- Snowflake
+- Censor Tracker
+- SmartProxy
+- FoxyProxy
+- ZeroOmega
+- 3X-UI
+- Guide
+- Project X
+- NaïveProxy
+- Hysteria
+- Shadowsocks
+- sing-box
+- Amnezia
+- Trojan
+- v2rayN
+- NekoBox
+- v2rayNG
+- MahsaNG
+- Hiddify
+- Amnezia
+- Shadowsocks
+- sing-box
+- Clash Verge Rev
+- Stash
+- Censorship Bypass Guide
+- Net4people
+- ByeDPIAndroid
+- zapret
+- SpoofDPI
+- GoodbyeDPI
+- DNSveil
+- Geph
+- Tor Project
+- Snowflake
+- Ceno Browser
+- Titanium Network
+- Instances
+- US5
+- SSLSecureProxy
+- ProxyOf2
+- Phantom
+- Reflect4
+- CroxyProxy
+- KProxy
+- 4everproxy
+- hide.me Proxy
+- Whoer Web Proxy

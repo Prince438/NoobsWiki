@@ -1,0 +1,691 @@
+﻿- PuccaNoodles' Sheet
+- AI Image Generators
+- Art Education
+- Croppola
+- PixelFrame
+- Scribus
+- Images.weserv.nl
+- GradientArt
+- Canvas
+- Image Splitter
+- PicFont
+- Editing Software
+- Android Editors
+- GIMP
+- ImageMagick
+- Affinity
+- LazPaint
+- PhotoDemon
+- RapidRAW
+- Paint.net
+- Gimel Studio
+- Hugin
+- IOPaint
+- Pixlr
+- Lunapic
+- Photopea
+- BitMappery
+- iPiccy
+- Stet
+- Polarr
+- Resize Pixel
+- Tom's Editor
+- photo.codes
+- MiNi Photo Editor
+- Polotno Studio
+- ILoveImg
+- UpperPix
+- Online Photo Editor
+- Picverse
+- webp2jpg
+- edit.photo
+- RedKetchup
+- fffuel
+- Mara
+- ObjectRemover
+- BG Bye
+- Pixelcut
+- Ripolas Background Remover
+- Change BG
+- Adobe Express Background Remover
+- remove.bg
+- Rembg
+- Segment Anything
+- Waifu2x
+- WaifuXL
+- image-upscaling
+- Upscayl
+- chaiNNer
+- OpenModelDB
+- Real-ESRGAN
+- IMGUpscaler
+- Bigjpg
+- Ilaria\_Upscaler
+- Final2x
+- Lossless Scaling
+- Warlock-Studio
+- imgupscaler
+- QualityScaler
+- resdet
+- Mosh
+- PhotoFunia
+- Palettum
+- InColor
+- Dual Shades
+- PhotoJoiner
+- shabzefilters
+- VHS-Engine
+- AIDraw
+- Tiler
+- Fotosketcher
+- ImageToCartoon
+- Mimi
+- Text-Image
+- ordered-dither-maker
+- Rutt-Etra-Izer
+- Tinter
+- Geometrize
+- PBNify
+- Party-ify
+- Digital Art Brushes
+- Krita
+- miniPaint
+- Pinta
+- Magma
+- SmoothDraw
+- Wigglypaint
+- Inkscape
+- FireAlpaca
+- PixiEditor
+- SumoPaint
+- KRESKA.art
+- Milton
+- AutoDraw
+- VibePaintAI
+- VectorPaint
+- Provector
+- Graphite
+- Vectorpea
+- Tilda
+- HeavyPaint
+- Mixbox Painter
+- Vervette
+- ArtistAssistApp
+- Inscribed
+- Sketch Toy
+- tldraw
+- Ok! So
+- Kleki
+- Sketchbook
+- Fresco
+- Concepts
+- MonsterMash
+- IOGraphica
+- Perfect Freehand
+- minimator
+- Perspective Tools
+- Animated Drawings
+- DrawTab
+- Awesome Pixel Art
+- Pixel Art Animation
+- ASCII Art
+- Aseprite
+- LibreSprite
+- Piskel
+- rx
+- PixiEditor
+- CSprite
+- PyDPainter
+- Paint Of Persia
+- Pixelated
+- PixilArt
+- Poxil
+- GraphicsGale
+- JPixel
+- KPix
+- SpookyGhost
+- PixelartVillage
+- GB Dot Converter
+- GLORP
+- Pixelorama
+- pixeldudesmaker
+- Nasu
+- GIF to Frames
+- Pixel Snapper
+- Pixel Reconstructor
+- Gifski
+- EZGif
+- PicMix
+- MakeEmoji
+- Gifsicle
+- Giphy
+- AnimGifMoji
+- DrawIsland
+- ScreenToGif
+- licecap
+- ugiffer
+- blinkies.cafe
+- Know Your Meme
+- ImgFlip
+- MemeCam
+- GreenScreenMemes
+- TweetGen
+- iFake
+- Objection!
+- Iceberg Threads
+- Pokémon Battle Creator
+- Master of all Science
+- Frinkiac
+- Morbotron
+- LowQualitymemes
+- YouWouldntStealAWebsite
+- BreakYourOwnNews
+- AnimorphGenerator
+- AwesomeCars
+- GIFMemes
+- Design Resources
+- archives.design
+- Muzli
+- CARI
+- People’s Graphic Design Archive
+- One Page Love
+- SMPoster
+- AnotherGraphic
+- The Boolean Game
+- Figma
+- Canva
+- lunacy
+- VistaCreate
+- Penpot
+- blush
+- Pattern Ninja
+- Pixelied
+- Antlii
+- SVG Icons
+- Alphacoders Avatars
+- Picrew
+- Icon Gen
+- PixelMe
+- Square Face Generator
+- Icon Z
+- MultiAvatar
+- FreeLogoMaker
+- Worldvectorlogo
+- Logo Fast
+- LogoMaker
+- PFP Finder
+- Random Avatars
+- pfps.gg
+- Innocenzi
+- RealFaviconGenerator
+- Formia
+- AmbientCG
+- TextureTown
+- 3D textures
+- Textureking
+- Texture Labs
+- Transparent Textures
+- Texture Club
+- TexturesForFree
+- texture4photoshop
+- MatLib
+- TextureNinja
+- cgbookcase
+- Subtle Patterns
+- Background Tiles
+- Pixela
+- Normal Map Generator
+- TextureLab
+- Material Maker
+- DoodDad
+- Noise \& Gradient
+- Tabbied
+- Mixer
+- The Textures Resource
+- Trianglify.io
+- Gumroad
+- Freeject
+- Salvaged
+- AvaxGFX
+- Cg\_peers Archive
+- PNGTree
+- TianUI
+- Designer Candies
+- PSDLY
+- Unblast
+- Gift4Designer
+- CGPerec
+- SearchGFX
+- designersgan9
+- Free\_Design\_Files
+- WockupWorld
+- OnlyGFX
+- The GFX
+- Graphics Materials
+- desiignertm
+- all\_psd
+- Playersdsg
+- DOPE Editing
+- desgang
+- creativemrkt
+- freepsdvn
+- PrivateDesigner
+- Solutioonn
+- ae-project
+- godownloads
+- PanosFX
+- designer
+- PNG Images / Clipart
+- gallery-dl
+- same.energy
+- Dezoomify
+- OpenMoji
+- PixelJoint
+- shot.cafe
+- Free Classic Image
+- Footyrenders
+- PSDGraphics
+- Placeit
+- MariaLetta
+- Block Posters
+- Search by Image
+- Yandex Images
+- SauceNao
+- SmartImage
+- Google Lens
+- TinEye
+- Bing Visual Search
+- Copyseeker
+- infini.wtf
+- IQDB
+- MaxURL
+- VISE
+- Have I Been Trained?
+- RootAbout
+- Multicolr
+- trace.moe
+- Pose Search
+- Awesome Stock Resources
+- GetPaidStock
+- EveryPixel
+- Unsplash
+- Pixabay
+- Adobe Stock
+- Pixnio
+- Pikwizard
+- Pexels
+- Pixelmob
+- diverseui
+- themeisle
+- PxHere
+- focastock
+- Foodiesfeed
+- freenaturestock
+- Burst
+- Hippopx
+- BarnImages
+- Lummi
+- Smithsonian Open Access
+- desirefx
+- creativity103
+- Warren Photographic
+- PhyloPic
+- iwaria
+- twnsnd
+- PNGIMG
+- gfxmountain
+- freepikuz\_pro
+- Flickr Commons
+- Shutterstock Premium
+- Nohat
+- publicdomainvectors
+- VectorPortal
+- 123freevectors
+- mockups-design
+- Digital Art Collections
+- Kemono
+- ArtStation
+- Pixiv
+- Downloader
+- Danbooru
+- hydrus
+- Kultura
+- Buzzly
+- Sheezy.Art
+- Artfol
+- Cara
+- DeviantArt
+- InkBlot
+- Zerochan
+- PidgiWiki
+- Safebooru
+- icons8
+- StorySet
+- Pastel
+- Fresh Folk
+- free-gophers-pack
+- reshot
+- OldBookIllustrations
+- Buhitter
+- imgbrd-grabber
+- Artbreeder
+- TEv2
+- Ben Dodson
+- BigBoxCollection
+- The Poster DB
+- Movie Posters Gallery
+- GameTDB
+- Cover Century
+- FanArt
+- r/MoviePosterPorn
+- Download all Images
+- Cute Save Button
+- svgexport
+- SVG Gobbler
+- Image Picka
+- Thingiverse
+- Printables
+- PolyHaven
+- Sketchfab
+- Cults
+- STLFinder
+- 3D Warehouse
+- Pack 3D Models
+- Figurosity
+- Handz
+- Generated Photos
+- Archive3D
+- poly.pizza
+- RIGModels
+- NASA 3D Resources
+- 3D Find It
+- McMaster
+- thebasemesh
+- BlenderKit
+- Gridfinity
+- CosplayStaticFigure
+- 3DBrute
+- Vertex
+- Ameede
+- Skybox
+- PoseManiacs
+- Blender
+- Resources
+- MCprep
+- Shap-e
+- Goo Engine
+- Meshy.ai
+- VFXmed
+- Wings 3D
+- Bforartists
+- JustSketchMe
+- MakeHuman
+- PoseMy.art
+- Vectary
+- FaceMaker
+- Recursivity
+- ModelViewer
+- BumpMesh
+- Armorpaint
+- SculptGL
+- MagicaVoxel
+- Efecto
+- Embossify
+- Kiri:Moto
+- 3D Transformer
+- 3DConvert
+- PaintUp
+- Keygen
+- AliceVision
+- Perspective Grid
+- Assemblr
+- MeshLab
+- Ninja Ripper
+- Awesome 3D Printing
+- Polymaker
+- 3D Printer Recs
+- SpoolScout
+- step.parts
+- OrcaSlicer
+- e-NABLE
+- Solid Edge
+- Onshape
+- Tinkercad
+- FreeCAD
+- Chili3d
+- BRL-CAD
+- LibreCAD
+- Mayo
+- CadHub
+- Creator Resources
+- Awesome Colab Notebooks
+- Color Scheme Tools
+- ImgOps
+- AntiDupl
+- Slowpoke Pics
+- odiff
+- Picviewer CE+
+- Universal Sig Rotator
+- Image Color Summarizer
+- Image Colors
+- Image Pixel Sorter
+- Adobe Bridge
+- behind!
+- Visual Center
+- Watermarkly
+- Watermark Remover
+- Glaze
+- APNG Maker
+- JPEGMedic ARWE
+- CamScanner
+- Swapface
+- WiseTagger
+- BooruDatasetTagManager
+- Cluttr
+- Allusion
+- Caesium
+- Squoosh
+- Seopix
+- optimize.photos
+- CompressImage
+- CrushImage
+- Bulk Image Compress
+- HiCompress
+- Compress JPEG
+- TinyPNG
+- ImageSmaller
+- CompressOrDie
+- PNGQuant
+- ImageMagick
+- RIOT
+- YOGA
+- ImageFoo
+- tiny.pictures
+- Pingo
+- Ihancer
+- Oxipng
+- Crunch
+- File Converter
+- RedKetchup
+- Knvrt
+- Convertmyimage
+- ImageConvert
+- imverter
+- Raw Pics
+- Converseen
+- PixelHunter
+- Resize App Icon
+- Pro Image Tool
+- Simple Image Resizer
+- ImageResizer
+- PicResize
+- Birme
+- Bulk Image Resize
+- ResizeNow
+- BulkResizePhotos
+- ImageToText
+- Capture2Text
+- Text Grab
+- TextShot
+- ImageScanOCR
+- Handwriting-OCR
+- Project Naptha
+- i2ocr
+- GLM-OCR
+- OCR.SPACE
+- OCRTool
+- 2OCR
+- OnlineOCR
+- NewOCR
+- OnlineOCR
+- IrfanView
+- JPEGView
+- FastStone
+- qView
+- XnView MP
+- Digikam
+- ImageGlass
+- Imagine
+- nomacs
+- qimgv
+- oculante
+- Diffractor
+- PhotoQt
+- NeeView
+- PicView
+- ImagefanReloaded
+- Image Eye
+- Quick Picture Viewer
+- HoneyView
+- picturama
+- narrative
+- G'MIC
+- BeeRef
+- HDRView
+- FlipFlip
+- FOSS Photo Libraries
+- Android Galleries
+- Immich
+- Damselfly
+- Lap
+- HomeGallery
+- LibrePhotos
+- Lychee
+- PhotoPrism
+- Photoview
+- Ente
+- Photonix
+- photos
+- imagestore
+- Memories
+- Piwigo
+- PiGallery 2
+- Up1
+- Chevereto
+- Photofield
+- Urocissa
+- Postimages
+- Rimgo
+- tixte
+- lookimg
+- Horizon
+- imgchest
+- Imgur
+- Google Photos
+- Zonerama
+- Ente
+- Piczel
+- TurboImageHost
+- gotohp
+- Google Photos Toolkit
+- Google Takeout
+- Google Photos EXIF
+- ImgBB
+- Catbox
+- pixelfed
+- sxcu.net
+- FreeImage.Host
+- imgbox
+- i
+- IMGPile
+- YourImageShare
+- pic.maxiol
+- GIFYU
+- ThumbSnap
+- Kepkuldes
+- Pikky
+- imagebam
+- imagevenue
+- FastPic
+- EasyCaptures
+- PicoShare
+- ShareX
+- Flameshot
+- Zipline
+- Greenshot
+- KSnip
+- FuseBase Capture
+- PixpinApp
+- ScreenshotX
+- Pilko
+- VideoToJPG
+- FRAMED
+- Moocup
+- Screenshot Guru
+- Screenshot Rocks
+- paste.photos
+- How to Screenshot
+- Color Designer
+- Clariss
+- Color Space
+- Colors Wall
+- Color Kit
+- Pigment
+- ColorBox
+- Good Palette
+- Couleur.io
+- UI Colors
+- Poolors
+- React Color
+- BrandColors
+- Material UI
+- Colorpicker
+- Colorscales
+- ColourCode
+- Geenes
+- Sorted CSS Colors
+- Color Hunt
+- Adobe Color
+- Color Lisa
+- Color Leap
+- Android Camera
+- r/Photography Guide
+- Camera Decision
+- PentaxForums Reviews
+- Camera Wiki
+- PhotoFeeler
+- DaVinci Resolve
+- HDRMerge
+- PixelPeeper
+- PhotoEphemeris
+- MagicLantern
+- CHDK
+- fSpy
+- DPReview
+- Canon Camera Museum
+- Photo OSINT
+- File Info / Metadata
+- Fawkes
+- FotoForensics
+- ViewEXIF
+- exiftool
+- Pic2Map
+- TheExifer
+- Picarta
+- Image Identification Project
+- StegOnline
+- Aperisolve
+- Redacted
+- Image Scrubber
+- Schizoware
+- Base64 Image

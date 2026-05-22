@@ -1,6 +1,8 @@
 "use client";
 
 import { ExternalLink } from "lucide-react";
+import BookmarkButton, { type BookmarkItem } from "@/components/BookmarkButton";
+import ShareButton from "@/components/ShareButton";
 
 export interface GroupLink {
   label: string;
@@ -35,6 +37,15 @@ export default function GroupCard({ name, description, links, category, index }:
   const formattedIndex = String(index).padStart(2, "0");
   const categoryLabel = CATEGORY_LABELS[category] ?? category;
 
+  const bookmarkItem: BookmarkItem = {
+    id: `group-${name.toLowerCase().replace(/[^a-z0-9]+/g, "-")}`,
+    name,
+    type: "group",
+    description,
+    externalUrl: links[0]?.url,
+    pageUrl: "/community-groups",
+  };
+
   return (
     <div className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel transition-all duration-300 hover:border-forest/45 hover:shadow-[0_4px_24px_rgba(0,0,0,0.35)] overflow-hidden">
 
@@ -68,9 +79,9 @@ export default function GroupCard({ name, description, links, category, index }:
       </div>
 
       {/* Links footer */}
-      <div className="mx-5 mb-4 pt-3 border-t border-panel-border/30">
+      <div className="mx-5 mb-4 pt-3 border-t border-panel-border/30 flex items-end justify-between gap-2">
         {links.length > 0 ? (
-          <div className="flex flex-wrap gap-1.5">
+          <div className="flex flex-wrap gap-1.5 flex-1 min-w-0">
             {links.map((link, i) => (
               <a
                 key={i}
@@ -86,8 +97,12 @@ export default function GroupCard({ name, description, links, category, index }:
             ))}
           </div>
         ) : (
-          <span className="font-mono text-[9px] text-charcoal/22">No public links</span>
+          <span className="font-mono text-[9px] text-charcoal/22 flex-1">No public links</span>
         )}
+        <div className="flex items-center gap-2 flex-shrink-0 mb-0.5">
+          <ShareButton url={links[0]?.url} />
+          <BookmarkButton item={bookmarkItem} />
+        </div>
       </div>
 
     </div>
