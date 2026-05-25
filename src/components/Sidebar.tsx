@@ -3,13 +3,14 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
-import { Users, Cpu, ShieldAlert, Wrench, Bookmark } from "lucide-react";
+import { Users, Cpu, ShieldAlert, Wrench, BookOpen, Bookmark } from "lucide-react";
 
 const directoryLinks = [
   { href: "/community-groups", label: "Community Groups", icon: Users },
   { href: "/community-builders", label: "Community Builders", icon: Cpu },
   { href: "/government-agencies", label: "Government Agencies", icon: ShieldAlert },
   { href: "/tech-tools", label: "Tech Tools", icon: Wrench },
+  { href: "/tech-tutorials", label: "Tech Tutorials", icon: BookOpen },
 ];
 
 const pageLinks = [
