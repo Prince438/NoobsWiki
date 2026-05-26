@@ -7,10 +7,11 @@ interface Props {
   embedId: string;
   title: string;
   link: string;
+  source?: string;
   onClose: () => void;
 }
 
-export default function VideoModal({ embedId, title, link, onClose }: Props) {
+export default function VideoModal({ embedId, title, link, source = "Tutorial", onClose }: Props) {
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => { if (e.key === "Escape") onClose(); };
     document.addEventListener("keydown", onKey);
@@ -77,7 +78,7 @@ export default function VideoModal({ embedId, title, link, onClose }: Props) {
         {/* Footer */}
         <div className="flex items-center justify-between gap-3 px-4 py-3 border-t border-panel-border/20">
           <span className="font-mono text-[7.5px] uppercase tracking-widest text-charcoal/22">
-            Hermes Agent Tutorial
+            {source} Tutorial
           </span>
           <a
             href={link}

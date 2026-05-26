@@ -20,6 +20,7 @@ export interface HermesEntry {
 
 interface Props {
   entry: HermesEntry;
+  source?: string;
 }
 
 const beginnerColors: Record<string, string> = {
@@ -34,7 +35,7 @@ const beginnerLabel: Record<string, string> = {
   No: "Advanced",
 };
 
-export default function VideoCard({ entry }: Props) {
+export default function VideoCard({ entry, source = "Hermes Agent" }: Props) {
   const [modalOpen, setModalOpen] = useState(false);
   const [mounted, setMounted] = useState(false);
 
@@ -126,6 +127,7 @@ export default function VideoCard({ entry }: Props) {
           embedId={entry.embedId}
           title={entry.title}
           link={entry.link}
+          source={source}
           onClose={() => setModalOpen(false)}
         />,
         document.body
