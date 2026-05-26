@@ -119,6 +119,37 @@ export default function TechTutorialsPage() {
           </div>
         </Link>
 
+        {/* Kimi */}
+        <Link
+          href="/tech-tutorials/kimi"
+          className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
+        >
+          <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none" />
+          <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+
+          <div>
+            <div className="mb-5 flex items-start justify-between">
+              <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                <PlayCircle className="h-[17px] w-[17px] stroke-[1.8]" />
+              </div>
+              <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">65 videos</span>
+            </div>
+
+            <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              Kimi
+            </h2>
+
+            <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+              Long-context AI tutorials covering Kimi basics, PDF and research workflows, coding, multimodal features, and productivity use cases.
+            </p>
+          </div>
+
+          <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+            <span>BROWSE TUTORIALS</span>
+            <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+          </div>
+        </Link>
+
       </div>
     </div>
   );
