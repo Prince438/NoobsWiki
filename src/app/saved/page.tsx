@@ -6,13 +6,14 @@ import { Bookmark, ExternalLink, Trash2, ArrowRight } from "lucide-react";
 import { getBookmarks, type BookmarkItem } from "@/components/BookmarkButton";
 
 const TYPE_LABELS: Record<string, string> = {
+  tutorial: "Tech Tutorial",
   tool: "Tech Tool",
   group: "Community Group",
   builder: "Community Builder",
   agency: "Government Agency",
 };
 
-const TYPE_ORDER = ["tool", "group", "builder", "agency"] as const;
+const TYPE_ORDER = ["tutorial", "tool", "group", "builder", "agency"] as const;
 
 export default function SavedPage() {
   const [bookmarks, setBookmarks] = useState<BookmarkItem[]>([]);

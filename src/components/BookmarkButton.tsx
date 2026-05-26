@@ -6,7 +6,7 @@ import { Bookmark } from "lucide-react";
 export interface BookmarkItem {
   id: string;
   name: string;
-  type: "tool" | "group" | "builder" | "agency";
+  type: "tool" | "group" | "builder" | "agency" | "tutorial";
   description: string;
   externalUrl?: string;
   pageUrl: string;

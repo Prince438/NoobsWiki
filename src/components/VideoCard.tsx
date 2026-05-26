@@ -4,6 +4,7 @@ import { useState, useEffect } from "react";
 import { createPortal } from "react-dom";
 import { Play, ExternalLink } from "lucide-react";
 import VideoModal from "@/components/VideoModal";
+import BookmarkButton from "@/components/BookmarkButton";
 
 export interface HermesEntry {
   title: string;
@@ -107,16 +108,28 @@ export default function VideoCard({ entry, source = "Hermes Agent" }: Props) {
             </div>
           )}
 
-          {/* External link */}
-          <a
-            href={entry.link}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="mt-2 inline-flex items-center gap-1 font-mono text-[8px] font-bold uppercase tracking-wider text-gold/45 hover:text-gold transition-colors"
-          >
-            <ExternalLink className="h-2.5 w-2.5" />
-            <span>Watch on YouTube</span>
-          </a>
+          {/* Footer: external link + bookmark */}
+          <div className="mt-2 flex items-center justify-between gap-2 pt-2 border-t border-panel-border/15">
+            <a
+              href={entry.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-1 font-mono text-[8px] font-bold uppercase tracking-wider text-gold/45 hover:text-gold transition-colors"
+            >
+              <ExternalLink className="h-2.5 w-2.5" />
+              <span>Watch on YouTube</span>
+            </a>
+            <BookmarkButton
+              item={{
+                id: `tutorial-${entry.embedId}`,
+                name: entry.title,
+                type: "tutorial",
+                description: entry.description ?? "",
+                externalUrl: entry.link,
+                pageUrl: entry.link,
+              }}
+            />
+          </div>
 
         </div>
       </div>
