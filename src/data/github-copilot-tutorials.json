@@ -1,0 +1,2622 @@
+[
+  {
+    "title": "AI-Assisted Coding Tutorial – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "agents",
+      "cli",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=wlpBCazAY9Q",
+    "embedId": "wlpBCazAY9Q",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "Complete GitHub Copilot Tutorial for Beginners",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=yqVmuENb1NE",
+    "embedId": "yqVmuENb1NE",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "Copilot Best Practices (What Not To Do)",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=2q0BoioYSxQ",
+    "embedId": "2q0BoioYSxQ",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "Get started with Copilot Free in VS Code",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=X_Aet9ndh_Y",
+    "embedId": "X_Aet9ndh_Y",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "Get Started with GitHub Copilot in VS Code (2025)",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=vdBxfFVXnc0",
+    "embedId": "vdBxfFVXnc0",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "Get to know GitHub Copilot in VS Code and be productive IMMEDIATELY",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=jXp5D5ZnxGM",
+    "embedId": "jXp5D5ZnxGM",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "Getting started with GitHub Copilot CLI | Tutorial for beginners",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "agents",
+      "cli",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=BDxRhhs36ns",
+    "embedId": "BDxRhhs36ns",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "Getting started with GitHub Copilot | Tutorial",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=n0NlxUyA7FI",
+    "embedId": "n0NlxUyA7FI",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "GitHub Copilot 101 - Essential features | Tutorial",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=b5xcWdzAB5c",
+    "embedId": "b5xcWdzAB5c",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "GitHub Copilot Full Course 2025 | Become Coding Master",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=HEbxwdtsbRg",
+    "embedId": "HEbxwdtsbRg",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "GitHub Copilot in VSCode: Top 10 Features Explained",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations",
+      "review",
+      "comparison",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=2nPoiUJpDaU",
+    "embedId": "2nPoiUJpDaU",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=9JGONx_X4ho",
+    "embedId": "9JGONx_X4ho",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Hands-On Lab: The Power of GitHub Copilot in VS Code",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=dxDqelvVc2U",
+    "embedId": "dxDqelvVc2U",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "How the GitHub Copilot coding agent works | GitHub Checkout",
+    "category": "Beginner / Start Here",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "agents",
+      "cli",
+      "start-here"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=1GVBRhDI5No",
+    "embedId": "1GVBRhDI5No",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "Copilot CLI Tutorial #1 - Intro & Setup",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "setup",
+      "installation",
+      "agents"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "setup",
+      "quickstart",
+      "workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=720a-3LXkdo",
+    "embedId": "720a-3LXkdo",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "GitHub Copilot Extensions : Build Your First Extension",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=ky5TMI9skLE",
+    "embedId": "ky5TMI9skLE",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "Github COPILOT install and setup with Visual Studio Code",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "setup",
+      "installation"
+    ],
+    "recommendationTags": [
+      "setup",
+      "quickstart",
+      "workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=0dSKt4DgnyA",
+    "embedId": "0dSKt4DgnyA",
+    "description": "Covers setup, installation, and the core GitHub Copilot workflow."
+  },
+  {
+    "title": "GitHub Copilot Setup in VS Code: Complete Installation & Configuration Guide",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "setup",
+      "installation",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "setup",
+      "quickstart",
+      "workflow",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=wxaxlIlN7BA",
+    "embedId": "wxaxlIlN7BA",
+    "description": "Covers setup, installation, and the core GitHub Copilot workflow."
+  },
+  {
+    "title": "How to Install GitHub Copilot on VS Code",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "setup",
+      "installation",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "setup",
+      "quickstart",
+      "workflow",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=6xrBSg3a0_Y",
+    "embedId": "6xrBSg3a0_Y",
+    "description": "Covers setup, installation, and the core GitHub Copilot workflow."
+  },
+  {
+    "title": "How To Install The Copilot Extension In VS Code (Quick Guide)",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "setup",
+      "installation",
+      "extensions",
+      "integrations",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "setup",
+      "quickstart",
+      "workflow",
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=ws6t0NBle9g",
+    "embedId": "ws6t0NBle9g",
+    "description": "Covers setup, installation, and the core GitHub Copilot workflow."
+  },
+  {
+    "title": "How to Setup GitHub Copilot in VS Code and be Productive IMMEDIATELY (2026 Full Guide)",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "setup",
+      "installation",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "setup",
+      "quickstart",
+      "workflow",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=4OFlFz4nQkU",
+    "embedId": "4OFlFz4nQkU",
+    "description": "Covers setup, installation, and the core GitHub Copilot workflow."
+  },
+  {
+    "title": "Master the core principles of prompt engineering with GitHub Copilot",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "pull-requests",
+      "workflow"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=hh1nOX14TyY",
+    "embedId": "hh1nOX14TyY",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "This Copilot Studio Extension for VS Code Changes Everything",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=lciZYzefXZI",
+    "embedId": "lciZYzefXZI",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "TradingView’s New AI Copilot Is Here: Chart Analysis, Alerts and Automation",
+    "category": "Setup, Install & Basics",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=k33eRtjoYls",
+    "embedId": "k33eRtjoYls",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "10 Copilot Chat Prompts I Use Every Week",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "pull-requests",
+      "workflow"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=oAbLb-K8VZo",
+    "embedId": "oAbLb-K8VZo",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "About Microsoft 365 Copilot Chat",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=shUbh8QUWOc",
+    "embedId": "shUbh8QUWOc",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "agents",
+      "cli"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=s7Qzq0ejhjg",
+    "embedId": "s7Qzq0ejhjg",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "Become a Copilot Master - Tips By a Microsoft Engineer",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "productivity",
+      "systems",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=9sFA-dWNUlc",
+    "embedId": "9sFA-dWNUlc",
+    "description": "Packed with tips to speed up daily GitHub Copilot usage and productivity."
+  },
+  {
+    "title": "Copilot Chat (Free Version): Complete Tutorial",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=Lpocviv2xDo",
+    "embedId": "Lpocviv2xDo",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "Copilot Chat in Visual Studio Code | GitHub Universe",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=a2DDYMEPwbE",
+    "embedId": "a2DDYMEPwbE",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "Copilot Chat vs Microsoft 365 Copilot: What's the Difference?",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=vDOjRBeMmiU",
+    "embedId": "vDOjRBeMmiU",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "GitHub Copilot Chat in Visual Studio 2022",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=qQESlmIseJ8",
+    "embedId": "qQESlmIseJ8",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "GitHub Copilot chat will not show up on the activity bar of visual studio code insiders.",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=rF-Y0DuvE2o",
+    "embedId": "rF-Y0DuvE2o",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "GitHub Copilot deep dive: Model selection, prompting techniques & agent mode",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=0Oz-WQi51aU",
+    "embedId": "0Oz-WQi51aU",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "GitHub Copilot: Getting Started with Chat",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=3surPGP7_4o",
+    "embedId": "3surPGP7_4o",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "How to Build an AI Agent with Microsoft 365 Copilot (No Code Step-by-Step Guide)",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=Iz3ul6hSeTs",
+    "embedId": "Iz3ul6hSeTs",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "How to Use GitHub Copilot Chat Modes in VS Code (MCP Management)",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "chat",
+      "prompting",
+      "review"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=kw5GNtihCh0",
+    "embedId": "kw5GNtihCh0",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "How to Use NEW Copilot Chat in Office for FREE.... And How It Changes Everything!",
+    "category": "Chat, Prompting & Everyday Use",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "chat",
+      "prompting"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=KxIUgA2Z9_I",
+    "embedId": "KxIUgA2Z9_I",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "Automatically adjust pasted code with GitHub Copilot",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=zklV3In9KU8",
+    "embedId": "zklV3In9KU8",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Code review & refactoring with GitHub Copilot: A beginner's guide",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "coding",
+      "code-assist",
+      "review"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "developer-tools",
+      "coding-assistance",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=LsQGilvXAfE",
+    "embedId": "LsQGilvXAfE",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "Coding with an AI pair programmer: Getting started with GitHub Copilot",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=dhfTaSGYQ4o",
+    "embedId": "dhfTaSGYQ4o",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "Copilot Usage & Completion Settings in VS Code | Monitor Premium Requests + Snooze Next Edit",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=9Ar-6qQzk8o",
+    "embedId": "9Ar-6qQzk8o",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "Debug easily with Github Copilot and Visual Studio",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=EuMThco8hfk",
+    "embedId": "EuMThco8hfk",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Debug Faster in Visual Studio with GitHub Copilot",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=kxAQX_fVpgA",
+    "embedId": "kxAQX_fVpgA",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "GitHub Copilot can help with Debugging, Exceptions, Testing, Profiling, & more in Visual Studio!",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=VVnOU3iCuOU",
+    "embedId": "VVnOU3iCuOU",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "GitHub Copilot code review | New feature announcement",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "review",
+      "comparison",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=cyPaAkRfEBQ",
+    "embedId": "cyPaAkRfEBQ",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "GitHub Copilot vs. Claude Code: Which AI Assistant Should You Use in 2026?",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "review",
+      "comparison",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=EmfoQWQ1DR8",
+    "embedId": "EmfoQWQ1DR8",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "GitHub Copilot – Debugging and Diagnostics",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=88M5VH_FJVg",
+    "embedId": "88M5VH_FJVg",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "How to automate code reviews and testing with GitHub Copilot",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "review",
+      "comparison",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=HDEGFNAUkX8",
+    "embedId": "HDEGFNAUkX8",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "How to close pull requests faster with Copilot code review | GitHub Checkout",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=8hyvYP5PCks",
+    "embedId": "8hyvYP5PCks",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "How to get a multi-agent code review in Copilot CLI",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "agents",
+      "cli",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=qRXztN1hi1M",
+    "embedId": "qRXztN1hi1M",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "How To Refactor Code Using GitHub Copilot? - Learning To Code With AI",
+    "category": "Coding, Refactor & Debugging",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "developer-tools",
+      "refactoring"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=VKVoP9YBrvA",
+    "embedId": "VKVoP9YBrvA",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "Copilot Pull Request Summaries",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=BVX074EMnds",
+    "embedId": "BVX074EMnds",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "Demo: end-to-end agentic development with GitHub Copilot",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=onVn-lnHZ9s",
+    "embedId": "onVn-lnHZ9s",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "Enforce GitHub Copilot Code Reviews on Pull Requests",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=xkLi56Al12c",
+    "embedId": "xkLi56Al12c",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "GitHub Copilot Code Review Agent (2025) — Smarter Reviews, Custom Workflows, CLI Power!",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=1itYuuNDb1g",
+    "embedId": "1itYuuNDb1g",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "GitHub Copilot Instructions For Pull Request Reviews",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=rJvJu_yZUJE",
+    "embedId": "rJvJu_yZUJE",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "GitHub Copilot PR Code Review Now Customizable with Your Own Rules!",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=fRBS7mLw560",
+    "embedId": "fRBS7mLw560",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "How To Get Better AI Reponses from GitHub Copilot in Seconds!",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=ZohAaUQBDbs",
+    "embedId": "ZohAaUQBDbs",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Iterate on pull requests with Copilot Workspace",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=g538wEytKH4",
+    "embedId": "g538wEytKH4",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "Multi-model AI workflows in GitHub Copilot CLI",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=rJSsbHwkYAY",
+    "embedId": "rJSsbHwkYAY",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "NEW Copilot Workflows Agent Will Automate Your Job (Full Tutorial)",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=_w-jVw8Uhc0",
+    "embedId": "_w-jVw8Uhc0",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "No One Is Using CoPilot...",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=5-tzLvOu9lo",
+    "embedId": "5-tzLvOu9lo",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Perform a Contract Review with Copilot",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=wKUj8u6D1cI",
+    "embedId": "wKUj8u6D1cI",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=82jciNezDMY",
+    "embedId": "82jciNezDMY",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "Smart Pull Request Reviews with GitHub Copilot – AI Assisted Programming",
+    "category": "PRs, Reviews & Workflow",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison",
+      "code-review",
+      "team-workflow"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=tqUY4qCiGMY",
+    "embedId": "tqUY4qCiGMY",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "A beginner's guide to Copilot CLI slash commands",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "agents",
+      "cli",
+      "agentic-coding"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=-Yavis20B4Q",
+    "embedId": "-Yavis20B4Q",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "Build NEXT-LEVEL Copilot Agents with VS Code & GitHub Copilot",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "review",
+      "comparison",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=TrZ6fKBENB8",
+    "embedId": "TrZ6fKBENB8",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "Configuring model context protocol in the GitHub Copilot CLI | demo",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=O73egpvWcpY",
+    "embedId": "O73egpvWcpY",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "Copilot agent mode new features in Visual Studio Code | GitHub Checkout",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=aKx5I0Mrr9g",
+    "embedId": "aKx5I0Mrr9g",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "First look at GitHub Copilot Coding Agent - The $40/month AI developer that actually works!",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "agents",
+      "cli",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=FRcOen6JuJc",
+    "embedId": "FRcOen6JuJc",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "GitHub Copilot Agent Writes Perfect Code & Tests… Should You Be Worried?",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=45Fv0Rx31Zk",
+    "embedId": "45Fv0Rx31Zk",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "GitHub Copilot now controls your command line...",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=P8MfgV9us4o",
+    "embedId": "P8MfgV9us4o",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "GitHub Copilot Workspace: Why YOUR Coding Workflow JUST CHANGED",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "pull-requests",
+      "workflow",
+      "agents",
+      "cli"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "team-workflow",
+      "code-review",
+      "automation"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=iCv21iIq0S8",
+    "embedId": "iCv21iIq0S8",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "GitHub Copilot's @Workspace - Deep Dive",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=3Yz48eenPEE",
+    "embedId": "3Yz48eenPEE",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "How to use Copilot Workspace | Full Demo",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "agents",
+      "cli",
+      "agentic-coding"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=bsfE9c2pRD0",
+    "embedId": "bsfE9c2pRD0",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "How to use hooks in the GitHub Copilot CLI | demo",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "Yes",
+    "searchTags": [
+      "github",
+      "copilot",
+      "beginner-friendly",
+      "onboarding",
+      "quickstart",
+      "agents",
+      "cli",
+      "agentic-coding"
+    ],
+    "recommendationTags": [
+      "start-here",
+      "onboarding",
+      "first-steps",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=bglVc9HDfwg",
+    "embedId": "bglVc9HDfwg",
+    "description": "Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics."
+  },
+  {
+    "title": "Microsoft 365 Copilot Power User Tips",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "productivity",
+      "systems",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=MuocazjjZmc",
+    "embedId": "MuocazjjZmc",
+    "description": "Packed with tips to speed up daily GitHub Copilot usage and productivity."
+  },
+  {
+    "title": "NEW GitHub Copilot Workspace Demo",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=FARf9emEPjI",
+    "embedId": "FARf9emEPjI",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "Run code generation in the background with GitHub Copilot coding agents | GitHub Checkout",
+    "category": "Agents, CLI & Advanced",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "coding",
+      "code-assist",
+      "agents",
+      "cli",
+      "agentic-coding",
+      "terminal"
+    ],
+    "recommendationTags": [
+      "developer-tools",
+      "coding-assistance",
+      "speed",
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows",
+    "link": "https://www.youtube.com/watch?v=S1ch_6fjp5M",
+    "embedId": "S1ch_6fjp5M",
+    "description": "Focuses on coding assistance, refactoring, debugging, and code review workflows."
+  },
+  {
+    "title": "Building your own GitHub Copilot chat participant in VS Code",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=OdW2r3raAHI",
+    "embedId": "OdW2r3raAHI",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "Complete a Jira Issue ENTIRELY w/ Github Copilot",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=xcoBQaEmuWY",
+    "embedId": "xcoBQaEmuWY",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Copilot Agent Mode is now available in JetBrains IDEs",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "extensions",
+      "integrations"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal",
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=givppH8MVvQ",
+    "embedId": "givppH8MVvQ",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "Enhancing VS Code extensions with GitHub Copilot | BRK195",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=YI7kjWzIiTM",
+    "embedId": "YI7kjWzIiTM",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "GitHub Copilot For IntelliJ | GitHub Copilot tutorial with IntelliJ | GitHub Copilot | Simplilearn",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=ZReDQLDThbs",
+    "embedId": "ZReDQLDThbs",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "GitHub Copilot in JetBrains: Demo of MCP and agent mode",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "extensions",
+      "integrations"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal",
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=2GMKFbldb9c",
+    "embedId": "2GMKFbldb9c",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "GitHub Copilot tutorial with IntelliJ IDEA",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=3w2df18ns-8",
+    "embedId": "3w2df18ns-8",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Hands-On with GitHub Copilot Extensions!",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=Z0tjdCqe04w",
+    "embedId": "Z0tjdCqe04w",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "JetBrains vs GitHub Copilot - Which One is a Better AI Code Editor?",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=x9GP2ZbxpZo",
+    "embedId": "x9GP2ZbxpZo",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "Let's Create a GitHub Copilot Extension! with Nick Taylor",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=hjsO72uf6bE",
+    "embedId": "hjsO72uf6bE",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "Let's try GitHub Copilot Agent mode in VS Code to build a FULL app!",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=pUK7MRzoTDc",
+    "embedId": "pUK7MRzoTDc",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "NOW AVAILABLE: GitHub Copilot Chat for JetBrains IDEs",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "extensions",
+      "integrations"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=Di-kkTO6b88",
+    "embedId": "Di-kkTO6b88",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "What are GitHub Copilot Extensions?",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "No",
+    "searchTags": [
+      "github",
+      "copilot",
+      "extensions",
+      "integrations"
+    ],
+    "recommendationTags": [
+      "integrations",
+      "tooling",
+      "developer-workflow"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=lMNYsyFJCTw",
+    "embedId": "lMNYsyFJCTw",
+    "description": "Explores extensions, integrations, and editor-specific Copilot setups."
+  },
+  {
+    "title": "What is GitHub Copilot?",
+    "category": "Extensions, Integrations & Ecosystem",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=IqXNhakuwVc",
+    "embedId": "IqXNhakuwVc",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "10 GitHub Copilot Tricks Most Developers Don't Know (2026)",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "productivity",
+      "systems",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=xyi3tTAS2QA",
+    "embedId": "xyi3tTAS2QA",
+    "description": "Packed with tips to speed up daily GitHub Copilot usage and productivity."
+  },
+  {
+    "title": "A very subjective comparison of Claude Code, OpenCode, Cursor & GitHub Copilot",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=dMSZ0WcK1oI",
+    "embedId": "dMSZ0WcK1oI",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "Copilot CLI update: chronicle, plugins, and fleet mode | GitHub Checkout",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal",
+      "updates",
+      "feature-watch",
+      "release-notes"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=9oAcwmrUE44",
+    "embedId": "9oAcwmrUE44",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "CoPilot Review: My Thoughts After 6 Months",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=RDd71IUIgpg",
+    "embedId": "RDd71IUIgpg",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "Cursor vs GitHub Copilot: Full Comparison + Winner (2026)",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=Yv34k4U3MvA",
+    "embedId": "Yv34k4U3MvA",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "GitHub Copilot Agent Vs Cursor AI | Best AI Coding Assistant in 2026?",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "coding",
+      "code-assist",
+      "agents",
+      "cli"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "developer-tools",
+      "coding-assistance",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=XPoiLX6xo0M",
+    "embedId": "XPoiLX6xo0M",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "GitHub Copilot CLI's Rubber Duck Feature is Kind of Genius",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "agents",
+      "cli"
+    ],
+    "recommendationTags": [
+      "agentic-workflows",
+      "power-user",
+      "terminal"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=VgwrtU_dTUU",
+    "embedId": "VgwrtU_dTUU",
+    "description": "Covers advanced Copilot agent, CLI, and workspace workflows for power users."
+  },
+  {
+    "title": "GitHub Copilot Just Died",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot"
+    ],
+    "recommendationTags": [
+      "github-copilot",
+      "coding",
+      "ai"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=CST89O0Ecy8",
+    "embedId": "CST89O0Ecy8",
+    "description": "Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use."
+  },
+  {
+    "title": "GitHub Copilot Review 2023: I Love It, But It's Not For Everyone",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=uMnhX1CQa8g",
+    "embedId": "uMnhX1CQa8g",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "GitHub Copilot tips and tricks",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "productivity",
+      "systems",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=1qs6QKk0DVc",
+    "embedId": "1qs6QKk0DVc",
+    "description": "Packed with tips to speed up daily GitHub Copilot usage and productivity."
+  },
+  {
+    "title": "GitHub Copilot vs Cursor AI - Which One Fits Your Workflow?",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "pull-requests",
+      "workflow",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "team-workflow",
+      "code-review",
+      "automation",
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=umEsIyOLols",
+    "embedId": "umEsIyOLols",
+    "description": "Useful for pull request automation, review workflows, and team collaboration."
+  },
+  {
+    "title": "Github Copilot vs Cursor AI: Which is Better? (2026)",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=lEYBKbYLlPg",
+    "embedId": "lEYBKbYLlPg",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  },
+  {
+    "title": "GitHub Copilot vs Cursor: Best AI Coding Assistant in 2025?",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "chat",
+      "prompting",
+      "coding",
+      "code-assist",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "assistant-mode",
+      "prompt-engineering",
+      "daily-use",
+      "developer-tools",
+      "coding-assistance",
+      "speed"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=KG-o4DuabkQ",
+    "embedId": "KG-o4DuabkQ",
+    "description": "Shows how to use Copilot Chat and prompting effectively in daily work."
+  },
+  {
+    "title": "GitHub Copilot vs Cursor: Best AI Dev Tool?",
+    "category": "Tips, Tricks, Reviews & Updates",
+    "format": "Full video",
+    "beginnerFriendly": "Somewhat",
+    "searchTags": [
+      "github",
+      "copilot",
+      "review",
+      "comparison"
+    ],
+    "recommendationTags": [
+      "comparison",
+      "evaluation",
+      "discoverability"
+    ],
+    "os": "Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)",
+    "link": "https://www.youtube.com/watch?v=ZJ7ztt6lS5o",
+    "embedId": "ZJ7ztt6lS5o",
+    "description": "A review or comparison video that helps you decide where GitHub Copilot fits in your stack."
+  }
+]
