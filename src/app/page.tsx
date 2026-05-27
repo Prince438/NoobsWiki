@@ -1,11 +1,13 @@
 import Link from "next/link";
 import { Users, Cpu, ShieldAlert, Wrench, BookOpen, ArrowRight } from "lucide-react";
+import AsciiBackground from "@/components/AsciiBackground";
 
 export default function Home() {
   return (
     <div className="relative flex min-h-screen flex-col">
+      <AsciiBackground />
 
-      <main className="mx-auto flex flex-1 w-full max-w-5xl flex-col items-center justify-center px-6 py-20 text-center md:px-8">
+      <main className="relative z-[2] mx-auto flex flex-1 w-full max-w-5xl flex-col items-center justify-center px-6 py-20 text-center md:px-8">
 
         {/* System status badge */}
         <div className="mb-10 inline-flex items-center gap-2.5 rounded border border-panel-border bg-panel px-4 py-1.5 font-mono text-[9.5px] tracking-widest text-charcoal/45 shadow-sm animate-fade-in">

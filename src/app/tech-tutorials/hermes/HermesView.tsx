@@ -3,6 +3,7 @@
 import { useState, useMemo } from "react";
 import { Search, RotateCcw, Shuffle } from "lucide-react";
 import VideoCard, { type HermesEntry } from "@/components/VideoCard";
+import VPSWalkthrough from "./VPSWalkthrough";
 
 interface Props {
   entries: HermesEntry[];
@@ -24,7 +25,10 @@ const CATEGORIES = [
 
 type BeginnerFilter = "All" | "Yes" | "Somewhat" | "No";
 
+type View = "tutorials" | "walkthrough";
+
 export default function HermesView({ entries }: Props) {
+  const [view, setView] = useState<View>("tutorials");
   const [selectedCategory, setSelectedCategory] = useState<string>(ALL);
   const [searchQuery, setSearchQuery] = useState("");
   const [beginnerFilter, setBeginnerFilter] = useState<BeginnerFilter>("All");
@@ -95,7 +99,35 @@ export default function HermesView({ entries }: Props) {
   };
 
   return (
-    <div className="flex min-h-screen animate-fade-in">
+    <div className="flex flex-col min-h-screen animate-fade-in">
+
+      {/* ── Sub-navbar ── */}
+      <div className="sticky top-0 z-20 border-b border-panel-border/50 bg-panel/80 backdrop-blur-sm">
+        <div className="flex items-center overflow-x-auto" style={{ scrollbarWidth: "none" }}>
+          {(["tutorials", "walkthrough"] as View[]).map((v) => {
+            const label = v === "tutorials" ? "Video Tutorials" : "Hermes VPS Setup Walkthrough";
+            const isActive = view === v;
+            return (
+              <button
+                key={v}
+                onClick={() => setView(v)}
+                className={`px-5 py-3.5 font-mono text-[9px] font-bold uppercase tracking-wider border-b-2 transition-all whitespace-nowrap ${
+                  isActive
+                    ? "border-gold/60 text-gold"
+                    : "border-transparent text-charcoal/38 hover:text-charcoal/65"
+                }`}
+              >
+                {label}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
+      {view === "walkthrough" ? (
+        <VPSWalkthrough />
+      ) : (
+      <div className="flex flex-1">
 
       {/* ── Desktop category rail ── */}
       <aside
@@ -310,6 +342,8 @@ export default function HermesView({ entries }: Props) {
           </div>
         )}
       </div>
+      </div>
+      )}
     </div>
   );
 }
