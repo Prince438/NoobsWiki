@@ -131,11 +131,14 @@ export default function Sidebar() {
 
       </aside>
 
+      {/* ── iOS safe-area fill — covers the Dynamic Island / notch zone ── */}
+      <div
+        className="fixed inset-x-0 top-0 z-[51] bg-panel/90 backdrop-blur-md md:hidden"
+        style={{ height: "env(safe-area-inset-top, 0px)" }}
+      />
+
       {/* ── Mobile header ── */}
-      <header
-        className="sticky top-0 z-50 flex items-center justify-between border-b border-panel-border/50 bg-panel/90 px-4 pb-3 backdrop-blur-md md:hidden"
-        style={{ paddingTop: "max(0.75rem, env(safe-area-inset-top))" }}
-      >
+      <header className="sticky top-0 z-50 flex items-center justify-between border-b border-panel-border/50 bg-panel/90 px-4 py-3 backdrop-blur-md md:hidden">
         <Link href="/" className="group flex items-center gap-2">
           <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors group-hover:border-forest/40">
             {brandMark}
@@ -144,7 +147,7 @@ export default function Sidebar() {
             KD Tech Wiki<span className="text-gold font-light animate-terminal-blink">_</span>
           </span>
         </Link>
-        <nav className="flex items-center gap-1">
+        <nav className="flex items-center gap-1 pr-10">
           {[...directoryLinks, ...pageLinks].map((link) => {
             const isActive = pathname === link.href || pathname.startsWith(link.href + "/");
             const Icon = link.icon;
