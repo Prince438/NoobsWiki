@@ -89,6 +89,7 @@ export default function JumpNav() {
           onClick={() => setOpen((o) => !o)}
           aria-label={open ? "Close jump navigation" : "Open jump navigation"}
           className="flex w-8 flex-shrink-0 flex-col items-center justify-center gap-2 border-l border-panel-border/55 bg-panel/92 text-charcoal/38 backdrop-blur-sm transition-colors duration-200 hover:text-gold"
+          style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
         >
           <span className="font-mono text-[7px] font-bold uppercase tracking-[0.18em] [writing-mode:vertical-rl]">
             Jump
@@ -99,7 +100,10 @@ export default function JumpNav() {
         </button>
 
         {/* Panel body */}
-        <div className="flex w-[200px] flex-col border-l border-panel-border/55 bg-panel/95 backdrop-blur-md">
+        <div
+          className="flex w-[200px] flex-col border-l border-panel-border/55 bg-panel/95 backdrop-blur-md"
+          style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
+        >
 
           {/* Panel header */}
           <div className="flex items-center justify-between border-b border-panel-border/35 px-4 py-3">

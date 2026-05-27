@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Outfit, JetBrains_Mono, Cormorant_Garamond } from "next/font/google";
 import Sidebar from "@/components/Sidebar";
 import "./globals.css";
@@ -21,6 +21,10 @@ const cormorant = Cormorant_Garamond({
   weight: ["400", "600", "700"],
   display: "swap",
 });
+
+export const viewport: Viewport = {
+  viewportFit: "cover",
+};
 
 export const metadata: Metadata = {
   title: {
@@ -50,7 +54,7 @@ export default function RootLayout({
     >
       <body className="min-h-full font-sans selection:bg-gold/30 selection:text-forest">
         <Sidebar />
-        <div className="md:ml-[200px] relative z-10">
+        <div className="md:ml-[200px]">
           {children}
         </div>
       </body>

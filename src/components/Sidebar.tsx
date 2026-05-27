@@ -132,7 +132,10 @@ export default function Sidebar() {
       </aside>
 
       {/* ── Mobile header ── */}
-      <header className="sticky top-0 z-50 flex items-center justify-between border-b border-panel-border/50 bg-panel/90 px-4 py-3 backdrop-blur-md md:hidden">
+      <header
+        className="sticky top-0 z-50 flex items-center justify-between border-b border-panel-border/50 bg-panel/90 px-4 pb-3 backdrop-blur-md md:hidden"
+        style={{ paddingTop: "max(0.75rem, env(safe-area-inset-top))" }}
+      >
         <Link href="/" className="group flex items-center gap-2">
           <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors group-hover:border-forest/40">
             {brandMark}
