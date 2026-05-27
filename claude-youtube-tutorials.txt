@@ -1,0 +1,731 @@
+Claude YouTube Tutorials
+
+Curated source file for the Claude section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 70 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner / Start Here (10)
+
+### Claude AI Full Tutorial: From Basics to Agentic AI (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, start-here
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=XTWb5oEfqdY
+- Embed link: https://www.youtube.com/embed/XTWb5oEfqdY
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### Claude AI Tutorial for Beginners (Step-by-Step)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=r2vYObllqJU
+- Embed link: https://www.youtube.com/embed/r2vYObllqJU
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Claude Code Tutorial for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, claude-code, coding, start-here
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=eMZmDH3T2bY
+- Embed link: https://www.youtube.com/embed/eMZmDH3T2bY
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Claude Tutorial for Beginners — How to Use Claude AI Step by Step (2026)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=-xEF5WrdIWs
+- Embed link: https://www.youtube.com/embed/-xEF5WrdIWs
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### FULL Claude Tutorial For Beginners in 2026! (FULL COURSE)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Xg55nTrbYYY
+- Embed link: https://www.youtube.com/embed/Xg55nTrbYYY
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Full Claude Tutorial: Beginner to Advanced in 19 Minutes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=WSPChlfxJyA
+- Embed link: https://www.youtube.com/embed/WSPChlfxJyA
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Getting started with Claude.ai
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, start-here
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=0vZ_UVLhSQQ
+- Embed link: https://www.youtube.com/embed/0vZ_UVLhSQQ
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### Learn 97% of Claude in Under 16 Minutes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, start-here
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=wZeOwqmSw84
+- Embed link: https://www.youtube.com/embed/wZeOwqmSw84
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### The Complete Claude Anthropic Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, start-here
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=kyB68hS-vco
+- Embed link: https://www.youtube.com/embed/kyB68hS-vco
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### Ultimate Claude Guide 2026 (How to use Claude AI for beginners)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=m54t8xx13Uk
+- Embed link: https://www.youtube.com/embed/m54t8xx13Uk
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+
+## Claude Core, Chat & Writing (10)
+
+### 9 ChatGPT & Claude Writing Tips (to get CRAZY GOOD outputs)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, writing, content
+- Recommendation tags: writing-assistant, prompt-engineering, content-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=eyWXbzoqnqY
+- Embed link: https://www.youtube.com/embed/eyWXbzoqnqY
+- Small description: Useful for prompt crafting, writing help, and more productive Claude interactions.
+
+### Behind the prompt: Prompting tips for Claude.ai
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, prompt-engineering, prompts
+- Recommendation tags: writing-assistant, prompt-engineering, content-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=OfUn6HjwXhI
+- Embed link: https://www.youtube.com/embed/OfUn6HjwXhI
+- Small description: Useful for prompt crafting, writing help, and more productive Claude interactions.
+
+### Claude Code for Desktop is the BEST way to build apps with AI EVER (full tutorial)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, claude-code, coding, desktop, app
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pHr1O_Af5NA
+- Embed link: https://www.youtube.com/embed/pHr1O_Af5NA
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### CLAUDE CODE FULL COURSE 4 HOURS: Build & Sell (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, claude-code, coding, updates, release
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=QoQBzR1NIqI
+- Embed link: https://www.youtube.com/embed/QoQBzR1NIqI
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude Cowork: The Ultimate AI Agent for Writers (Full Tutorial)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=oFe_ho_MwW0
+- Embed link: https://www.youtube.com/embed/oFe_ho_MwW0
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### Claude just got another superpower...
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=jeA-KBv0b68
+- Embed link: https://www.youtube.com/embed/jeA-KBv0b68
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### How I Vibe Coded a $400K/mo App with Claude Code (Full Tutorial)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, claude-code, coding, updates, release
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=hDOUzlJwM1E
+- Embed link: https://www.youtube.com/embed/hDOUzlJwM1E
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### How to Make AI Write in YOUR Voice (Claude Skill Tutorial)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=C1snRnGbNRM
+- Embed link: https://www.youtube.com/embed/C1snRnGbNRM
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### MASTER Prompt Engineering In 10 Minutes - Complete Guide 2025! (ChatGPT, Claude, Grok)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, prompt-engineering, prompts
+- Recommendation tags: writing-assistant, prompt-engineering, content-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=X5qdQ0PquD8
+- Embed link: https://www.youtube.com/embed/X5qdQ0PquD8
+- Small description: Useful for prompt crafting, writing help, and more productive Claude interactions.
+
+### Prompting 101 | Code w/ Claude
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, claude-code, coding, prompt-engineering, prompts
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, writing-assistant, prompt-engineering, content-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ysPbXH0LpIE
+- Embed link: https://www.youtube.com/embed/ysPbXH0LpIE
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+
+## Claude Code / Coding Workflows (12)
+
+### 8 MCP Servers That Make Claude Code 10x Better
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, mcp, tool-use, integrations, developer-tools
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, tool-use, integrations, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=Gqh_KdHP1Xk
+- Embed link: https://www.youtube.com/embed/Gqh_KdHP1Xk
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude Code - Full Tutorial for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, claude-code, coding, developer-tools
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=ntDIxaeo3Wg
+- Embed link: https://www.youtube.com/embed/ntDIxaeo3Wg
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Claude Code Tutorial #1 - Introduction & Setup
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, claude-code, coding, developer-tools
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=SUysp3sJHbA
+- Embed link: https://www.youtube.com/embed/SUysp3sJHbA
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Claude Code Tutorial #7 - MCP Servers
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, mcp, tool-use, integrations, developer-tools
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, tool-use, integrations, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=X7lgIa6guKg
+- Embed link: https://www.youtube.com/embed/X7lgIa6guKg
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude Code Tutorial - Build Apps 10x Faster with AI
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, developer-tools, agentic-coding
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=IuyVVtr1uhY
+- Embed link: https://www.youtube.com/embed/IuyVVtr1uhY
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude Code Tutorial: Beginner to Advanced in 20 Minutes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, claude-code, coding, developer-tools
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=ujHXnlSVheI
+- Embed link: https://www.youtube.com/embed/ujHXnlSVheI
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Claude's Model Context Protocol is here... Let's test it
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, developer-tools, agentic-coding
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=HyzlYwjoXOQ
+- Embed link: https://www.youtube.com/embed/HyzlYwjoXOQ
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### FULL Claude Code Tutorial for Beginners in 2026! (Step-By-Step)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, claude-code, coding, developer-tools
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=qYqIhX9hTQk
+- Embed link: https://www.youtube.com/embed/qYqIhX9hTQk
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Gemini CLI vs Claude Code vs Codex Compared! Should You Use an AI CLI?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, review, comparison, developer-tools, agentic-coding
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=7fQcsPOm8ys
+- Embed link: https://www.youtube.com/embed/7fQcsPOm8ys
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### How I ACTUALLY Use Claude Code... My Complete Workflow
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, workflow, productivity, developer-tools, agentic-coding
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=7Sx0o-41r2k
+- Embed link: https://www.youtube.com/embed/7Sx0o-41r2k
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### How I use Claude Code for real engineering
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, developer-tools, agentic-coding
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=kZ-zzHVUrO4
+- Embed link: https://www.youtube.com/embed/kZ-zzHVUrO4
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Learn 80% of Claude Code in 10 Minutes (2026 Tutorial)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, developer-tools, agentic-coding
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show terminal-based workflows
+- Link: https://www.youtube.com/watch?v=3aKVArutiIU
+- Embed link: https://www.youtube.com/embed/3aKVArutiIU
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+
+## Artifacts, Projects & Workspaces (10)
+
+### 15 Powerful Claude Artifacts Use Cases You Should Try
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, artifacts, docs, workspace, artifact-workflow
+- Recommendation tags: workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=UA2W4xTqQzs
+- Embed link: https://www.youtube.com/embed/UA2W4xTqQzs
+- Small description: Shows Claude’s longer-form workspaces, project organization, and artifact-based output.
+
+### Claude Artifacts: What They Are and How to Use Them (2026)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, artifacts, docs, workspace, artifact-workflow
+- Recommendation tags: workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9YGg4JaVN4w
+- Embed link: https://www.youtube.com/embed/9YGg4JaVN4w
+- Small description: Shows Claude’s longer-form workspaces, project organization, and artifact-based output.
+
+### Claude Code Desktop App: Beginner's Guide (No Terminal Needed)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, claude-code, coding, desktop
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=P7-0grEB7nk
+- Embed link: https://www.youtube.com/embed/P7-0grEB7nk
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Claude Code for Desktop is the BEST way to build apps with AI EVER
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, desktop, app, workspace, artifact-workflow
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pZ2N7CJFbBk
+- Embed link: https://www.youtube.com/embed/pZ2N7CJFbBk
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude Just Released LIVE Artifacts... (Amazing Results)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, artifacts, docs, workspace, artifact-workflow
+- Recommendation tags: workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=K4_uPtfLfJg
+- Embed link: https://www.youtube.com/embed/K4_uPtfLfJg
+- Small description: Shows Claude’s longer-form workspaces, project organization, and artifact-based output.
+
+### Claude Projects: AI That Actually Does My Work
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, projects, workspace, artifact-workflow
+- Recommendation tags: workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Ujy8msJ6evM
+- Embed link: https://www.youtube.com/embed/Ujy8msJ6evM
+- Small description: Shows Claude’s longer-form workspaces, project organization, and artifact-based output.
+
+### FULL Claude Projects Guide For Beginners in 2026! (Become a PRO)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart, projects, workspace, artifact-workflow
+- Recommendation tags: start-here, onboarding, first-steps, workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=fOnKo_Hole8
+- Embed link: https://www.youtube.com/embed/fOnKo_Hole8
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Getting started with projects in Claude.ai
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, projects, workspace, artifact-workflow
+- Recommendation tags: workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=GJ5jTgcbRHA
+- Embed link: https://www.youtube.com/embed/GJ5jTgcbRHA
+- Small description: Shows Claude’s longer-form workspaces, project organization, and artifact-based output.
+
+### How to Create an Artifact in Claude AI [2026 Full Guide]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, artifacts, docs, workspace, artifact-workflow
+- Recommendation tags: workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=FQpuPsSLHeQ
+- Embed link: https://www.youtube.com/embed/FQpuPsSLHeQ
+- Small description: Shows Claude’s longer-form workspaces, project organization, and artifact-based output.
+
+### How To Download & Install Claude Desktop App - Full Guide
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, desktop, app, workspace, artifact-workflow
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Ey5lKY8pvxQ
+- Embed link: https://www.youtube.com/embed/Ey5lKY8pvxQ
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+
+## MCP, Integrations & Automation (10)
+
+### 7 Mind-Blowing Use Cases of Claude MCPs (Integrations)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, mcp, tool-use, integrations, automation
+- Recommendation tags: tool-use, integrations, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8vBRCdryrJg
+- Embed link: https://www.youtube.com/embed/8vBRCdryrJg
+- Small description: Explains how Claude connects to tools and external systems through MCP and integrations.
+
+### Automate Your Life with Claude Code in 40 Minutes | Moritz Kremb
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, updates, release, integrations, automation
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ACRd0Ikg_KI
+- Embed link: https://www.youtube.com/embed/ACRd0Ikg_KI
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude + Obsidian Just Changed AI Agents Forever (FREE!) 🤯
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, obsidian, pkm, integrations, automation
+- Recommendation tags: second-brain, pkm, note-taking
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JqIrJgwmTm8
+- Embed link: https://www.youtube.com/embed/JqIrJgwmTm8
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### Claude Code + Obsidian is INSANE! (Claude Ai Tutorial)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, obsidian, pkm, integrations, automation
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, second-brain, pkm, note-taking
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=DoRQo3aGaPY
+- Embed link: https://www.youtube.com/embed/DoRQo3aGaPY
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude MCP has Changed AI Forever - Here's What You NEED to Know
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, mcp, tool-use, integrations, automation
+- Recommendation tags: tool-use, integrations, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=v_6EXt6T83I
+- Embed link: https://www.youtube.com/embed/v_6EXt6T83I
+- Small description: Explains how Claude connects to tools and external systems through MCP and integrations.
+
+### Claude MCP Tutorial: Give Claude Superpowers in 30 Seconds
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, mcp, tool-use, integrations, automation
+- Recommendation tags: tool-use, integrations, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Lxznc91wlTk
+- Embed link: https://www.youtube.com/embed/Lxznc91wlTk
+- Small description: Explains how Claude connects to tools and external systems through MCP and integrations.
+
+### Claude’s New Chrome Extension: The Secret Weapon Everyone Should be Using
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, integrations, automation
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=D5nTL66HVUU
+- Embed link: https://www.youtube.com/embed/D5nTL66HVUU
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### Getting started with connectors in Claude.ai
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, integrations, automation
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=_jjSS0qGFbI
+- Embed link: https://www.youtube.com/embed/_jjSS0qGFbI
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+### How I use Claude Code to automate my entire life (5 tricks)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, integrations, automation
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=wfiv67NixCY
+- Embed link: https://www.youtube.com/embed/wfiv67NixCY
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### How I Use Claude Cowork to Automate 99% Of My Life (Full Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, integrations, automation
+- Recommendation tags: claude, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=cJ2QCyr3yzU
+- Embed link: https://www.youtube.com/embed/cJ2QCyr3yzU
+- Small description: Related Claude tutorial or topic for AI workflows, productivity, and practical use.
+
+
+## Comparisons, Reviews & Updates (10)
+
+### 10 Incredible Features of Claude 3.5 Sonnet! How To Use New Claude 3.5 Sonnet - The Complete Guide
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release, news, comparison
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=80k2JAM6FU4
+- Embed link: https://www.youtube.com/embed/80k2JAM6FU4
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### ALERT: Microsoft Killed Claude Code Not Because It Failed - AI Billing Is Broken at Scale
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, claude-code, coding, news, comparison
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pF4Ovay98nA
+- Embed link: https://www.youtube.com/embed/pF4Ovay98nA
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Anthropic Just Dropped the Update Everyone's Been Waiting For
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release, news, comparison
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=c0gVowvMR-g
+- Embed link: https://www.youtube.com/embed/c0gVowvMR-g
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### ChatGPT VS Claude - The Ultimate Test
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, review, comparison, news
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=EkouKS-HPVc
+- Embed link: https://www.youtube.com/embed/EkouKS-HPVc
+- Small description: A review or comparison video that helps you understand where Claude fits among other AI tools.
+
+### Claude 3.5 Sonnet for Research - is it any good?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release, news, comparison
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=K9NdlkcqhY0
+- Embed link: https://www.youtube.com/embed/K9NdlkcqhY0
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### Claude 3.5 Sonnet for vision
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release, news, comparison
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dhxrHvgXpSM
+- Embed link: https://www.youtube.com/embed/dhxrHvgXpSM
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### Claude 3.5 Sonnet NEW is Really Good - Full Test
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release, news, comparison
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ffbcU3RLml4
+- Embed link: https://www.youtube.com/embed/ffbcU3RLml4
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### Claude 4 is not what you think...
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release, news, comparison
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=SqvDaSNYoCY
+- Embed link: https://www.youtube.com/embed/SqvDaSNYoCY
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### Claude 4 Just Made Research 10x Faster (You’re Missing Out)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release, news, comparison
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YTRxrEKNBx0
+- Embed link: https://www.youtube.com/embed/YTRxrEKNBx0
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### CLAUDE CODE MASTERCLASS 4 HOURS: Build & Sell (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, claude-code, coding, updates, release, news, comparison
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=fQgJ7qXlyDE
+- Embed link: https://www.youtube.com/embed/fQgJ7qXlyDE
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+
+## Productivity, Reasoning & Workflows (8)
+
+### Claude AI: 4 Features That Will Save You Hours
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, updates, release
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=bk9YE1i_ewY
+- Embed link: https://www.youtube.com/embed/bk9YE1i_ewY
+- Small description: Covers Claude updates, new model releases, and notable feature changes.
+
+### Claude Code For Productivity: Do More And Better Consistently.
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=gujqOjzYzY8
+- Embed link: https://www.youtube.com/embed/gujqOjzYzY8
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Claude OPUS 4.6 Thinking vs 4.6 Non-Thinking: Both FAIL
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: claude, anthropic, review, comparison, updates, release
+- Recommendation tags: comparison, evaluation, discoverability, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=-0xKV2i6M4U
+- Embed link: https://www.youtube.com/embed/-0xKV2i6M4U
+- Small description: A review or comparison video that helps you understand where Claude fits among other AI tools.
+
+### GPT-5.4 vs Claude Opus 4.6 — The Real Difference (Coding, Reasoning, Cost)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, review, comparison, updates, release, reasoning, learning
+- Recommendation tags: comparison, evaluation, discoverability, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=RR-2FveWNHk
+- Embed link: https://www.youtube.com/embed/RR-2FveWNHk
+- Small description: A review or comparison video that helps you understand where Claude fits among other AI tools.
+
+### Head of Claude Code on the future of work and productivity
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=kRgdkOw82F0
+- Embed link: https://www.youtube.com/embed/kRgdkOw82F0
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### How Claude Code’s Creator Starts EVERY Project
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, claude-code, coding, projects, workspace
+- Recommendation tags: developer-tools, coding-workflow, agentic-coding, workspace, long-form-work, document-generation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=KWrsLqnB6vA
+- Embed link: https://www.youtube.com/embed/KWrsLqnB6vA
+- Small description: Covers Claude Code and practical coding workflows for developers and power users.
+
+### Introducing Claude for Education
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: claude, anthropic, beginner-friendly, onboarding, quickstart
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=MIzq6LCMTtA
+- Embed link: https://www.youtube.com/embed/MIzq6LCMTtA
+- Small description: Beginner-friendly walkthrough for getting started with Claude and learning the core workflow.
+
+### Key 8 - Reasoning AI Models: O3, Claude Thinking & Chain of Thought
+- Format: Full video
+- Beginner friendly: No
+- Search tags: claude, anthropic, reasoning, learning
+- Recommendation tags: reasoning, learning, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=PRAg-ywbOWU
+- Embed link: https://www.youtube.com/embed/PRAg-ywbOWU
+- Small description: Focuses on Claude for thinking, studying, planning, and knowledge work.

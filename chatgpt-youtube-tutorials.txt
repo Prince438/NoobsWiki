@@ -1,0 +1,701 @@
+ChatGPT YouTube Tutorials
+
+Curated source file for the ChatGPT section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 67 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner / Start Here (10)
+
+### 10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, start-here
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Jg09XvHGHiQ
+- Embed link: https://www.youtube.com/embed/Jg09XvHGHiQ
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### 23 Ways to Use ChatGPT So Well it Feels Like Cheating
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, start-here
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=7zPQV1BSH_k
+- Embed link: https://www.youtube.com/embed/7zPQV1BSH_k
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### ChatGPT for Beginners - 2026 Edition
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=hOe0maWOhp8
+- Embed link: https://www.youtube.com/embed/hOe0maWOhp8
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### ChatGPT for Beginners: Master Prompting in Minutes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, prompt-engineering, prompts, start-here
+- Recommendation tags: start-here, onboarding, first-steps, assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8yqcDL4TmzM
+- Embed link: https://www.youtube.com/embed/8yqcDL4TmzM
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### ChatGPT Tutorial - A Crash Course on Chat GPT for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JTxsNm9IdYU
+- Embed link: https://www.youtube.com/embed/JTxsNm9IdYU
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### ChatGPT Tutorial 2025: How to Use ChatGPT - Beginner to Pro!
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=zqVtHYFYQY8
+- Embed link: https://www.youtube.com/embed/zqVtHYFYQY8
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### ChatGPT Tutorial: 35 Tips I Wish I Knew Sooner
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, start-here
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=WTF5qphyy8w
+- Embed link: https://www.youtube.com/embed/WTF5qphyy8w
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### ChatGPT Tutorial: How to Use Chat GPT For Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Gaf_jCnA6mc
+- Embed link: https://www.youtube.com/embed/Gaf_jCnA6mc
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### How to Use ChatGPT
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=PDw3Uk9dN9k
+- Embed link: https://www.youtube.com/embed/PDw3Uk9dN9k
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### How to Use ChatGPT 5.5 Better Than 99% of People
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=lQQu5_uE5uU
+- Embed link: https://www.youtube.com/embed/lQQu5_uE5uU
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+
+## Prompting & Everyday Use (9)
+
+### 20 ChatGPT prompts every content creator needs in 2026
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, prompt-engineering, prompts
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ijAfAHPv4JY
+- Embed link: https://www.youtube.com/embed/ijAfAHPv4JY
+- Small description: Covers practical prompts, writing, and everyday productivity workflows.
+
+### 5 Hacks To Use ChatGPT So Well It’s Almost Unfair
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=loujaeBy8p0
+- Embed link: https://www.youtube.com/embed/loujaeBy8p0
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### 6 ChatGPT Secrets to Transform Your Writing Overnight
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, writing, productivity
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=oGu1ui80ii8
+- Embed link: https://www.youtube.com/embed/oGu1ui80ii8
+- Small description: Covers practical prompts, writing, and everyday productivity workflows.
+
+### 7 ChatGPT Secrets to Instantly Improve Your Book | selfpublishing.com
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=wJHdfPbs57s
+- Embed link: https://www.youtube.com/embed/wJHdfPbs57s
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### how to use CHATGPT to level up your life | self growth, success & productivity hacks
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, writing, productivity
+- Recommendation tags: start-here, onboarding, first-steps, productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=0hrYRD0fCiY
+- Embed link: https://www.youtube.com/embed/0hrYRD0fCiY
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, prompt-engineering, prompts
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=jC4v5AS4RIM
+- Embed link: https://www.youtube.com/embed/jC4v5AS4RIM
+- Small description: Covers practical prompts, writing, and everyday productivity workflows.
+
+### These ChatGPT Hacks Will Make You SO Productive It Feels Illegal
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Mxy6MVbpNhg
+- Embed link: https://www.youtube.com/embed/Mxy6MVbpNhg
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### Top 8 ChatGPT Productivity Tips for Work!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, writing, productivity
+- Recommendation tags: productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Q07rFZtc2Ao
+- Embed link: https://www.youtube.com/embed/Q07rFZtc2Ao
+- Small description: Covers practical prompts, writing, and everyday productivity workflows.
+
+### Wharton's Ethan Mollick: How to Use ChatGPT to Improve Your Writing
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, writing, productivity
+- Recommendation tags: start-here, onboarding, first-steps, assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=fbRURgCVsgY
+- Embed link: https://www.youtube.com/embed/fbRURgCVsgY
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+
+## Images, Voice & Multimodal (10)
+
+### 12 ChatGPT 5 Secrets to 10X Your Results
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, multimodal-workflow
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=XyLFcvkn2VE
+- Embed link: https://www.youtube.com/embed/XyLFcvkn2VE
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### 40+ USEFUL Ways To Use The ChatGPT Image Feature
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2u_T68P9H_U
+- Embed link: https://www.youtube.com/embed/2u_T68P9H_U
+- Small description: Explores ChatGPT image, voice, and multimodal capabilities for richer interactions.
+
+### BREAKING ChatGPT’s New Image Generator
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5hVUPuuo2QM
+- Embed link: https://www.youtube.com/embed/5hVUPuuo2QM
+- Small description: Explores ChatGPT image, voice, and multimodal capabilities for richer interactions.
+
+### ChatGPT Image 2 just dropped... (WOAH)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=uvdRGC4cFhY
+- Embed link: https://www.youtube.com/embed/uvdRGC4cFhY
+- Small description: Explores ChatGPT image, voice, and multimodal capabilities for richer interactions.
+
+### ChatGPT Plus vs Gemini Advanced (2026): I Tested Both $20 AI Plans — One Is Clearly Better
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison, multimodal-workflow
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Caea_1L8VLw
+- Embed link: https://www.youtube.com/embed/Caea_1L8VLw
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.
+
+### ChatGPT Vision is here - Top 10 Examples You Should Try
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Pl3NBhMgDZs
+- Embed link: https://www.youtube.com/embed/Pl3NBhMgDZs
+- Small description: Explores ChatGPT image, voice, and multimodal capabilities for richer interactions.
+
+### ChatGPT Vision: Full Guide for Beginners in 2023! (Solve ANYTHING!)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, vision, multimodal, multimodal-workflow
+- Recommendation tags: start-here, onboarding, first-steps, multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1cvFeL6l9IQ
+- Embed link: https://www.youtube.com/embed/1cvFeL6l9IQ
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### ChatGPT's Voice Conversations Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Cp8KKUxTFaE
+- Embed link: https://www.youtube.com/embed/Cp8KKUxTFaE
+- Small description: Explores ChatGPT image, voice, and multimodal capabilities for richer interactions.
+
+### EPIC! ChatGPT vision does INSANE things for research!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HU7nYUMeNTM
+- Embed link: https://www.youtube.com/embed/HU7nYUMeNTM
+- Small description: Explores ChatGPT image, voice, and multimodal capabilities for richer interactions.
+
+### How to Enable ChatGPT Voice to Voice on Phone (iPhone & Android) Talk to ChatGPT!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=SamGnUqaOfU
+- Embed link: https://www.youtube.com/embed/SamGnUqaOfU
+- Small description: Explores ChatGPT image, voice, and multimodal capabilities for richer interactions.
+
+
+## Projects, Memory & Custom GPTs (10)
+
+### Advanced Guide to Building CustomGPTs For ChatGPT
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, custom-gpts, projects
+- Recommendation tags: projects, personalization, workspace
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8DJUfuWohfE
+- Embed link: https://www.youtube.com/embed/8DJUfuWohfE
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### ChatGPT "Projects" Deep Dive: The Hidden Power of ChatGPT
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects
+- Recommendation tags: projects, personalization, workspace
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=qX7JtjzJvZU
+- Embed link: https://www.youtube.com/embed/qX7JtjzJvZU
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### ChatGPT 5.5 Memory Update Is INSANE!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects, updates, release
+- Recommendation tags: projects, personalization, workspace, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=GuKzu4t0uuM
+- Embed link: https://www.youtube.com/embed/GuKzu4t0uuM
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### ChatGPT Projects for Beginners: 5 NEW Use Cases
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, custom-gpts, projects
+- Recommendation tags: start-here, onboarding, first-steps, projects, personalization, workspace
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=4tup7u9AqWY
+- Embed link: https://www.youtube.com/embed/4tup7u9AqWY
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### ChatGPT Projects vs. Custom GPTs: Which to Use in 2026?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects, review, comparison
+- Recommendation tags: projects, personalization, workspace, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=TDVyraAXBm4
+- Embed link: https://www.youtube.com/embed/TDVyraAXBm4
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### ChatGPT's New "Memory" Explained!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects
+- Recommendation tags: projects, personalization, workspace
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Tuub_MTrtEs
+- Embed link: https://www.youtube.com/embed/Tuub_MTrtEs
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### Custom GPT Tutorial - Quickly learn to Create your own GPT with this Step-by-Step Guide for ChatGPT
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, custom-gpts, projects
+- Recommendation tags: projects, personalization, workspace
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Tp_TX4UWZf4
+- Embed link: https://www.youtube.com/embed/Tp_TX4UWZf4
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### Custom GPTs vs ChatGPT Projects: What Should You Use?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects, review, comparison
+- Recommendation tags: projects, personalization, workspace, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5CQKQub5mOQ
+- Embed link: https://www.youtube.com/embed/5CQKQub5mOQ
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### How ChatGPT’s Memory Really Works
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects
+- Recommendation tags: projects, personalization, workspace
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=RligP1JWZTs
+- Embed link: https://www.youtube.com/embed/RligP1JWZTs
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### How ChatGPT’s New Memory Feature Works – Real Demo & Use Cases
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects
+- Recommendation tags: projects, personalization, workspace
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=GtZQnewgJb4
+- Embed link: https://www.youtube.com/embed/GtZQnewgJb4
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+
+## Coding, API & Automation (10)
+
+### 8 Insane ChatGPT Agent Use Cases! (automate anything)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, coding, devtools, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=XgWWahZ3-WI
+- Embed link: https://www.youtube.com/embed/XgWWahZ3-WI
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with ChatGPT and OpenAI.
+
+### Build Anything With ChatGPT API, Here’s How
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, api, developer, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=qgT-quk3JEo
+- Embed link: https://www.youtube.com/embed/qgT-quk3JEo
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with ChatGPT and OpenAI.
+
+### ChatGPT 5.5 Codex is the greatest AI coding tool ever. Here's how to use it
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, coding, devtools, developer-tools
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=iz3_xhi6iQE
+- Embed link: https://www.youtube.com/embed/iz3_xhi6iQE
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### ChatGPT Course – Use The OpenAI API to Code 5 Projects
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, custom-gpts, projects, api, developer, developer-tools
+- Recommendation tags: projects, personalization, workspace, developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=uRQH2CFvedY
+- Embed link: https://www.youtube.com/embed/uRQH2CFvedY
+- Small description: Shows how to use projects, memory, and Custom GPTs to personalize your workflow.
+
+### ChatGPT WorkSpace Agents are Insanely Useful
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, coding, devtools, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=cwwHNRVC9pQ
+- Embed link: https://www.youtube.com/embed/cwwHNRVC9pQ
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with ChatGPT and OpenAI.
+
+### Claude vs ChatGPT for Programming: What's the difference?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison, developer-tools
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=0FVclkFNkx0
+- Embed link: https://www.youtube.com/embed/0FVclkFNkx0
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.
+
+### How To Build Your Own AI With ChatGPT API
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, api, developer, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=4qNwoAAfnk4
+- Embed link: https://www.youtube.com/embed/4qNwoAAfnk4
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with ChatGPT and OpenAI.
+
+### How to Code with ChatGPT: Complete Guide for Beginners to Advanced Programmers
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, developer-tools
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=7I0BJyebaek
+- Embed link: https://www.youtube.com/embed/7I0BJyebaek
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### How to Get an OpenAI/ChatGPT API Key - 2026 Updated
+- Format: Full video
+- Beginner friendly: No
+- Search tags: chatgpt, openai, api, developer, updates, release, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=OB99E7Y1cMA
+- Embed link: https://www.youtube.com/embed/OB99E7Y1cMA
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with ChatGPT and OpenAI.
+
+### How to learn to code FAST using ChatGPT (it's a game changer seriously)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, developer-tools
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or API workflows
+- Link: https://www.youtube.com/watch?v=VznoKyh6AXs
+- Embed link: https://www.youtube.com/embed/VznoKyh6AXs
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+
+## Workflow, Study & Business (8)
+
+### 7 Game-Changing ChatGPT Agents That 99% of People Don't Know About
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, coding, devtools, daily-use, knowledge-work
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=USRfRv34HmQ
+- Embed link: https://www.youtube.com/embed/USRfRv34HmQ
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with ChatGPT and OpenAI.
+
+### 8 Incredible ChatGPT Agent Use Cases - How to Use Chat GPT Agent Mode in 2026!
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: chatgpt, openai, beginner-friendly, onboarding, quickstart, coding, devtools, daily-use
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Q5Cg9s0f2DQ
+- Embed link: https://www.youtube.com/embed/Q5Cg9s0f2DQ
+- Small description: Beginner-friendly walkthrough for getting started with ChatGPT and understanding the basics.
+
+### Automate ANY task using ChatGPT! (with GPT actions feature)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, daily-use, knowledge-work
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=WMcNqiFFzPY
+- Embed link: https://www.youtube.com/embed/WMcNqiFFzPY
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### ChatGPT for Business Updates
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, workflow, automation, updates, release, daily-use, knowledge-work
+- Recommendation tags: productivity, daily-use, systems, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9lSRViLugE0
+- Embed link: https://www.youtube.com/embed/9lSRViLugE0
+- Small description: Practical workflow video for business, study, and repeatable ChatGPT use cases.
+
+### ChatGPT Study Mode - Explained By A Learning Expert
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, workflow, automation, daily-use, knowledge-work
+- Recommendation tags: productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=m3jNwwuvqx8
+- Embed link: https://www.youtube.com/embed/m3jNwwuvqx8
+- Small description: Practical workflow video for business, study, and repeatable ChatGPT use cases.
+
+### ChatGPT Study Mode Explained – Full Tutorial with Real Examples
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, workflow, automation, daily-use, knowledge-work
+- Recommendation tags: productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=bS9SzHQtOH8
+- Embed link: https://www.youtube.com/embed/bS9SzHQtOH8
+- Small description: Practical workflow video for business, study, and repeatable ChatGPT use cases.
+
+### ChatGPT-5 Study Mode Explained. Is This the Future of Learning?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, workflow, automation, daily-use, knowledge-work
+- Recommendation tags: productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=mKe8oprYs6I
+- Embed link: https://www.youtube.com/embed/mKe8oprYs6I
+- Small description: Practical workflow video for business, study, and repeatable ChatGPT use cases.
+
+### Head of ChatGPT & Codex: agents for normal people are HERE
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, coding, devtools, daily-use, knowledge-work
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=DPe_srf0GlI
+- Embed link: https://www.youtube.com/embed/DPe_srf0GlI
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with ChatGPT and OpenAI.
+
+
+## Reviews, Comparisons & Updates (10)
+
+### ChatGPT Just Changed Forever...
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=MI678bQM7L0
+- Embed link: https://www.youtube.com/embed/MI678bQM7L0
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### ChatGPT Plus vs. Free - is it worth the $20 extra? 2026
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=gl07J_dRBTk
+- Embed link: https://www.youtube.com/embed/gl07J_dRBTk
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.
+
+### ChatGPT Review - One Year Later
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=57HTFN3YqSQ
+- Embed link: https://www.youtube.com/embed/57HTFN3YqSQ
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.
+
+### ChatGPT VS Claude - The Ultimate Test
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=EkouKS-HPVc
+- Embed link: https://www.youtube.com/embed/EkouKS-HPVc
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.
+
+### Claude vs ChatGPT — Which One’s Actually Better?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8sFpjgUgk6Y
+- Embed link: https://www.youtube.com/embed/8sFpjgUgk6Y
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.
+
+### Did ChatGPT Just Beat Claude? (NEW MASSIVE UPDATE)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, updates, release
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=eVIWkuKlSU4
+- Embed link: https://www.youtube.com/embed/eVIWkuKlSU4
+- Small description: Covers ChatGPT updates, new releases, and notable feature changes.
+
+### Forget ChatGPT: Kimi 2.5 Is FREE & Unlimited (No Install)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=nXqXHLKejLI
+- Embed link: https://www.youtube.com/embed/nXqXHLKejLI
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### I Tested Gemini vs Claude vs ChatGPT So You Don't Have To
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=18mkropUvl0
+- Embed link: https://www.youtube.com/embed/18mkropUvl0
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.
+
+### I tested the new ChatGPT 5!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai
+- Recommendation tags: chatgpt, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=MmFLDvOFLW0
+- Embed link: https://www.youtube.com/embed/MmFLDvOFLW0
+- Small description: Related ChatGPT tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi AI vs ChatGPT (2025) - Which is Better?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: chatgpt, openai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=puF5c7xHRE0
+- Embed link: https://www.youtube.com/embed/puF5c7xHRE0
+- Small description: A review or comparison video that helps you decide where ChatGPT fits in your stack.

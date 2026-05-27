@@ -1,0 +1,854 @@
+Hermes / Hermes Agent YouTube Tutorials
+
+Curated source file for the Hermes section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 82 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner Friendly / Start Here (13)
+
+### Hermes Agent Can Now Manage Your Computer Privately (Hermes Agent Tutorial)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=xCPSRkmNNWY
+- Embed link: https://www.youtube.com/embed/xCPSRkmNNWY
+- Small description: Focuses on Hermes Agent computer-use features and private local control on your own machine.
+
+### Hermes Agent Dashboard (Setup Guide and Overview)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, guide, dashboard
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=GfQEdMZ9LlA
+- Embed link: https://www.youtube.com/embed/GfQEdMZ9LlA
+- Small description: Explains the Hermes dashboard and how it can be used to manage the agent more easily.
+
+### Hermes Agent Explained In 5 Minutes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, quick-explainer
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=9GpWELm3_XI
+- Embed link: https://www.youtube.com/embed/9GpWELm3_XI
+- Small description: Short overview of what Hermes Agent is, how it works, and why the skill system matters.
+
+### Hermes Agent Full Setup Tutorial: How to Setup Your First AI Agent (Gemma 4)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); often shown with Linux/VPS
+- Link: https://www.youtube.com/watch?v=THA8Fov44QY
+- Embed link: https://www.youtube.com/embed/THA8Fov44QY
+- Small description: Shows how to set up a first Hermes Agent and pair it with Gemma 4 for an initial agent build.
+
+### Hermes Agent Full Tutorial for Beginners | Setup Guide
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, beginner, full-tutorial, guide
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=1ve4Atbqmoo
+- Embed link: https://www.youtube.com/embed/1ve4Atbqmoo
+- Small description: Beginner-friendly setup guide covering installation, API keys, Telegram, skills, memory, and automation basics.
+
+### Hermes Agent Full Tutorial INSTALLATION + USECASES
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, full-tutorial, installation
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=8GjyOQy19so
+- Embed link: https://www.youtube.com/embed/8GjyOQy19so
+- Small description: Installation walkthrough plus example use cases for getting started quickly.
+
+### Hermes Agent Setup With Use Cases - Hermes Agent Use Cases
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, use-cases
+- Recommendation tags: start-here, core-basics, first-steps, onboarding, use-cases
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=YKina3YSfBg
+- Embed link: https://www.youtube.com/embed/YKina3YSfBg
+- Small description: Setup plus real-world examples so viewers can see how the agent is used after installation.
+
+### Hermes Agent Tutorial for Beginners - Crash Course
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, beginner, crash-course
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=6QZBep7mW0c
+- Embed link: https://www.youtube.com/embed/6QZBep7mW0c
+- Small description: Fast crash course covering setup, model selection, Telegram setup, skills, memory, cron jobs, and MCP tools.
+
+### Hermes Agent: The Ultimate Beginner’s Guide
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, beginner
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=CwPUOVUdApE
+- Embed link: https://www.youtube.com/embed/CwPUOVUdApE
+- Small description: Full step-by-step setup tutorial from deployment to connecting Telegram and using core features.
+
+### Hermes Agent: Zero to Personal AI Assistant (1 Hour Course)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, zero-to-hero
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=gb5TlGw6Uks
+- Embed link: https://www.youtube.com/embed/gb5TlGw6Uks
+- Small description: Long-form course that takes you from first install to a usable personal AI assistant workflow.
+
+### Master Hermes Agent in 41 mins
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=EmF06O4vOWI
+- Embed link: https://www.youtube.com/embed/EmF06O4vOWI
+- Small description: Deep-dive style tutorial that covers core features in a relatively short format.
+
+### The Hermes Agent Setup Everyone's Installing Now
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart
+- Recommendation tags: start-here, core-basics, first-steps, onboarding
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=k5HM4HUGt00
+- Embed link: https://www.youtube.com/embed/k5HM4HUGt00
+- Small description: Popular setup-style tutorial focused on the current installation flow and common configuration.
+
+### This OpenClaw Competitor Blew Me Away (Hermes Agent Install Guide)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: hermes-agent, beginner-friendly, setup, onboarding, quickstart, openclaw
+- Recommendation tags: start-here, core-basics, first-steps, onboarding, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=YZg4YdxOroY
+- Embed link: https://www.youtube.com/embed/YZg4YdxOroY
+- Small description: Install guide that introduces Hermes as a serious alternative and shows a straightforward setup path.
+
+
+## Skills & Skill Bundles (4)
+
+### Hermes Agent Skills Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, skills, custom-skills, skill-bundles, workflow-automation
+- Recommendation tags: power-users, workflow-builder, automation, skill-builder
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=cyn2JPlvTG4
+- Embed link: https://www.youtube.com/embed/cyn2JPlvTG4
+- Small description: A focused tutorial on using and creating Hermes skills to automate repeatable tasks and workflows.
+
+### Hermes Agent Skills: How They Actually Work
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, skills, custom-skills, skill-bundles, workflow-automation
+- Recommendation tags: power-users, workflow-builder, automation, skill-builder
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=7AkyaXYR8yQ
+- Embed link: https://www.youtube.com/embed/7AkyaXYR8yQ
+- Small description: Explains the skill system at a practical level, showing how skills are loaded and used in Hermes Agent.
+
+### How to Set Up Hermes Agent & Add Custom Skills (100x More Powerful)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, skills, custom-skills, skill-bundles, workflow-automation
+- Recommendation tags: power-users, workflow-builder, automation, skill-builder
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); setup shown on VPS/Linux
+- Link: https://www.youtube.com/watch?v=VLKA2OFOOtQ
+- Embed link: https://www.youtube.com/embed/VLKA2OFOOtQ
+- Small description: Walks through setup plus adding custom skills, including built-in skills, custom skill creation, and automation workflows.
+
+### New Hermes Agent Skill Bundles are INSANE!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, skills, custom-skills, skill-bundles, workflow-automation, new-release
+- Recommendation tags: power-users, workflow-builder, automation, skill-builder, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=T_AVEOuul0M
+- Embed link: https://www.youtube.com/embed/T_AVEOuul0M
+- Small description: Covers skill bundles and how grouped skills can turn Hermes into a more powerful workflow engine.
+
+
+## Goals, Automation & Memory (13)
+
+### Hermes /goal is insane… just watch
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, goal-mode
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, goals
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=9oOZ3PB6n4Y
+- Embed link: https://www.youtube.com/embed/9oOZ3PB6n4Y
+- Small description: Quick demo of the /goal feature and how it can guide longer-running agent work.
+
+### Hermes Agent /goal Guide: Use it like THIS!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, goal-mode
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, goals
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=t7rI2IBOvqI
+- Embed link: https://www.youtube.com/embed/t7rI2IBOvqI
+- Small description: Practical walkthrough of using /goal effectively for structured agent work.
+
+### Hermes Agent 0.6.0 Multi-Agent Profiles Update!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, profiles, update
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=C42nwqxRY1E
+- Embed link: https://www.youtube.com/embed/C42nwqxRY1E
+- Small description: Covers profiles and how multiple isolated Hermes agents can be run from one installation.
+
+### Hermes Agent 3.0 (Crazy Upgrades): HERMES Agent is TOO GOOD NOW!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=4XvM-0o3A-4
+- Embed link: https://www.youtube.com/embed/4XvM-0o3A-4
+- Small description: A major upgrade video covering big workflow improvements and new agent capabilities.
+
+### Hermes Agent Goals is INSANE (FREE Setup)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, goal-mode
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, goals
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=mHFUrwEHeP4
+- Embed link: https://www.youtube.com/embed/mHFUrwEHeP4
+- Small description: Introduces the newer goals workflow and how Hermes can plan and execute longer tasks.
+
+### Hermes Agent Kanban + Cron Job is POWERFUL (Setup Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, guide, cron, kanban
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); shown with hosting/automation setup
+- Link: https://www.youtube.com/watch?v=iN2fD36Sgdg
+- Embed link: https://www.youtube.com/embed/iN2fD36Sgdg
+- Small description: Shows how Kanban and cron jobs work together to automate task pipelines in Hermes.
+
+### Hermes Agent Kanban Setup Guide (Multi-Agent Task Board)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, guide, kanban
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=R_aLVXYzDac
+- Embed link: https://www.youtube.com/embed/R_aLVXYzDac
+- Small description: A multi-agent Kanban workflow tutorial for running structured tasks inside Hermes.
+
+### Hermes Agent Masterclass: 3. Memory, Plugins, Honcho, and Obsidian
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, obsidian, honcho, plugins
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, ecosystem
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=ZKZLko9kLm4
+- Embed link: https://www.youtube.com/embed/ZKZLko9kLm4
+- Small description: Covers Hermes memory along with plugins, Honcho, and Obsidian for a broader workflow setup.
+
+### Hermes Agent Memory Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=s6RZ5_cnQ0g
+- Embed link: https://www.youtube.com/embed/s6RZ5_cnQ0g
+- Small description: Step-by-step tutorial on managing Hermes memory and checking what the agent remembers.
+
+### Hermes Agent: NEW Goals Update is Insane (FREE)!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, goal-mode, update, new-release
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, goals, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=UCck2M6O6ZI
+- Embed link: https://www.youtube.com/embed/UCck2M6O6ZI
+- Small description: Highlights the goals update and the new workflow it unlocks for Hermes users.
+
+### I Was Wrong About Hermes Agent /goal
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, goal-mode
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, goals
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=CKtz9lp8X-8
+- Embed link: https://www.youtube.com/embed/CKtz9lp8X-8
+- Small description: Compares /goal against another long-running workflow and explains when Hermes goals make sense.
+
+### NEW Hermes Agent v0.13.0: Automate ANYTHING?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops, new-release
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=pKAn3ERqYXg
+- Embed link: https://www.youtube.com/embed/pKAn3ERqYXg
+- Small description: A release video focused on automation improvements and the new capabilities in v0.13.0.
+
+### Why Hermes Agent Memory Could Change AI Automation Forever
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, automation, workflows, memory, agent-ops
+- Recommendation tags: persistent-automation, agent-orchestration, memory, workflow-engine
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=oyo-RpO5MFI
+- Embed link: https://www.youtube.com/embed/oyo-RpO5MFI
+- Small description: Breaks down the memory feature and why it matters for long-running Hermes automation workflows.
+
+
+## Desktop App, WebUI, Browser & Computer Use (11)
+
+### Hermes Agent + Browser AI Agent is INSANE
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, desktop
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=HZqurueeenE
+- Embed link: https://www.youtube.com/embed/HZqurueeenE
+- Small description: Shows Hermes paired with browser AI capabilities for a more automated web workflow.
+
+### Hermes Agent Computer Use Setup Guide (Use Cases and Tips)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, guide, use-cases, tips
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, use-cases, desktop
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); demonstrated on macOS-style computer use
+- Link: https://www.youtube.com/watch?v=Hh1sDJZ6VhY
+- Embed link: https://www.youtube.com/embed/Hh1sDJZ6VhY
+- Small description: Setup and tips for Hermes computer use, with real examples of desktop automation.
+
+### Hermes Agent Desktop App - Easiest Way to Run a Self-Improving AI Agent
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, desktop
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=F-cFMuuG0rU
+- Embed link: https://www.youtube.com/embed/F-cFMuuG0rU
+- Small description: Desktop app walkthrough centered on self-improving Hermes workflows.
+
+### Hermes Agent NEW Desktop App - The 24/7 Self-Evolving AI Agent!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, new-release
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, updates, desktop
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=YBp_PXBbe80
+- Embed link: https://www.youtube.com/embed/YBp_PXBbe80
+- Small description: Focuses on the desktop app experience and how it supports always-on agent workflows.
+
+### Hermes Agent v2.0! Huge New Updates: WebUI, Qwen 3.6 Plus FREE, Computer Use, & More!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, web-ui, update, new-release
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, updates, desktop
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=Gx2joHxUhgg
+- Embed link: https://www.youtube.com/embed/Gx2joHxUhgg
+- Small description: Major update covering WebUI, browser use, computer control, and new free model support.
+
+### Hermes Agent WEB UI is INSANE 🤯 (FREE!)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, web-ui
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=wS-3qxebEEc
+- Embed link: https://www.youtube.com/embed/wS-3qxebEEc
+- Small description: Highlights the web UI experience and how it can be used as a free interface for Hermes Agent.
+
+### Hermes Agent Web UI Makes AI Agents Easy
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, web-ui
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=RCNrgyfL0dM
+- Embed link: https://www.youtube.com/embed/RCNrgyfL0dM
+- Small description: Explains how the web UI simplifies Hermes usage for everyday agent tasks.
+
+### Hermes Agent: Computer Use for macOS
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, desktop
+- Operating systems: macOS
+- Link: https://www.youtube.com/watch?v=6qig8BkaYUQ
+- Embed link: https://www.youtube.com/embed/6qig8BkaYUQ
+- Small description: Dedicated macOS computer-use tutorial for controlling desktop apps with Hermes.
+
+### Hermes WebUI – The Missing Web Interface for Hermes Agent (Full Setup & Features)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, web-ui
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, desktop
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=BJYXJM_eKrU
+- Embed link: https://www.youtube.com/embed/BJYXJM_eKrU
+- Small description: Full web UI setup and feature overview for a browser-based Hermes workflow.
+
+### New FREE Hermes Computer Use Agents!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, new-release
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, updates, desktop
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=WMTq1xVFkXw
+- Embed link: https://www.youtube.com/embed/WMTq1xVFkXw
+- Small description: Shows a newer free computer-use setup for controlling apps and desktop workflows.
+
+### NEW Hermes Agent Web UI Is INSANE
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, desktop-app, webui, browser-automation, computer-use, web-ui, new-release
+- Recommendation tags: computer-operator, browser-agent, ui-tour, desktop-workflows, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=Bvcy0huPg8o
+- Embed link: https://www.youtube.com/embed/Bvcy0huPg8o
+- Small description: Another web UI walkthrough showing the newer browser-based Hermes interface.
+
+
+## Integrations & Ecosystem (13)
+
+### Hermes Agent + DeepSeek V4 (FREE) = GOD TIER
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, deepseek
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=DUQZi6jYsLk
+- Embed link: https://www.youtube.com/embed/DUQZi6jYsLk
+- Small description: Shows how Hermes can be paired with DeepSeek for a lower-cost but powerful setup.
+
+### Hermes Agent + Firecrawl: Build an AI eBay Deal Finder
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, firecrawl
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=Vvvu9KXqyLU
+- Embed link: https://www.youtube.com/embed/Vvvu9KXqyLU
+- Small description: Shows how Hermes can use Firecrawl to discover and automate deal-finding workflows on the web.
+
+### Hermes Agent + HyperFrames: Free Open-Source AI Tools to Create Amazing Videos
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, video-workflow
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=1IsskexiCSw
+- Embed link: https://www.youtube.com/embed/1IsskexiCSw
+- Small description: A media-creation workflow example combining Hermes with HyperFrames and other free AI tools.
+
+### Hermes Agent powered by local models on the DGX Spark is basically magic
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=7JRHSo2F-Wk
+- Embed link: https://www.youtube.com/embed/7JRHSo2F-Wk
+- Small description: Shows Hermes running with local models in a more advanced hardware-backed setup.
+
+### Hermes Agent UPDATE is INSANE! (MCP Server Mode)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, update
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=ZmbnZr0R8SU
+- Embed link: https://www.youtube.com/embed/ZmbnZr0R8SU
+- Small description: Covers Hermes MCP server mode and how it connects Hermes to other tools and agent systems.
+
+### Hermes Agent Web Dashboard Themes + Plugins: I Built My Own Plugin!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, dashboard
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=kLDUh20-AJA
+- Embed link: https://www.youtube.com/embed/kLDUh20-AJA
+- Small description: Focuses on dashboard customization, plugins, and building your own plugin for Hermes.
+
+### Hermes Agent Workspace is INSANE 🤯 (FREE!)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, workspace
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=Kwe-zrZ7clc
+- Embed link: https://www.youtube.com/embed/Kwe-zrZ7clc
+- Small description: Workspace-focused tutorial showing a team-style command center for Hermes agents.
+
+### Hermes Agents + Obsidian: My Second Brain Has a Team of Agents in Discord
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, obsidian
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=L0hs3-xBjJE
+- Embed link: https://www.youtube.com/embed/L0hs3-xBjJE
+- Small description: Shows a Discord-based workflow where Hermes agents support an Obsidian second brain.
+
+### Hermes AI Agent + Obsidian + Omi is Insane (FREE!)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, obsidian
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=nN_CV3620m8
+- Embed link: https://www.youtube.com/embed/nN_CV3620m8
+- Small description: Combines Hermes with Obsidian and Omi for memory and knowledge-management workflows.
+
+### Hermes Workspace: I created a team of AI agents that work 24/7 (Quick Tutorial)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, workspace
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=WPz2d139G9Q
+- Embed link: https://www.youtube.com/embed/WPz2d139G9Q
+- Small description: Shows how Hermes Workspace can run a coordinated team of AI agents around the clock.
+
+### I created my team of AI agents with Hermes Workspace
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, workspace
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=NWjFD3iduUE
+- Embed link: https://www.youtube.com/embed/NWjFD3iduUE
+- Small description: Demonstrates how Hermes Workspace can coordinate a team of AI agents for ongoing work.
+
+### Integrating Honcho into Hermes Agent
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, honcho
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=fiCNQyYwnRw
+- Embed link: https://www.youtube.com/embed/fiCNQyYwnRw
+- Small description: Demonstrates how Honcho memory can be added into Hermes for longer-term recall and better context.
+
+### NEW Codex + Hermes Agent MCP is Insane! (FREE!)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, integrations, ecosystem, plugins, mcp, new-release
+- Recommendation tags: ecosystem, third-party-tools, connectors, platform-integrations, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=Jo4AcIvnXGo
+- Embed link: https://www.youtube.com/embed/Jo4AcIvnXGo
+- Small description: Demonstrates a Codex + Hermes MCP workflow and why that integration is powerful.
+
+
+## Comparisons & Cost-Saving (9)
+
+### Did Hermes Agent just kill OpenClaw? (full guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=tP6yf22OJdI
+- Embed link: https://www.youtube.com/embed/tP6yf22OJdI
+- Small description: Comparison-style guide that explains Hermes Agent, setup choices, and where it fits versus OpenClaw.
+
+### Hermes Agent + Free Unlimited GLM-5.1,Kimi API: RIP OpenClaw! This SELF-EVOLVING Agent is WAY BETTER
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw, free-models
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=VBV4sxUBdsE
+- Embed link: https://www.youtube.com/embed/VBV4sxUBdsE
+- Small description: Demonstrates Hermes with free/unlimited model options and a self-evolving setup.
+
+### Hermes Agent might have just killed OpenClaw
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=Bg-IPiql7x8
+- Embed link: https://www.youtube.com/embed/Bg-IPiql7x8
+- Small description: A comparison-style video focused on why Hermes may be overtaking OpenClaw.
+
+### Hermes Agent Might Replace OpenClaw - Here's Why
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=VLIGOwOGsWc
+- Embed link: https://www.youtube.com/embed/VLIGOwOGsWc
+- Small description: Another OpenClaw comparison that explains Hermes’ advantages and positioning.
+
+### Hermes Agent Setup for $8/Month Cost Reduction: No Claude Rate Limits
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw, claude, rate-limits
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=kovUM5wssAI
+- Embed link: https://www.youtube.com/embed/kovUM5wssAI
+- Small description: Shows a lower-cost Hermes setup designed to reduce API spend and rate-limit pain.
+
+### Hermes Agent vs OpenClaw
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=zwqhemjHq3E
+- Embed link: https://www.youtube.com/embed/zwqhemjHq3E
+- Small description: Direct Hermes versus OpenClaw comparison for viewers deciding which agent to use.
+
+### Hermes Agent: The New OpenClaw?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw, new-release
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, updates, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=Qn2c_U-cWQs
+- Embed link: https://www.youtube.com/embed/Qn2c_U-cWQs
+- Small description: Compares Hermes to OpenClaw and explains why people are calling it the new alternative.
+
+### OpenClaw vs Hermes Agent 2026: Which Should You Choose?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=CQawVUxsv_E
+- Embed link: https://www.youtube.com/embed/CQawVUxsv_E
+- Small description: A decision-focused comparison between Hermes and OpenClaw for 2026 workflows.
+
+### you need to use Hermes RIGHT NOW!! (goodbye OpenClaw!!)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, comparison, alternatives, cost-saving, openclaw
+- Recommendation tags: decision-help, alternatives, benchmarking, budget-conscious, comparison
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=QQEgIo4Juxg
+- Embed link: https://www.youtube.com/embed/QQEgIo4Juxg
+- Small description: A high-energy comparison video arguing that Hermes is now the better choice over OpenClaw.
+
+
+## Use Cases & Productivity (9)
+
+### 100 hours of Hermes Agent lessons in 23 minutes
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration, long-form
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=k5NhsF7t68M
+- Embed link: https://www.youtube.com/embed/k5NhsF7t68M
+- Small description: Condensed highlight reel of many Hermes Agent lessons, commands, and workflows.
+
+### 100 hours of Hermes Agent lessons in 46 minutes
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration, long-form
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=G47mnkGkYwQ
+- Embed link: https://www.youtube.com/embed/G47mnkGkYwQ
+- Small description: Another condensed mega-summary of Hermes Agent lessons, commands, and workflows.
+
+### 15 Hermes Agent use cases I wish I tried sooner
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation, use-cases
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=gpJNLgv3vdw
+- Embed link: https://www.youtube.com/embed/gpJNLgv3vdw
+- Small description: Practical use cases and workflow ideas that are useful for new and experienced users.
+
+### 5 FREE Hermes Agent Use Cases That Will BLOW Your Mind
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation, use-cases
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=ZKsMm3s6sME
+- Embed link: https://www.youtube.com/embed/ZKsMm3s6sME
+- Small description: Another use-case video focused on free workflows and quick ideas to try.
+
+### 5 Ways I Make Money With Hermes Agent
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration, monetization
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=2WZAcWtwoDI
+- Embed link: https://www.youtube.com/embed/2WZAcWtwoDI
+- Small description: Looks at monetization ideas and business use cases built around Hermes Agent automation.
+
+### FREE Hermes Agent is INSANE! (5 Use Cases) 🤯
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation, use-cases
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=kgLvzCkZjLo
+- Embed link: https://www.youtube.com/embed/kgLvzCkZjLo
+- Small description: A short, high-energy overview of five practical Hermes Agent use cases.
+
+### Hermes Agent: 237+ Use Cases!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation, use-cases
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=KS09k8k7KfE
+- Embed link: https://www.youtube.com/embed/KS09k8k7KfE
+- Small description: Large use-case roundup with many examples of what Hermes Agent can do.
+
+### How to use Hermes Agent better than 99% of people
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=NvakBZyc1Sg
+- Embed link: https://www.youtube.com/embed/NvakBZyc1Sg
+- Small description: Practical tips and workflow advice for getting much more out of Hermes.
+
+### These Hermes Agent use cases change everything...
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, use-cases, productivity, real-world-workflows, inspiration
+- Recommendation tags: real-world-examples, productivity, inspiration, applied-automation, use-cases
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=AQHlyGA2cZM
+- Embed link: https://www.youtube.com/embed/AQHlyGA2cZM
+- Small description: Use-case showcase that highlights practical workflows, automation, and everyday agent tasks.
+
+
+## Updates & Releases (10)
+
+### Hermes 0.7: New Update Changes AI Agents Forever!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog, new-release
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=NxrnAUfrGtw
+- Embed link: https://www.youtube.com/embed/NxrnAUfrGtw
+- Small description: A newer Hermes update video focused on how the release changes the broader agent workflow.
+
+### Hermes Agent 0.6.0 Multi-Agent Profiles Update!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog, profiles
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=C42nwqxRY1E
+- Embed link: https://www.youtube.com/embed/C42nwqxRY1E
+- Small description: Covers profiles and how multiple isolated Hermes agents can be run from one installation.
+
+### Hermes Agent 4.0 (CRAZY Foundation Release): This UPDATE IS AWESOME!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=He2sVUuDeOU
+- Embed link: https://www.youtube.com/embed/He2sVUuDeOU
+- Small description: A major Hermes release video covering the foundation update and what changed.
+
+### Hermes Agent just got 10X Better (Agentic OS)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog, 10x-better
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=7xuWZ-3lyQE
+- Embed link: https://www.youtube.com/embed/7xuWZ-3lyQE
+- Small description: Highlights a major Hermes improvement focused on a more agentic operating-system style workflow.
+
+### Hermes Agent Just Got 10x BETTER (Curator Explained)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: hermes-agent, update, release, new-features, changelog, 10x-better
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=nKLkKgkdlhs
+- Embed link: https://www.youtube.com/embed/nKLkKgkdlhs
+- Small description: Explains Curator and how it improves workflow management inside Hermes.
+
+### Hermes Agent UPDATE is Very POWERFUL!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=HZD4by8OV1c
+- Embed link: https://www.youtube.com/embed/HZD4by8OV1c
+- Small description: Covers a powerful Hermes update with practical changes for everyday agent use.
+
+### Hermes Agent Update v0.13 is VERY POWERFUL! (Tenacity Release)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=9IaS0kin2dI
+- Embed link: https://www.youtube.com/embed/9IaS0kin2dI
+- Small description: A release video centered on v0.13 and the new Tenacity workflow improvements.
+
+### New FREE Hermes Agent Update is CRAZY!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog, new-release
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=GUTCVUm02Oo
+- Embed link: https://www.youtube.com/embed/GUTCVUm02Oo
+- Small description: A quick update video highlighting new Hermes features and recent improvements.
+
+### NEW Hermes Agent Update Changes Everything!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog, new-release, big-change
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=HDZ3Ijyz7Wo
+- Embed link: https://www.youtube.com/embed/HDZ3Ijyz7Wo
+- Small description: A recent update overview with a broad look at the latest Hermes improvements.
+
+### NEW Hermes Agent Update is INSANE! 😱
+- Format: Full video
+- Beginner friendly: No
+- Search tags: hermes-agent, update, release, new-features, changelog, new-release
+- Recommendation tags: latest-features, feature-watch, release-notes, changelog, updates
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL)
+- Link: https://www.youtube.com/watch?v=ATbeBhnXjbY
+- Embed link: https://www.youtube.com/embed/ATbeBhnXjbY
+- Small description: A fast-paced update video showing the newest Hermes features and improvements.

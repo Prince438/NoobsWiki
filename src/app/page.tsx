@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Users, Cpu, ShieldAlert, Wrench, BookOpen, ArrowRight } from "lucide-react";
+import { Users, Cpu, ShieldAlert, Wrench, BookOpen, TrendingUp, ArrowRight } from "lucide-react";
 import AsciiBackground from "@/components/AsciiBackground";
 
 export default function Home() {
@@ -182,10 +182,41 @@ export default function Home() {
             </div>
           </Link>
 
-          {/* Card 5 — Tech Tutorials (full-width) */}
+          {/* Card 5 — Malaysian VC's */}
+          <Link
+            href="/malaysian-vcs"
+            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
+          >
+            <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
+            <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+
+            <div>
+              <div className="mb-5 flex items-start justify-between">
+                <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                  <TrendingUp className="h-[17px] w-[17px] stroke-[1.8]" />
+                </div>
+                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">05</span>
+              </div>
+
+              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                Malaysian VC&apos;s
+              </h2>
+
+              <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+                A directory of Malaysian and Malaysia-active VC firms — their stage focus, sector specialisation, and contact details for founders navigating early-stage funding.
+              </p>
+            </div>
+
+            <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+              <span>VIEW INVESTORS</span>
+              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+            </div>
+          </Link>
+
+          {/* Card 6 — Tech Tutorials */}
           <Link
             href="/tech-tutorials"
-            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden md:col-span-2"
+            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
           >
             <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
             <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
@@ -195,7 +226,7 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
                   <BookOpen className="h-[17px] w-[17px] stroke-[1.8]" />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">05</span>
+                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">06</span>
               </div>
 
               <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">

@@ -10,9 +10,10 @@ interface DirectoryCardProps {
   description: string;
   index: number;
   label?: string;
+  onCardClick?: () => void;
 }
 
-export default function DirectoryCard({ name, url, description, index, label }: DirectoryCardProps) {
+export default function DirectoryCard({ name, url, description, index, label, onCardClick }: DirectoryCardProps) {
   const formattedIndex = String(index).padStart(2, "0");
 
   let displayUrl = url;
@@ -34,7 +35,10 @@ export default function DirectoryCard({ name, url, description, index, label }: 
   };
 
   return (
-    <div className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel transition-all duration-300 hover:border-forest/45 hover:shadow-[0_4px_24px_rgba(0,0,0,0.35)] overflow-hidden">
+    <div
+      className={`group relative flex flex-col justify-between rounded border border-panel-border bg-panel transition-all duration-300 hover:border-forest/45 hover:shadow-[0_4px_24px_rgba(0,0,0,0.35)] overflow-hidden${onCardClick ? " cursor-pointer" : ""}`}
+      onClick={onCardClick}
+    >
 
       {/* Top accent line — reveals on hover */}
       <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 pointer-events-none"></div>
@@ -77,7 +81,7 @@ export default function DirectoryCard({ name, url, description, index, label }: 
           <ExternalLink className="h-2.5 w-2.5 flex-shrink-0 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
           <span className="truncate max-w-[160px]">{displayUrl}</span>
         </a>
-        <div className="flex items-center gap-2 flex-shrink-0">
+        <div className="flex items-center gap-2 flex-shrink-0" onClick={(e) => e.stopPropagation()}>
           <ShareButton url={url} />
           <BookmarkButton item={bookmarkItem} />
         </div>

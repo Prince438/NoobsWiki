@@ -1,0 +1,1097 @@
+Cursor YouTube Tutorials
+
+Curated source file for the Cursor section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 106 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner / Start Here (12)
+
+### 5 tips to make you a PRO at Cursor
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts, start-here
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YtTWNzOtkxU
+- Embed link: https://www.youtube.com/embed/YtTWNzOtkxU
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### Cursor 2.0 - Full Tutorial for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=l30Eb76Tk5s
+- Embed link: https://www.youtube.com/embed/l30Eb76Tk5s
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor 2.0 in 15 Minutes (Beginner's Guide)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Nvj7ADWTS20
+- Embed link: https://www.youtube.com/embed/Nvj7ADWTS20
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor 2.0 is here... 5 things you didn't know it can do
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, start-here
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HIp8sFB2GGw
+- Embed link: https://www.youtube.com/embed/HIp8sFB2GGw
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Cursor 2.0 Tutorial for Beginners (Full Course)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2aldTxnbNt0
+- Embed link: https://www.youtube.com/embed/2aldTxnbNt0
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor 3 minute demo - the most popular AI code editor
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, start-here
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=LR04bU_yV5k
+- Embed link: https://www.youtube.com/embed/LR04bU_yV5k
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Cursor 3.0 is officially the new King (My AI coding setup revealed)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation, start-here
+- Recommendation tags: setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=la_tAgBKqO0
+- Embed link: https://www.youtube.com/embed/la_tAgBKqO0
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### Cursor AI Tutorial for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=3289vhOUdKA
+- Embed link: https://www.youtube.com/embed/3289vhOUdKA
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor AI tutorial for beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=gqUQbjsYZLQ
+- Embed link: https://www.youtube.com/embed/gqUQbjsYZLQ
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor AI Tutorial for Beginners (No coding experience required)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=J4Mhekgikj8
+- Embed link: https://www.youtube.com/embed/J4Mhekgikj8
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor ai Tutorial for Beginners 2026(Step By Step)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=s1vlPvcYaok
+- Embed link: https://www.youtube.com/embed/s1vlPvcYaok
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor AI Tutorial for Beginners: Build App with AI (2026)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=oQDCAJnr1aU
+- Embed link: https://www.youtube.com/embed/oQDCAJnr1aU
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+
+## Setup, Install & Basics (12)
+
+### Cursor 2.0 Explained in 10 Minutes (for beginners)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5Xl7CAXJbro
+- Embed link: https://www.youtube.com/embed/5Xl7CAXJbro
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor AI Setup Guide - Hands-On Installation Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation
+- Recommendation tags: setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=RnlC2VFG_iM
+- Embed link: https://www.youtube.com/embed/RnlC2VFG_iM
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### Cursor AI Vs VSCode | Which Code Editor Is Better in 2025?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ynDcF4-ufkc
+- Embed link: https://www.youtube.com/embed/ynDcF4-ufkc
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Enabling Cursor for Designers and Product Managers - Activation
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=0MO2UO1UNyM
+- Embed link: https://www.youtube.com/embed/0MO2UO1UNyM
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How To Connect Vscode To Cursor Ai
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YVrZoZGVJxs
+- Embed link: https://www.youtube.com/embed/YVrZoZGVJxs
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### How to Download and Install Cursor AI Code Editor Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation
+- Recommendation tags: setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=mM97V2FSzHg
+- Embed link: https://www.youtube.com/embed/mM97V2FSzHg
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### How to Install Cursor (AI Code Editor) on Windows 11 | How to Use Cursor AI on Windows (2026)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, setup, installation
+- Recommendation tags: start-here, onboarding, first-steps, setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dHb0HVvIZBk
+- Embed link: https://www.youtube.com/embed/dHb0HVvIZBk
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### How to Install Cursor AI Code Editor in Windows 11 - Quick Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation
+- Recommendation tags: setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Hkda0TWKr-w
+- Embed link: https://www.youtube.com/embed/Hkda0TWKr-w
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### How to Install Cursor AI Code Editor on Windows 11 / 10
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation
+- Recommendation tags: setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pc4WLbnX1hg
+- Embed link: https://www.youtube.com/embed/pc4WLbnX1hg
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### How to Install Cursor AI Code Editor on Windows 11 / 10 (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation
+- Recommendation tags: setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=7S-gfI3xGK8
+- Embed link: https://www.youtube.com/embed/7S-gfI3xGK8
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### How to Install Cursor AI on Windows 11 | Full Setup Guide
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation
+- Recommendation tags: setup, installation, quickstart
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=enRq2OModks
+- Embed link: https://www.youtube.com/embed/enRq2OModks
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### How To Install Extensions In Cursor AI (Step-By-Step)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, setup, installation, integrations, mcp
+- Recommendation tags: setup, installation, quickstart, integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Ep1aCQ2PTo0
+- Embed link: https://www.youtube.com/embed/Ep1aCQ2PTo0
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+
+## Composer, Chat & Prompting (12)
+
+### 900+ hours of Learning Claude Code/Cursor in 10 minutes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=iltdFNpl73I
+- Embed link: https://www.youtube.com/embed/iltdFNpl73I
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Building Cursor Composer – Lee Robinson, Cursor
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, prompting, chat
+- Recommendation tags: assistant-mode, prompt-engineering, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=fL1iJHtl51Q
+- Embed link: https://www.youtube.com/embed/fL1iJHtl51Q
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### Cursor Agent: 10 Pro Tips!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, productivity, shortcuts
+- Recommendation tags: agentic-workflows, automation, coding-assistance, productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=WVeYLlKOWc0
+- Embed link: https://www.youtube.com/embed/WVeYLlKOWc0
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### Cursor AI Tricks That Made Me a Better Solo Developer (& more productive)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=V-zhv95AhF8
+- Embed link: https://www.youtube.com/embed/V-zhv95AhF8
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### Cursor Composer 2 Might Be All You Need
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, prompting, chat
+- Recommendation tags: assistant-mode, prompt-engineering, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dLCnJkVTB4g
+- Embed link: https://www.youtube.com/embed/dLCnJkVTB4g
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### Cursor Composer 2.5 Is REALLY Good & On Par With Opus 4.7 & GPT 5.5? (Fully Tested)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, prompting, chat
+- Recommendation tags: assistant-mode, prompt-engineering, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1ANj1A8Ecic
+- Embed link: https://www.youtube.com/embed/1ANj1A8Ecic
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### Cursor Composer 2.5 Is VERY Good – Does THIS Beat GPT & Opus?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, prompting, chat
+- Recommendation tags: assistant-mode, prompt-engineering, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=hV4nMOmqAVQ
+- Embed link: https://www.youtube.com/embed/hV4nMOmqAVQ
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### Cursor Composer 2.5 Just Dropped, And It's Incredible
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, prompting, chat
+- Recommendation tags: assistant-mode, prompt-engineering, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=mdt2_CMJHfw
+- Embed link: https://www.youtube.com/embed/mdt2_CMJHfw
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### How the 1% ACTUALLY Build Apps with Cursor's Context Engineering
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=QgA55EnmUp4
+- Embed link: https://www.youtube.com/embed/QgA55EnmUp4
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How To Change Chat Mode In Cursor AI (Quick Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, prompting, chat
+- Recommendation tags: assistant-mode, prompt-engineering, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=iycgrbH0H8Q
+- Embed link: https://www.youtube.com/embed/iycgrbH0H8Q
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### How To Use Cursor Agents For Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, rules, agents
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=tm94DULupNc
+- Embed link: https://www.youtube.com/embed/tm94DULupNc
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### How to use Cursor AI Composer in 5 minutes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, prompting, chat
+- Recommendation tags: start-here, onboarding, first-steps, assistant-mode, prompt-engineering, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Tm_2RZm8JB8
+- Embed link: https://www.youtube.com/embed/Tm_2RZm8JB8
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+
+## Rules, Memory & Agent Workflows (12)
+
+### Claude Code vs Codex vs Cursor (an honest comparison)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison, agentic-coding
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JMYspR42HFM
+- Embed link: https://www.youtube.com/embed/JMYspR42HFM
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Cursor 2.0 Changed How I Work
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, agentic-coding
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=plAGTrg0wic
+- Embed link: https://www.youtube.com/embed/plAGTrg0wic
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Cursor AI Agents Work Like 10 Developers (Cursor VP Live Demo)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, agentic-coding
+- Recommendation tags: agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8QN23ZThdRY
+- Embed link: https://www.youtube.com/embed/8QN23ZThdRY
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### Cursor Rules guide for lazy devs. Setup rules in minutes with this quick tutorial!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, setup, installation, rules, agents, review, comparison
+- Recommendation tags: setup, installation, quickstart, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=FpJ48a5S5lU
+- Embed link: https://www.youtube.com/embed/FpJ48a5S5lU
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### How Cursor Became the Fastest Company in AI
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, agentic-coding
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pZyC2gOXsDo
+- Embed link: https://www.youtube.com/embed/pZyC2gOXsDo
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How Cursor builds agentic workflows across the SDLC
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, agentic-coding
+- Recommendation tags: agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dJAVS1g3NDw
+- Embed link: https://www.youtube.com/embed/dJAVS1g3NDw
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### How To 10x Cursor with Rules That Take 1 Minute To Create
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, agentic-coding
+- Recommendation tags: agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=sxqq9Eql6Cc
+- Embed link: https://www.youtube.com/embed/sxqq9Eql6Cc
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### How to Setup Rules in Cursor
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, setup, installation, rules, agents, agentic-coding
+- Recommendation tags: setup, installation, quickstart, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=IsXrCBlAshg
+- Embed link: https://www.youtube.com/embed/IsXrCBlAshg
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### How to Use Cursor AI with Its Own Cursor Memory Bank
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, rules, agents, agentic-coding
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=azXNHRtzd5s
+- Embed link: https://www.youtube.com/embed/azXNHRtzd5s
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### How to Use Cursor AI with Its Own Cursor Memory Bank
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, rules, agents, agentic-coding
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=G1w02_OeY-Q
+- Embed link: https://www.youtube.com/embed/G1w02_OeY-Q
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### How To Use Cursor Multi-Agents For Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, rules, agents, agentic-coding
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=yIcE-fkfA-s
+- Embed link: https://www.youtube.com/embed/yIcE-fkfA-s
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### How To Use Cursor Rules For Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, rules, agents, agentic-coding
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pjEXyoFj4xM
+- Embed link: https://www.youtube.com/embed/pjEXyoFj4xM
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+
+## Codebase, Refactor & Debugging (12)
+
+### AI Code Reviews in Cursor (BugBot Tutorial)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=4Jw5yJgj3pQ
+- Embed link: https://www.youtube.com/embed/4Jw5yJgj3pQ
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Can Claude and Cursor Really Refactor Like a Senior Dev?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, codebase, debugging
+- Recommendation tags: developer-tools, refactoring, debugging
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9BPkSA8h6b8
+- Embed link: https://www.youtube.com/embed/9BPkSA8h6b8
+- Small description: Useful for codebase navigation, refactoring, debugging, and terminal-assisted work.
+
+### Cursor 2.2 Debug Mode Fixed My Bugs Automatically (Multi-Agent Features)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents
+- Recommendation tags: agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ejRcMxeU0oc
+- Embed link: https://www.youtube.com/embed/ejRcMxeU0oc
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### Cursor 3 Might Change How You Code
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=4DrVf07wlq8
+- Embed link: https://www.youtube.com/embed/4DrVf07wlq8
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Cursor AI Just Dropped the Ultimate Big Codebase Playbook
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, codebase, debugging
+- Recommendation tags: developer-tools, refactoring, debugging
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Bsuh7CYzlGM
+- Embed link: https://www.youtube.com/embed/Bsuh7CYzlGM
+- Small description: Useful for codebase navigation, refactoring, debugging, and terminal-assisted work.
+
+### Cursor CLI Tutorial for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ywz8cNJvM5Y
+- Embed link: https://www.youtube.com/embed/ywz8cNJvM5Y
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### Cursor Crash Course: Vibe Coding on a Large Codebase
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, codebase, debugging
+- Recommendation tags: developer-tools, refactoring, debugging
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5tvsM6l7TiU
+- Embed link: https://www.youtube.com/embed/5tvsM6l7TiU
+- Small description: Useful for codebase navigation, refactoring, debugging, and terminal-assisted work.
+
+### Cursor Killer New Features & GPT 5.2!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=c23N_6fKIAw
+- Embed link: https://www.youtube.com/embed/c23N_6fKIAw
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How to Debug Codes in Cursor AI 2026?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Q69A3UJ9uvI
+- Embed link: https://www.youtube.com/embed/Q69A3UJ9uvI
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How to Debug in Cursor AI [2026 Full Guide]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8HxiNRT-xxo
+- Embed link: https://www.youtube.com/embed/8HxiNRT-xxo
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How to One Click Refactor with Cursor AI in VS Code (2025) | Step-by-Step Guide
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, codebase, debugging, review, comparison
+- Recommendation tags: developer-tools, refactoring, debugging, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=WiL5oV2Kp64
+- Embed link: https://www.youtube.com/embed/WiL5oV2Kp64
+- Small description: Useful for codebase navigation, refactoring, debugging, and terminal-assisted work.
+
+### How to Open Terminal in Cursor AI 2026?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, codebase, debugging
+- Recommendation tags: developer-tools, refactoring, debugging
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=mYi1vOuBJ-o
+- Embed link: https://www.youtube.com/embed/mYi1vOuBJ-o
+- Small description: Useful for codebase navigation, refactoring, debugging, and terminal-assisted work.
+
+
+## MCP, Extensions & Integrations (12)
+
+### 10x AI Coding: MCP + Cursor Does Everything!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, integrations, mcp, developer-tools, tooling
+- Recommendation tags: integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=_qH0ArjwBpE
+- Embed link: https://www.youtube.com/embed/_qH0ArjwBpE
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### Connect to Anything with This Cursor MCP Setup
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, setup, installation, integrations, mcp, developer-tools, tooling
+- Recommendation tags: setup, installation, quickstart, integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=brhs5DogIf8
+- Embed link: https://www.youtube.com/embed/brhs5DogIf8
+- Small description: Covers setup, installation, and the core Cursor workflow.
+
+### CRUSH Your Backlog With Background Agents in Cursor
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, developer-tools, tooling
+- Recommendation tags: agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=0ctWRkOqKFc
+- Embed link: https://www.youtube.com/embed/0ctWRkOqKFc
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### Cursor & Convex MCP Server (Model Context Protocol) - How AI Agents Can Query Your Database
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, integrations, mcp, developer-tools, tooling
+- Recommendation tags: agentic-workflows, automation, coding-assistance, integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=u1yDq2uu-dk
+- Embed link: https://www.youtube.com/embed/u1yDq2uu-dk
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### Cursor just started their war on GitHub
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, integrations, mcp, developer-tools, tooling
+- Recommendation tags: integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=1_P1K9i1Oq0
+- Embed link: https://www.youtube.com/embed/1_P1K9i1Oq0
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### Cursor MCP: Connect Cursor to WhatsApp in Just 5 Minutes
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, integrations, mcp, developer-tools, tooling
+- Recommendation tags: integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=oqPwcUWA3qw
+- Embed link: https://www.youtube.com/embed/oqPwcUWA3qw
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### Cursor Pro vs API Key - 2025 Comparison
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, review, comparison, developer-tools, tooling
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=RvP4I3D0oas
+- Embed link: https://www.youtube.com/embed/RvP4I3D0oas
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### How I actually use MCP servers in Cursor
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, integrations, mcp, developer-tools, tooling
+- Recommendation tags: integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=Zvjgrx2OIF4
+- Embed link: https://www.youtube.com/embed/Zvjgrx2OIF4
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### How To Add OpenAI API Key In Cursor AI (2026 Guide)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, developer-tools, tooling
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=eznkjQSDwSI
+- Embed link: https://www.youtube.com/embed/eznkjQSDwSI
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How To Connect Ai Api With Cursor Ai App
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, developer-tools, tooling
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=kh0diw_CEcI
+- Embed link: https://www.youtube.com/embed/kh0diw_CEcI
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How To Connect Cursor Ai To Github
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, integrations, mcp, developer-tools, tooling
+- Recommendation tags: integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=lMfcFJZziZA
+- Embed link: https://www.youtube.com/embed/lMfcFJZziZA
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### How to Connect Cursor AI to GitHub (Step-by-Step Tutorial) 2026
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, integrations, mcp, developer-tools, tooling
+- Recommendation tags: integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may focus on developer tools and integrations
+- Link: https://www.youtube.com/watch?v=dHL1YoabVdo
+- Embed link: https://www.youtube.com/embed/dHL1YoabVdo
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+
+## Frameworks & Real Projects (12)
+
+### Build React web app in minutes using Cursor AI
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, frameworks, project-workflow, real-projects, build-in-public
+- Recommendation tags: real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=-Olw8ytbSZw
+- Embed link: https://www.youtube.com/embed/-Olw8ytbSZw
+- Small description: Practical project video for building real software with Cursor.
+
+### Cursor + V0: Can We Build An AI Next.js App in 8 Minutes?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, frameworks, project-workflow, real-projects, build-in-public
+- Recommendation tags: real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=zyqwt65NIgs
+- Embed link: https://www.youtube.com/embed/zyqwt65NIgs
+- Small description: Practical project video for building real software with Cursor.
+
+### Cursor 2.0 Full-Stack App Build with Composer 1, Parallel Agents, and Native Browser
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, prompting, chat, rules, agents, real-projects, build-in-public
+- Recommendation tags: assistant-mode, prompt-engineering, workflow, agentic-workflows, automation, coding-assistance
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=eQD5NncxXgE
+- Embed link: https://www.youtube.com/embed/eQD5NncxXgE
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### Cursor 2.0 is INSANE, but only if you use it like this...
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, real-projects, build-in-public
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=qSW2kEbVvmU
+- Embed link: https://www.youtube.com/embed/qSW2kEbVvmU
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Designing in code with Cursor + React
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, frameworks, project-workflow, real-projects, build-in-public
+- Recommendation tags: real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=QZuEWHj5yrI
+- Embed link: https://www.youtube.com/embed/QZuEWHj5yrI
+- Small description: Practical project video for building real software with Cursor.
+
+### Full App Building Course with Cursor (3+ Hours)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, real-projects, build-in-public
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Qcxq4iXLZbY
+- Embed link: https://www.youtube.com/embed/Qcxq4iXLZbY
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### How I made a REAL Full Stack Chat App in 2hr with Cursor
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, prompting, chat, frameworks, project-workflow, real-projects, build-in-public
+- Recommendation tags: assistant-mode, prompt-engineering, workflow, real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=tEbCd3uRv0o
+- Embed link: https://www.youtube.com/embed/tEbCd3uRv0o
+- Small description: Shows how to use Cursor chat, composer, and prompting effectively.
+
+### How to Create your First Next.JS 15 Project in Cursor AI
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, frameworks, project-workflow, real-projects, build-in-public
+- Recommendation tags: real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=RNi8QbSacS4
+- Embed link: https://www.youtube.com/embed/RNi8QbSacS4
+- Small description: Practical project video for building real software with Cursor.
+
+### How to run Python in Cursor IDE
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, frameworks, project-workflow, real-projects, build-in-public
+- Recommendation tags: real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=mo7VtNv2us4
+- Embed link: https://www.youtube.com/embed/mo7VtNv2us4
+- Small description: Practical project video for building real software with Cursor.
+
+### How To Use Python In Cursor Ai – Ultimate Guide
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: cursor, cursor-ai, beginner-friendly, onboarding, quickstart, frameworks, project-workflow, real-projects
+- Recommendation tags: start-here, onboarding, first-steps, real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=W7EanZ2IUCE
+- Embed link: https://www.youtube.com/embed/W7EanZ2IUCE
+- Small description: Beginner-friendly walkthrough for getting started with Cursor and understanding the basics.
+
+### I Built a React Website in MINUTES with Cursor AI #cursorai #reactjs
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, frameworks, project-workflow, real-projects, build-in-public
+- Recommendation tags: real-projects, shipping-features, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9OF2qtqbszk
+- Embed link: https://www.youtube.com/embed/9OF2qtqbszk
+- Small description: Practical project video for building real software with Cursor.
+
+### PRO LEVEL ShadCN & Cursor Landing Page in 20 minutes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, real-projects, build-in-public
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8InCAFYQuxo
+- Embed link: https://www.youtube.com/embed/8InCAFYQuxo
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+
+## Tips, Tricks & Productivity (10)
+
+### Cursor Keyboard Shortcuts for POWER Users
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HlYyU2XOXk0
+- Embed link: https://www.youtube.com/embed/HlYyU2XOXk0
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### Cursor Shortcuts you need to know!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5FNC1eclu1U
+- Embed link: https://www.youtube.com/embed/5FNC1eclu1U
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### Cursor tips in 10 minutes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Aib5N1IXLog
+- Embed link: https://www.youtube.com/embed/Aib5N1IXLog
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### How I use Cursor (+ my best tips)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=uJimjSDio_Y
+- Embed link: https://www.youtube.com/embed/uJimjSDio_Y
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### How To Change Keyboard Shortcuts In Cursor AI (Easy Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=b2f6mQOG4V0
+- Embed link: https://www.youtube.com/embed/b2f6mQOG4V0
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### How to Open Keyboard Shortcuts in Cursor AI 2026?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=IP_UO1St1s8
+- Embed link: https://www.youtube.com/embed/IP_UO1St1s8
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### How To Open The Command Palette In Cursor AI (Quick Shortcut Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=vZRduz1B0Mg
+- Embed link: https://www.youtube.com/embed/vZRduz1B0Mg
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### I Wasted 6 Months Before Learning These 25 Cursor Tips (Plus Free Starter Kit)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HlG_cYRydHY
+- Embed link: https://www.youtube.com/embed/HlG_cYRydHY
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### Master the Cursor IDE: 10+ Keyboard Shortcuts to Double Your Speed
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, productivity, shortcuts
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JXJj2KKpBjM
+- Embed link: https://www.youtube.com/embed/JXJj2KKpBjM
+- Small description: Packed with tips to speed up daily Cursor usage and productivity.
+
+### Vibe Coding Tutorial and Best Practices (Cursor / Windsurf)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YWwS911iLhg
+- Embed link: https://www.youtube.com/embed/YWwS911iLhg
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+
+## Comparisons, Reviews & Updates (12)
+
+### A very subjective comparison of Claude Code, OpenCode, Cursor & GitHub Copilot
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, integrations, mcp
+- Recommendation tags: integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dMSZ0WcK1oI
+- Embed link: https://www.youtube.com/embed/dMSZ0WcK1oI
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### Base44 vs Replit vs Cursor: Which One Is Actually Worth Using?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=C5_NX7B2Hcc
+- Embed link: https://www.youtube.com/embed/C5_NX7B2Hcc
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Cursor 2.0 vs Claude Code: One Charges $71/Day & Nobody Warns You (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YhxVKh03xAU
+- Embed link: https://www.youtube.com/embed/YhxVKh03xAU
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Cursor 3.0 is here... It's insane
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai
+- Recommendation tags: cursor, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=NC7kSi6th6o
+- Embed link: https://www.youtube.com/embed/NC7kSi6th6o
+- Small description: Related Cursor tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Cursor AI vs Claude Code (2026) – Which Coding AI Is Better?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=av_2g0SY2OE
+- Embed link: https://www.youtube.com/embed/av_2g0SY2OE
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Cursor AI vs GitHub Copilot Agent Review: Worth Paying Double? (2026)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, integrations, mcp, review, comparison
+- Recommendation tags: agentic-workflows, automation, coding-assistance, integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=rDkOSA2NGfg
+- Embed link: https://www.youtube.com/embed/rDkOSA2NGfg
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.
+
+### Cursor AI vs GitHub Copilot | Full Review
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, integrations, mcp, review, comparison
+- Recommendation tags: integrations, tooling, power-user, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=cTf6uopd_qA
+- Embed link: https://www.youtube.com/embed/cTf6uopd_qA
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### Cursor vs Claude Code | The Ultimate Comparison Guide
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=OSBo9qcpRfw
+- Embed link: https://www.youtube.com/embed/OSBo9qcpRfw
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Cursor vs Codex vs Claude vs Zed vs Anti-Gravity (I Tested Them All)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pJylXFAC87A
+- Embed link: https://www.youtube.com/embed/pJylXFAC87A
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### Cursor vs GitHub Copilot: Full Comparison + Winner (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, integrations, mcp, review, comparison
+- Recommendation tags: integrations, tooling, power-user, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Yv34k4U3MvA
+- Embed link: https://www.youtube.com/embed/Yv34k4U3MvA
+- Small description: Covers integrations, extensions, MCP-style tool use, and connected developer workflows.
+
+### Cursor vs. Claude Code (Mid-2025): The Brutal, Honest Truth
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: cursor, cursor-ai, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=jCUrp3S3hho
+- Embed link: https://www.youtube.com/embed/jCUrp3S3hho
+- Small description: A review or comparison video that helps you decide where Cursor fits in your stack.
+
+### GitHub Copilot Agent Vs Cursor AI | Best AI Coding Assistant in 2026?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: cursor, cursor-ai, rules, agents, integrations, mcp, review, comparison
+- Recommendation tags: agentic-workflows, automation, coding-assistance, integrations, tooling, power-user
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=XPoiLX6xo0M
+- Embed link: https://www.youtube.com/embed/XPoiLX6xo0M
+- Small description: Focuses on agentic coding, rules, memory, and advanced Cursor workflows.

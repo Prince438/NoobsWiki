@@ -1,0 +1,1114 @@
+GitHub Copilot YouTube Tutorials
+
+Curated source file for the GitHub Copilot section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 108 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner / Start Here (14)
+
+### AI-Assisted Coding Tutorial – OpenClaw, GitHub Copilot, Claude Code, CodeRabbit, Gemini CLI
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, coding, code-assist, agents, cli, start-here
+- Recommendation tags: developer-tools, coding-assistance, speed, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=wlpBCazAY9Q
+- Embed link: https://www.youtube.com/embed/wlpBCazAY9Q
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### Complete GitHub Copilot Tutorial for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=yqVmuENb1NE
+- Embed link: https://www.youtube.com/embed/yqVmuENb1NE
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### Copilot Best Practices (What Not To Do)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, pull-requests, workflow, start-here
+- Recommendation tags: team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2q0BoioYSxQ
+- Embed link: https://www.youtube.com/embed/2q0BoioYSxQ
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### Get started with Copilot Free in VS Code
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison, start-here
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=X_Aet9ndh_Y
+- Embed link: https://www.youtube.com/embed/X_Aet9ndh_Y
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### Get Started with GitHub Copilot in VS Code (2025)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison, start-here
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=vdBxfFVXnc0
+- Embed link: https://www.youtube.com/embed/vdBxfFVXnc0
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### Get to know GitHub Copilot in VS Code and be productive IMMEDIATELY
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, pull-requests, workflow, review, comparison, start-here
+- Recommendation tags: team-workflow, code-review, automation, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=jXp5D5ZnxGM
+- Embed link: https://www.youtube.com/embed/jXp5D5ZnxGM
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### Getting started with GitHub Copilot CLI | Tutorial for beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, agents, cli, start-here
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=BDxRhhs36ns
+- Embed link: https://www.youtube.com/embed/BDxRhhs36ns
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### Getting started with GitHub Copilot | Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, start-here
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=n0NlxUyA7FI
+- Embed link: https://www.youtube.com/embed/n0NlxUyA7FI
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### GitHub Copilot 101 - Essential features | Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, start-here
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=b5xcWdzAB5c
+- Embed link: https://www.youtube.com/embed/b5xcWdzAB5c
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### GitHub Copilot Full Course 2025 | Become Coding Master
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, coding, code-assist, start-here
+- Recommendation tags: developer-tools, coding-assistance, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HEbxwdtsbRg
+- Embed link: https://www.youtube.com/embed/HEbxwdtsbRg
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### GitHub Copilot in VSCode: Top 10 Features Explained
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, extensions, integrations, review, comparison, start-here
+- Recommendation tags: integrations, tooling, developer-workflow, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2nPoiUJpDaU
+- Embed link: https://www.youtube.com/embed/2nPoiUJpDaU
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### GitHub Copilot Tutorial | How useful is it for Cloud and DevOps?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, start-here
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9JGONx_X4ho
+- Embed link: https://www.youtube.com/embed/9JGONx_X4ho
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Hands-On Lab: The Power of GitHub Copilot in VS Code
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison, start-here
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dxDqelvVc2U
+- Embed link: https://www.youtube.com/embed/dxDqelvVc2U
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### How the GitHub Copilot coding agent works | GitHub Checkout
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, coding, code-assist, agents, cli, start-here
+- Recommendation tags: developer-tools, coding-assistance, speed, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1GVBRhDI5No
+- Embed link: https://www.youtube.com/embed/1GVBRhDI5No
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+
+## Setup, Install & Basics (10)
+
+### Copilot CLI Tutorial #1 - Intro & Setup
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, setup, installation, agents
+- Recommendation tags: start-here, onboarding, first-steps, setup, quickstart, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=720a-3LXkdo
+- Embed link: https://www.youtube.com/embed/720a-3LXkdo
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### GitHub Copilot Extensions : Build Your First Extension
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, extensions, integrations
+- Recommendation tags: integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ky5TMI9skLE
+- Embed link: https://www.youtube.com/embed/ky5TMI9skLE
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### Github COPILOT install and setup with Visual Studio Code
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, setup, installation
+- Recommendation tags: setup, quickstart, workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=0dSKt4DgnyA
+- Embed link: https://www.youtube.com/embed/0dSKt4DgnyA
+- Small description: Covers setup, installation, and the core GitHub Copilot workflow.
+
+### GitHub Copilot Setup in VS Code: Complete Installation & Configuration Guide
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, setup, installation, review, comparison
+- Recommendation tags: setup, quickstart, workflow, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=wxaxlIlN7BA
+- Embed link: https://www.youtube.com/embed/wxaxlIlN7BA
+- Small description: Covers setup, installation, and the core GitHub Copilot workflow.
+
+### How to Install GitHub Copilot on VS Code
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, setup, installation, review, comparison
+- Recommendation tags: setup, quickstart, workflow, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=6xrBSg3a0_Y
+- Embed link: https://www.youtube.com/embed/6xrBSg3a0_Y
+- Small description: Covers setup, installation, and the core GitHub Copilot workflow.
+
+### How To Install The Copilot Extension In VS Code (Quick Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, setup, installation, extensions, integrations, review, comparison
+- Recommendation tags: setup, quickstart, workflow, integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ws6t0NBle9g
+- Embed link: https://www.youtube.com/embed/ws6t0NBle9g
+- Small description: Covers setup, installation, and the core GitHub Copilot workflow.
+
+### How to Setup GitHub Copilot in VS Code and be Productive IMMEDIATELY (2026 Full Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, setup, installation, pull-requests, workflow, review, comparison
+- Recommendation tags: setup, quickstart, workflow, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=4OFlFz4nQkU
+- Embed link: https://www.youtube.com/embed/4OFlFz4nQkU
+- Small description: Covers setup, installation, and the core GitHub Copilot workflow.
+
+### Master the core principles of prompt engineering with GitHub Copilot
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, pull-requests, workflow
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=hh1nOX14TyY
+- Embed link: https://www.youtube.com/embed/hh1nOX14TyY
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### This Copilot Studio Extension for VS Code Changes Everything
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, extensions, integrations, review, comparison
+- Recommendation tags: integrations, tooling, developer-workflow, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=lciZYzefXZI
+- Embed link: https://www.youtube.com/embed/lciZYzefXZI
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### TradingView’s New AI Copilot Is Here: Chart Analysis, Alerts and Automation
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=k33eRtjoYls
+- Embed link: https://www.youtube.com/embed/k33eRtjoYls
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+
+## Chat, Prompting & Everyday Use (14)
+
+### 10 Copilot Chat Prompts I Use Every Week
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, pull-requests, workflow
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=oAbLb-K8VZo
+- Embed link: https://www.youtube.com/embed/oAbLb-K8VZo
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### About Microsoft 365 Copilot Chat
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=shUbh8QUWOc
+- Embed link: https://www.youtube.com/embed/shUbh8QUWOc
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### Ask, Edit, & Agent - In-depth Overview of GitHub Copilot Chat Modes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, agents, cli
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=s7Qzq0ejhjg
+- Embed link: https://www.youtube.com/embed/s7Qzq0ejhjg
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### Become a Copilot Master - Tips By a Microsoft Engineer
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9sFA-dWNUlc
+- Embed link: https://www.youtube.com/embed/9sFA-dWNUlc
+- Small description: Packed with tips to speed up daily GitHub Copilot usage and productivity.
+
+### Copilot Chat (Free Version): Complete Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Lpocviv2xDo
+- Embed link: https://www.youtube.com/embed/Lpocviv2xDo
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### Copilot Chat in Visual Studio Code | GitHub Universe
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=a2DDYMEPwbE
+- Embed link: https://www.youtube.com/embed/a2DDYMEPwbE
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### Copilot Chat vs Microsoft 365 Copilot: What's the Difference?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, review, comparison
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=vDOjRBeMmiU
+- Embed link: https://www.youtube.com/embed/vDOjRBeMmiU
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### GitHub Copilot Chat in Visual Studio 2022
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=qQESlmIseJ8
+- Embed link: https://www.youtube.com/embed/qQESlmIseJ8
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### GitHub Copilot chat will not show up on the activity bar of visual studio code insiders.
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=rF-Y0DuvE2o
+- Embed link: https://www.youtube.com/embed/rF-Y0DuvE2o
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### GitHub Copilot deep dive: Model selection, prompting techniques & agent mode
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, pull-requests, workflow, agents, cli
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=0Oz-WQi51aU
+- Embed link: https://www.youtube.com/embed/0Oz-WQi51aU
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### GitHub Copilot: Getting Started with Chat
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=3surPGP7_4o
+- Embed link: https://www.youtube.com/embed/3surPGP7_4o
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### How to Build an AI Agent with Microsoft 365 Copilot (No Code Step-by-Step Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, agents, cli
+- Recommendation tags: agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Iz3ul6hSeTs
+- Embed link: https://www.youtube.com/embed/Iz3ul6hSeTs
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### How to Use GitHub Copilot Chat Modes in VS Code (MCP Management)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, chat, prompting, review
+- Recommendation tags: start-here, onboarding, first-steps, assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=kw5GNtihCh0
+- Embed link: https://www.youtube.com/embed/kw5GNtihCh0
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### How to Use NEW Copilot Chat in Office for FREE.... And How It Changes Everything!
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, chat, prompting
+- Recommendation tags: start-here, onboarding, first-steps, assistant-mode, prompt-engineering, daily-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=KxIUgA2Z9_I
+- Embed link: https://www.youtube.com/embed/KxIUgA2Z9_I
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+
+## Coding, Refactor & Debugging (14)
+
+### Automatically adjust pasted code with GitHub Copilot
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, developer-tools, refactoring
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=zklV3In9KU8
+- Embed link: https://www.youtube.com/embed/zklV3In9KU8
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Code review & refactoring with GitHub Copilot: A beginner's guide
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, coding, code-assist, review
+- Recommendation tags: start-here, onboarding, first-steps, developer-tools, coding-assistance, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=LsQGilvXAfE
+- Embed link: https://www.youtube.com/embed/LsQGilvXAfE
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### Coding with an AI pair programmer: Getting started with GitHub Copilot
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, developer-tools, refactoring
+- Recommendation tags: developer-tools, coding-assistance, speed, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dhfTaSGYQ4o
+- Embed link: https://www.youtube.com/embed/dhfTaSGYQ4o
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### Copilot Usage & Completion Settings in VS Code | Monitor Premium Requests + Snooze Next Edit
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, review, comparison
+- Recommendation tags: developer-tools, coding-assistance, speed, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9Ar-6qQzk8o
+- Embed link: https://www.youtube.com/embed/9Ar-6qQzk8o
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### Debug easily with Github Copilot and Visual Studio
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, developer-tools, refactoring
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=EuMThco8hfk
+- Embed link: https://www.youtube.com/embed/EuMThco8hfk
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Debug Faster in Visual Studio with GitHub Copilot
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, developer-tools, refactoring
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=kxAQX_fVpgA
+- Embed link: https://www.youtube.com/embed/kxAQX_fVpgA
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### GitHub Copilot can help with Debugging, Exceptions, Testing, Profiling, & more in Visual Studio!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, developer-tools, refactoring
+- Recommendation tags: developer-tools, coding-assistance, speed, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=VVnOU3iCuOU
+- Embed link: https://www.youtube.com/embed/VVnOU3iCuOU
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### GitHub Copilot code review | New feature announcement
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, review, comparison, developer-tools, refactoring
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=cyPaAkRfEBQ
+- Embed link: https://www.youtube.com/embed/cyPaAkRfEBQ
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### GitHub Copilot vs. Claude Code: Which AI Assistant Should You Use in 2026?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, review, comparison, developer-tools, refactoring
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=EmfoQWQ1DR8
+- Embed link: https://www.youtube.com/embed/EmfoQWQ1DR8
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### GitHub Copilot – Debugging and Diagnostics
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, developer-tools, refactoring
+- Recommendation tags: developer-tools, coding-assistance, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=88M5VH_FJVg
+- Embed link: https://www.youtube.com/embed/88M5VH_FJVg
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### How to automate code reviews and testing with GitHub Copilot
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, review, comparison, developer-tools, refactoring
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HDEGFNAUkX8
+- Embed link: https://www.youtube.com/embed/HDEGFNAUkX8
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### How to close pull requests faster with Copilot code review | GitHub Checkout
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, review, comparison
+- Recommendation tags: team-workflow, code-review, automation, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8hyvYP5PCks
+- Embed link: https://www.youtube.com/embed/8hyvYP5PCks
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### How to get a multi-agent code review in Copilot CLI
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, agents, cli, review, comparison
+- Recommendation tags: agentic-workflows, power-user, terminal, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=qRXztN1hi1M
+- Embed link: https://www.youtube.com/embed/qRXztN1hi1M
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### How To Refactor Code Using GitHub Copilot? - Learning To Code With AI
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, developer-tools, refactoring
+- Recommendation tags: developer-tools, coding-assistance, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=VKVoP9YBrvA
+- Embed link: https://www.youtube.com/embed/VKVoP9YBrvA
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+
+## PRs, Reviews & Workflow (14)
+
+### Copilot Pull Request Summaries
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, code-review, team-workflow
+- Recommendation tags: team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=BVX074EMnds
+- Embed link: https://www.youtube.com/embed/BVX074EMnds
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### Demo: end-to-end agentic development with GitHub Copilot
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, agents, cli, code-review, team-workflow
+- Recommendation tags: agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=onVn-lnHZ9s
+- Embed link: https://www.youtube.com/embed/onVn-lnHZ9s
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### Enforce GitHub Copilot Code Reviews on Pull Requests
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, review, comparison
+- Recommendation tags: team-workflow, code-review, automation, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=xkLi56Al12c
+- Embed link: https://www.youtube.com/embed/xkLi56Al12c
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### GitHub Copilot Code Review Agent (2025) — Smarter Reviews, Custom Workflows, CLI Power!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, agents, cli
+- Recommendation tags: team-workflow, code-review, automation, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1itYuuNDb1g
+- Embed link: https://www.youtube.com/embed/1itYuuNDb1g
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### GitHub Copilot Instructions For Pull Request Reviews
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, review, comparison, code-review, team-workflow
+- Recommendation tags: team-workflow, code-review, automation, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=rJvJu_yZUJE
+- Embed link: https://www.youtube.com/embed/rJvJu_yZUJE
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### GitHub Copilot PR Code Review Now Customizable with Your Own Rules!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, review, comparison
+- Recommendation tags: team-workflow, code-review, automation, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=fRBS7mLw560
+- Embed link: https://www.youtube.com/embed/fRBS7mLw560
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### How To Get Better AI Reponses from GitHub Copilot in Seconds!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, code-review, team-workflow
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ZohAaUQBDbs
+- Embed link: https://www.youtube.com/embed/ZohAaUQBDbs
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Iterate on pull requests with Copilot Workspace
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, agents, cli, code-review, team-workflow
+- Recommendation tags: team-workflow, code-review, automation, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=g538wEytKH4
+- Embed link: https://www.youtube.com/embed/g538wEytKH4
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### Multi-model AI workflows in GitHub Copilot CLI
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, agents, cli, code-review, team-workflow
+- Recommendation tags: team-workflow, code-review, automation, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=rJSsbHwkYAY
+- Embed link: https://www.youtube.com/embed/rJSsbHwkYAY
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### NEW Copilot Workflows Agent Will Automate Your Job (Full Tutorial)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, agents, cli, code-review, team-workflow
+- Recommendation tags: team-workflow, code-review, automation, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=_w-jVw8Uhc0
+- Embed link: https://www.youtube.com/embed/_w-jVw8Uhc0
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### No One Is Using CoPilot...
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, code-review, team-workflow
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5-tzLvOu9lo
+- Embed link: https://www.youtube.com/embed/5-tzLvOu9lo
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Perform a Contract Review with Copilot
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, review, comparison, code-review, team-workflow
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=wKUj8u6D1cI
+- Embed link: https://www.youtube.com/embed/wKUj8u6D1cI
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### Power agentic workflows in your terminal with GitHub Copilot CLI
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, agents, cli, code-review, team-workflow
+- Recommendation tags: team-workflow, code-review, automation, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=82jciNezDMY
+- Embed link: https://www.youtube.com/embed/82jciNezDMY
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### Smart Pull Request Reviews with GitHub Copilot – AI Assisted Programming
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, review, comparison, code-review, team-workflow
+- Recommendation tags: team-workflow, code-review, automation, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=tqUY4qCiGMY
+- Embed link: https://www.youtube.com/embed/tqUY4qCiGMY
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+
+## Agents, CLI & Advanced (14)
+
+### A beginner's guide to Copilot CLI slash commands
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, agents, cli, agentic-coding
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=-Yavis20B4Q
+- Embed link: https://www.youtube.com/embed/-Yavis20B4Q
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### Build NEXT-LEVEL Copilot Agents with VS Code & GitHub Copilot
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, agents, cli, review, comparison, agentic-coding, terminal
+- Recommendation tags: agentic-workflows, power-user, terminal, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=TrZ6fKBENB8
+- Embed link: https://www.youtube.com/embed/TrZ6fKBENB8
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### Configuring model context protocol in the GitHub Copilot CLI | demo
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, pull-requests, workflow, agents, cli, agentic-coding, terminal
+- Recommendation tags: team-workflow, code-review, automation, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=O73egpvWcpY
+- Embed link: https://www.youtube.com/embed/O73egpvWcpY
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### Copilot agent mode new features in Visual Studio Code | GitHub Checkout
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, agents, cli, agentic-coding, terminal
+- Recommendation tags: agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=aKx5I0Mrr9g
+- Embed link: https://www.youtube.com/embed/aKx5I0Mrr9g
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### First look at GitHub Copilot Coding Agent - The $40/month AI developer that actually works!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, agents, cli, agentic-coding, terminal
+- Recommendation tags: developer-tools, coding-assistance, speed, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=FRcOen6JuJc
+- Embed link: https://www.youtube.com/embed/FRcOen6JuJc
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### GitHub Copilot Agent Writes Perfect Code & Tests… Should You Be Worried?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, agents, cli, agentic-coding, terminal
+- Recommendation tags: agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=45Fv0Rx31Zk
+- Embed link: https://www.youtube.com/embed/45Fv0Rx31Zk
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### GitHub Copilot now controls your command line...
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, agentic-coding, terminal
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=P8MfgV9us4o
+- Embed link: https://www.youtube.com/embed/P8MfgV9us4o
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### GitHub Copilot Workspace: Why YOUR Coding Workflow JUST CHANGED
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, pull-requests, workflow, agents, cli
+- Recommendation tags: developer-tools, coding-assistance, speed, team-workflow, code-review, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=iCv21iIq0S8
+- Embed link: https://www.youtube.com/embed/iCv21iIq0S8
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+### GitHub Copilot's @Workspace - Deep Dive
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, agents, cli, agentic-coding, terminal
+- Recommendation tags: agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=3Yz48eenPEE
+- Embed link: https://www.youtube.com/embed/3Yz48eenPEE
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### How to use Copilot Workspace | Full Demo
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, agents, cli, agentic-coding
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=bsfE9c2pRD0
+- Embed link: https://www.youtube.com/embed/bsfE9c2pRD0
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### How to use hooks in the GitHub Copilot CLI | demo
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: github, copilot, beginner-friendly, onboarding, quickstart, agents, cli, agentic-coding
+- Recommendation tags: start-here, onboarding, first-steps, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=bglVc9HDfwg
+- Embed link: https://www.youtube.com/embed/bglVc9HDfwg
+- Small description: Beginner-friendly walkthrough for getting started with GitHub Copilot and understanding the basics.
+
+### Microsoft 365 Copilot Power User Tips
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison, agentic-coding, terminal
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=MuocazjjZmc
+- Embed link: https://www.youtube.com/embed/MuocazjjZmc
+- Small description: Packed with tips to speed up daily GitHub Copilot usage and productivity.
+
+### NEW GitHub Copilot Workspace Demo
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, agents, cli, agentic-coding, terminal
+- Recommendation tags: agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=FARf9emEPjI
+- Embed link: https://www.youtube.com/embed/FARf9emEPjI
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### Run code generation in the background with GitHub Copilot coding agents | GitHub Checkout
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, coding, code-assist, agents, cli, agentic-coding, terminal
+- Recommendation tags: developer-tools, coding-assistance, speed, agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show developer or terminal workflows
+- Link: https://www.youtube.com/watch?v=S1ch_6fjp5M
+- Embed link: https://www.youtube.com/embed/S1ch_6fjp5M
+- Small description: Focuses on coding assistance, refactoring, debugging, and code review workflows.
+
+
+## Extensions, Integrations & Ecosystem (14)
+
+### Building your own GitHub Copilot chat participant in VS Code
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, review, comparison
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=OdW2r3raAHI
+- Embed link: https://www.youtube.com/embed/OdW2r3raAHI
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### Complete a Jira Issue ENTIRELY w/ Github Copilot
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=xcoBQaEmuWY
+- Embed link: https://www.youtube.com/embed/xcoBQaEmuWY
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Copilot Agent Mode is now available in JetBrains IDEs
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, agents, cli, extensions, integrations
+- Recommendation tags: agentic-workflows, power-user, terminal, integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=givppH8MVvQ
+- Embed link: https://www.youtube.com/embed/givppH8MVvQ
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### Enhancing VS Code extensions with GitHub Copilot | BRK195
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, extensions, integrations, review, comparison
+- Recommendation tags: integrations, tooling, developer-workflow, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YI7kjWzIiTM
+- Embed link: https://www.youtube.com/embed/YI7kjWzIiTM
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### GitHub Copilot For IntelliJ | GitHub Copilot tutorial with IntelliJ | GitHub Copilot | Simplilearn
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ZReDQLDThbs
+- Embed link: https://www.youtube.com/embed/ZReDQLDThbs
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### GitHub Copilot in JetBrains: Demo of MCP and agent mode
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, agents, cli, extensions, integrations
+- Recommendation tags: agentic-workflows, power-user, terminal, integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2GMKFbldb9c
+- Embed link: https://www.youtube.com/embed/2GMKFbldb9c
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### GitHub Copilot tutorial with IntelliJ IDEA
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=3w2df18ns-8
+- Embed link: https://www.youtube.com/embed/3w2df18ns-8
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Hands-On with GitHub Copilot Extensions!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, extensions, integrations
+- Recommendation tags: integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Z0tjdCqe04w
+- Embed link: https://www.youtube.com/embed/Z0tjdCqe04w
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### JetBrains vs GitHub Copilot - Which One is a Better AI Code Editor?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, extensions, integrations, review, comparison
+- Recommendation tags: integrations, tooling, developer-workflow, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=x9GP2ZbxpZo
+- Embed link: https://www.youtube.com/embed/x9GP2ZbxpZo
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### Let's Create a GitHub Copilot Extension! with Nick Taylor
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, extensions, integrations
+- Recommendation tags: integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=hjsO72uf6bE
+- Embed link: https://www.youtube.com/embed/hjsO72uf6bE
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### Let's try GitHub Copilot Agent mode in VS Code to build a FULL app!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, agents, cli, review, comparison
+- Recommendation tags: agentic-workflows, power-user, terminal, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pUK7MRzoTDc
+- Embed link: https://www.youtube.com/embed/pUK7MRzoTDc
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### NOW AVAILABLE: GitHub Copilot Chat for JetBrains IDEs
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, chat, prompting, extensions, integrations
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Di-kkTO6b88
+- Embed link: https://www.youtube.com/embed/Di-kkTO6b88
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### What are GitHub Copilot Extensions?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: github, copilot, extensions, integrations
+- Recommendation tags: integrations, tooling, developer-workflow
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=lMNYsyFJCTw
+- Embed link: https://www.youtube.com/embed/lMNYsyFJCTw
+- Small description: Explores extensions, integrations, and editor-specific Copilot setups.
+
+### What is GitHub Copilot?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=IqXNhakuwVc
+- Embed link: https://www.youtube.com/embed/IqXNhakuwVc
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+
+## Tips, Tricks, Reviews & Updates (14)
+
+### 10 GitHub Copilot Tricks Most Developers Don't Know (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=xyi3tTAS2QA
+- Embed link: https://www.youtube.com/embed/xyi3tTAS2QA
+- Small description: Packed with tips to speed up daily GitHub Copilot usage and productivity.
+
+### A very subjective comparison of Claude Code, OpenCode, Cursor & GitHub Copilot
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=dMSZ0WcK1oI
+- Embed link: https://www.youtube.com/embed/dMSZ0WcK1oI
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### Copilot CLI update: chronicle, plugins, and fleet mode | GitHub Checkout
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, agents, cli, review, comparison
+- Recommendation tags: agentic-workflows, power-user, terminal, updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9oAcwmrUE44
+- Embed link: https://www.youtube.com/embed/9oAcwmrUE44
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### CoPilot Review: My Thoughts After 6 Months
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=RDd71IUIgpg
+- Embed link: https://www.youtube.com/embed/RDd71IUIgpg
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### Cursor vs GitHub Copilot: Full Comparison + Winner (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Yv34k4U3MvA
+- Embed link: https://www.youtube.com/embed/Yv34k4U3MvA
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### GitHub Copilot Agent Vs Cursor AI | Best AI Coding Assistant in 2026?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, coding, code-assist, agents, cli
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, developer-tools, coding-assistance, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=XPoiLX6xo0M
+- Embed link: https://www.youtube.com/embed/XPoiLX6xo0M
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### GitHub Copilot CLI's Rubber Duck Feature is Kind of Genius
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, agents, cli
+- Recommendation tags: agentic-workflows, power-user, terminal
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=VgwrtU_dTUU
+- Embed link: https://www.youtube.com/embed/VgwrtU_dTUU
+- Small description: Covers advanced Copilot agent, CLI, and workspace workflows for power users.
+
+### GitHub Copilot Just Died
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot
+- Recommendation tags: github-copilot, coding, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=CST89O0Ecy8
+- Embed link: https://www.youtube.com/embed/CST89O0Ecy8
+- Small description: Related GitHub Copilot tutorial or topic for AI coding workflows, productivity, and practical use.
+
+### GitHub Copilot Review 2023: I Love It, But It's Not For Everyone
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=uMnhX1CQa8g
+- Embed link: https://www.youtube.com/embed/uMnhX1CQa8g
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### GitHub Copilot tips and tricks
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: productivity, systems, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1qs6QKk0DVc
+- Embed link: https://www.youtube.com/embed/1qs6QKk0DVc
+- Small description: Packed with tips to speed up daily GitHub Copilot usage and productivity.
+
+### GitHub Copilot vs Cursor AI - Which One Fits Your Workflow?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, pull-requests, workflow, review, comparison
+- Recommendation tags: team-workflow, code-review, automation, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=umEsIyOLols
+- Embed link: https://www.youtube.com/embed/umEsIyOLols
+- Small description: Useful for pull request automation, review workflows, and team collaboration.
+
+### Github Copilot vs Cursor AI: Which is Better? (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=lEYBKbYLlPg
+- Embed link: https://www.youtube.com/embed/lEYBKbYLlPg
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.
+
+### GitHub Copilot vs Cursor: Best AI Coding Assistant in 2025?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, chat, prompting, coding, code-assist, review, comparison
+- Recommendation tags: assistant-mode, prompt-engineering, daily-use, developer-tools, coding-assistance, speed
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=KG-o4DuabkQ
+- Embed link: https://www.youtube.com/embed/KG-o4DuabkQ
+- Small description: Shows how to use Copilot Chat and prompting effectively in daily work.
+
+### GitHub Copilot vs Cursor: Best AI Dev Tool?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: github, copilot, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ZJ7ztt6lS5o
+- Embed link: https://www.youtube.com/embed/ZJ7ztt6lS5o
+- Small description: A review or comparison video that helps you decide where GitHub Copilot fits in your stack.

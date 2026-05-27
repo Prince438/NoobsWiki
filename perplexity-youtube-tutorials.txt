@@ -1,0 +1,568 @@
+Perplexity YouTube Tutorials
+
+Curated source file for the Perplexity section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 54 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner / Start Here (10)
+
+### 7 Secret Tricks To 10x Your Results With Perplexity AI!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, start-here
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=TSKEOa8H8GA
+- Embed link: https://www.youtube.com/embed/TSKEOa8H8GA
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Every Perplexity AI Feature Explained in One Video
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, start-here
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=LnURCxwsB34
+- Embed link: https://www.youtube.com/embed/LnURCxwsB34
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Everything Perplexity In 34 Minutes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, start-here
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Z5EjbBPri-c
+- Embed link: https://www.youtube.com/embed/Z5EjbBPri-c
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### How To Use Perplexity AI (Best AI Research Tool)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, answer-engine, sources
+- Recommendation tags: start-here, onboarding, first-steps, research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=nzgrB56LMbI
+- Embed link: https://www.youtube.com/embed/nzgrB56LMbI
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### How To Use Perplexity AI For Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=qpN-pjev-vM
+- Embed link: https://www.youtube.com/embed/qpN-pjev-vM
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### How to Use Perplexity AI: The UNDERRATED Search AI
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, answer-engine, sources
+- Recommendation tags: start-here, onboarding, first-steps, research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=bOHfJZ4DVqE
+- Embed link: https://www.youtube.com/embed/bOHfJZ4DVqE
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### Learn 80% of Perplexity in under 10 minutes!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, start-here
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YoWdogtZRw8
+- Embed link: https://www.youtube.com/embed/YoWdogtZRw8
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Perplexity Computer for Beginners: Everything You Need to Know
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=EHpAQwXmseQ
+- Embed link: https://www.youtube.com/embed/EHpAQwXmseQ
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### Perplexity: Beginner to Pro in 27 Minutes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, pro, pages
+- Recommendation tags: start-here, onboarding, first-steps, power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=edbKMwddwBU
+- Embed link: https://www.youtube.com/embed/edbKMwddwBU
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### The CORRECT way to use Perplexity In 2026 (Beginner Guide)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=t4xwaRmFrNs
+- Embed link: https://www.youtube.com/embed/t4xwaRmFrNs
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+
+## Search, Research & Citations (12)
+
+### Answer Engine Tutorial: The Open-Source Perplexity Search Replacement
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, answer-engine, sources, citations, fact-checking, knowledge-work
+- Recommendation tags: research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=GanTUWLUUWQ
+- Embed link: https://www.youtube.com/embed/GanTUWLUUWQ
+- Small description: Shows how to use Perplexity for research, search, and source-backed answers.
+
+### How to Cite Perplexity AI [2026 Full Guide]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, knowledge-work, source-backed
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=-yxZ1qQN4GA
+- Embed link: https://www.youtube.com/embed/-yxZ1qQN4GA
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### How to Rank #1 in ChatGPT, Perplexity & Gemini: Ultimate Answer Engine Optimization (AEO) Strategy
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, answer-engine, sources, citations, knowledge-work, source-backed
+- Recommendation tags: research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JBq6TprEYK0
+- Embed link: https://www.youtube.com/embed/JBq6TprEYK0
+- Small description: Shows how to use Perplexity for research, search, and source-backed answers.
+
+### How To Use Perplexity AI - AI-Powered Search Engine
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, answer-engine, sources
+- Recommendation tags: start-here, onboarding, first-steps, research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=LoCUoYg0XNY
+- Embed link: https://www.youtube.com/embed/LoCUoYg0XNY
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### How To Use Perplexity AI With Citations (Trustworthy Content)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, citations, fact-checking
+- Recommendation tags: start-here, onboarding, first-steps, research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=h7Y6e9Ae1ns
+- Embed link: https://www.youtube.com/embed/h7Y6e9Ae1ns
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### How to Use Perplexity's Deep Research & Save HOURS on research
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, answer-engine, sources
+- Recommendation tags: start-here, onboarding, first-steps, research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=UobQwGTli5w
+- Embed link: https://www.youtube.com/embed/UobQwGTli5w
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### How To Verify Citations In Perplexity Answers (2026 Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, citations, fact-checking, knowledge-work, source-backed
+- Recommendation tags: research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=AmOqVqKHWWM
+- Embed link: https://www.youtube.com/embed/AmOqVqKHWWM
+- Small description: Shows how to use Perplexity for research, search, and source-backed answers.
+
+### Introducing: Deep Research on Perplexity
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, answer-engine, sources
+- Recommendation tags: start-here, onboarding, first-steps, research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Z1_M2XtsUwY
+- Embed link: https://www.youtube.com/embed/Z1_M2XtsUwY
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, pro, pages, collections, knowledge-work, source-backed
+- Recommendation tags: power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=05RRGiF7QC0
+- Embed link: https://www.youtube.com/embed/05RRGiF7QC0
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### Perplexity AI for Academics and Research: Full Setup & Use Cases
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, answer-engine, sources, citations, knowledge-work, source-backed
+- Recommendation tags: research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=U0Q7Xomtbw0
+- Embed link: https://www.youtube.com/embed/U0Q7Xomtbw0
+- Small description: Shows how to use Perplexity for research, search, and source-backed answers.
+
+### Perplexity CEO Srinivas on Winning Search With AI
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, answer-engine, sources, citations, knowledge-work, source-backed
+- Recommendation tags: research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=IsScahXkvMk
+- Embed link: https://www.youtube.com/embed/IsScahXkvMk
+- Small description: Shows how to use Perplexity for research, search, and source-backed answers.
+
+### Perplexity Enterprise: Internal Knowledge Search
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, answer-engine, sources, citations, knowledge-work, source-backed
+- Recommendation tags: research, fact-checking, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=UGZBnc_hp7U
+- Embed link: https://www.youtube.com/embed/UGZBnc_hp7U
+- Small description: Shows how to use Perplexity for research, search, and source-backed answers.
+
+
+## Pro Search, Pages & Collections (10)
+
+### Collections on Perplexity
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, power-user, research-workflow
+- Recommendation tags: power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=I1HPK92Ejxw
+- Embed link: https://www.youtube.com/embed/I1HPK92Ejxw
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### How To Create A Collection In Perplexity (Working 2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, power-user, research-workflow
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=OScB9vgWT48
+- Embed link: https://www.youtube.com/embed/OScB9vgWT48
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### How To Create Perplexity Pages In 5 seconds (Legit Way)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, power-user, research-workflow
+- Recommendation tags: power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=MnI-hW4AO8w
+- Embed link: https://www.youtube.com/embed/MnI-hW4AO8w
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### How To Use Perplexity Collections
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, pro, pages
+- Recommendation tags: start-here, onboarding, first-steps, power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=UEDRjry2bDg
+- Embed link: https://www.youtube.com/embed/UEDRjry2bDg
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### How To Use Perplexity Collections | Tutorial
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, pro, pages
+- Recommendation tags: start-here, onboarding, first-steps, power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Q_v1Ugpw0us
+- Embed link: https://www.youtube.com/embed/Q_v1Ugpw0us
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### Introducing Perplexity Pages
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, pro, pages
+- Recommendation tags: start-here, onboarding, first-steps, power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=-qGa0oTY120
+- Embed link: https://www.youtube.com/embed/-qGa0oTY120
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### Is Perplexity Pro Still Worth It?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, power-user, research-workflow
+- Recommendation tags: power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=kxZ0s-8C8R0
+- Embed link: https://www.youtube.com/embed/kxZ0s-8C8R0
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### Perplexity AI Pro Features You’re Not Using (But Should)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, power-user, research-workflow
+- Recommendation tags: power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=QX-S7BjlAoc
+- Embed link: https://www.youtube.com/embed/QX-S7BjlAoc
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### Perplexity AI Pro Vs Free 2026 – Is The $20/Month Plan Worth It?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, review, comparison
+- Recommendation tags: power-user, workflow, advanced-use, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=97YaYuBKo8w
+- Embed link: https://www.youtube.com/embed/97YaYuBKo8w
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### Perplexity AI SEO: 0 to 87,000 Traffic with Perplexity Pages 🤯
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, power-user, research-workflow
+- Recommendation tags: power-user, workflow, advanced-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=nZFcUfsVbj4
+- Embed link: https://www.youtube.com/embed/nZFcUfsVbj4
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+
+## Study, Writing & Productivity (5)
+
+### How to Use Perplexity AI to Study Effectively (Tips for Student)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: perplexity, search, research, beginner-friendly, onboarding, quickstart, study, productivity
+- Recommendation tags: start-here, onboarding, first-steps, productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1_dyLIpCdQ4
+- Embed link: https://www.youtube.com/embed/1_dyLIpCdQ4
+- Small description: Beginner-friendly walkthrough for getting started with Perplexity and understanding the basics.
+
+### I TESTED Perplexity for AUTHORS (Full Demo)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, daily-use, writing-tools
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=TZv8w3jDeVk
+- Embed link: https://www.youtube.com/embed/TZv8w3jDeVk
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Perplexity Computer Explored: How 19 Models Run Your Business
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, daily-use, writing-tools
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=edk2G3CZyuk
+- Embed link: https://www.youtube.com/embed/edk2G3CZyuk
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Perplexity’s NEW Computer is INSANE 👀 (10x Your Productivity)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, study, productivity
+- Recommendation tags: power-user, workflow, advanced-use, productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2gboX8vhhDM
+- Embed link: https://www.youtube.com/embed/2gboX8vhhDM
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### This Perplexity + NotebookLM Workflow Is Insane!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, study, productivity, daily-use, writing-tools
+- Recommendation tags: productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=MxFcCHz1e7A
+- Embed link: https://www.youtube.com/embed/MxFcCHz1e7A
+- Small description: Practical video for study, writing, and repeatable productivity use cases.
+
+
+## Mobile, Browser & Daily Use (7)
+
+### 9 Mind-Blowing Use Cases of Perplexity Labs
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL); some videos may focus on web or mobile use
+- Link: https://www.youtube.com/watch?v=9u9jAIl80ac
+- Embed link: https://www.youtube.com/embed/9u9jAIl80ac
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Perplexity AI on iPhone: The Google Killer Nobody's Talking About
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL); some videos may focus on web or mobile use
+- Link: https://www.youtube.com/watch?v=yjNSGWLcZDY
+- Embed link: https://www.youtube.com/embed/yjNSGWLcZDY
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Perplexity Comet Changed How I Use My Mac
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL); some videos may focus on web or mobile use
+- Link: https://www.youtube.com/watch?v=KRmDj6RXXMg
+- Embed link: https://www.youtube.com/embed/KRmDj6RXXMg
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Perplexity Comet: Testing the NEW AI Web Browser
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, mobile, browser
+- Recommendation tags: mobile-first, cross-platform, everyday-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL); some videos may focus on web or mobile use
+- Link: https://www.youtube.com/watch?v=hHZ8iP2xJqU
+- Embed link: https://www.youtube.com/embed/hHZ8iP2xJqU
+- Small description: Useful for daily use across mobile and browser workflows.
+
+### Perplexity Computer Is Incredible. It Won't Matter. Here's Why.
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL); some videos may focus on web or mobile use
+- Link: https://www.youtube.com/watch?v=3FbqaD1MCUA
+- Embed link: https://www.youtube.com/embed/3FbqaD1MCUA
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Perplexity Made the Siri Apple Promised
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, pro, pages, collections, mobile, browser
+- Recommendation tags: power-user, workflow, advanced-use, mobile-first, cross-platform, everyday-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL); some videos may focus on web or mobile use
+- Link: https://www.youtube.com/watch?v=6pQJ3ZyqKBw
+- Embed link: https://www.youtube.com/embed/6pQJ3ZyqKBw
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### Perplexity's AI-Native Browser Comet is HERE
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research, mobile, browser
+- Recommendation tags: mobile-first, cross-platform, everyday-use
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL); some videos may focus on web or mobile use
+- Link: https://www.youtube.com/watch?v=ri_bFrDp44M
+- Embed link: https://www.youtube.com/embed/ri_bFrDp44M
+- Small description: Useful for daily use across mobile and browser workflows.
+
+
+## Comparisons, Reviews & Updates (10)
+
+### ChatGPT Vs Perplexity! (Which Is Better?) (Comparison)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=vy_1fEl3Gm8
+- Embed link: https://www.youtube.com/embed/vy_1fEl3Gm8
+- Small description: A review or comparison video that helps you decide whether Perplexity fits your workflow.
+
+### ChatGPT vs Perplexity: Which AI Tool Should You Use?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=gGcZ4Nn_P90
+- Embed link: https://www.youtube.com/embed/gGcZ4Nn_P90
+- Small description: A review or comparison video that helps you decide whether Perplexity fits your workflow.
+
+### Claude vs Perplexity AI Comparison | Best AI Assistant 2025
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=4GGaUCXFNn0
+- Embed link: https://www.youtube.com/embed/4GGaUCXFNn0
+- Small description: A review or comparison video that helps you decide whether Perplexity fits your workflow.
+
+### How Claude vs Perplexity Compares (My 30-Day AI Test)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=yDUOQB0HjV0
+- Embed link: https://www.youtube.com/embed/yDUOQB0HjV0
+- Small description: A review or comparison video that helps you decide whether Perplexity fits your workflow.
+
+### How Perplexity Lost the AI War
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: perplexity, search, research
+- Recommendation tags: perplexity, research, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=a5OW2c2xvdw
+- Embed link: https://www.youtube.com/embed/a5OW2c2xvdw
+- Small description: Related Perplexity tutorial or topic for research, productivity, and practical use.
+
+### Is Perplexity Pro Worth It? (my honest review)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, pro, pages, collections, review, comparison
+- Recommendation tags: power-user, workflow, advanced-use, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=230WMgNZBB4
+- Embed link: https://www.youtube.com/embed/230WMgNZBB4
+- Small description: Covers advanced Perplexity features such as Pro search, Pages, Collections, and deep research workflows.
+
+### NEW Perplexity Update is INSANE!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, updates, release
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=3DISg41jJso
+- Embed link: https://www.youtube.com/embed/3DISg41jJso
+- Small description: Covers Perplexity updates, new releases, and notable feature changes.
+
+### NEW Perplexity Update is INSANE! 🤯
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, updates, release
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=-gpNKvMb6gE
+- Embed link: https://www.youtube.com/embed/-gpNKvMb6gE
+- Small description: Covers Perplexity updates, new releases, and notable feature changes.
+
+### Perplexity AI vs ChatGPT for Research - Who wins?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, answer-engine, sources, citations, review, comparison
+- Recommendation tags: research, fact-checking, knowledge-work, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=86OuyavwUnc
+- Embed link: https://www.youtube.com/embed/86OuyavwUnc
+- Small description: Shows how to use Perplexity for research, search, and source-backed answers.
+
+### Perplexity vs ChatGPT: Which is ACTUALLY Better?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: perplexity, search, research, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=PNQtw1yjalU
+- Embed link: https://www.youtube.com/embed/PNQtw1yjalU
+- Small description: A review or comparison video that helps you decide whether Perplexity fits your workflow.

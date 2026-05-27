@@ -2,8 +2,10 @@
 
 import { useState } from "react";
 import { Search, Filter, RotateCcw } from "lucide-react";
-import { DirectoryCategory } from "@/lib/parser";
+import { DirectoryCategory, DirectoryItem } from "@/lib/parser";
 import DirectoryCard from "@/components/DirectoryCard";
+import AgencyDetailModal from "./AgencyDetailModal";
+import { getAgencyDetail } from "@/data/agency-data";
 
 interface GovernmentAgenciesListProps {
   initialCategories: DirectoryCategory[];
@@ -12,6 +14,7 @@ interface GovernmentAgenciesListProps {
 export default function GovernmentAgenciesList({ initialCategories }: GovernmentAgenciesListProps) {
   const [searchQuery, setSearchQuery] = useState("");
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [selectedAgency, setSelectedAgency] = useState<DirectoryItem | null>(null);
 
   const filteredCategories = initialCategories
     .map((cat) => {
@@ -37,7 +40,10 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
     setSelectedCategory(null);
   };
 
+  const agencyDetail = selectedAgency ? getAgencyDetail(selectedAgency.name) : undefined;
+
   return (
+    <>
     <div className="space-y-10 animate-fade-in">
 
       {/* Search & filter bar */}
@@ -132,6 +138,7 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
                     description={item.description}
                     index={idx + 1}
                     label={category.categoryName}
+                    onCardClick={() => setSelectedAgency(item)}
                   />
                 ))}
               </div>
@@ -152,5 +159,14 @@ export default function GovernmentAgenciesList({ initialCategories }: Government
       )}
 
     </div>
+
+    {selectedAgency && agencyDetail && (
+      <AgencyDetailModal
+        agency={agencyDetail}
+        url={selectedAgency.url}
+        onClose={() => setSelectedAgency(null)}
+      />
+    )}
+    </>
   );
 }

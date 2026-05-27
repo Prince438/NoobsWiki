@@ -1,0 +1,794 @@
+Obsidian YouTube Tutorials
+
+Curated source file for the Obsidian section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 76 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner / Start Here (10)
+
+### Give Me 15 Minutes. I'll Teach You  80% of Obsidian
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, start-here
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=z4AbijUCoKU
+- Embed link: https://www.youtube.com/embed/z4AbijUCoKU
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### How the CEO of Obsidian Takes his Notes (Underrated Genius)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, start-here
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Dq3R3uS0sQ4
+- Embed link: https://www.youtube.com/embed/Dq3R3uS0sQ4
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Obsidian for Beginners: Start HERE — How to Use the Obsidian App for Notes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=QgbLb6QCK88
+- Embed link: https://www.youtube.com/embed/QgbLb6QCK88
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### Obsidian Review: Pros, Cons & What's New in 2026!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, review, comparison, start-here
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=D_QHPMqmxPA
+- Embed link: https://www.youtube.com/embed/D_QHPMqmxPA
+- Small description: A review or comparison video that helps you decide whether Obsidian fits your workflow.
+
+### Obsidian: The King of Learning Tools (FULL GUIDE + SETUP)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, start-here
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=hSTy_BInQs8
+- Embed link: https://www.youtube.com/embed/hSTy_BInQs8
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### The least scary Obsidian guide you’ll ever see
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, start-here
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=3ccktMJ1YHI
+- Embed link: https://www.youtube.com/embed/3ccktMJ1YHI
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### The ULTIMATE Obsidian beginner tutorial | Start in 5 minutes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Aj6idpoI2cI
+- Embed link: https://www.youtube.com/embed/Aj6idpoI2cI
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### The Ultimate Obsidian for Beginner's Guide 2025
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, start-here
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=gafuqdKwD_U
+- Embed link: https://www.youtube.com/embed/gafuqdKwD_U
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### This is Obsidian
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, start-here
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=d2FNqEDGc8g
+- Embed link: https://www.youtube.com/embed/d2FNqEDGc8g
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Ultimate Obsidian Review: Is this your NEXT note-taking app?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, review, comparison, start-here
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ROdw1_C1ZjQ
+- Embed link: https://www.youtube.com/embed/ROdw1_C1ZjQ
+- Small description: A review or comparison video that helps you decide whether Obsidian fits your workflow.
+
+
+## Core Setup, Markdown & Notes (6)
+
+### Every USEFUL Markdown Syntax That I Use in Obsidian
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, markdown, writing, setup, notes
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=d8fXEhWy_rY
+- Embed link: https://www.youtube.com/embed/d8fXEhWy_rY
+- Small description: Covers Obsidian writing basics, markdown shortcuts, and note-taking syntax you can use every day.
+
+### My Obsidian Setup: The King of Note Taking Apps
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, setup, notes
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=xR5-0XDkwU0
+- Embed link: https://www.youtube.com/embed/xR5-0XDkwU0
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Obsidian for Beginners: 6 Keys to Markdown (2/6) — How to Use the Obsidian App for Notes
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, markdown, writing, setup, notes
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=bBk2kg8Gm_U
+- Embed link: https://www.youtube.com/embed/bBk2kg8Gm_U
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### Obsidian Markdown Made Ridiculously Simple
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, markdown, writing, setup, notes
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=NX1Sht1tAA0
+- Embed link: https://www.youtube.com/embed/NX1Sht1tAA0
+- Small description: Covers Obsidian writing basics, markdown shortcuts, and note-taking syntax you can use every day.
+
+### Use Obsidian (BEST Markdown editor) for note taking and tech docs!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, markdown, writing, setup, notes
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=cBzc5r-FNW0
+- Embed link: https://www.youtube.com/embed/cBzc5r-FNW0
+- Small description: Covers Obsidian writing basics, markdown shortcuts, and note-taking syntax you can use every day.
+
+### What are Obsidian Vaults? // Obsidian Tutorial 2024
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, setup, notes
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8syIYjxWrnY
+- Embed link: https://www.youtube.com/embed/8syIYjxWrnY
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+
+## Plugins, Properties & Vault Organization (10)
+
+### 8 Obsidian Plugins That I Can't Live Without
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, plugins, community-plugins, vault-organization, setup
+- Recommendation tags: plugin-stack, power-user, workflow-upgrade
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=OqjmgyYvB8U
+- Embed link: https://www.youtube.com/embed/OqjmgyYvB8U
+- Small description: Shows useful community plugins and how they extend Obsidian into a more powerful workflow tool.
+
+### How I Organize My Obsidian Vault 📥 Tags, Topics & Maps of Content
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, vault-organization, setup
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=sZxYau21D20
+- Embed link: https://www.youtube.com/embed/sZxYau21D20
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### How I Use Obsidian + Claude Code to Run My Life
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, ai, automation, vault-organization, setup
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=6MBq1paspVU
+- Embed link: https://www.youtube.com/embed/6MBq1paspVU
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### How I Use Tags in Obsidian // EP 7 Mastering Obsidian
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, vault-organization, setup
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JBLzH4Lr2FM
+- Embed link: https://www.youtube.com/embed/JBLzH4Lr2FM
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### How To Use Obsidian Properties [2026 Guide]
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, properties, metadata, vault-organization, setup
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=_xhyE5ALoVM
+- Embed link: https://www.youtube.com/embed/_xhyE5ALoVM
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+### i've tested these obsidian plugins so you don't have to ✶ are they worth it?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, plugins, community-plugins, vault-organization, setup
+- Recommendation tags: plugin-stack, power-user, workflow-upgrade
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=a4bCyGFwkoY
+- Embed link: https://www.youtube.com/embed/a4bCyGFwkoY
+- Small description: Shows useful community plugins and how they extend Obsidian into a more powerful workflow tool.
+
+### Obsidian Meaning Benefits and Spiritual Properties
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, properties, metadata, vault-organization, setup
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=WikbT2hhTdM
+- Embed link: https://www.youtube.com/embed/WikbT2hhTdM
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+### Obsidian Properties Explained (how-to for beginners)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, ai, automation, properties, metadata
+- Recommendation tags: start-here, onboarding, first-steps, ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=G5slNwJoAMA
+- Embed link: https://www.youtube.com/embed/G5slNwJoAMA
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### Obsidian Properties Explained: Your Key to Efficient Note Management
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, ai, automation, properties, metadata, vault-organization, setup
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1rG34uM71A4
+- Embed link: https://www.youtube.com/embed/1rG34uM71A4
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+### Obsidian Properties Full Breakdown: Every Type Explained (w/ Examples)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, ai, automation, properties, metadata, vault-organization, setup
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=KQfb_S5hoU4
+- Embed link: https://www.youtube.com/embed/KQfb_S5hoU4
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+
+## Links, Backlinks, Search & Graph (8)
+
+### Enhance Your Backlinks 🔗 in Obsidian MD using the Influx and Strange New Worlds Plugin
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, plugins, community-plugins, backlinks, links, knowledge-graph, navigation
+- Recommendation tags: plugin-stack, power-user, workflow-upgrade
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=nDjlMBu-HSk
+- Embed link: https://www.youtube.com/embed/nDjlMBu-HSk
+- Small description: Shows useful community plugins and how they extend Obsidian into a more powerful workflow tool.
+
+### How I Use The Obsidian Graph View
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, graph-view, visualization, knowledge-graph, navigation
+- Recommendation tags: visual-thinking, knowledge-graph, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Z8WIALfgaA4
+- Embed link: https://www.youtube.com/embed/Z8WIALfgaA4
+- Small description: Explains how notes connect in Obsidian through links, backlinks, search, and graph view.
+
+### How to create links and backlinks in Obsidian
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, backlinks, links, knowledge-graph, navigation
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=K28Z8h0Qys8
+- Embed link: https://www.youtube.com/embed/K28Z8h0Qys8
+- Small description: Explains how notes connect in Obsidian through links, backlinks, search, and graph view.
+
+### How to Create links and Backlinks in Obsidian (EASY)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, backlinks, links, knowledge-graph, navigation
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=soTu9ZwVAkU
+- Embed link: https://www.youtube.com/embed/soTu9ZwVAkU
+- Small description: Explains how notes connect in Obsidian through links, backlinks, search, and graph view.
+
+### How To Use Obsidian Graph View (2026)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, graph-view, visualization, knowledge-graph, navigation
+- Recommendation tags: visual-thinking, knowledge-graph, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=IdbWXDJVAME
+- Embed link: https://www.youtube.com/embed/IdbWXDJVAME
+- Small description: Explains how notes connect in Obsidian through links, backlinks, search, and graph view.
+
+### How To Use Obsidian: Introduction To Search
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, search, search-syntax, knowledge-graph, navigation
+- Recommendation tags: start-here, onboarding, first-steps
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=bgH9UxSx0qI
+- Embed link: https://www.youtube.com/embed/bgH9UxSx0qI
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### How to use the graph view in Obsidian (Visual Map)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, graph-view, visualization, knowledge-graph, navigation
+- Recommendation tags: visual-thinking, knowledge-graph, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=jvlWPwpslg4
+- Embed link: https://www.youtube.com/embed/jvlWPwpslg4
+- Small description: Explains how notes connect in Obsidian through links, backlinks, search, and graph view.
+
+### Obsidian Graph View Explained 2026
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, graph-view, visualization, ai, automation, knowledge-graph, navigation
+- Recommendation tags: visual-thinking, knowledge-graph, pkm, ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=cQLKir0RQJ4
+- Embed link: https://www.youtube.com/embed/cQLKir0RQJ4
+- Small description: Explains how notes connect in Obsidian through links, backlinks, search, and graph view.
+
+
+## Daily Notes, Templates & Tasks (10)
+
+### Beginner's Guide to the Daily Page in Obsidian
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, daily-notes, journaling, ai, automation
+- Recommendation tags: start-here, onboarding, first-steps, productivity, capture-system, habits
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5dyv2xOfgNs
+- Embed link: https://www.youtube.com/embed/5dyv2xOfgNs
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### How I Organize My Obsidian Vault
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, workflow, capture
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pfVOxzkkRwE
+- Embed link: https://www.youtube.com/embed/pfVOxzkkRwE
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### How I Use Daily Notes In Obsidian 📝 My Daily Note-Taking Habit System
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, daily-notes, journaling, ai, automation, workflow, capture
+- Recommendation tags: productivity, capture-system, habits, ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=yk6gdBUaLbw
+- Embed link: https://www.youtube.com/embed/yk6gdBUaLbw
+- Small description: Practical workflow video for recurring notes, templates, and task management inside Obsidian.
+
+### How to create a template in Obsidian (Beginner's Tutorial)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, templates, automation, workflow, capture
+- Recommendation tags: start-here, onboarding, first-steps, productivity, capture-system, habits
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=91H_0ii4S-A
+- Embed link: https://www.youtube.com/embed/91H_0ii4S-A
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### How to Create and Use Obsidian Templates
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, templates, automation, workflow, capture
+- Recommendation tags: productivity, capture-system, habits
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=b-TJYCrYOWQ
+- Embed link: https://www.youtube.com/embed/b-TJYCrYOWQ
+- Small description: Practical workflow video for recurring notes, templates, and task management inside Obsidian.
+
+### How to Manage Tasks in Obsidian: I Turned Obsidian into the Ultimate Task Manager
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, tasks, productivity, workflow, capture
+- Recommendation tags: productivity, capture-system, habits
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ZjVBQHyLyMM
+- Embed link: https://www.youtube.com/embed/ZjVBQHyLyMM
+- Small description: Practical workflow video for recurring notes, templates, and task management inside Obsidian.
+
+### How to Use Obsidian: Tasks Plugin Deep Dive
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, plugins, community-plugins, tasks, productivity, workflow, capture
+- Recommendation tags: plugin-stack, power-user, workflow-upgrade, productivity, capture-system, habits
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=t6OLlwekVI0
+- Embed link: https://www.youtube.com/embed/t6OLlwekVI0
+- Small description: Shows useful community plugins and how they extend Obsidian into a more powerful workflow tool.
+
+### Minimalist Task Management in Obsidian
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, tasks, productivity, workflow, capture
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2G15qE2tx8o
+- Embed link: https://www.youtube.com/embed/2G15qE2tx8o
+- Small description: Practical workflow video for recurring notes, templates, and task management inside Obsidian.
+
+### My Obsidian Setup: Daily Notes and Dataview
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, dataview, queries, databases, daily-notes, journaling, ai, automation
+- Recommendation tags: advanced-workflows, database-notes, automation, productivity, capture-system, habits
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=6ucBfohOZdk
+- Embed link: https://www.youtube.com/embed/6ucBfohOZdk
+- Small description: Practical workflow video for recurring notes, templates, and task management inside Obsidian.
+
+### Obsidian Journals - The Best Plugin for Daily Notes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, plugins, community-plugins, daily-notes, journaling, ai, automation, workflow
+- Recommendation tags: plugin-stack, power-user, workflow-upgrade, productivity, capture-system, habits
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ks969Cp0yZU
+- Embed link: https://www.youtube.com/embed/ks969Cp0yZU
+- Small description: Shows useful community plugins and how they extend Obsidian into a more powerful workflow tool.
+
+
+## Dataview, Properties & Bases (12)
+
+### Automate Your Vault With Dataview - How To Use Dataview in Obsidian
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, dataview, queries, databases, advanced-workflows
+- Recommendation tags: advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=8yjNuiSBSAM
+- Embed link: https://www.youtube.com/embed/8yjNuiSBSAM
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+### Beginner tutorial for Obsidian Dataview
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, dataview, queries, databases, advanced-workflows
+- Recommendation tags: start-here, onboarding, first-steps, advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=G8eOF61wmzI
+- Embed link: https://www.youtube.com/embed/G8eOF61wmzI
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### Build This GORGEOUS Obsidian Library in 5 Minutes (No Coding Required)
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, advanced-workflows
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=yaqpVGekrro
+- Embed link: https://www.youtube.com/embed/yaqpVGekrro
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Dataview vs Obsidian Bases: Why (& How) to Make the Switch
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, dataview, queries, databases, bases, database, collections, advanced-workflows
+- Recommendation tags: advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=1Mgsdpy7awE
+- Embed link: https://www.youtube.com/embed/1Mgsdpy7awE
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+### Hidden Gems: 20 Obsidian QoL Workflow Boosters
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, advanced-workflows
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=gfKtue5OS44
+- Embed link: https://www.youtube.com/embed/gfKtue5OS44
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### How to use the Obsidian Dataview plugin
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, plugins, community-plugins, dataview, queries, databases, advanced-workflows
+- Recommendation tags: plugin-stack, power-user, workflow-upgrade, advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JTObSymEvWA
+- Embed link: https://www.youtube.com/embed/JTObSymEvWA
+- Small description: Shows useful community plugins and how they extend Obsidian into a more powerful workflow tool.
+
+### NEW Obsidian Bases Core Plugin 📝 Full Overview + Practical Use Cases
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, plugins, community-plugins, bases, database, collections, advanced-workflows
+- Recommendation tags: plugin-stack, power-user, workflow-upgrade, advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=nWUQbK8KlOo
+- Embed link: https://www.youtube.com/embed/nWUQbK8KlOo
+- Small description: Shows useful community plugins and how they extend Obsidian into a more powerful workflow tool.
+
+### Obsidian Base: What is it and How to use it?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, advanced-workflows
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Tmatz3wPEJo
+- Embed link: https://www.youtube.com/embed/Tmatz3wPEJo
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Obsidian Bases Just Changed Everything
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, bases, database, collections, advanced-workflows
+- Recommendation tags: advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=VMMCGohQkm4
+- Embed link: https://www.youtube.com/embed/VMMCGohQkm4
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+### Obsidian Bases: Obsidian's Biggest Upgrade (Complete Guide)
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, bases, database, collections, advanced-workflows
+- Recommendation tags: advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=9Yt52zJIIG0
+- Embed link: https://www.youtube.com/embed/9Yt52zJIIG0
+- Small description: Covers database-style note systems, metadata, and query-driven workflows in Obsidian.
+
+### Obsidian Dataview for beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, dataview, queries, databases, advanced-workflows
+- Recommendation tags: start-here, onboarding, first-steps, advanced-workflows, database-notes, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=AtglKhC3Yoc
+- Embed link: https://www.youtube.com/embed/AtglKhC3Yoc
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### Obsidian Dataview Plugin: Beginners Guide and Advanced Workflows
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, plugins, community-plugins, dataview, queries
+- Recommendation tags: start-here, onboarding, first-steps, plugin-stack, power-user, workflow-upgrade
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=6p5Eb1sqgIY
+- Embed link: https://www.youtube.com/embed/6p5Eb1sqgIY
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+
+## Canvas, Zettelkasten, Second Brain & AI (10)
+
+### AI Second Brain with Claude Code and Obsidian [Project Cornelius]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, second-brain, pkm, ai, automation, visual-workflows
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Jsh_XbUynx0
+- Embed link: https://www.youtube.com/embed/Jsh_XbUynx0
+- Small description: Demonstrates visual thinking, connected notes, and second-brain style knowledge management.
+
+### Andrej Karpathy Just 10x’d Everyone’s Claude Code
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, ai, automation, visual-workflows, second-brain
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=sboNwYmH3AY
+- Embed link: https://www.youtube.com/embed/sboNwYmH3AY
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Claude + Obsidian Just Changed AI Agents Forever (FREE!) 🤯
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, ai, automation, visual-workflows, second-brain
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=JqIrJgwmTm8
+- Embed link: https://www.youtube.com/embed/JqIrJgwmTm8
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### How I’m ACTUALLY Using The Obsidian Canvas
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, canvas, visual-thinking, visual-workflows, second-brain
+- Recommendation tags: visual-thinking, knowledge-graph, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HFK3D7zeyTA
+- Embed link: https://www.youtube.com/embed/HFK3D7zeyTA
+- Small description: Demonstrates visual thinking, connected notes, and second-brain style knowledge management.
+
+### How To Build The ULTIMATE AI Second Brain (Obsidian + Claude Code)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, second-brain, pkm, ai, automation, visual-workflows
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=4l8MXYUqGaA
+- Embed link: https://www.youtube.com/embed/4l8MXYUqGaA
+- Small description: Demonstrates visual thinking, connected notes, and second-brain style knowledge management.
+
+### My FULL Obsidian Zettelkasten Workflow in 10 minutes
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, zettelkasten, pkm, visual-workflows, second-brain
+- Recommendation tags: visual-thinking, knowledge-graph, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=GRA_fwbdrtc
+- Embed link: https://www.youtube.com/embed/GRA_fwbdrtc
+- Small description: Demonstrates visual thinking, connected notes, and second-brain style knowledge management.
+
+### My simple note-taking setup | Zettelkasten in Obsidian | Step-by-step guide
+- Format: Full video
+- Beginner friendly: No
+- Search tags: obsidian, zettelkasten, pkm, visual-workflows, second-brain
+- Recommendation tags: visual-thinking, knowledge-graph, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=E6ySG7xYgjY
+- Embed link: https://www.youtube.com/embed/E6ySG7xYgjY
+- Small description: Demonstrates visual thinking, connected notes, and second-brain style knowledge management.
+
+### Obsidian + AI: How to Do It The Right Way (Claude Code + Obsidian)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, ai, automation, visual-workflows, second-brain
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=a1FDaoF8Jog
+- Embed link: https://www.youtube.com/embed/a1FDaoF8Jog
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Obsidian As A Second Brain: The ULTIMATE Tutorial
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, second-brain, pkm, ai, automation, visual-workflows
+- Recommendation tags: ai-workflows, second-brain, automation
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=WqKluXIra70
+- Embed link: https://www.youtube.com/embed/WqKluXIra70
+- Small description: Demonstrates visual thinking, connected notes, and second-brain style knowledge management.
+
+### Obsidian Canvas
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, canvas, visual-thinking, visual-workflows, second-brain
+- Recommendation tags: visual-thinking, knowledge-graph, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=vLBd_ADeKIw
+- Embed link: https://www.youtube.com/embed/vLBd_ADeKIw
+- Small description: Demonstrates visual thinking, connected notes, and second-brain style knowledge management.
+
+
+## Mobile, Sync & Publish (10)
+
+### Everything You Need to Know about Obsidian Sync
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, sync, cloud, mobile-workflow
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=XC40RgvH1D4
+- Embed link: https://www.youtube.com/embed/XC40RgvH1D4
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.
+
+### How To Sync Obsidian With Google Drive
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, sync, cloud, mobile-workflow
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=_iJp6r57S_s
+- Embed link: https://www.youtube.com/embed/_iJp6r57S_s
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.
+
+### How to Use Obsidian On Your Phone
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, mobile-workflow, sync
+- Recommendation tags: obsidian, productivity, pkm
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=6Yi9feylguw
+- Embed link: https://www.youtube.com/embed/6Yi9feylguw
+- Small description: Related Obsidian tutorial or workflow video for note-taking and personal knowledge management.
+
+### Obsidian 1.11.0 Insider Mobile Release - NEW LOOK!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, mobile, phone, mobile-workflow, sync
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=g5rdVcZDBhw
+- Embed link: https://www.youtube.com/embed/g5rdVcZDBhw
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.
+
+### Obsidian Publish and Obsidian Sync for Beginners
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: obsidian, beginner-friendly, onboarding, quickstart, sync, cloud, publish, sharing
+- Recommendation tags: start-here, onboarding, first-steps, cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=yObQHuxaccE
+- Embed link: https://www.youtube.com/embed/yObQHuxaccE
+- Small description: Beginner-friendly walkthrough for getting started with Obsidian and building a solid note-taking foundation.
+
+### Obsidian Publish — The World is Your Oyster
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, publish, sharing, mobile-workflow, sync
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=1pf6aj3Uwuk
+- Embed link: https://www.youtube.com/embed/1pf6aj3Uwuk
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.
+
+### Obsidian Sync - How To Sync Your Notes With Your Phone (And Is Obsidian Sync Worth It?)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, sync, cloud, mobile-workflow
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=aYQOOHKBfmM
+- Embed link: https://www.youtube.com/embed/aYQOOHKBfmM
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.
+
+### Setting Up Self-Hosted Obsidian LiveSync
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, sync, cloud, mobile-workflow
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=OTATnswthcA
+- Embed link: https://www.youtube.com/embed/OTATnswthcA
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.
+
+### Sync Obsidian Settings
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, sync, cloud, mobile-workflow
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=JHAhE8QNokw
+- Embed link: https://www.youtube.com/embed/JHAhE8QNokw
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.
+
+### This is why I switched to Obsidian Publish
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: obsidian, publish, sharing, mobile-workflow, sync
+- Recommendation tags: cross-device, cloud-workflow, sharing
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android); some videos focus on mobile workflows
+- Link: https://www.youtube.com/watch?v=1hZ8vJA7XKA
+- Embed link: https://www.youtube.com/embed/1hZ8vJA7XKA
+- Small description: Useful for cross-device note workflows, mobile capture, syncing, and sharing notes online.

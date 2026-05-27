@@ -25,6 +25,7 @@ export default function CommunityGroupsPage() {
         description?: string;
         links?: { label: string; url: string }[];
         category?: string;
+        pinned?: boolean;
       }[] = Array.isArray(raw) ? raw : (raw.entries ?? []);
 
       groups = entries.map((entry) => ({
@@ -34,6 +35,7 @@ export default function CommunityGroupsPage() {
           (l) => l.url.startsWith("http") && l.url !== "#"
         ),
         category: entry.category ?? "general/ecosystem",
+        pinned: entry.pinned ?? false,
       }));
     }
   } catch (error) {

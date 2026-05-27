@@ -1,9 +1,12 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import Link from "next/link";
 import { Search, RotateCcw, Shuffle } from "lucide-react";
 import VideoCard, { type HermesEntry } from "@/components/VideoCard";
 import VPSWalkthrough from "./VPSWalkthrough";
+import DiscordWalkthrough from "./DiscordWalkthrough";
+import TelegramWalkthrough from "./TelegramWalkthrough";
 
 interface Props {
   entries: HermesEntry[];
@@ -25,7 +28,7 @@ const CATEGORIES = [
 
 type BeginnerFilter = "All" | "Yes" | "Somewhat" | "No";
 
-type View = "tutorials" | "walkthrough";
+type View = "tutorials" | "walkthrough" | "discord" | "telegram";
 
 export default function HermesView({ entries }: Props) {
   const [view, setView] = useState<View>("tutorials");
@@ -104,8 +107,12 @@ export default function HermesView({ entries }: Props) {
       {/* ── Sub-navbar ── */}
       <div className="sticky top-0 z-20 border-b border-panel-border/50 bg-panel/80 backdrop-blur-sm">
         <div className="flex items-center overflow-x-auto" style={{ scrollbarWidth: "none" }}>
-          {(["tutorials", "walkthrough"] as View[]).map((v) => {
-            const label = v === "tutorials" ? "Video Tutorials" : "Hermes VPS Setup Walkthrough";
+          {(["tutorials", "walkthrough", "discord", "telegram"] as View[]).map((v) => {
+            const label =
+              v === "tutorials" ? "Video Tutorials"
+              : v === "walkthrough" ? "Hermes VPS Setup Walkthrough"
+              : v === "discord" ? "Hermes Discord Connection Walkthrough"
+              : "Hermes Telegram Connection Walkthrough";
             const isActive = view === v;
             return (
               <button
@@ -121,11 +128,21 @@ export default function HermesView({ entries }: Props) {
               </button>
             );
           })}
+          <Link
+            href="/tech-tutorials/hermes/use-cases"
+            className="px-5 py-3.5 font-mono text-[9px] font-bold uppercase tracking-wider border-b-2 border-transparent text-charcoal/38 hover:text-charcoal/65 transition-all whitespace-nowrap"
+          >
+            Use Cases
+          </Link>
         </div>
       </div>
 
       {view === "walkthrough" ? (
         <VPSWalkthrough />
+      ) : view === "discord" ? (
+        <DiscordWalkthrough />
+      ) : view === "telegram" ? (
+        <TelegramWalkthrough />
       ) : (
       <div className="flex flex-1">
 

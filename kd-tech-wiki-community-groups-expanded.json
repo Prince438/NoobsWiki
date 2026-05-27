@@ -6,9 +6,27 @@
     "existing community group file",
     "Malaysia-Tech-Community GitHub repository"
   ],
-  "entry_count": 113,
-  "verified_primary_url_count": 106,
+  "entry_count": 114,
+  "verified_primary_url_count": 107,
   "entries": [
+    {
+      "name": "Kracked Devs",
+      "description": "Malaysia's developer community and talent platform. Bounty board, guild directory, AI-matched jobs, and a map of 1,700+ developers across Southeast Asia.",
+      "links": [
+        { "label": "Website", "url": "https://krackeddevs.com/" },
+        { "label": "Discord", "url": "https://discord.gg/ThkRctzyRE" },
+        { "label": "Twitter / X", "url": "https://twitter.com/krackeddevs" },
+        { "label": "TikTok", "url": "https://www.tiktok.com/@krackeddevs" }
+      ],
+      "category": "general/ecosystem",
+      "source": "krackeddevs.com",
+      "sources": ["krackeddevs.com"],
+      "primary_url": "https://krackeddevs.com/",
+      "primary_verified": true,
+      "primary_status": 200,
+      "link_count": 4,
+      "pinned": true
+    },
     {
       "name": "IT Job",
       "description": "Public Facebook community for Malaysian tech discussions around IT Job.",

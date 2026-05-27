@@ -43,9 +43,14 @@ export default function CommunityGroupList({ groups }: Props) {
     });
   }, [groups, searchQuery, selectedCategory]);
 
+  const pinnedEntries = useMemo(
+    () => filtered.filter((g) => g.pinned),
+    [filtered]
+  );
+
   const groupedCategories = useMemo(() => {
     const map = new Map<string, GroupEntry[]>();
-    for (const entry of filtered) {
+    for (const entry of filtered.filter((g) => !g.pinned)) {
       if (!map.has(entry.category)) map.set(entry.category, []);
       map.get(entry.category)!.push(entry);
     }
@@ -148,6 +153,37 @@ export default function CommunityGroupList({ groups }: Props) {
         <span>[ECOSYSTEM_QUERY: SUCCESS]</span>
         <span className="font-bold text-charcoal/40">{filtered.length} COMMUNITIES</span>
       </div>
+
+      {/* Pinned / featured entries */}
+      {pinnedEntries.length > 0 && (
+        <section className="space-y-5">
+          <div className="flex items-center gap-4">
+            <h3
+              id="featured"
+              data-jump-target=""
+              className="font-display text-[22px] font-bold uppercase tracking-[0.06em] text-gold/80 leading-none min-w-0 break-words"
+            >
+              Featured
+            </h3>
+            <div className="h-px flex-1 bg-gold/15" />
+            <span className="font-mono text-[9px] text-charcoal/28">
+              {pinnedEntries.length} {pinnedEntries.length === 1 ? "group" : "groups"}
+            </span>
+          </div>
+          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+            {pinnedEntries.map((entry, idx) => (
+              <GroupCard
+                key={entry.name}
+                name={entry.name}
+                description={entry.description}
+                links={entry.links}
+                category={entry.category}
+                index={idx + 1}
+              />
+            ))}
+          </div>
+        </section>
+      )}
 
       {/* Grouped results */}
       {groupedCategories.length > 0 ? (

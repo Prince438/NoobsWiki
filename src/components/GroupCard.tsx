@@ -14,6 +14,7 @@ export interface GroupEntry {
   description: string;
   links: GroupLink[];
   category: string;
+  pinned?: boolean;
 }
 
 interface GroupCardProps extends GroupEntry {

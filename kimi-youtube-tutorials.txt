@@ -1,0 +1,681 @@
+Kimi YouTube Tutorials
+
+Curated source file for the Kimi section of the webpage.
+
+Legend:
+- Format: Full video or Short
+- Beginner friendly: Yes / Somewhat / No
+- Search tags: lowercase tags for search bar filtering
+- Recommendation tags: broader tags for related-video suggestions
+
+Version note: 65 unique videos in this sorted set. No verified Shorts were found in the current list, so every entry below is marked Full video.
+
+## Beginner / Start Here (10)
+
+### Antigravity + Kimi K2.5 + Opencode is the NEW Unstoppable Combo!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5F7vnwrYeNs
+- Embed link: https://www.youtube.com/embed/5F7vnwrYeNs
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Build anything with Kimi 2.5, here’s how
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=aiLZMvMLYMg
+- Embed link: https://www.youtube.com/embed/aiLZMvMLYMg
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi AI Explained: Beginner’s Guide to Research, Writing & Coding with Moonshot AI
+- Format: Full video
+- Beginner friendly: Yes
+- Search tags: kimi, moonshot, beginner-friendly, onboarding, quickstart, chat, writing, research
+- Recommendation tags: start-here, onboarding, first-steps, assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ufQUODgy3_U
+- Embed link: https://www.youtube.com/embed/ufQUODgy3_U
+- Small description: Beginner-friendly walkthrough for getting started with Kimi and understanding the basics.
+
+### Kimi AI Tutorial - 2026 | Tips & Tricks | How to Use Kimi AI
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=aFW_q3jc49s
+- Embed link: https://www.youtube.com/embed/aFW_q3jc49s
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi K2 explained in 5 minutes
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=LSfpwaujqLQ
+- Embed link: https://www.youtube.com/embed/LSfpwaujqLQ
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi k2.5: Build and Automate ANYTHING!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=DMlnRtl65mA
+- Embed link: https://www.youtube.com/embed/DMlnRtl65mA
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi K2.6 Review: 300 AI Agents From One Prompt
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, prompt-engineering, prompts, agent, automation, review, comparison
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering, developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=YNm3JcGi8Co
+- Embed link: https://www.youtube.com/embed/YNm3JcGi8Co
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
+
+### Kimi OK Computer: FREE AI Builder Can Design, Code, and Deploy Entire Projects! (SHOCKING RESULTS)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=OTGw_VxyO2c
+- Embed link: https://www.youtube.com/embed/OTGw_VxyO2c
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### NEW Kimi AI Browser is INSANE (FREE!)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=RMkChTS4bX8
+- Embed link: https://www.youtube.com/embed/RMkChTS4bX8
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### New Kimi K2.5: Build and Automate ANYTHING!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, start-here
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=L6VEgIg3hNk
+- Embed link: https://www.youtube.com/embed/L6VEgIg3hNk
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+
+## Core Chat, Writing & Prompting (10)
+
+### Forget ChatGPT: Kimi 2.5 Is FREE & Unlimited (No Install)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, chat, writing
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=nXqXHLKejLI
+- Embed link: https://www.youtube.com/embed/nXqXHLKejLI
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
+
+### How to manage chats in Kimi AI [FULL GUIDE]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, chat, writing
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=e1iKiGyllDo
+- Embed link: https://www.youtube.com/embed/e1iKiGyllDo
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
+
+### How to Use Saved Prompts in Kimi AI to Create a FAST Reusable Prompt Library That Saves Hours
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, prompt-engineering, prompts
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=OsS5GSUYpPE
+- Embed link: https://www.youtube.com/embed/OsS5GSUYpPE
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
+
+### I TESTED Kimi K2 for AUTHORS [Full Demo]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=AB22TSzcQ30
+- Embed link: https://www.youtube.com/embed/AB22TSzcQ30
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Is This NEW AI Agent About to Disrupt Academic Research? Kimi AI
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, research, long-context, agent, automation
+- Recommendation tags: research, document-workflow, knowledge-work, developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=lybWTvBgwas
+- Embed link: https://www.youtube.com/embed/lybWTvBgwas
+- Small description: Useful for reading long documents, researching, and extracting insights from files.
+
+### Kimi 2 Is Insane for Creative Writing! Why It Outperforms Claude Sonnet 4.5
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, chat, writing
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=M0Z_rH3L108
+- Embed link: https://www.youtube.com/embed/M0Z_rH3L108
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
+
+### Kimi K2 - The DeepSeek Moment for Agentic Coding?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, coding, devtools, agent, automation
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=TGvrIATdWa4
+- Embed link: https://www.youtube.com/embed/TGvrIATdWa4
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Kimi K2 is INSANE... (Open-Source is BACK!)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ngj7ppxBQaU
+- Embed link: https://www.youtube.com/embed/ngj7ppxBQaU
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi K2 Thinking is the greatest AI model ever. Here’s why…
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=jQVb7t62VHM
+- Embed link: https://www.youtube.com/embed/jQVb7t62VHM
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi K2 — The Deep Researcher Agent
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, research, long-context, agent, automation
+- Recommendation tags: research, document-workflow, knowledge-work, developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=lDXc-zVqN1w
+- Embed link: https://www.youtube.com/embed/lDXc-zVqN1w
+- Small description: Useful for reading long documents, researching, and extracting insights from files.
+
+
+## Long Context, PDF & Research (12)
+
+### [QA] Kimi k1.5: Scaling Reinforcement Learning with LLMs
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, knowledge-work, reading
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=MFKdDUrctSY
+- Embed link: https://www.youtube.com/embed/MFKdDUrctSY
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Chat with Any PDF Instantly Using Kimi AI!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, chat, writing, pdf, documents, analysis, knowledge-work
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering, research, document-workflow, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=nyRj4XBO-GI
+- Embed link: https://www.youtube.com/embed/nyRj4XBO-GI
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
+
+### GPT-5.1 and Kimi K2: What ‘Thinking AI’ really means
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, knowledge-work, reading
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5sFJVAoafFI
+- Embed link: https://www.youtube.com/embed/5sFJVAoafFI
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### How to Analyse PDF Documents in Kimi AI 2026?
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, pdf, documents, analysis, knowledge-work, reading
+- Recommendation tags: research, document-workflow, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Mqf0O88pNP0
+- Embed link: https://www.youtube.com/embed/Mqf0O88pNP0
+- Small description: Useful for reading long documents, researching, and extracting insights from files.
+
+### How to analyze datasets with Kimi AI[LATEST GUIDE]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, knowledge-work, reading
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=j2LcaAArWyc
+- Embed link: https://www.youtube.com/embed/j2LcaAArWyc
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### How to analyze documents with Kimi AI[LATEST GUIDE]
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, pdf, documents, analysis, knowledge-work, reading
+- Recommendation tags: research, document-workflow, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ms-kn-YkDds
+- Embed link: https://www.youtube.com/embed/ms-kn-YkDds
+- Small description: Useful for reading long documents, researching, and extracting insights from files.
+
+### How to analyze PDFs with Kimi AI[LATEST GUIDE]
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, pdf, documents, analysis, knowledge-work, reading
+- Recommendation tags: research, document-workflow, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=FuhdEEFjY8Q
+- Embed link: https://www.youtube.com/embed/FuhdEEFjY8Q
+- Small description: Useful for reading long documents, researching, and extracting insights from files.
+
+### Kimi - Lesson 10 - Uploading PDFs, Word, and Text Files
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, pdf, documents, analysis, knowledge-work, reading
+- Recommendation tags: research, document-workflow, knowledge-work
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=14qoRWXchYk
+- Embed link: https://www.youtube.com/embed/14qoRWXchYk
+- Small description: Useful for reading long documents, researching, and extracting insights from files.
+
+### Kimi AI: The Long-Context Powerhouse Redefining Global Artificial Intelligence
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, knowledge-work, reading
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=Pd44ehwLcPc
+- Embed link: https://www.youtube.com/embed/Pd44ehwLcPc
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi can now create and edit files!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, knowledge-work, reading
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ozu8-Cp7lW4
+- Embed link: https://www.youtube.com/embed/ozu8-Cp7lW4
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi Linear: Expressive Attention, 6X Faster Decoding for Long Context LLMs.
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, research, long-context, coding, devtools, knowledge-work, reading
+- Recommendation tags: research, document-workflow, knowledge-work, developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=ktXyizDhAaM
+- Embed link: https://www.youtube.com/embed/ktXyizDhAaM
+- Small description: Useful for reading long documents, researching, and extracting insights from files.
+
+### NEW Kimi K 2.5 + Perplexity Update is INSANE!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, updates, release, knowledge-work, reading
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=2ejxEcT-Vuk
+- Embed link: https://www.youtube.com/embed/2ejxEcT-Vuk
+- Small description: Covers Kimi updates, new releases, and notable feature changes.
+
+
+## Coding, Dev & API (10)
+
+### Claude Code FREE with Kimi K2.6 — Full Tutorial 2026 🚀
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, developer-tools
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=OrthfIOQKmI
+- Embed link: https://www.youtube.com/embed/OrthfIOQKmI
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Claude Killer? My Review on Kimi K2 Thinking After Days of Testing
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, review, comparison, developer-tools
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=fjCwC6BYKAE
+- Embed link: https://www.youtube.com/embed/fjCwC6BYKAE
+- Small description: A review or comparison video that helps you decide whether Kimi fits your workflow.
+
+### Kimi K2.5 + Clawdbot : This is WAY BETTER than using Clawdbot with Opus!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, developer-tools
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=w-nhhMIqvSc
+- Embed link: https://www.youtube.com/embed/w-nhhMIqvSc
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi K2.5 and Agent Swarm explained...
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, agent, automation, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=GwKoFpUV69M
+- Embed link: https://www.youtube.com/embed/GwKoFpUV69M
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Kimi K2.5 API Deep Dive: Multimodal AI That Saves Money
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, api, developer, vision, multimodal, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows, multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=Ol8oQPbk8AA
+- Embed link: https://www.youtube.com/embed/Ol8oQPbk8AA
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Kimi K2.5- The Agent Swarm
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, agent, automation, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=FfCqINSD8Tc
+- Embed link: https://www.youtube.com/embed/FfCqINSD8Tc
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Kimi K2.6 vs Claude Code: Why I’m Switching to the $39 Plan (Full Model Breakdown)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, review, comparison, developer-tools
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=icbeuJxnrKU
+- Embed link: https://www.youtube.com/embed/icbeuJxnrKU
+- Small description: A review or comparison video that helps you decide whether Kimi fits your workflow.
+
+### Kimi K2.6: The Open-Source AI Model for Vibe Coding That Outperforms Opus 4.7 & Gemini 3.1 Pro
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, coding, devtools, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=E_glf_H-LvI
+- Embed link: https://www.youtube.com/embed/E_glf_H-LvI
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Meet Kimi K2.6: Advancing Open-Source Coding
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, coding, devtools, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=scuzhhZpoHs
+- Embed link: https://www.youtube.com/embed/scuzhhZpoHs
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Why Every Developer is Switching from Claude to Open Source Kimi K2
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, coding, devtools, developer-tools
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, WSL); some videos may show API or developer workflows
+- Link: https://www.youtube.com/watch?v=av0Lsz3KkSE
+- Embed link: https://www.youtube.com/embed/av0Lsz3KkSE
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+
+## Multimodal, Images & Vision (8)
+
+### Clawdbot + Kimi 2.5 is INSANE! 😱
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, multimodal-workflow
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=FbA7H9TwdYo
+- Embed link: https://www.youtube.com/embed/FbA7H9TwdYo
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### George & Kimi Take On The Ultimate Team Trivia Challenge | It Takes Two
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, multimodal-workflow
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=vnoCyOGeDU4
+- Embed link: https://www.youtube.com/embed/vnoCyOGeDU4
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### How to Create PROFESSIONAL Slides with Kimi AI k2.5 (2026 Full Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, multimodal-workflow
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=R7arUAzJXb0
+- Embed link: https://www.youtube.com/embed/R7arUAzJXb0
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi K2.6 - New #1 Local AI TESTED vs Cloud, Coding, Vision & Maths 🤯
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, coding, devtools, vision, multimodal, review, comparison
+- Recommendation tags: developer-tools, automation, agentic-workflows, multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=5tO6cnlgPmw
+- Embed link: https://www.youtube.com/embed/5tO6cnlgPmw
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Kimi-VL: Efficient MoE Vision-Language Model Explored
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=SKA8jYg_IYg
+- Embed link: https://www.youtube.com/embed/SKA8jYg_IYg
+- Small description: Shows image, vision, and multimodal capabilities for richer AI workflows.
+
+### Moonshot AI Open-Sources Kimi K2.6 with Native Multimodal MoE Architecture and Agent Swarm Scaling
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, agent, automation, vision, multimodal, multimodal-workflow
+- Recommendation tags: developer-tools, automation, agentic-workflows, multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=a3igOhkWtCQ
+- Embed link: https://www.youtube.com/embed/a3igOhkWtCQ
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### Multimodal Understanding & Reasoning using Kimi k1.5
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, vision, multimodal, multimodal-workflow
+- Recommendation tags: multimodal-ai, vision, analysis
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=pXEE5HY-S3E
+- Embed link: https://www.youtube.com/embed/pXEE5HY-S3E
+- Small description: Shows image, vision, and multimodal capabilities for richer AI workflows.
+
+### Web design just got easier using the Kimi K2.5 Open AI Model
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, multimodal-workflow
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=tKasWREsWBE
+- Embed link: https://www.youtube.com/embed/tKasWREsWBE
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+
+## Workflows, Productivity & Automation (8)
+
+### Build Anything with NotebookLM + Kimi K2.5: Here’s How!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, notes, notebook, automation, daily-use
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=mlHALK8kkYw
+- Embed link: https://www.youtube.com/embed/mlHALK8kkYw
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### How to Automate YOUR Work with Kimi AI's OK Computer Agent in MINUTES
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, agent, automation, daily-use
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=RlTkRyILil4
+- Embed link: https://www.youtube.com/embed/RlTkRyILil4
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### How to Build and Automate ANYTHING with Kimi K2.5 (2026 Full Guide)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, automation, daily-use
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=BOb6Rhg8J1o
+- Embed link: https://www.youtube.com/embed/BOb6Rhg8J1o
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Kimi K2 Ai Honest Review - All In One AI Assistant | Pros And Cons (Pricing)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, review, comparison, automation, daily-use
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=IwAMf1GwIeg
+- Embed link: https://www.youtube.com/embed/IwAMf1GwIeg
+- Small description: A review or comparison video that helps you decide whether Kimi fits your workflow.
+
+### Kimi-K2 CLI (OpenCode + Kimi-K2): Best Combination for Productivity
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, workflow, productivity, automation, daily-use
+- Recommendation tags: productivity, daily-use, systems
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=hC72A_1J5Co
+- Embed link: https://www.youtube.com/embed/hC72A_1J5Co
+- Small description: Practical workflow video for productivity and repeatable Kimi use cases.
+
+### New Kimi Web Bridge Browser AI Agent is INSANE!
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, agent, automation, daily-use
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=w9-Yd_nuV3Y
+- Embed link: https://www.youtube.com/embed/w9-Yd_nuV3Y
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+### NoteBookLM + Kimi K2.5 is INSANE! 🤯
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, notes, notebook, automation, daily-use
+- Recommendation tags: kimi, productivity, ai
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=s0k8Aof3TBw
+- Embed link: https://www.youtube.com/embed/s0k8Aof3TBw
+- Small description: Related Kimi tutorial or topic for AI workflows, productivity, and practical use.
+
+### Vibe Coding With Kimi K2.6
+- Format: Full video
+- Beginner friendly: No
+- Search tags: kimi, moonshot, coding, devtools, automation, daily-use
+- Recommendation tags: developer-tools, automation, agentic-workflows
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=0_ggmG6f-sE
+- Embed link: https://www.youtube.com/embed/0_ggmG6f-sE
+- Small description: Focuses on developer workflows, APIs, coding use cases, and automation with Kimi.
+
+
+## Reviews, Comparisons & Updates (7)
+
+### GPT 5 vs KIMI K2
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=rjw3iZcG4aQ
+- Embed link: https://www.youtube.com/embed/rjw3iZcG4aQ
+- Small description: A review or comparison video that helps you decide whether Kimi fits your workflow.
+
+### Kimi - Movie Review
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, review, comparison
+- Recommendation tags: comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=BmPNAWpi4y4
+- Embed link: https://www.youtube.com/embed/BmPNAWpi4y4
+- Small description: A review or comparison video that helps you decide whether Kimi fits your workflow.
+
+### Kimi AI vs ChatGPT (2025) - Which is Better?
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, chat, writing, review, comparison
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=puF5c7xHRE0
+- Embed link: https://www.youtube.com/embed/puF5c7xHRE0
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
+
+### Kimi K2 Thinking is CRAZY... (HUGE UPDATE)
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, updates, release
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=s_YfqQ_KHYA
+- Embed link: https://www.youtube.com/embed/s_YfqQ_KHYA
+- Small description: Covers Kimi updates, new releases, and notable feature changes.
+
+### NEW Kimi Swarm Update is INSANE!
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, updates, release
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=HQdiZO_OVRE
+- Embed link: https://www.youtube.com/embed/HQdiZO_OVRE
+- Small description: Covers Kimi updates, new releases, and notable feature changes.
+
+### NEW Kimi Update is INSANE! 🤯
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, updates, release
+- Recommendation tags: updates, feature-watch, release-notes
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=bjWPni3LbEk
+- Embed link: https://www.youtube.com/embed/bjWPni3LbEk
+- Small description: Covers Kimi updates, new releases, and notable feature changes.
+
+### Stop Paying for AI? Kimi K2 Thinking vs. ChatGPT 5 🥊
+- Format: Full video
+- Beginner friendly: Somewhat
+- Search tags: kimi, moonshot, chat, writing, review, comparison
+- Recommendation tags: assistant-mode, content-workflow, prompt-engineering, comparison, evaluation, discoverability
+- Operating systems: Cross-platform (Windows, macOS, Linux, iOS, Android, WSL)
+- Link: https://www.youtube.com/watch?v=QjcZzMUoPaI
+- Embed link: https://www.youtube.com/embed/QjcZzMUoPaI
+- Small description: Covers practical chat, writing, and prompt techniques for everyday use.
