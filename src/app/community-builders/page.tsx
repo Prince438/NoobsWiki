@@ -112,13 +112,13 @@ export default function CommunityBuildersPage() {
       <div className="mx-auto w-full max-w-6xl px-6 py-12 md:px-8">
 
         <div className="mb-12 max-w-3xl space-y-3">
-          <div className="font-mono text-[9px] font-semibold text-gold tracking-[0.25em] uppercase">
+          <div className="font-mono text-[10px] font-semibold text-gold/85 tracking-[0.2em] uppercase">
             [ DIRECTORY // SEC_02 ]
           </div>
           <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[60px]">
             Community Builders
           </h1>
-          <p className="font-sans text-[13px] leading-relaxed text-charcoal/60 max-w-xl">
+          <p className="font-sans text-[14.5px] leading-relaxed text-charcoal/68 max-w-xl">
             The individuals organising meetups, events, and programs that support learning, collaboration, and innovation within the Malaysia tech ecosystem.
           </p>
         </div>

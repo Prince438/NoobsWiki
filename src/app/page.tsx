@@ -1,40 +1,63 @@
 import Link from "next/link";
 import { Users, Cpu, ShieldAlert, Wrench, BookOpen, TrendingUp, ArrowRight } from "lucide-react";
 import AsciiBackground from "@/components/AsciiBackground";
+import HomepageSearch from "@/components/HomepageSearch";
+import { getAllSearchItems } from "@/lib/search-data";
+
+// ── Start Here quick actions ──────────────────────────────────────────────────
+const QUICK_ACTIONS = [
+  { href: "/community-groups",    icon: Users,        label: "Find a community",  sub: "Groups & networks"   },
+  { href: "/malaysian-vcs",       icon: TrendingUp,   label: "Find funding",      sub: "VCs & investors"     },
+  { href: "/tech-tools",          icon: Wrench,       label: "Browse tools",      sub: "8,000+ curated"      },
+  { href: "/tech-tutorials",      icon: BookOpen,     label: "Learn a skill",     sub: "Tutorials & guides"  },
+  { href: "/government-agencies", icon: ShieldAlert,  label: "Find support",      sub: "Grants & agencies"   },
+];
+
+// ── Onboarding paths ──────────────────────────────────────────────────────────
+const PATHS = [
+  { label: "Building a startup?",  hint: "Communities + VCs",         href: "/community-groups"    },
+  { label: "Looking for grants?",  hint: "Government agencies",       href: "/government-agencies" },
+  { label: "Need to learn a tool?", hint: "Tech tutorials",           href: "/tech-tutorials"      },
+  { label: "Just exploring?",      hint: "Start with tech tools",     href: "/tech-tools"          },
+];
 
 export default function Home() {
+  const searchItems = getAllSearchItems();
+
   return (
     <div className="relative flex min-h-screen flex-col">
       <AsciiBackground />
 
-      <main className="relative z-[2] mx-auto flex flex-1 w-full max-w-5xl flex-col items-center justify-center px-6 py-20 text-center md:px-8">
+      <main className="relative z-[2] mx-auto w-full max-w-5xl px-6 pt-14 pb-24 md:px-8">
 
-        {/* System status badge */}
-        <div className="mb-10 inline-flex items-center gap-2.5 rounded border border-panel-border bg-panel px-4 py-1.5 font-mono text-[10px] tracking-widest text-charcoal/62 shadow-sm animate-fade-in">
-          <span className="relative flex h-1.5 w-1.5 flex-shrink-0">
-            <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-forest opacity-60"></span>
-            <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-forest"></span>
-          </span>
-          <span>MALAYSIA TECH ECOSYSTEM INTEL</span>
-          <span className="text-panel-border/60 select-none">·</span>
-          <span className="font-bold text-gold/75">ACTIVE</span>
+        {/* ── Status badge ─────────────────────────────────────────────── */}
+        <div className="mb-10 flex justify-center animate-fade-in">
+          <div className="inline-flex items-center gap-2.5 rounded border border-panel-border bg-panel px-4 py-1.5 font-mono text-[10px] tracking-widest text-charcoal/62 shadow-sm">
+            <span className="relative flex h-1.5 w-1.5 flex-shrink-0">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-forest opacity-60" />
+              <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-forest" />
+            </span>
+            <span>MALAYSIA TECH ECOSYSTEM INTEL</span>
+            <span className="text-panel-border/60 select-none">·</span>
+            <span className="font-bold text-gold/75">ACTIVE</span>
+          </div>
         </div>
 
-        {/* Logo mark + wordmark */}
-        <div className="mb-10 flex flex-col items-center select-none animate-fade-in" style={{ animationDelay: "80ms" }}>
+        {/* ── Brand + value prop ───────────────────────────────────────── */}
+        <div className="mb-8 flex flex-col items-center text-center select-none animate-fade-in" style={{ animationDelay: "60ms" }}>
 
           {/* Icon mark */}
-          <div className="relative mb-5 flex h-[76px] w-[76px] items-center justify-center rounded border border-panel-border bg-panel text-gold shadow-[inset_0_1px_0_rgba(191,158,118,0.06),0_1px_12px_rgba(0,0,0,0.4)]">
-            <span className="absolute top-[6px] left-[6px] h-[8px] w-[8px] border-t border-l border-gold/20 pointer-events-none"></span>
-            <span className="absolute top-[6px] right-[6px] h-[8px] w-[8px] border-t border-r border-gold/20 pointer-events-none"></span>
-            <span className="absolute bottom-[6px] left-[6px] h-[8px] w-[8px] border-b border-l border-gold/20 pointer-events-none"></span>
-            <span className="absolute bottom-[6px] right-[6px] h-[8px] w-[8px] border-b border-r border-gold/20 pointer-events-none"></span>
+          <div className="relative mb-5 flex h-[72px] w-[72px] items-center justify-center rounded border border-panel-border bg-panel text-gold shadow-[inset_0_1px_0_rgba(191,158,118,0.06),0_1px_12px_rgba(0,0,0,0.4)]">
+            <span className="absolute top-[5px] left-[5px] h-[8px] w-[8px] border-t border-l border-gold/20 pointer-events-none" />
+            <span className="absolute top-[5px] right-[5px] h-[8px] w-[8px] border-t border-r border-gold/20 pointer-events-none" />
+            <span className="absolute bottom-[5px] left-[5px] h-[8px] w-[8px] border-b border-l border-gold/20 pointer-events-none" />
+            <span className="absolute bottom-[5px] right-[5px] h-[8px] w-[8px] border-b border-r border-gold/20 pointer-events-none" />
             <svg className="h-9 w-9" viewBox="0 0 36 36" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round">
-              <line x1="7" y1="13" x2="29" y2="13" strokeWidth="1.5"/>
-              <line x1="10" y1="18" x2="26" y2="18" strokeWidth="1.5"/>
-              <line x1="14" y1="23" x2="22" y2="23" strokeWidth="1.5"/>
-              <line x1="18" y1="9" x2="18" y2="13" strokeWidth="1.5"/>
-              <circle cx="18" cy="8" r="1.75" fill="currentColor" stroke="none"/>
+              <line x1="7" y1="13" x2="29" y2="13" strokeWidth="1.5" />
+              <line x1="10" y1="18" x2="26" y2="18" strokeWidth="1.5" />
+              <line x1="14" y1="23" x2="22" y2="23" strokeWidth="1.5" />
+              <line x1="18" y1="9" x2="18" y2="13" strokeWidth="1.5" />
+              <circle cx="18" cy="8" r="1.75" fill="currentColor" stroke="none" />
             </svg>
           </div>
 
@@ -44,211 +67,236 @@ export default function Home() {
             <span className="font-mono font-light text-gold text-[36px] animate-terminal-blink">_</span>
           </h1>
 
-          {/* Descriptor line */}
-          <div className="mt-3 font-mono text-[10px] tracking-[0.22em] text-charcoal/52 uppercase">
-            Curated Ecosystem Database · Knowledge Reference System
+          {/* Value prop */}
+          <p className="mt-3 font-sans text-[15px] leading-relaxed text-charcoal/70 max-w-md">
+            Malaysia&apos;s tech ecosystem, indexed — communities, funding, agencies, tools, and tutorials in one place.
+          </p>
+        </div>
+
+        {/* ── Global search ────────────────────────────────────────────── */}
+        <div className="mb-3 flex justify-center animate-fade-in" style={{ animationDelay: "120ms" }}>
+          <HomepageSearch items={searchItems} />
+        </div>
+
+        {/* Search hint */}
+        <div className="mb-10 flex justify-center animate-fade-in" style={{ animationDelay: "150ms" }}>
+          <p className="font-mono text-[9.5px] text-charcoal/28 tracking-wider">
+            Press <kbd className="rounded border border-panel-border/50 bg-cream/15 px-1 py-px text-charcoal/35">⌘K</kbd> from any page to search
+          </p>
+        </div>
+
+        {/* ── Start Here quick actions ─────────────────────────────────── */}
+        <div className="mb-12 animate-fade-in" style={{ animationDelay: "180ms" }}>
+          <div className="mb-4 flex items-center gap-3">
+            <span className="font-mono text-[9px] tracking-[0.25em] text-charcoal/30 uppercase">// Start Here</span>
+            <div className="h-px flex-1 bg-panel-border/30" />
+          </div>
+          <div className="grid grid-cols-2 gap-2 sm:grid-cols-3 md:grid-cols-5">
+            {QUICK_ACTIONS.map(({ href, icon: Icon, label, sub }) => (
+              <Link
+                key={href}
+                href={href}
+                className="group flex flex-col gap-2 rounded border border-panel-border bg-panel px-4 py-4 transition-all duration-200 hover:border-forest/50 hover:bg-panel-raised hover:shadow-[0_4px_16px_rgba(0,0,0,0.3)]"
+              >
+                <Icon className="h-4 w-4 text-gold/55 transition-colors group-hover:text-gold/80" />
+                <div>
+                  <div className="font-sans text-[12.5px] font-semibold text-charcoal group-hover:text-gold/90 transition-colors leading-tight">
+                    {label}
+                  </div>
+                  <div className="mt-0.5 font-mono text-[9px] text-charcoal/38 tracking-wide">
+                    {sub}
+                  </div>
+                </div>
+              </Link>
+            ))}
           </div>
         </div>
 
-        {/* Hero description */}
-        <p className="mx-auto mb-14 max-w-lg font-sans text-[15px] leading-relaxed text-charcoal/72 animate-fade-in" style={{ animationDelay: "140ms" }}>
-          A structured technical wiki and directory of Malaysia's technology and startup ecosystem — indexing community groups, active builders, and public institutions in a single reference interface.
-        </p>
-
-        {/* Navigation panel grid */}
-        <div className="grid w-full gap-4 md:grid-cols-2 animate-fade-in" style={{ animationDelay: "200ms" }}>
-
-          {/* Card 1 — Community Groups */}
-          <Link
-            href="/community-groups"
-            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
-          >
-            <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
-            <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-
-            <div>
-              <div className="mb-5 flex items-start justify-between">
-                <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
-                  <Users className="h-[17px] w-[17px] stroke-[1.8]" />
-                </div>
-                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">01</span>
-              </div>
-
-              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
-                Community Groups
-              </h2>
-
-              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
-                Curated local tech communities across Malaysia — developer circles, startup networks, and industry-focused groups shaping the ecosystem.
-              </p>
+        {/* ── Onboarding block ─────────────────────────────────────────── */}
+        <div className="mb-16 animate-fade-in" style={{ animationDelay: "220ms" }}>
+          <div className="rounded border border-panel-border/60 bg-panel/60 px-5 py-5">
+            <div className="mb-3 font-mono text-[9px] tracking-[0.25em] text-charcoal/30 uppercase">
+              // Not sure where to start?
             </div>
-
-            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
-              <span>EXPLORE DIRECTORY</span>
-              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+            <div className="grid gap-2 sm:grid-cols-2">
+              {PATHS.map(({ label, hint, href }) => (
+                <Link
+                  key={href}
+                  href={href}
+                  className="group flex items-center justify-between gap-3 rounded border border-panel-border/40 bg-cream/5 px-3.5 py-2.5 transition-colors hover:border-gold/30 hover:bg-forest/8"
+                >
+                  <div className="min-w-0">
+                    <span className="font-sans text-[12.5px] text-charcoal/65 group-hover:text-charcoal/85 transition-colors">
+                      {label}
+                    </span>
+                    <span className="mx-2 font-mono text-[9px] text-charcoal/28">→</span>
+                    <span className="font-sans text-[12.5px] font-semibold text-gold/65 group-hover:text-gold/85 transition-colors">
+                      {hint}
+                    </span>
+                  </div>
+                  <ArrowRight className="h-3 w-3 flex-shrink-0 text-charcoal/22 group-hover:text-gold/50 transition-colors" />
+                </Link>
+              ))}
             </div>
-          </Link>
-
-          {/* Card 2 — Community Builders */}
-          <Link
-            href="/community-builders"
-            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
-          >
-            <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
-            <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-
-            <div>
-              <div className="mb-5 flex items-start justify-between">
-                <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
-                  <Cpu className="h-[17px] w-[17px] stroke-[1.8]" />
-                </div>
-                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">02</span>
-              </div>
-
-              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
-                Community Builders
-              </h2>
-
-              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
-                Profiles of the individuals organising meetups, programs, and initiatives that drive learning and collaboration in the ecosystem.
-              </p>
-            </div>
-
-            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
-              <span>VIEW BUILDERS</span>
-              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
-            </div>
-          </Link>
-
-          {/* Card 3 — Government Agencies */}
-          <Link
-            href="/government-agencies"
-            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
-          >
-            <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
-            <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-
-            <div>
-              <div className="mb-5 flex items-start justify-between">
-                <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
-                  <ShieldAlert className="h-[17px] w-[17px] stroke-[1.8]" />
-                </div>
-                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">03</span>
-              </div>
-
-              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
-                Government Agencies
-              </h2>
-
-              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
-                Public institutions and regulatory bodies supporting the ecosystem through grants, programs, policies, and infrastructure investment.
-              </p>
-            </div>
-
-            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
-              <span>EXPLORE BODIES</span>
-              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
-            </div>
-          </Link>
-
-          {/* Card 4 — Tech Tools */}
-          <Link
-            href="/tech-tools"
-            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
-          >
-            <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
-            <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-
-            <div>
-              <div className="mb-5 flex items-start justify-between">
-                <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
-                  <Wrench className="h-[17px] w-[17px] stroke-[1.8]" />
-                </div>
-                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">04</span>
-              </div>
-
-              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
-                Tech Tools
-              </h2>
-
-              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
-                A curated directory of 8,000+ tools across AI, privacy, developer utilities, system tools, and more — organised by category for quick reference.
-              </p>
-            </div>
-
-            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
-              <span>BROWSE TOOLS</span>
-              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
-            </div>
-          </Link>
-
-          {/* Card 5 — Malaysian VC's */}
-          <Link
-            href="/malaysian-vcs"
-            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
-          >
-            <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
-            <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-
-            <div>
-              <div className="mb-5 flex items-start justify-between">
-                <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
-                  <TrendingUp className="h-[17px] w-[17px] stroke-[1.8]" />
-                </div>
-                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">05</span>
-              </div>
-
-              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
-                Malaysian VC&apos;s
-              </h2>
-
-              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
-                A directory of Malaysian and Malaysia-active VC firms — their stage focus, sector specialisation, and contact details for founders navigating early-stage funding.
-              </p>
-            </div>
-
-            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
-              <span>VIEW INVESTORS</span>
-              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
-            </div>
-          </Link>
-
-          {/* Card 6 — Tech Tutorials */}
-          <Link
-            href="/tech-tutorials"
-            className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 text-left transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden"
-          >
-            <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none"></div>
-            <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-
-            <div>
-              <div className="mb-5 flex items-start justify-between">
-                <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
-                  <BookOpen className="h-[17px] w-[17px] stroke-[1.8]" />
-                </div>
-                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">06</span>
-              </div>
-
-              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
-                Tech Tutorials
-              </h2>
-
-              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
-                Tutorials on how to use PC tech tools, AI tools, and related software — curated by topic and skill level.
-              </p>
-            </div>
-
-            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
-              <span>EXPLORE TUTORIALS</span>
-              <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
-            </div>
-          </Link>
-
+          </div>
         </div>
 
+        {/* ── Directory cards ──────────────────────────────────────────── */}
+        <div className="animate-fade-in" style={{ animationDelay: "260ms" }}>
+          <div className="mb-5 flex items-center gap-3">
+            <span className="font-mono text-[9px] tracking-[0.25em] text-charcoal/30 uppercase">// All Directories</span>
+            <div className="h-px flex-1 bg-panel-border/30" />
+          </div>
+          <div className="grid gap-4 md:grid-cols-2">
+
+            {/* Community Groups */}
+            <Link href="/community-groups" className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden">
+              <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none" />
+              <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+              <div>
+                <div className="mb-5 flex items-start justify-between">
+                  <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                    <Users className="h-[17px] w-[17px] stroke-[1.8]" />
+                  </div>
+                  <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">01</span>
+                </div>
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                  Community Groups
+                </h2>
+                <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
+                  Curated local tech communities across Malaysia — developer circles, startup networks, and industry-focused groups.
+                </p>
+              </div>
+              <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
+                <span>EXPLORE DIRECTORY</span>
+                <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+              </div>
+            </Link>
+
+            {/* Community Builders */}
+            <Link href="/community-builders" className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden">
+              <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none" />
+              <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+              <div>
+                <div className="mb-5 flex items-start justify-between">
+                  <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                    <Cpu className="h-[17px] w-[17px] stroke-[1.8]" />
+                  </div>
+                  <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">02</span>
+                </div>
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                  Community Builders
+                </h2>
+                <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
+                  Profiles of individuals organising meetups, programs, and initiatives that drive learning in the ecosystem.
+                </p>
+              </div>
+              <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
+                <span>VIEW BUILDERS</span>
+                <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+              </div>
+            </Link>
+
+            {/* Government Agencies */}
+            <Link href="/government-agencies" className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden">
+              <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none" />
+              <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+              <div>
+                <div className="mb-5 flex items-start justify-between">
+                  <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                    <ShieldAlert className="h-[17px] w-[17px] stroke-[1.8]" />
+                  </div>
+                  <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">03</span>
+                </div>
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                  Government Agencies
+                </h2>
+                <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
+                  Public institutions and regulatory bodies supporting the ecosystem through grants, programs, policies, and infrastructure.
+                </p>
+              </div>
+              <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
+                <span>EXPLORE BODIES</span>
+                <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+              </div>
+            </Link>
+
+            {/* Tech Tools */}
+            <Link href="/tech-tools" className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden">
+              <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none" />
+              <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+              <div>
+                <div className="mb-5 flex items-start justify-between">
+                  <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                    <Wrench className="h-[17px] w-[17px] stroke-[1.8]" />
+                  </div>
+                  <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">04</span>
+                </div>
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                  Tech Tools
+                </h2>
+                <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
+                  A curated directory of 8,000+ tools across AI, privacy, developer utilities, system tools, and more — organised by category.
+                </p>
+              </div>
+              <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
+                <span>BROWSE TOOLS</span>
+                <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+              </div>
+            </Link>
+
+            {/* Malaysian VCs */}
+            <Link href="/malaysian-vcs" className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden">
+              <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none" />
+              <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+              <div>
+                <div className="mb-5 flex items-start justify-between">
+                  <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                    <TrendingUp className="h-[17px] w-[17px] stroke-[1.8]" />
+                  </div>
+                  <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">05</span>
+                </div>
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                  Malaysian VC&apos;s
+                </h2>
+                <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
+                  A directory of Malaysian and Malaysia-active VC firms — stage focus, sector specialisation, and contact details for founders.
+                </p>
+              </div>
+              <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
+                <span>VIEW INVESTORS</span>
+                <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+              </div>
+            </Link>
+
+            {/* Tech Tutorials */}
+            <Link href="/tech-tutorials" className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 transition-all duration-300 hover:border-forest/50 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden">
+              <div className="absolute inset-x-0 top-0 h-[1.5px] bg-forest/0 transition-all duration-300 group-hover:bg-forest/55 rounded-t pointer-events-none" />
+              <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
+              <div>
+                <div className="mb-5 flex items-start justify-between">
+                  <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
+                    <BookOpen className="h-[17px] w-[17px] stroke-[1.8]" />
+                  </div>
+                  <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">06</span>
+                </div>
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                  Tech Tutorials
+                </h2>
+                <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
+                  Tutorials on AI tools, dev tools, and software — curated by topic and skill level for the Malaysia tech community.
+                </p>
+              </div>
+              <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
+                <span>EXPLORE TUTORIALS</span>
+                <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
+              </div>
+            </Link>
+
+          </div>
+        </div>
 
       </main>
-
     </div>
   );
 }

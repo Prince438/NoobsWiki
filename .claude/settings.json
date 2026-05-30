@@ -1,0 +1,45 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit -m ' *)",
+      "Bash(node parse-cursor.js)",
+      "Bash(node parse-github-copilot.js)",
+      "Read(//c/UTHMAAN/Hermes/Setup Tutorial/**)",
+      "Read(//c/UTHMAAN/Hermes/Discord Tutorial/**)",
+      "Read(//c/UTHMAAN/Hermes/Telegram Tutorial/**)",
+      "Read(//c/UTHMAAN/Hermes/Use Cases/**)",
+      "WebFetch(domain:krackeddevs.com)",
+      "Bash(curl -sI \"https://github.com/openai.png?size=128\")",
+      "Bash(curl -sI \"https://github.com/anthropics.png?size=128\")",
+      "Bash(curl -sI \"https://github.com/obsidianmd.png?size=128\")",
+      "Bash(curl -sI \"https://github.com/MoonshotAI.png?size=128\")",
+      "Bash(curl -sI \"https://github.com/perplexity-ai.png?size=128\")",
+      "Bash(curl -sI \"https://github.com/getcursor.png?size=128\")",
+      "Bash(curl -sI \"https://github.com/github.png?size=128\")",
+      "Bash(curl -sI \"https://github.com/NousResearch.png?size=128\")",
+      "Bash(ls \"C:\\\\UTHMAAN\\\\Hermes\\\\logos\")",
+      "Read(//c/UTHMAAN/Hermes/logos/**)",
+      "Bash(New-Item -ItemType Directory -Force \"c:\\\\UTHMAAN\\\\AntiGravit\\\\Noobs Wiki\\\\public\\\\logos\")",
+      "Bash(Out-Null)",
+      "Bash(Copy-Item \"C:\\\\UTHMAAN\\\\Hermes\\\\logos\\\\ChatGPT.png\" \"c:\\\\UTHMAAN\\\\AntiGravit\\\\Noobs Wiki\\\\public\\\\logos\\\\chatgpt.png\")",
+      "Bash(Copy-Item \"C:\\\\UTHMAAN\\\\Hermes\\\\logos\\\\Claude.png\" \"c:\\\\UTHMAAN\\\\AntiGravit\\\\Noobs Wiki\\\\public\\\\logos\\\\claude.png\")",
+      "Bash(Copy-Item \"C:\\\\UTHMAAN\\\\Hermes\\\\logos\\\\Hermes Agent.png\" \"c:\\\\UTHMAAN\\\\AntiGravit\\\\Noobs Wiki\\\\public\\\\logos\\\\hermes.png\")",
+      "Bash(Copy-Item \"C:\\\\UTHMAAN\\\\Hermes\\\\logos\\\\Kimi.jpg\" \"c:\\\\UTHMAAN\\\\AntiGravit\\\\Noobs Wiki\\\\public\\\\logos\\\\kimi.jpg\")",
+      "Bash(ls \"C:\\\\Work \\(perkerjaan\\)\\\\Start ups in malaysia\")",
+      "Read(//c/Work \\(perkerjaan\\)/Start ups in malaysia/**)",
+      "Bash(for f *)",
+      "Bash(node -e \"const l = require\\('c:/UTHMAAN/AntiGravit/Noobs Wiki/node_modules/lucide-react'\\); const names = Object.keys\\(l\\).filter\\(k => /twitter|x|share|globe|atSign|at/i.test\\(k\\)\\); console.log\\(names.join\\('\\\\n'\\)\\);\")",
+      "Bash(node -e \"const l = require\\('c:/UTHMAAN/AntiGravit/Noobs Wiki/node_modules/lucide-react'\\); console.log\\(Object.keys\\(l\\).filter\\(k => /^BookOpen$/.test\\(k\\)\\)\\);\")",
+      "Bash(node -e \"const lr = require\\('lucide-react'\\); ['CheckSquare','Users','Lightbulb','StickyNote','X','ExternalLink'].forEach\\(n => console.log\\(n, n in lr ? 'OK' : 'MISSING'\\)\\)\")",
+      "Bash(ls src/app/api/)",
+      "Bash(ls src/app/api/search)",
+      "Bash(node -e \"const d=require\\('./kd-tech-wiki-community-builders-expanded.json'\\); const a=Array.isArray\\(d\\)?d:\\(d.entries??[]\\); console.log\\('count:', a.length\\); console.log\\('sample:', JSON.stringify\\(a[0], null, 2\\).slice\\(0, 300\\)\\)\")",
+      "Bash(node -e \"const d=require\\('./kd-tech-wiki-community-builders-expanded.json'\\); const a=Array.isArray\\(d\\)?d:\\(d.entries??[]\\); console.log\\('builders count:', a.length\\)\")",
+      "Bash(curl -s \"http://localhost:3000/api/search?q=cradle\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:3000/government-agencies)"
+    ],
+    "additionalDirectories": [
+      "C:\\UTHMAAN\\Hermes\\logos"
+    ]
+  }
+}

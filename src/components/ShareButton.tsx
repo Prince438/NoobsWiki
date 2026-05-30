@@ -25,14 +25,19 @@ export default function ShareButton({ url }: Props) {
       onClick={copy}
       aria-label={copied ? "Copied!" : "Copy link"}
       title={copied ? "Copied!" : "Copy link"}
-      className={`transition-colors duration-200 ${
-        copied ? "text-forest" : "text-charcoal/22 hover:text-charcoal/55"
+      className={`flex items-center gap-1 rounded p-1.5 -m-1.5 touch-manipulation transition-all duration-200 ${
+        copied
+          ? "text-gold"
+          : "text-charcoal/42 hover:text-charcoal/78"
       }`}
     >
       {copied ? (
-        <Check className="h-3.5 w-3.5" strokeWidth={2} />
+        <>
+          <Check className="h-3.5 w-3.5 flex-shrink-0" strokeWidth={2.2} />
+          <span className="font-mono text-[9px] tracking-wide">Copied!</span>
+        </>
       ) : (
-        <Copy className="h-3.5 w-3.5" strokeWidth={1.8} />
+        <Copy className="h-3.5 w-3.5 flex-shrink-0" strokeWidth={1.8} />
       )}
     </button>
   );

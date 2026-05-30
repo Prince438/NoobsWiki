@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import { Outfit, JetBrains_Mono, Cormorant_Garamond } from "next/font/google";
 import Sidebar from "@/components/Sidebar";
+import CommandPalette from "@/components/CommandPalette";
 import "./globals.css";
 
 const outfit = Outfit({
@@ -54,6 +55,7 @@ export default function RootLayout({
     >
       <body className="min-h-full font-sans selection:bg-gold/30 selection:text-forest">
         <Sidebar />
+        <CommandPalette />
         <div className="md:ml-[200px]">
           {children}
         </div>
