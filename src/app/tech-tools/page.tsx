@@ -20,13 +20,13 @@ export default function TechToolsPage() {
 
         {/* Page header */}
         <div className="px-6 pt-10 pb-6 md:px-8 border-b border-panel-border/30">
-          <div className="mb-2 font-mono text-[9px] font-semibold text-gold tracking-[0.25em] uppercase">
+          <div className="mb-2 font-mono text-[10px] font-semibold text-gold/85 tracking-[0.2em] uppercase">
             [ DIRECTORY // SEC_04 ]
           </div>
           <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[60px]">
             Tech Tools
           </h1>
-          <p className="mt-3 font-sans text-[13px] leading-relaxed text-charcoal/60 max-w-xl">
+          <p className="mt-3 font-sans text-[14.5px] leading-relaxed text-charcoal/68 max-w-xl">
             A curated directory of tools across AI, privacy, developer utilities, system tools, and more — organised by category for quick reference.
           </p>
         </div>
