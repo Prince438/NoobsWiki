@@ -54,6 +54,19 @@ export default function RootLayout({
       className={`${outfit.variable} ${jetbrainsMono.variable} ${cormorant.variable} h-full antialiased`}
     >
       <body className="min-h-full font-sans selection:bg-gold/30 selection:text-forest">
+        {/* Fixed background image — position:fixed works on iOS; background-attachment:fixed does not */}
+        <div
+          aria-hidden="true"
+          style={{
+            position: "fixed",
+            inset: 0,
+            zIndex: 0,
+            backgroundImage: "url('/bg.png')",
+            backgroundSize: "cover",
+            backgroundPosition: "center",
+            backgroundRepeat: "no-repeat",
+          }}
+        />
         <Sidebar />
         <CommandPalette />
         <div className="md:ml-[200px]">

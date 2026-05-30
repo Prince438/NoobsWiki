@@ -83,10 +83,6 @@
 
 body {
   background-color: var(--background);
-  background-image: url('/Background.png');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
   color: var(--foreground);
   font-feature-settings: "cv02", "cv03", "cv04", "cv11";
 }
