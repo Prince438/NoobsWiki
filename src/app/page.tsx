@@ -10,7 +10,7 @@ export default function Home() {
       <main className="relative z-[2] mx-auto flex flex-1 w-full max-w-5xl flex-col items-center justify-center px-6 py-20 text-center md:px-8">
 
         {/* System status badge */}
-        <div className="mb-10 inline-flex items-center gap-2.5 rounded border border-panel-border bg-panel px-4 py-1.5 font-mono text-[9.5px] tracking-widest text-charcoal/45 shadow-sm animate-fade-in">
+        <div className="mb-10 inline-flex items-center gap-2.5 rounded border border-panel-border bg-panel px-4 py-1.5 font-mono text-[10px] tracking-widest text-charcoal/62 shadow-sm animate-fade-in">
           <span className="relative flex h-1.5 w-1.5 flex-shrink-0">
             <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-forest opacity-60"></span>
             <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-forest"></span>
@@ -45,13 +45,13 @@ export default function Home() {
           </h1>
 
           {/* Descriptor line */}
-          <div className="mt-3 font-mono text-[9px] tracking-[0.28em] text-charcoal/30 uppercase">
+          <div className="mt-3 font-mono text-[10px] tracking-[0.22em] text-charcoal/52 uppercase">
             Curated Ecosystem Database · Knowledge Reference System
           </div>
         </div>
 
         {/* Hero description */}
-        <p className="mx-auto mb-14 max-w-lg font-sans text-[13.5px] leading-relaxed text-charcoal/52 animate-fade-in" style={{ animationDelay: "140ms" }}>
+        <p className="mx-auto mb-14 max-w-lg font-sans text-[15px] leading-relaxed text-charcoal/72 animate-fade-in" style={{ animationDelay: "140ms" }}>
           A structured technical wiki and directory of Malaysia's technology and startup ecosystem — indexing community groups, active builders, and public institutions in a single reference interface.
         </p>
 
@@ -71,19 +71,19 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
                   <Users className="h-[17px] w-[17px] stroke-[1.8]" />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">01</span>
+                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">01</span>
               </div>
 
-              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Community Groups
               </h2>
 
-              <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
                 Curated local tech communities across Malaysia — developer circles, startup networks, and industry-focused groups shaping the ecosystem.
               </p>
             </div>
 
-            <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
               <span>EXPLORE DIRECTORY</span>
               <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
             </div>
@@ -102,19 +102,19 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
                   <Cpu className="h-[17px] w-[17px] stroke-[1.8]" />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">02</span>
+                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">02</span>
               </div>
 
-              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Community Builders
               </h2>
 
-              <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
                 Profiles of the individuals organising meetups, programs, and initiatives that drive learning and collaboration in the ecosystem.
               </p>
             </div>
 
-            <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
               <span>VIEW BUILDERS</span>
               <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
             </div>
@@ -133,19 +133,19 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
                   <ShieldAlert className="h-[17px] w-[17px] stroke-[1.8]" />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">03</span>
+                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">03</span>
               </div>
 
-              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Government Agencies
               </h2>
 
-              <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
                 Public institutions and regulatory bodies supporting the ecosystem through grants, programs, policies, and infrastructure investment.
               </p>
             </div>
 
-            <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
               <span>EXPLORE BODIES</span>
               <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
             </div>
@@ -164,19 +164,19 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
                   <Wrench className="h-[17px] w-[17px] stroke-[1.8]" />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">04</span>
+                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">04</span>
               </div>
 
-              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Tech Tools
               </h2>
 
-              <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
                 A curated directory of 8,000+ tools across AI, privacy, developer utilities, system tools, and more — organised by category for quick reference.
               </p>
             </div>
 
-            <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
               <span>BROWSE TOOLS</span>
               <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
             </div>
@@ -195,19 +195,19 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
                   <TrendingUp className="h-[17px] w-[17px] stroke-[1.8]" />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">05</span>
+                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">05</span>
               </div>
 
-              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Malaysian VC&apos;s
               </h2>
 
-              <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
                 A directory of Malaysian and Malaysia-active VC firms — their stage focus, sector specialisation, and contact details for founders navigating early-stage funding.
               </p>
             </div>
 
-            <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
               <span>VIEW INVESTORS</span>
               <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
             </div>
@@ -226,19 +226,19 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors duration-300 group-hover:border-forest/35">
                   <BookOpen className="h-[17px] w-[17px] stroke-[1.8]" />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">06</span>
+                <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">06</span>
               </div>
 
-              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[22px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
                 Tech Tutorials
               </h2>
 
-              <p className="mb-7 font-sans text-[12px] leading-relaxed text-charcoal/52">
+              <p className="mb-7 font-sans text-[13.5px] leading-relaxed text-charcoal/70">
                 Tutorials on how to use PC tech tools, AI tools, and related software — curated by topic and skill level.
               </p>
             </div>
 
-            <div className="flex items-center gap-1.5 font-mono text-[9.5px] font-bold tracking-wider text-gold/55 transition-colors group-hover:text-gold">
+            <div className="flex items-center gap-1.5 font-mono text-[11px] font-bold tracking-wider text-gold/72 transition-colors group-hover:text-gold">
               <span>EXPLORE TUTORIALS</span>
               <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
             </div>
