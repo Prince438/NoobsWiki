@@ -49,20 +49,13 @@ export default function Home() {
         {/* ── Brand + value prop ───────────────────────────────────────── */}
         <div className="mb-8 flex flex-col items-center text-center select-none animate-fade-in" style={{ animationDelay: "60ms" }}>
 
-          {/* Icon mark */}
-          <div className="relative mb-5 flex h-[72px] w-[72px] items-center justify-center rounded border border-panel-border bg-panel text-gold shadow-[inset_0_1px_0_rgba(191,158,118,0.06),0_1px_12px_rgba(0,0,0,0.4)]">
-            <span className="absolute top-[5px] left-[5px] h-[8px] w-[8px] border-t border-l border-gold/20 pointer-events-none" />
-            <span className="absolute top-[5px] right-[5px] h-[8px] w-[8px] border-t border-r border-gold/20 pointer-events-none" />
-            <span className="absolute bottom-[5px] left-[5px] h-[8px] w-[8px] border-b border-l border-gold/20 pointer-events-none" />
-            <span className="absolute bottom-[5px] right-[5px] h-[8px] w-[8px] border-b border-r border-gold/20 pointer-events-none" />
-            <svg className="h-9 w-9" viewBox="0 0 36 36" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round">
-              <line x1="7" y1="13" x2="29" y2="13" strokeWidth="1.5" />
-              <line x1="10" y1="18" x2="26" y2="18" strokeWidth="1.5" />
-              <line x1="14" y1="23" x2="22" y2="23" strokeWidth="1.5" />
-              <line x1="18" y1="9" x2="18" y2="13" strokeWidth="1.5" />
-              <circle cx="18" cy="8" r="1.75" fill="currentColor" stroke="none" />
-            </svg>
-          </div>
+          {/* Logo */}
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
+            src="/logo.png"
+            alt="KD Tech Wiki"
+            className="mb-5 h-24 w-24 object-contain drop-shadow-[0_4px_16px_rgba(0,0,0,0.6)]"
+          />
 
           {/* Wordmark */}
           <h1 className="font-display text-[42px] font-bold tracking-[0.1em] text-charcoal uppercase leading-none md:text-[52px]">
