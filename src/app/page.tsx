@@ -77,7 +77,7 @@ export default function Home() {
         </div>
 
         {/* ── Global search ────────────────────────────────────────────── */}
-        <div className="mb-3 flex justify-center animate-fade-in" style={{ animationDelay: "120ms" }}>
+        <div className="relative z-10 mb-3 flex justify-center animate-fade-in" style={{ animationDelay: "120ms" }}>
           <HomepageSearch items={searchItems} />
         </div>
 
