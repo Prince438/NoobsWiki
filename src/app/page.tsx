@@ -28,7 +28,10 @@ export default function Home() {
     <div className="relative flex min-h-screen flex-col">
       <AsciiBackground />
 
-      <main className="relative z-[2] mx-auto w-full max-w-5xl px-6 pt-14 pb-24 md:px-8">
+      {/* Dark scrim between canvas (z-1) and content (z-3) — makes content legible */}
+      <div className="fixed inset-0 z-[2] pointer-events-none bg-[#090C0A]/60" />
+
+      <main className="relative z-[3] mx-auto w-full max-w-5xl px-6 pt-14 pb-24 md:px-8">
 
         {/* ── Status badge ─────────────────────────────────────────────── */}
         <div className="mb-10 flex justify-center animate-fade-in">

@@ -11,12 +11,12 @@ const MIN_LEN    = 10;      // min stream length (characters)
 const MAX_LEN    = 28;      // max stream length
 const SPAWN_P    = 0.007;   // probability per column per frame to spawn
 const CHAR_P     = 0.07;    // probability per cell per frame to mutate char
-const FADE       = 0.15;    // destination-out per frame (trail persistence)
+const FADE       = 0.18;    // destination-out per frame (trail persistence)
 
-// matrix green palette
-const HEAD_C = "200,255,215";  // leading char — near white-green
-const BODY_C = "0,215,60";     // stream body
-const TAIL_C = "0,100,30";     // fading tail
+// matrix green palette — reduced alpha so content stays readable
+const HEAD_C = "160,230,180";  // leading char — softer green-white
+const BODY_C = "0,180,50";     // stream body
+const TAIL_C = "0,80,25";      // fading tail
 
 const CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#$%&*+=><|/\\~^_-:.{}[]ﾊﾐﾋｰｳｼﾅﾓﾆｻﾜﾂｵﾘｱﾎﾃﾏｹﾒｴｶｷﾑﾕﾗｾﾈｽﾀﾇﾍ".split("");
 const rc = () => CHARS[Math.floor(Math.random() * CHARS.length)];
@@ -131,21 +131,21 @@ export default function AsciiBackground() {
           let alpha: number;
 
           if (i === 0) {
-            // leading character — bright white-green
+            // leading character — softened head
             color = HEAD_C;
-            alpha = 0.95;
+            alpha = 0.55;
           } else if (frac < 0.12) {
             // neck — fade from head colour to body
             color = HEAD_C;
-            alpha = 0.7 - frac * 3.5;
+            alpha = 0.40 - frac * 2.5;
           } else if (frac < 0.55) {
             // body — solid green fading
             color = BODY_C;
-            alpha = 0.55 - (frac - 0.12) * 1.1;
+            alpha = 0.30 - (frac - 0.12) * 0.65;
           } else {
             // tail — dim green to nothing
             color = TAIL_C;
-            alpha = Math.max(0, 0.28 - (frac - 0.55) * 0.65);
+            alpha = Math.max(0, 0.14 - (frac - 0.55) * 0.35);
           }
 
           ctx.fillStyle = `rgba(${color},${alpha.toFixed(3)})`;
