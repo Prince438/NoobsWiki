@@ -9,14 +9,16 @@ const BASE_SPD   = 0.8;     // base fall speed (px/frame)
 const SPD_VAR    = 0.7;     // random extra speed per drop
 const MIN_LEN    = 10;      // min stream length (characters)
 const MAX_LEN    = 28;      // max stream length
-const SPAWN_P    = 0.0038;  // probability per column per frame to spawn
+const SPAWN_P    = 0.0028;  // probability per column per frame to spawn (reduced)
+const FLASH_P    = 0.00015; // probability per column per frame for a flash drop
 const CHAR_P     = 0.07;    // probability per cell per frame to mutate char
-const FADE       = 0.22;    // destination-out per frame (trail persistence)
+const FADE       = 0.26;    // destination-out per frame (stronger fade = fainter)
 
 // matrix green palette — reduced alpha so content stays readable
 const HEAD_C = "160,230,180";  // leading char — softer green-white
 const BODY_C = "0,180,50";     // stream body
 const TAIL_C = "0,80,25";      // fading tail
+const FLASH_C = "120,255,140"; // bright flash drop
 
 const CHARS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@#$%&*+=><|/\\~^_-:.{}[]ﾊﾐﾋｰｳｼﾅﾓﾆｻﾜﾂｵﾘｱﾎﾃﾏｹﾒｴｶｷﾑﾕﾗｾﾈｽﾀﾇﾍ".split("");
 const rc = () => CHARS[Math.floor(Math.random() * CHARS.length)];
@@ -32,16 +34,20 @@ interface Drop {
   speed: number;   // base px/frame for this drop
   len: number;     // character count
   chars: string[]; // chars[0]=head … chars[len-1]=tail
+  flash?: boolean; // bright flash drop
 }
 
-function spawnDrop(colX: number, startY: number): Drop {
-  const len = MIN_LEN + Math.floor(Math.random() * (MAX_LEN - MIN_LEN));
+function spawnDrop(colX: number, startY: number, flash = false): Drop {
+  const len = flash
+    ? 1 + Math.floor(Math.random() * 3)
+    : MIN_LEN + Math.floor(Math.random() * (MAX_LEN - MIN_LEN));
   return {
     x: colX + COL_W / 2,
     y: startY,
-    speed: BASE_SPD + Math.random() * SPD_VAR,
+    speed: flash ? BASE_SPD * 1.6 + Math.random() * 0.5 : BASE_SPD + Math.random() * SPD_VAR,
     len,
     chars: Array.from({ length: len }, rc),
+    flash,
   };
 }
 
@@ -96,7 +102,9 @@ export default function AsciiBackground() {
       // ── spawn ────────────────────────────────────────────────────────
       const cols = Math.ceil(width / COL_W);
       for (let c = 0; c < cols; c++) {
-        if (Math.random() < SPAWN_P) {
+        if (Math.random() < FLASH_P) {
+          drops.current.push(spawnDrop(c * COL_W, -ROW_H, true));
+        } else if (Math.random() < SPAWN_P) {
           drops.current.push(spawnDrop(c * COL_W, -ROW_H));
         }
       }
@@ -130,22 +138,26 @@ export default function AsciiBackground() {
           let color: string;
           let alpha: number;
 
-          if (i === 0) {
+          if (d.flash) {
+            // bright flash drop — vivid green, fades quickly via canvas FADE
+            color = FLASH_C;
+            alpha = i === 0 ? 0.78 : Math.max(0, 0.55 - frac * 0.65);
+          } else if (i === 0) {
             // leading character — softened head
             color = HEAD_C;
-            alpha = 0.28;
+            alpha = 0.20;
           } else if (frac < 0.12) {
             // neck — fade from head colour to body
             color = HEAD_C;
-            alpha = 0.20 - frac * 1.3;
+            alpha = 0.14 - frac * 1.0;
           } else if (frac < 0.55) {
             // body — solid green fading
             color = BODY_C;
-            alpha = 0.14 - (frac - 0.12) * 0.30;
+            alpha = 0.10 - (frac - 0.12) * 0.22;
           } else {
             // tail — dim green to nothing
             color = TAIL_C;
-            alpha = Math.max(0, 0.06 - (frac - 0.55) * 0.15);
+            alpha = Math.max(0, 0.04 - (frac - 0.55) * 0.10);
           }
 
           ctx.fillStyle = `rgba(${color},${alpha.toFixed(3)})`;

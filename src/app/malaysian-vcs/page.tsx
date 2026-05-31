@@ -5,7 +5,7 @@ import JumpNav from "@/components/JumpNav";
 import { VC_DATA } from "@/data/vc-data";
 
 export const metadata: Metadata = {
-  title: "Malaysian VC's — KD Tech Wiki",
+  title: "Malaysian VC's — Malaysian Tech Wiki",
   description:
     "A directory of Malaysian and Malaysia-active venture capital firms — covering stage focus, sector, and contact links for founders and ecosystem builders.",
 };
@@ -19,7 +19,7 @@ export default function MalaysianVCsPage() {
           <div className="font-mono text-[10px] font-semibold text-gold/85 tracking-[0.2em] uppercase">
             [ DIRECTORY // SEC_05 ]
           </div>
-          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[60px]">
+          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-gold uppercase leading-none md:text-[60px]">
             Malaysian VC&apos;s
           </h1>
           <p className="font-sans text-[14.5px] leading-relaxed text-charcoal/68 max-w-xl">

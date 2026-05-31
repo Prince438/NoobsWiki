@@ -3,7 +3,7 @@ import type { HermesEntry } from "@/components/VideoCard";
 import CursorView from "./CursorView";
 
 export const metadata = {
-  title: "Cursor Tutorials — KD Tech Wiki",
+  title: "Cursor Tutorials — Malaysian Tech Wiki",
   description: "106 curated YouTube tutorials for Cursor covering setup, Composer, AI agent workflows, codebase navigation, MCP integrations, real projects, and productivity tips.",
 };
 

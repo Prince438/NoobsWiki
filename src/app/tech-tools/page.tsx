@@ -23,7 +23,7 @@ export default function TechToolsPage() {
           <div className="mb-2 font-mono text-[10px] font-semibold text-gold/85 tracking-[0.2em] uppercase">
             [ DIRECTORY // SEC_04 ]
           </div>
-          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[60px]">
+          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-gold uppercase leading-none md:text-[60px]">
             Tech Tools
           </h1>
           <p className="mt-3 font-sans text-[14.5px] leading-relaxed text-charcoal/68 max-w-xl">

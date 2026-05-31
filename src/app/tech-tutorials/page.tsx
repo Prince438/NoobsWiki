@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ArrowRight } from "lucide-react";
 
 export const metadata = {
-  title: "Tech Tutorials — KD Tech Wiki",
+  title: "Tech Tutorials — Malaysian Tech Wiki",
   description: "Tutorials on how to use PC tech tools, AI tools, and related software.",
 };
 
@@ -100,7 +100,7 @@ export default function TechTutorialsPage() {
         <div className="font-mono text-[9px] tracking-[0.25em] text-gold/70 uppercase">
           [ TECH TUTORIALS ]
         </div>
-        <h1 className="font-display text-[32px] font-bold uppercase tracking-[0.08em] text-charcoal leading-none md:text-[40px]">
+        <h1 className="font-display text-[32px] font-bold uppercase tracking-[0.08em] text-gold leading-none md:text-[40px]">
           Tech Tutorials
         </h1>
         <p className="font-sans text-[13px] leading-relaxed text-charcoal/52 max-w-xl">
@@ -125,12 +125,12 @@ export default function TechTutorialsPage() {
                 <div className="flex h-9 w-9 items-center justify-center rounded border border-panel-border/50 bg-white overflow-hidden transition-colors duration-300 group-hover:border-forest/35">
                   <Logo id={card.id} alt={card.label} />
                 </div>
-                <span className="font-mono text-[9px] tracking-widest text-charcoal/22 pt-1">
+                <span className="font-mono text-[9px] tracking-widest text-charcoal/38 pt-1">
                   {card.count}
                 </span>
               </div>
 
-              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-charcoal uppercase transition-colors group-hover:text-gold/90">
+              <h2 className="mb-2 font-display text-[20px] font-bold tracking-wide text-gold/80 uppercase transition-colors group-hover:text-gold">
                 {card.label}
               </h2>
 

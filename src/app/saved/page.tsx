@@ -58,7 +58,7 @@ export default function SavedPage() {
           [ SAVED ITEMS ]
         </div>
         <div className="flex items-end justify-between gap-4">
-          <h1 className="font-display text-[34px] font-bold uppercase tracking-[0.05em] text-charcoal leading-none md:text-[42px]">
+          <h1 className="font-display text-[34px] font-bold uppercase tracking-[0.05em] text-gold leading-none md:text-[42px]">
             Your Bookmarks
           </h1>
           {bookmarks.length > 0 && (
@@ -114,7 +114,7 @@ export default function SavedPage() {
 
               {/* Group header */}
               <div className="flex items-center gap-3 border-b border-panel-border/25 pb-3">
-                <h2 className="font-display text-[22px] font-bold uppercase tracking-[0.05em] text-charcoal leading-none">
+                <h2 className="font-display text-[22px] font-bold uppercase tracking-[0.05em] text-gold leading-none">
                   {label}
                 </h2>
                 <span className="font-mono text-[10px] text-charcoal/32 ml-auto">
@@ -135,7 +135,7 @@ export default function SavedPage() {
                       <div className="font-mono text-[10px] tracking-widest text-charcoal/36 uppercase">
                         // {TYPE_LABELS[item.type]}
                       </div>
-                      <h3 className="font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug group-hover:text-gold/90 transition-colors">
+                      <h3 className="font-sans text-[14px] font-bold tracking-tight text-gold/80 leading-snug group-hover:text-gold transition-colors">
                         {item.name}
                       </h3>
                       {item.description && (

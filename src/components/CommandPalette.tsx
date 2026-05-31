@@ -372,7 +372,7 @@ export default function CommandPalette() {
         {/* Footer */}
         <div className="flex items-center justify-between border-t border-panel-border/30 px-4 py-2">
           <span className="font-mono text-[8.5px] text-charcoal/22 uppercase tracking-widest">
-            KD Tech Wiki — Malaysia Ecosystem Index
+            Malaysian Tech Wiki — Malaysia Ecosystem Index
           </span>
           <div className="flex items-center gap-2 font-mono text-[8px] text-charcoal/22">
             <span>↑↓ navigate</span>

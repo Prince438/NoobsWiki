@@ -3,7 +3,7 @@ import type { HermesEntry } from "@/components/VideoCard";
 import PerplexityView from "./PerplexityView";
 
 export const metadata = {
-  title: "Perplexity Tutorials — KD Tech Wiki",
+  title: "Perplexity Tutorials — Malaysian Tech Wiki",
   description: "54 curated YouTube tutorials for Perplexity covering AI search, research workflows, Pro Search, Pages, collections, and daily productivity use cases.",
 };
 

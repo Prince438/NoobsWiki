@@ -3,7 +3,7 @@ import type { HermesEntry } from "@/components/VideoCard";
 import ChatGPTView from "./ChatGPTView";
 
 export const metadata = {
-  title: "ChatGPT Tutorials — KD Tech Wiki",
+  title: "ChatGPT Tutorials — Malaysian Tech Wiki",
   description: "67 curated YouTube tutorials for ChatGPT covering basics, prompting, images and voice, custom GPTs, coding, automation, and productivity workflows.",
 };
 

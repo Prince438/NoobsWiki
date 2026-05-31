@@ -63,7 +63,7 @@ export default function BuilderCard({ name, description, links, category, index 
         </div>
 
         {/* Name */}
-        <h3 className="font-sans text-[15px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
+        <h3 className="font-sans text-[15px] font-bold tracking-tight text-gold/80 leading-snug transition-colors group-hover:text-gold">
           {name}
         </h3>
 

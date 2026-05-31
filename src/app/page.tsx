@@ -53,13 +53,13 @@ export default function Home() {
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src="/logo.svg"
-            alt="KD Tech Wiki"
+            alt="Malaysian Tech Wiki"
             className="mb-7 h-40 w-40 object-contain drop-shadow-[0_6px_24px_rgba(0,0,0,0.5)]"
           />
 
           {/* Wordmark */}
-          <h1 className="font-display text-[44px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[56px]">
-            KD Tech Wiki
+          <h1 className="font-display text-[44px] font-bold tracking-[0.06em] text-gold uppercase leading-none md:text-[56px]">
+            Malaysian Tech Wiki
             <span className="font-mono font-light text-gold text-[38px] animate-terminal-blink">_</span>
           </h1>
 
@@ -96,7 +96,7 @@ export default function Home() {
               >
                 <Icon className="h-4 w-4 text-gold/55 transition-colors group-hover:text-gold/80" />
                 <div>
-                  <div className="font-sans text-[14px] font-semibold text-charcoal group-hover:text-gold/90 transition-colors leading-tight">
+                  <div className="font-sans text-[14px] font-semibold text-charcoal/80 group-hover:text-gold/90 transition-colors leading-tight">
                     {label}
                   </div>
                   <div className="mt-0.5 font-mono text-[10px] text-charcoal/42 tracking-wide">
@@ -156,7 +156,7 @@ export default function Home() {
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">01</span>
                 </div>
-                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-gold/85 uppercase transition-colors group-hover:text-gold">
                   Community Groups
                 </h2>
                 <p className="mb-7 font-sans text-[14.5px] leading-[1.65] text-charcoal/70">
@@ -180,7 +180,7 @@ export default function Home() {
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">02</span>
                 </div>
-                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-gold/85 uppercase transition-colors group-hover:text-gold">
                   Community Builders
                 </h2>
                 <p className="mb-7 font-sans text-[14.5px] leading-[1.65] text-charcoal/70">
@@ -204,7 +204,7 @@ export default function Home() {
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">03</span>
                 </div>
-                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-gold/85 uppercase transition-colors group-hover:text-gold">
                   Government Agencies
                 </h2>
                 <p className="mb-7 font-sans text-[14.5px] leading-[1.65] text-charcoal/70">
@@ -228,7 +228,7 @@ export default function Home() {
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">04</span>
                 </div>
-                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-gold/85 uppercase transition-colors group-hover:text-gold">
                   Tech Tools
                 </h2>
                 <p className="mb-7 font-sans text-[14.5px] leading-[1.65] text-charcoal/70">
@@ -252,7 +252,7 @@ export default function Home() {
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">05</span>
                 </div>
-                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-gold/85 uppercase transition-colors group-hover:text-gold">
                   Malaysian VC&apos;s
                 </h2>
                 <p className="mb-7 font-sans text-[14.5px] leading-[1.65] text-charcoal/70">
@@ -276,7 +276,7 @@ export default function Home() {
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">06</span>
                 </div>
-                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-charcoal uppercase transition-colors group-hover:text-gold/90">
+                <h2 className="mb-2 font-display text-[22px] font-bold tracking-[0.04em] text-gold/85 uppercase transition-colors group-hover:text-gold">
                   Tech Tutorials
                 </h2>
                 <p className="mb-7 font-sans text-[14.5px] leading-[1.65] text-charcoal/70">

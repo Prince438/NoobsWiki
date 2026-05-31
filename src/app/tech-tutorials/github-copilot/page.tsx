@@ -3,7 +3,7 @@ import type { HermesEntry } from "@/components/VideoCard";
 import GitHubCopilotView from "./GitHubCopilotView";
 
 export const metadata = {
-  title: "GitHub Copilot Tutorials — KD Tech Wiki",
+  title: "GitHub Copilot Tutorials — Malaysian Tech Wiki",
   description: "108 curated YouTube tutorials for GitHub Copilot covering setup, chat and prompting, coding workflows, PR reviews, CLI agents, integrations, and productivity tips.",
 };
 

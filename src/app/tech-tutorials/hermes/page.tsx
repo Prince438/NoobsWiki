@@ -3,7 +3,7 @@ import type { HermesEntry } from "@/components/VideoCard";
 import HermesView from "./HermesView";
 
 export const metadata = {
-  title: "Hermes Agent Tutorials — KD Tech Wiki",
+  title: "Hermes Agent Tutorials — Malaysian Tech Wiki",
   description: "82 curated YouTube tutorials for Hermes Agent covering setup, skills, automation, integrations, and advanced use cases.",
 };
 

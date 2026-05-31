@@ -58,7 +58,7 @@ export default function DirectoryCard({ name, url, description, index, label, on
         </div>
 
         {/* Name */}
-        <h3 className="font-sans text-[16px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
+        <h3 className="font-sans text-[16px] font-bold tracking-tight text-gold/80 leading-snug transition-colors group-hover:text-gold">
           {name}
         </h3>
 

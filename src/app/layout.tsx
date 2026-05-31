@@ -29,14 +29,14 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: {
-    default: "KD Tech Wiki | Malaysia Tech Startup Ecosystem Directory",
-    template: "%s | KD Tech Wiki",
+    default: "Malaysian Tech Wiki | Malaysia Tech Startup Ecosystem Directory",
+    template: "%s | Malaysian Tech Wiki",
   },
   description: "A curated technical wiki and directory of Malaysia's tech community groups, builders, and government agencies.",
-  keywords: ["Malaysia", "Startup", "Tech Community", "Ecosystem Builders", "Government Grants", "Malaysia Tech", "Developer Groups", "KD Tech Wiki"],
-  authors: [{ name: "KD Tech Wiki" }],
+  keywords: ["Malaysia", "Startup", "Tech Community", "Ecosystem Builders", "Government Grants", "Malaysia Tech", "Developer Groups", "Malaysian Tech Wiki"],
+  authors: [{ name: "Malaysian Tech Wiki" }],
   openGraph: {
-    title: "KD Tech Wiki | Malaysia Tech Startup Ecosystem Directory",
+    title: "Malaysian Tech Wiki | Malaysia Tech Startup Ecosystem Directory",
     description: "Discover, connect, and collaborate with Malaysia's tech communities, builder networks, and official agencies.",
     type: "website",
     locale: "en_MY",
@@ -53,6 +53,14 @@ export default function RootLayout({
       lang="en"
       className={`${geist.variable} ${inter.variable} ${geistMono.variable} h-full antialiased`}
     >
+      <head>
+        {/* No-FOUC: apply saved theme class before first paint */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `try{var t=localStorage.getItem('kd-theme');if(t&&t!=='green')document.documentElement.classList.add('theme-'+t);}catch(e){}`,
+          }}
+        />
+      </head>
       <body className="min-h-full font-sans selection:bg-gold/30 selection:text-forest">
         {/* Fixed background image — matte + dimmed */}
         <div

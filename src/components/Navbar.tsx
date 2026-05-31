@@ -47,7 +47,7 @@ export default function Navbar() {
           </div>
           <div className="flex items-baseline gap-0">
             <span className="font-mono text-[12.5px] font-extrabold tracking-[0.14em] uppercase text-charcoal">
-              KD Tech Wiki
+              Malaysian Tech Wiki
             </span>
             <span className="text-gold font-mono text-[12.5px] font-light animate-terminal-blink">_</span>
           </div>

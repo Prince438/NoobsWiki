@@ -115,7 +115,7 @@ export default function CommunityBuildersPage() {
           <div className="font-mono text-[10px] font-semibold text-gold/85 tracking-[0.2em] uppercase">
             [ DIRECTORY // SEC_02 ]
           </div>
-          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-charcoal uppercase leading-none md:text-[60px]">
+          <h1 className="font-display text-[48px] font-bold tracking-[0.06em] text-gold uppercase leading-none md:text-[60px]">
             Community Builders
           </h1>
           <p className="font-sans text-[14.5px] leading-relaxed text-charcoal/68 max-w-xl">

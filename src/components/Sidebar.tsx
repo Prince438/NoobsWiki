@@ -4,6 +4,7 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
 import { Users, Cpu, ShieldAlert, Wrench, BookOpen, Bookmark, TrendingUp } from "lucide-react";
+import ThemeSwitcher from "@/components/ThemeSwitcher";
 
 const directoryLinks = [
   { href: "/community-groups", label: "Community Groups", icon: Users },
@@ -37,7 +38,7 @@ export default function Sidebar() {
   }, []);
 
   // eslint-disable-next-line @next/next/no-img-element
-  const brandMark = <img src="/logo.svg" alt="KD Tech Wiki" className="h-5 w-5 object-contain" />;
+  const brandMark = <img src="/logo.svg" alt="Malaysian Tech Wiki" className="h-5 w-5 object-contain" />;
 
   const renderNavLink = (link: { href: string; label: string; icon: React.ElementType }, isSaved = false) => {
     const isActive = pathname === link.href || pathname.startsWith(link.href + "/");
@@ -84,7 +85,7 @@ export default function Sidebar() {
           </div>
           <div className="min-w-0">
             <span className="font-mono text-[11px] font-extrabold tracking-[0.1em] uppercase text-charcoal">
-              KD Tech Wiki
+              Malaysian Tech Wiki
             </span>
             <span className="font-mono text-[11px] font-light text-gold animate-terminal-blink">_</span>
           </div>
@@ -94,22 +95,25 @@ export default function Sidebar() {
         <nav className="flex flex-1 flex-col gap-0.5 overflow-y-auto px-2 pt-4">
 
           {/* Directories section */}
-          <div className="px-2 pb-2.5 font-mono text-[9px] tracking-[0.22em] text-charcoal/28 uppercase">
+          <div className="px-2 pb-2.5 font-mono text-[9px] tracking-[0.22em] text-charcoal/40 uppercase">
             Directories
           </div>
           {directoryLinks.map((link) => renderNavLink(link))}
 
           {/* Pages section */}
-          <div className="px-2 pb-2.5 pt-5 font-mono text-[9px] tracking-[0.22em] text-charcoal/28 uppercase">
+          <div className="px-2 pb-2.5 pt-5 font-mono text-[9px] tracking-[0.22em] text-charcoal/40 uppercase">
             Pages
           </div>
           {pageLinks.map((link) => renderNavLink(link, link.href === "/saved"))}
 
         </nav>
 
+        {/* Theme switcher */}
+        <ThemeSwitcher />
+
         {/* Social links */}
         <div className="border-t border-panel-border/50 px-4 py-3.5">
-          <div className="mb-2 font-mono text-[9px] tracking-[0.2em] text-charcoal/28 uppercase">Follow</div>
+          <div className="mb-2 font-mono text-[9px] tracking-[0.2em] text-charcoal/40 uppercase">Follow</div>
           <div className="flex flex-col gap-2">
             {[
               { label: "Discord",     href: "https://discord.gg/ThkRctzyRE",        icon: "/social/discord.svg"   },
@@ -144,9 +148,9 @@ export default function Sidebar() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-forest opacity-60" />
               <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-forest" />
             </span>
-            <span className="font-mono text-[9px] tracking-wider text-charcoal/38 uppercase">Operational</span>
+            <span className="font-mono text-[9px] tracking-wider text-charcoal/50 uppercase">Operational</span>
           </div>
-          <div className="font-mono text-[9px] uppercase tracking-wider text-charcoal/25 leading-relaxed">
+          <div className="font-mono text-[9px] uppercase tracking-wider text-charcoal/38 leading-relaxed">
             Loc: Kuala Lumpur<br />
             TZ: GMT+8
           </div>
@@ -167,7 +171,7 @@ export default function Sidebar() {
             {brandMark}
           </div>
           <span className="font-mono text-[11px] font-extrabold tracking-[0.1em] uppercase text-charcoal">
-            KD Tech Wiki<span className="text-gold font-light animate-terminal-blink">_</span>
+            Malaysian Tech Wiki<span className="text-gold font-light animate-terminal-blink">_</span>
           </span>
         </Link>
         <nav className="flex items-center gap-1 pr-10">

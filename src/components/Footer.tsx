@@ -25,9 +25,9 @@ export default function Footer() {
           {/* Brand */}
           <div className="space-y-4">
             <div className="flex items-center gap-2.5">
-              <img src="/logo.svg" alt="KD Tech Wiki" className="h-8 w-8 object-contain" />
+              <img src="/logo.svg" alt="Malaysian Tech Wiki" className="h-8 w-8 object-contain" />
               <span className="font-mono text-[12px] font-extrabold tracking-[0.1em] uppercase text-charcoal">
-                KD Tech Wiki
+                Malaysian Tech Wiki
               </span>
             </div>
             <p className="font-sans text-[14px] leading-[1.65] text-charcoal/58 max-w-xs">

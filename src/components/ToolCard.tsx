@@ -46,13 +46,13 @@ export default function ToolCard({ name, description, summary, links, index }: T
             href={primaryLink.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90 hover:underline decoration-gold/40 flex-1"
+            className="font-sans text-[14px] font-bold tracking-tight text-gold/80 leading-snug transition-colors group-hover:text-gold hover:underline decoration-gold/40 flex-1"
             onClick={(e) => e.stopPropagation()}
           >
             {name}
           </a>
         ) : (
-          <h3 className="flex-1 font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
+          <h3 className="flex-1 font-sans text-[14px] font-bold tracking-tight text-gold/80 leading-snug transition-colors group-hover:text-gold">
             {name}
           </h3>
         )}
