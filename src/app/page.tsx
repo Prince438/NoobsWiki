@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Users, Cpu, ShieldAlert, Wrench, BookOpen, TrendingUp, ArrowRight, GraduationCap } from "lucide-react";
+import { Users, Cpu, ShieldAlert, Wrench, BookOpen, TrendingUp, ArrowRight } from "lucide-react";
 import AsciiBackground from "@/components/AsciiBackground";
 import HomepageSearch from "@/components/HomepageSearch";
 import { getAllSearchItems } from "@/lib/search-data";
@@ -286,35 +286,6 @@ export default function Home() {
               <div className="flex items-center gap-1.5 font-mono text-[11px] font-semibold tracking-[0.12em] text-gold/72 transition-colors group-hover:text-gold">
                 <span>EXPLORE TUTORIALS</span>
                 <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
-              </div>
-            </Link>
-
-            {/* KD Lessons */}
-            <Link href="/kd-lessons" className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel p-6 transition-all duration-300 hover:border-gold/35 hover:shadow-[0_4px_32px_rgba(0,0,0,0.4)] overflow-hidden md:col-span-2">
-              <div className="absolute inset-x-0 top-0 h-[1.5px] bg-gold/0 transition-all duration-300 group-hover:bg-gold/35 rounded-t pointer-events-none" />
-              <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
-              <div className="flex flex-col sm:flex-row sm:items-start sm:gap-8">
-                <div className="mb-5 sm:mb-0 flex-shrink-0 flex items-start justify-between sm:block">
-                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#071007]">
-                    <GraduationCap className="h-[17px] w-[17px] stroke-[1.8]" />
-                  </div>
-                  <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1 sm:hidden">07</span>
-                </div>
-                <div className="flex-1 min-w-0">
-                  <div className="mb-2 flex items-start justify-between">
-                    <h2 className="font-display text-[22px] font-bold tracking-[0.04em] text-charcoal uppercase transition-colors group-hover:text-gold/90">
-                      KD Lessons
-                    </h2>
-                    <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1 hidden sm:block">07</span>
-                  </div>
-                  <p className="mb-6 font-sans text-[14.5px] leading-[1.65] text-charcoal/70 max-w-xl">
-                    A digital classroom with live sessions and recorded lessons — watch, take notes, bookmark your progress, and export what you learn.
-                  </p>
-                  <div className="flex items-center gap-1.5 font-mono text-[11px] font-semibold tracking-[0.12em] text-gold/72 transition-colors group-hover:text-gold">
-                    <span>ENTER CLASSROOM</span>
-                    <ArrowRight className="h-3 w-3 transition-transform duration-300 group-hover:translate-x-0.5" />
-                  </div>
-                </div>
               </div>
             </Link>
 

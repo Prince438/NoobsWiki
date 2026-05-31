@@ -2,25 +2,23 @@
 
 import { useState, useMemo, useRef, useEffect, useCallback } from "react";
 import { useRouter } from "next/navigation";
-import { Search, ArrowRight, Users, Cpu, ShieldAlert, TrendingUp, BookOpen, Wrench, GraduationCap } from "lucide-react";
+import { Search, ArrowRight, Users, Cpu, ShieldAlert, TrendingUp, BookOpen, Wrench } from "lucide-react";
 import type { SearchItem, SearchItemType } from "@/lib/search-data";
 
 const TYPE_LABELS: Record<SearchItemType, string> = {
-  group:    "Community",
-  builder:  "Builder",
-  agency:   "Agency",
-  vc:       "VC Firm",
+  group: "Community",
+  builder: "Builder",
+  agency: "Agency",
+  vc: "VC Firm",
   tutorial: "Tutorial",
-  lesson:   "KD Lesson",
 };
 
 const TYPE_ICONS: Record<SearchItemType, React.ElementType> = {
-  group:    Users,
-  builder:  Cpu,
-  agency:   ShieldAlert,
-  vc:       TrendingUp,
+  group: Users,
+  builder: Cpu,
+  agency: ShieldAlert,
+  vc: TrendingUp,
   tutorial: BookOpen,
-  lesson:   GraduationCap,
 };
 
 function scoreItem(item: SearchItem, q: string): number {

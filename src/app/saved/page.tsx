@@ -2,12 +2,10 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { Bookmark, ExternalLink, Trash2, ArrowRight, FileText, GraduationCap } from "lucide-react";
+import { Bookmark, ExternalLink, Trash2, ArrowRight } from "lucide-react";
 import { getBookmarks, type BookmarkItem } from "@/components/BookmarkButton";
-import { LESSONS, getLessonNotes, deleteLessonNote } from "@/data/lessons";
 
 const TYPE_LABELS: Record<string, string> = {
-  lesson:  "KD Lesson",
   tutorial: "Tech Tutorial",
   tool:     "Tech Tool",
   group:    "Community Group",
@@ -15,32 +13,18 @@ const TYPE_LABELS: Record<string, string> = {
   agency:   "Government Agency",
 };
 
-const TYPE_ORDER = ["lesson", "tutorial", "tool", "group", "builder", "agency"] as const;
-
-function getLessonTitle(lessonId: string): string {
-  return LESSONS.find((l) => l.id === lessonId)?.title ?? lessonId;
-}
+const TYPE_ORDER = ["tutorial", "tool", "group", "builder", "agency"] as const;
 
 export default function SavedPage() {
-  const [bookmarks, setBookmarks]     = useState<BookmarkItem[]>([]);
-  const [lessonNotes, setLessonNotes] = useState<Record<string, string>>({});
-  const [mounted, setMounted]         = useState(false);
+  const [bookmarks, setBookmarks] = useState<BookmarkItem[]>([]);
+  const [mounted, setMounted]     = useState(false);
 
   useEffect(() => {
     setMounted(true);
-
-    const loadBookmarks = () => setBookmarks(getBookmarks());
-    const loadNotes     = () => setLessonNotes(getLessonNotes());
-
-    loadBookmarks();
-    loadNotes();
-
-    window.addEventListener("kd-bookmarks-changed", loadBookmarks);
-    window.addEventListener("kd-notes-changed", loadNotes);
-    return () => {
-      window.removeEventListener("kd-bookmarks-changed", loadBookmarks);
-      window.removeEventListener("kd-notes-changed", loadNotes);
-    };
+    const load = () => setBookmarks(getBookmarks());
+    load();
+    window.addEventListener("kd-bookmarks-changed", load);
+    return () => window.removeEventListener("kd-bookmarks-changed", load);
   }, []);
 
   const removeBookmark = (id: string) => {
@@ -56,27 +40,6 @@ export default function SavedPage() {
     window.dispatchEvent(new Event("kd-bookmarks-changed"));
   };
 
-  const removeNote = (lessonId: string) => {
-    deleteLessonNote(lessonId);
-    setLessonNotes((prev) => {
-      const next = { ...prev };
-      delete next[lessonId];
-      return next;
-    });
-  };
-
-  const downloadNote = (lessonId: string, note: string) => {
-    const title   = getLessonTitle(lessonId);
-    const content = `# ${title}\n\n${note}`;
-    const blob    = new Blob([content], { type: "text/markdown" });
-    const url     = URL.createObjectURL(blob);
-    const a       = document.createElement("a");
-    a.href        = url;
-    a.download    = `${lessonId}-notes.md`;
-    a.click();
-    URL.revokeObjectURL(url);
-  };
-
   if (!mounted) return null;
 
   const grouped = TYPE_ORDER.map((type) => ({
@@ -84,9 +47,6 @@ export default function SavedPage() {
     label: TYPE_LABELS[type],
     items: bookmarks.filter((b) => b.type === type),
   })).filter((g) => g.items.length > 0);
-
-  const noteEntries = Object.entries(lessonNotes);
-  const hasContent  = bookmarks.length > 0 || noteEntries.length > 0;
 
   return (
     <div className="min-h-screen">
@@ -112,14 +72,14 @@ export default function SavedPage() {
           )}
         </div>
         <p className="mt-3 font-sans text-[14px] text-charcoal/50 leading-[1.65]">
-          {hasContent
-            ? `${bookmarks.length} saved ${bookmarks.length === 1 ? "item" : "items"}${noteEntries.length > 0 ? ` · ${noteEntries.length} lesson ${noteEntries.length === 1 ? "note" : "notes"}` : ""} — stored in your browser.`
+          {bookmarks.length > 0
+            ? `${bookmarks.length} saved ${bookmarks.length === 1 ? "item" : "items"} — stored in your browser.`
             : "No bookmarks yet. Star any item across the directory to save it here."}
         </p>
       </div>
 
       {/* Empty state */}
-      {!hasContent && (
+      {bookmarks.length === 0 && (
         <div className="flex flex-col items-center justify-center rounded border border-dashed border-panel-border/35 bg-panel py-20 text-center">
           <Bookmark className="h-8 w-8 text-charcoal/15 mb-4" strokeWidth={1.5} />
           <p className="mb-1.5 font-mono text-[12px] text-charcoal/42">NOTHING SAVED YET</p>
@@ -128,11 +88,10 @@ export default function SavedPage() {
           </p>
           <div className="flex flex-wrap justify-center gap-3">
             {[
-              { href: "/tech-tools",          label: "Tech Tools"          },
-              { href: "/community-groups",     label: "Community Groups"    },
-              { href: "/community-builders",   label: "Community Builders"  },
-              { href: "/government-agencies",  label: "Government Agencies" },
-              { href: "/kd-lessons",           label: "KD Lessons"          },
+              { href: "/tech-tools",         label: "Tech Tools"         },
+              { href: "/community-groups",    label: "Community Groups"   },
+              { href: "/community-builders",  label: "Community Builders" },
+              { href: "/government-agencies", label: "Government Agencies"},
             ].map((link) => (
               <Link
                 key={link.href}
@@ -147,71 +106,7 @@ export default function SavedPage() {
         </div>
       )}
 
-      {/* ── Lesson Notes section ── */}
-      {noteEntries.length > 0 && (
-        <section className="mb-12 space-y-4">
-          <div className="flex items-center gap-3 border-b border-panel-border/25 pb-3">
-            <GraduationCap className="h-4 w-4 text-gold/55" />
-            <h2 className="font-display text-[22px] font-bold uppercase tracking-[0.05em] text-charcoal leading-none">
-              Lesson Notes
-            </h2>
-            <span className="font-mono text-[10px] text-charcoal/32 ml-auto">
-              {noteEntries.length} {noteEntries.length === 1 ? "set" : "sets"}
-            </span>
-          </div>
-
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {noteEntries.map(([lessonId, note]) => (
-              <div
-                key={lessonId}
-                className="group relative flex flex-col justify-between rounded border border-panel-border bg-panel transition-all duration-300 hover:border-forest/45 overflow-hidden"
-              >
-                <div className="absolute inset-x-0 top-0 h-[1.5px] bg-gold/0 transition-all duration-300 group-hover:bg-gold/30 pointer-events-none" />
-
-                <div className="flex flex-col gap-2 p-4">
-                  <div className="font-mono text-[10px] tracking-widest text-charcoal/36 uppercase">
-                    // KD Lesson
-                  </div>
-                  <h3 className="font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug group-hover:text-gold/90 transition-colors">
-                    {getLessonTitle(lessonId)}
-                  </h3>
-                  <p className="font-sans text-[12px] leading-[1.6] text-charcoal/42 line-clamp-3 whitespace-pre-wrap">
-                    {note}
-                  </p>
-                </div>
-
-                <div className="mx-4 mb-3 pt-3 border-t border-panel-border/25 flex items-center justify-between gap-2">
-                  <Link
-                    href="/kd-lessons"
-                    className="inline-flex items-center gap-1 font-mono text-[10px] text-charcoal/38 hover:text-gold transition-colors"
-                  >
-                    <ArrowRight className="h-3 w-3" />
-                    <span>Open in KD Lessons</span>
-                  </Link>
-                  <div className="flex items-center gap-2 flex-shrink-0">
-                    <button
-                      onClick={() => downloadNote(lessonId, note)}
-                      title="Download as Markdown"
-                      className="text-charcoal/25 hover:text-gold transition-colors"
-                    >
-                      <FileText className="h-3.5 w-3.5" strokeWidth={1.8} />
-                    </button>
-                    <button
-                      onClick={() => removeNote(lessonId)}
-                      aria-label="Delete notes"
-                      className="text-charcoal/20 hover:text-crimson transition-colors"
-                    >
-                      <Trash2 className="h-3.5 w-3.5" strokeWidth={1.8} />
-                    </button>
-                  </div>
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
-
-      {/* ── Grouped bookmark list ── */}
+      {/* Grouped bookmark list */}
       {grouped.length > 0 && (
         <div className="space-y-10">
           {grouped.map(({ type, label, items }) => (
@@ -238,7 +133,7 @@ export default function SavedPage() {
 
                     <div className="flex flex-col gap-2 p-4">
                       <div className="font-mono text-[10px] tracking-widest text-charcoal/36 uppercase">
-                        // {TYPE_LABELS[item.type] ?? item.type}
+                        // {TYPE_LABELS[item.type]}
                       </div>
                       <h3 className="font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug group-hover:text-gold/90 transition-colors">
                         {item.name}

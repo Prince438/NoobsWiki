@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
-import { Users, Cpu, ShieldAlert, Wrench, BookOpen, Bookmark, TrendingUp, GraduationCap } from "lucide-react";
+import { Users, Cpu, ShieldAlert, Wrench, BookOpen, Bookmark, TrendingUp } from "lucide-react";
 
 const directoryLinks = [
   { href: "/community-groups", label: "Community Groups", icon: Users },
@@ -12,7 +12,6 @@ const directoryLinks = [
   { href: "/tech-tools", label: "Tech Tools", icon: Wrench },
   { href: "/malaysian-vcs", label: "Malaysian VC's", icon: TrendingUp },
   { href: "/tech-tutorials", label: "Tech Tutorials", icon: BookOpen },
-  { href: "/kd-lessons", label: "KD Lessons", icon: GraduationCap },
 ];
 
 const pageLinks = [
