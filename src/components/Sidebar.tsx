@@ -36,15 +36,8 @@ export default function Sidebar() {
     return () => window.removeEventListener("kd-bookmarks-changed", update);
   }, []);
 
-  const brandMark = (
-    <svg className="h-[13px] w-[13px]" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round">
-      <line x1="4" y1="8" x2="20" y2="8" strokeWidth="1.6" />
-      <line x1="6.5" y1="12" x2="17.5" y2="12" strokeWidth="1.6" />
-      <line x1="9" y1="16" x2="15" y2="16" strokeWidth="1.6" />
-      <line x1="12" y1="5.5" x2="12" y2="8" strokeWidth="1.6" />
-      <circle cx="12" cy="4.5" r="1" fill="currentColor" stroke="none" />
-    </svg>
-  );
+  // eslint-disable-next-line @next/next/no-img-element
+  const brandMark = <img src="/logo.svg" alt="KD Tech Wiki" className="h-5 w-5 object-contain" />;
 
   const renderNavLink = (link: { href: string; label: string; icon: React.ElementType }, isSaved = false) => {
     const isActive = pathname === link.href || pathname.startsWith(link.href + "/");
@@ -86,7 +79,7 @@ export default function Sidebar() {
           href="/"
           className="group flex items-center gap-2.5 border-b border-panel-border/50 px-4 py-[14px] transition-colors hover:bg-panel-raised"
         >
-          <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors group-hover:border-forest/40">
+          <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center">
             {brandMark}
           </div>
           <div className="min-w-0">
@@ -140,7 +133,7 @@ export default function Sidebar() {
       {/* ── Mobile header ── */}
       <header className="sticky top-0 z-50 flex items-center justify-between border-b border-panel-border/50 bg-panel/90 px-4 py-3 backdrop-blur-md md:hidden">
         <Link href="/" className="group flex items-center gap-2">
-          <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center rounded border border-panel-border bg-cream text-gold transition-colors group-hover:border-forest/40">
+          <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center">
             {brandMark}
           </div>
           <span className="font-mono text-[10px] font-extrabold tracking-[0.12em] uppercase text-charcoal">
