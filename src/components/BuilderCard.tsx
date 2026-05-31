@@ -56,19 +56,19 @@ export default function BuilderCard({ name, description, links, category, index 
 
         {/* Top meta row */}
         <div className="flex items-center justify-between">
-          <span className="font-mono text-[9px] tracking-widest text-charcoal/38 uppercase">
+          <span className="font-mono text-[10px] tracking-widest text-charcoal/42 uppercase">
             // {categoryLabel}
           </span>
-          <span className="font-mono text-[9px] text-gold/40 font-semibold tabular-nums">[{formattedIndex}]</span>
+          <span className="font-mono text-[10px] text-gold/45 font-semibold tabular-nums">[{formattedIndex}]</span>
         </div>
 
         {/* Name */}
-        <h3 className="font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
+        <h3 className="font-sans text-[15px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
           {name}
         </h3>
 
         {/* Description */}
-        <p className="font-sans text-[11.5px] leading-relaxed text-charcoal/52 line-clamp-3">
+        <p className="font-sans text-[13px] leading-[1.65] text-charcoal/58 line-clamp-3">
           {description}
         </p>
 
@@ -84,7 +84,7 @@ export default function BuilderCard({ name, description, links, category, index 
                 href={link.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1 rounded border border-panel-border/60 bg-cream/30 px-2 py-0.5 font-mono text-[9px] text-charcoal/42 hover:text-gold hover:border-gold/30 transition-colors"
+                className="inline-flex items-center gap-1 rounded border border-panel-border/60 bg-cream/30 px-2 py-0.5 font-mono text-[10px] text-charcoal/45 hover:text-gold hover:border-gold/30 transition-colors"
                 onClick={(e) => e.stopPropagation()}
               >
                 <ExternalLink className="h-[9px] w-[9px] flex-shrink-0" />
@@ -93,7 +93,7 @@ export default function BuilderCard({ name, description, links, category, index 
             ))}
           </div>
         ) : (
-          <span className="font-mono text-[9px] text-charcoal/22 flex-1">No public links</span>
+          <span className="font-mono text-[10px] text-charcoal/28 flex-1">No public links</span>
         )}
         <div className="flex items-center gap-2 flex-shrink-0 mb-0.5">
           <ShareButton url={links[0]?.url} />

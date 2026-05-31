@@ -1,26 +1,25 @@
 import type { Metadata, Viewport } from "next";
-import { Outfit, JetBrains_Mono, Cormorant_Garamond } from "next/font/google";
+import { Geist, Inter, Geist_Mono } from "next/font/google";
 import Sidebar from "@/components/Sidebar";
 import CommandPalette from "@/components/CommandPalette";
 import Footer from "@/components/Footer";
 import "./globals.css";
 
-const outfit = Outfit({
-  variable: "--font-outfit",
+const geist = Geist({
+  variable: "--font-geist",
   subsets: ["latin"],
   display: "swap",
 });
 
-const jetbrainsMono = JetBrains_Mono({
-  variable: "--font-mono-jetbrains",
+const inter = Inter({
+  variable: "--font-inter",
   subsets: ["latin"],
   display: "swap",
 });
 
-const cormorant = Cormorant_Garamond({
-  variable: "--font-cormorant",
+const geistMono = Geist_Mono({
+  variable: "--font-geist-mono",
   subsets: ["latin"],
-  weight: ["400", "600", "700"],
   display: "swap",
 });
 
@@ -52,7 +51,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${outfit.variable} ${jetbrainsMono.variable} ${cormorant.variable} h-full antialiased`}
+      className={`${geist.variable} ${inter.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full font-sans selection:bg-gold/30 selection:text-forest">
         {/* Fixed background image — matte + dimmed */}

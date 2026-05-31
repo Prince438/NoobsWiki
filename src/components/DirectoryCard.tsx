@@ -58,12 +58,12 @@ export default function DirectoryCard({ name, url, description, index, label, on
         </div>
 
         {/* Name */}
-        <h3 className="font-sans text-[15px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
+        <h3 className="font-sans text-[16px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
           {name}
         </h3>
 
         {/* Description */}
-        <p className="font-sans text-[12.5px] leading-relaxed text-charcoal/68 line-clamp-3">
+        <p className="font-sans text-[14px] leading-[1.65] text-charcoal/68 line-clamp-3">
           {description}
         </p>
 
@@ -75,7 +75,7 @@ export default function DirectoryCard({ name, url, description, index, label, on
           href={url}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-flex items-center gap-1.5 font-mono text-[10.5px] text-gold/65 transition-colors hover:text-gold group-hover:text-gold/85"
+          className="inline-flex items-center gap-1.5 font-mono text-[11px] text-gold/65 transition-colors hover:text-gold group-hover:text-gold/85"
           onClick={(e) => e.stopPropagation()}
         >
           <ExternalLink className="h-2.5 w-2.5 flex-shrink-0 transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />

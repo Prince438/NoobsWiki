@@ -68,12 +68,12 @@ export default function GroupCard({ name, description, links, category, index }:
         </div>
 
         {/* Name */}
-        <h3 className="font-sans text-[15px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
+        <h3 className="font-sans text-[16px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
           {name}
         </h3>
 
         {/* Description */}
-        <p className="font-sans text-[12.5px] leading-relaxed text-charcoal/65 line-clamp-3">
+        <p className="font-sans text-[14px] leading-[1.65] text-charcoal/68 line-clamp-3">
           {description}
         </p>
 
@@ -89,7 +89,7 @@ export default function GroupCard({ name, description, links, category, index }:
                 href={link.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-1 rounded border border-panel-border/60 bg-cream/30 px-2 py-1 font-mono text-[10px] text-charcoal/55 hover:text-gold hover:border-gold/30 transition-colors touch-manipulation"
+                className="inline-flex items-center gap-1 rounded border border-panel-border/60 bg-cream/30 px-2 py-1 font-mono text-[11px] text-charcoal/55 hover:text-gold hover:border-gold/30 transition-colors touch-manipulation"
                 onClick={(e) => e.stopPropagation()}
               >
                 <ExternalLink className="h-2.5 w-2.5 flex-shrink-0" />
@@ -98,7 +98,7 @@ export default function GroupCard({ name, description, links, category, index }:
             ))}
           </div>
         ) : (
-          <span className="font-mono text-[10px] text-charcoal/38 flex-1">No public links</span>
+          <span className="font-mono text-[11px] text-charcoal/42 flex-1">No public links</span>
         )}
         <div className="flex items-center gap-2 flex-shrink-0">
           <ShareButton url={links[0]?.url} />

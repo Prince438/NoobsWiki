@@ -3,7 +3,7 @@ import { VC_DATA } from "@/data/vc-data";
 import fs from "fs";
 import path from "path";
 
-export type SearchItemType = "group" | "builder" | "agency" | "vc" | "tutorial";
+export type SearchItemType = "group" | "builder" | "agency" | "vc" | "tutorial" | "lesson";
 
 export interface SearchItem {
   id: string;
@@ -20,6 +20,7 @@ export const TYPE_LABELS: Record<SearchItemType, string> = {
   agency: "Agency",
   vc: "VC Firm",
   tutorial: "Tutorial",
+  lesson: "KD Lesson",
 };
 
 const TUTORIAL_ITEMS: SearchItem[] = [
@@ -163,6 +164,34 @@ export function getAllSearchItems(): SearchItem[] {
 
   // Tutorials (static)
   items.push(...TUTORIAL_ITEMS);
+
+  // KD Lessons (static)
+  items.push(
+    {
+      id: "kd-lessons",
+      name: "KD Lessons",
+      description: "Digital classroom with live sessions, lesson notes, and bookmarks for the KD Tech community.",
+      href: "/kd-lessons",
+      type: "lesson",
+      category: "Classroom",
+    },
+    {
+      id: "kd-lesson-001",
+      name: "KD Lesson 1",
+      description: "First live session in the KD Tech Wiki digital classroom.",
+      href: "/kd-lessons",
+      type: "lesson",
+      category: "Live Session",
+    },
+    {
+      id: "kd-lesson-002",
+      name: "KD Lesson 2",
+      description: "Second live session — continued learning in the KD Tech Wiki classroom.",
+      href: "/kd-lessons",
+      type: "lesson",
+      category: "Live Session",
+    },
+  );
 
   _cache = items;
   return items;

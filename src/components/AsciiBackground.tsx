@@ -9,9 +9,9 @@ const BASE_SPD   = 0.8;     // base fall speed (px/frame)
 const SPD_VAR    = 0.7;     // random extra speed per drop
 const MIN_LEN    = 10;      // min stream length (characters)
 const MAX_LEN    = 28;      // max stream length
-const SPAWN_P    = 0.007;   // probability per column per frame to spawn
+const SPAWN_P    = 0.0038;  // probability per column per frame to spawn
 const CHAR_P     = 0.07;    // probability per cell per frame to mutate char
-const FADE       = 0.18;    // destination-out per frame (trail persistence)
+const FADE       = 0.22;    // destination-out per frame (trail persistence)
 
 // matrix green palette — reduced alpha so content stays readable
 const HEAD_C = "160,230,180";  // leading char — softer green-white
@@ -60,7 +60,7 @@ export default function AsciiBackground() {
     const cols = Math.ceil(cv.width / COL_W);
     drops.current = [];
     for (let c = 0; c < cols; c++) {
-      if (Math.random() < 0.55) {
+      if (Math.random() < 0.32) {
         drops.current.push(spawnDrop(c * COL_W, Math.random() * cv.height));
       }
     }
@@ -133,19 +133,19 @@ export default function AsciiBackground() {
           if (i === 0) {
             // leading character — softened head
             color = HEAD_C;
-            alpha = 0.55;
+            alpha = 0.28;
           } else if (frac < 0.12) {
             // neck — fade from head colour to body
             color = HEAD_C;
-            alpha = 0.40 - frac * 2.5;
+            alpha = 0.20 - frac * 1.3;
           } else if (frac < 0.55) {
             // body — solid green fading
             color = BODY_C;
-            alpha = 0.30 - (frac - 0.12) * 0.65;
+            alpha = 0.14 - (frac - 0.12) * 0.30;
           } else {
             // tail — dim green to nothing
             color = TAIL_C;
-            alpha = Math.max(0, 0.14 - (frac - 0.55) * 0.35);
+            alpha = Math.max(0, 0.06 - (frac - 0.55) * 0.15);
           }
 
           ctx.fillStyle = `rgba(${color},${alpha.toFixed(3)})`;

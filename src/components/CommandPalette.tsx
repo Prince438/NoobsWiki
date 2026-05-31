@@ -3,24 +3,26 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import {
-  Search, X, Users, Cpu, ShieldAlert, TrendingUp, BookOpen, Wrench, Bookmark, ArrowRight,
+  Search, X, Users, Cpu, ShieldAlert, TrendingUp, BookOpen, Wrench, Bookmark, ArrowRight, GraduationCap,
 } from "lucide-react";
 import type { SearchItem, SearchItemType } from "@/lib/search-data";
 
 const TYPE_LABELS: Record<SearchItemType, string> = {
-  group: "Community",
-  builder: "Builder",
-  agency: "Agency",
-  vc: "VC Firm",
+  group:    "Community",
+  builder:  "Builder",
+  agency:   "Agency",
+  vc:       "VC Firm",
   tutorial: "Tutorial",
+  lesson:   "KD Lesson",
 };
 
 const TYPE_ICONS: Record<SearchItemType, React.ElementType> = {
-  group: Users,
-  builder: Cpu,
-  agency: ShieldAlert,
-  vc: TrendingUp,
+  group:    Users,
+  builder:  Cpu,
+  agency:   ShieldAlert,
+  vc:       TrendingUp,
   tutorial: BookOpen,
+  lesson:   GraduationCap,
 };
 
 type FilterType = SearchItemType | "saved" | "all";
@@ -32,7 +34,8 @@ const FILTERS: { key: FilterType; label: string }[] = [
   { key: "agency", label: "Agencies" },
   { key: "vc", label: "VC Firms" },
   { key: "tutorial", label: "Tutorials" },
-  { key: "saved", label: "Saved" },
+  { key: "lesson",   label: "KD Lessons" },
+  { key: "saved",    label: "Saved" },
 ];
 
 interface SavedItem {

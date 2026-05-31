@@ -46,24 +46,24 @@ export default function ToolCard({ name, description, summary, links, index }: T
             href={primaryLink.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="font-sans text-[13px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90 hover:underline decoration-gold/40 flex-1"
+            className="font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90 hover:underline decoration-gold/40 flex-1"
             onClick={(e) => e.stopPropagation()}
           >
             {name}
           </a>
         ) : (
-          <h3 className="flex-1 font-sans text-[13px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
+          <h3 className="flex-1 font-sans text-[14px] font-bold tracking-tight text-charcoal leading-snug transition-colors group-hover:text-gold/90">
             {name}
           </h3>
         )}
-        <span className="font-mono text-[8.5px] text-gold/35 font-semibold tabular-nums flex-shrink-0 pt-0.5">
+        <span className="font-mono text-[10px] text-gold/35 font-semibold tabular-nums flex-shrink-0 pt-0.5">
           [{formattedIndex}]
         </span>
       </div>
 
       {/* Summary */}
       {summary && (
-        <p className="px-4 pb-2 font-sans text-[11px] leading-relaxed text-charcoal/58 line-clamp-2">
+        <p className="px-4 pb-2 font-sans text-[13px] leading-[1.6] text-charcoal/60 line-clamp-2">
           {summary}
         </p>
       )}
@@ -75,7 +75,7 @@ export default function ToolCard({ name, description, summary, links, index }: T
       {(description || extraLinks.length > 0) && (
         <div className="flex flex-col gap-2 px-4 pb-2">
           {description && (
-            <p className="font-sans text-[11px] leading-relaxed text-charcoal/45 line-clamp-2">
+            <p className="font-sans text-[13px] leading-[1.6] text-charcoal/48 line-clamp-2">
               {description}
             </p>
           )}
@@ -87,7 +87,7 @@ export default function ToolCard({ name, description, summary, links, index }: T
                   href={link.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 rounded border border-panel-border/55 bg-cream/20 px-1.5 py-0.5 font-mono text-[8px] text-charcoal/38 hover:text-gold hover:border-gold/30 transition-colors"
+                  className="inline-flex items-center gap-1 rounded border border-panel-border/55 bg-cream/20 px-1.5 py-0.5 font-mono text-[10px] text-charcoal/42 hover:text-gold hover:border-gold/30 transition-colors"
                   onClick={(e) => e.stopPropagation()}
                 >
                   <ExternalLink className="h-[8px] w-[8px] flex-shrink-0" />

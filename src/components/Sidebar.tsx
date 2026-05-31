@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
-import { Users, Cpu, ShieldAlert, Wrench, BookOpen, Bookmark, TrendingUp } from "lucide-react";
+import { Users, Cpu, ShieldAlert, Wrench, BookOpen, Bookmark, TrendingUp, GraduationCap } from "lucide-react";
 
 const directoryLinks = [
   { href: "/community-groups", label: "Community Groups", icon: Users },
@@ -12,6 +12,7 @@ const directoryLinks = [
   { href: "/tech-tools", label: "Tech Tools", icon: Wrench },
   { href: "/malaysian-vcs", label: "Malaysian VC's", icon: TrendingUp },
   { href: "/tech-tutorials", label: "Tech Tutorials", icon: BookOpen },
+  { href: "/kd-lessons", label: "KD Lessons", icon: GraduationCap },
 ];
 
 const pageLinks = [
@@ -57,11 +58,11 @@ export default function Sidebar() {
             isActive ? "text-gold/75" : "text-charcoal/30"
           }`}
         />
-        <span className="font-mono text-[9px] font-bold uppercase tracking-wide leading-snug flex-1">
+        <span className="font-mono text-[10px] font-bold uppercase tracking-wide leading-snug flex-1">
           {link.label}
         </span>
         {isSaved && bookmarkCount > 0 && (
-          <span className="inline-flex h-4 min-w-[16px] items-center justify-center rounded-full bg-gold px-0.5 font-mono text-[7px] font-bold text-panel leading-none">
+          <span className="inline-flex h-4 min-w-[16px] items-center justify-center rounded-full bg-gold px-0.5 font-mono text-[8px] font-bold text-panel leading-none">
             {bookmarkCount > 9 ? "9+" : bookmarkCount}
           </span>
         )}
@@ -83,10 +84,10 @@ export default function Sidebar() {
             {brandMark}
           </div>
           <div className="min-w-0">
-            <span className="font-mono text-[10px] font-extrabold tracking-[0.12em] uppercase text-charcoal">
+            <span className="font-mono text-[11px] font-extrabold tracking-[0.1em] uppercase text-charcoal">
               KD Tech Wiki
             </span>
-            <span className="font-mono text-[10px] font-light text-gold animate-terminal-blink">_</span>
+            <span className="font-mono text-[11px] font-light text-gold animate-terminal-blink">_</span>
           </div>
         </Link>
 
@@ -94,13 +95,13 @@ export default function Sidebar() {
         <nav className="flex flex-1 flex-col gap-0.5 overflow-y-auto px-2 pt-4">
 
           {/* Directories section */}
-          <div className="px-2 pb-2.5 font-mono text-[8px] tracking-[0.25em] text-charcoal/22 uppercase">
+          <div className="px-2 pb-2.5 font-mono text-[9px] tracking-[0.22em] text-charcoal/28 uppercase">
             Directories
           </div>
           {directoryLinks.map((link) => renderNavLink(link))}
 
           {/* Pages section */}
-          <div className="px-2 pb-2.5 pt-5 font-mono text-[8px] tracking-[0.25em] text-charcoal/22 uppercase">
+          <div className="px-2 pb-2.5 pt-5 font-mono text-[9px] tracking-[0.22em] text-charcoal/28 uppercase">
             Pages
           </div>
           {pageLinks.map((link) => renderNavLink(link, link.href === "/saved"))}
@@ -109,7 +110,7 @@ export default function Sidebar() {
 
         {/* Social links */}
         <div className="border-t border-panel-border/50 px-4 py-3.5">
-          <div className="mb-2 font-mono text-[7.5px] tracking-[0.22em] text-charcoal/22 uppercase">Follow</div>
+          <div className="mb-2 font-mono text-[9px] tracking-[0.2em] text-charcoal/28 uppercase">Follow</div>
           <div className="flex flex-col gap-2">
             {[
               { label: "Discord",     href: "https://discord.gg/ThkRctzyRE",        icon: "/social/discord.svg"   },
@@ -131,7 +132,7 @@ export default function Sidebar() {
                   className="h-3 w-3 flex-shrink-0 object-contain opacity-35 group-hover:opacity-85 transition-opacity"
                   style={{ filter: "invert(1) sepia(1) saturate(0) brightness(2)" }}
                 />
-                <span className="font-mono text-[8px] font-bold uppercase tracking-wide">{s.label}</span>
+                <span className="font-mono text-[9px] font-bold uppercase tracking-wide">{s.label}</span>
               </a>
             ))}
           </div>
@@ -144,9 +145,9 @@ export default function Sidebar() {
               <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-forest opacity-60" />
               <span className="relative inline-flex h-1.5 w-1.5 rounded-full bg-forest" />
             </span>
-            <span className="font-mono text-[8px] tracking-wider text-charcoal/35 uppercase">Operational</span>
+            <span className="font-mono text-[9px] tracking-wider text-charcoal/38 uppercase">Operational</span>
           </div>
-          <div className="font-mono text-[7.5px] uppercase tracking-wider text-charcoal/20 leading-relaxed">
+          <div className="font-mono text-[9px] uppercase tracking-wider text-charcoal/25 leading-relaxed">
             Loc: Kuala Lumpur<br />
             TZ: GMT+8
           </div>
@@ -166,7 +167,7 @@ export default function Sidebar() {
           <div className="flex h-6 w-6 flex-shrink-0 items-center justify-center">
             {brandMark}
           </div>
-          <span className="font-mono text-[10px] font-extrabold tracking-[0.12em] uppercase text-charcoal">
+          <span className="font-mono text-[11px] font-extrabold tracking-[0.1em] uppercase text-charcoal">
             KD Tech Wiki<span className="text-gold font-light animate-terminal-blink">_</span>
           </span>
         </Link>
