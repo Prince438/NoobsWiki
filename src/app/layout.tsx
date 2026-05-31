@@ -54,7 +54,7 @@ export default function RootLayout({
       className={`${outfit.variable} ${jetbrainsMono.variable} ${cormorant.variable} h-full antialiased`}
     >
       <body className="min-h-full font-sans selection:bg-gold/30 selection:text-forest">
-        {/* Fixed background image — position:fixed works on iOS; background-attachment:fixed does not */}
+        {/* Fixed background image — matte + dimmed */}
         <div
           aria-hidden="true"
           style={{
@@ -65,6 +65,7 @@ export default function RootLayout({
             backgroundSize: "cover",
             backgroundPosition: "center",
             backgroundRepeat: "no-repeat",
+            filter: "brightness(0.55) saturate(0.65)",
           }}
         />
         <Sidebar />
