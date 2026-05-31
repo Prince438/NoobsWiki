@@ -117,6 +117,24 @@ body::before {
   background-image: radial-gradient(rgba(191, 158, 118, 0.04) 1px, transparent 1px);
 }
 
+/* ── Homepage directory card icon boxes ── */
+.icon-box {
+  background-color: #00FF41;
+  background-image:
+    linear-gradient(rgba(0, 40, 8, 0.28) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0, 40, 8, 0.28) 1px, transparent 1px);
+  background-size: 5px 5px;
+}
+.icon-box::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='150' height='150'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.88' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='150' height='150' filter='url(%23n)' opacity='1'/%3E%3C/svg%3E");
+  opacity: 0.1;
+  pointer-events: none;
+  border-radius: inherit;
+}
+
 [data-jump-target] {
   scroll-margin-top: 1rem;
 }
