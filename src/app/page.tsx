@@ -54,7 +54,7 @@ export default function Home() {
           <img
             src="/logo.svg"
             alt="KD Tech Wiki"
-            className="mb-5 h-28 w-28 object-contain drop-shadow-[0_4px_20px_rgba(0,0,0,0.55)]"
+            className="mb-7 h-40 w-40 object-contain drop-shadow-[0_6px_24px_rgba(0,0,0,0.5)]"
           />
 
           {/* Wordmark */}
