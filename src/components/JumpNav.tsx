@@ -84,20 +84,25 @@ export default function JumpNav() {
           open ? "translate-x-0" : "translate-x-[calc(100%-2rem)]"
         }`}
       >
-        {/* Pull tab — always visible */}
-        <button
-          onClick={() => setOpen((o) => !o)}
-          aria-label={open ? "Close jump navigation" : "Open jump navigation"}
-          className="flex w-8 flex-shrink-0 flex-col items-center justify-center gap-2 border-l border-panel-border/55 bg-panel/92 text-charcoal/38 backdrop-blur-sm transition-colors duration-200 hover:text-gold"
-          style={{ paddingBottom: "env(safe-area-inset-bottom, 0px)" }}
-        >
-          <span className="font-mono text-[7px] font-bold uppercase tracking-[0.18em] [writing-mode:vertical-rl]">
-            Jump
-          </span>
-          <ChevronLeft
-            className={`h-2.5 w-2.5 transition-transform duration-300 ${open ? "" : "rotate-180"}`}
-          />
-        </button>
+        {/* Pull tab — bookmark notch style, centred vertically */}
+        <div className="flex w-8 flex-shrink-0 flex-col items-center justify-center pointer-events-none">
+          <button
+            onClick={() => setOpen((o) => !o)}
+            aria-label={open ? "Close jump navigation" : "Open jump navigation"}
+            className={`pointer-events-auto flex flex-col items-center justify-center gap-2 rounded-l-lg border border-r-0 bg-panel/92 px-1.5 py-4 backdrop-blur-sm shadow-[-4px_0_14px_rgba(0,0,0,0.35)] transition-all duration-200 hover:text-gold ${
+              open
+                ? "border-gold/40 text-gold"
+                : "border-panel-border/60 text-charcoal/42"
+            }`}
+          >
+            <ChevronLeft
+              className={`h-2.5 w-2.5 flex-shrink-0 transition-transform duration-300 ${open ? "" : "rotate-180"}`}
+            />
+            <span className="font-mono text-[6.5px] font-bold uppercase tracking-[0.2em] [writing-mode:vertical-rl]">
+              Jump
+            </span>
+          </button>
+        </div>
 
         {/* Panel body */}
         <div
