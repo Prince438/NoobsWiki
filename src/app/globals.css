@@ -119,11 +119,10 @@ body::before {
 
 /* ── Homepage directory card icon boxes ── */
 .icon-box {
-  background-color: #00FF41;
-  background-image:
-    linear-gradient(rgba(0, 40, 8, 0.28) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(0, 40, 8, 0.28) 1px, transparent 1px);
-  background-size: 5px 5px;
+  background:
+    linear-gradient(rgba(0, 40, 8, 0.28) 1px, transparent 1px) 0 0 / 5px 5px,
+    linear-gradient(90deg, rgba(0, 40, 8, 0.28) 1px, transparent 1px) 0 0 / 5px 5px,
+    linear-gradient(135deg, #00FF41 0%, #004A14 100%);
 }
 .icon-box::after {
   content: "";
