@@ -52,9 +52,9 @@ export default function Home() {
           {/* Logo */}
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="/logo.png"
+            src="/logo.svg"
             alt="KD Tech Wiki"
-            className="mb-5 h-24 w-24 object-contain drop-shadow-[0_4px_16px_rgba(0,0,0,0.6)]"
+            className="mb-5 h-28 w-28 object-contain drop-shadow-[0_4px_20px_rgba(0,0,0,0.55)]"
           />
 
           {/* Wordmark */}
