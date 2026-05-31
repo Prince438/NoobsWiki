@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Outfit, JetBrains_Mono, Cormorant_Garamond } from "next/font/google";
 import Sidebar from "@/components/Sidebar";
 import CommandPalette from "@/components/CommandPalette";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const outfit = Outfit({
@@ -72,6 +73,7 @@ export default function RootLayout({
         <CommandPalette />
         <div className="md:ml-[200px]">
           {children}
+          <Footer />
         </div>
       </body>
     </html>

@@ -107,6 +107,36 @@ export default function Sidebar() {
 
         </nav>
 
+        {/* Social links */}
+        <div className="border-t border-panel-border/50 px-4 py-3.5">
+          <div className="mb-2 font-mono text-[7.5px] tracking-[0.22em] text-charcoal/22 uppercase">Follow</div>
+          <div className="flex flex-col gap-2">
+            {[
+              { label: "Discord",     href: "https://discord.gg/ThkRctzyRE",        icon: "/social/discord.svg"   },
+              { label: "Twitter / X", href: "https://twitter.com/krackeddevs",       icon: "/social/twitter.svg"   },
+              { label: "TikTok",      href: "https://www.tiktok.com/@krackeddevs",   icon: "/social/tiktok.svg"    },
+              { label: "Instagram",   href: "https://www.instagram.com/krackeddev/", icon: "/social/instagram.svg" },
+            ].map((s) => (
+              <a
+                key={s.href}
+                href={s.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group flex items-center gap-2 text-charcoal/35 hover:text-gold transition-colors"
+              >
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={s.icon}
+                  alt={s.label}
+                  className="h-3 w-3 flex-shrink-0 object-contain opacity-35 group-hover:opacity-85 transition-opacity"
+                  style={{ filter: "invert(1) sepia(1) saturate(0) brightness(2)" }}
+                />
+                <span className="font-mono text-[8px] font-bold uppercase tracking-wide">{s.label}</span>
+              </a>
+            ))}
+          </div>
+        </div>
+
         {/* System status */}
         <div className="border-t border-panel-border/50 px-4 py-3.5">
           <div className="mb-1.5 flex items-center gap-1.5">
