@@ -151,7 +151,7 @@ export default function Home() {
               <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
               <div>
                 <div className="mb-5 flex items-start justify-between">
-                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#071007]">
+                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#FF6600]">
                     <Users className="h-[17px] w-[17px] stroke-[1.8]" />
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">01</span>
@@ -175,7 +175,7 @@ export default function Home() {
               <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
               <div>
                 <div className="mb-5 flex items-start justify-between">
-                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#071007]">
+                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#FF6600]">
                     <Cpu className="h-[17px] w-[17px] stroke-[1.8]" />
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">02</span>
@@ -199,7 +199,7 @@ export default function Home() {
               <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
               <div>
                 <div className="mb-5 flex items-start justify-between">
-                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#071007]">
+                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#FF6600]">
                     <ShieldAlert className="h-[17px] w-[17px] stroke-[1.8]" />
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">03</span>
@@ -223,7 +223,7 @@ export default function Home() {
               <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
               <div>
                 <div className="mb-5 flex items-start justify-between">
-                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#071007]">
+                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#FF6600]">
                     <Wrench className="h-[17px] w-[17px] stroke-[1.8]" />
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">04</span>
@@ -247,7 +247,7 @@ export default function Home() {
               <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
               <div>
                 <div className="mb-5 flex items-start justify-between">
-                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#071007]">
+                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#FF6600]">
                     <TrendingUp className="h-[17px] w-[17px] stroke-[1.8]" />
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">05</span>
@@ -271,7 +271,7 @@ export default function Home() {
               <div className="absolute inset-0 pointer-events-none rounded tech-border opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
               <div>
                 <div className="mb-5 flex items-start justify-between">
-                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#071007]">
+                  <div className="icon-box relative flex h-9 w-9 items-center justify-center rounded overflow-hidden text-[#FF6600]">
                     <BookOpen className="h-[17px] w-[17px] stroke-[1.8]" />
                   </div>
                   <span className="font-mono text-[10px] tracking-widest text-charcoal/42 pt-1">06</span>
